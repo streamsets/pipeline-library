@@ -46,7 +46,9 @@ You should see records ingested from MySQL and sent to Hadoop FS, with metadata 
 
 ![Pipeline running](running.png)
 
-The Hadoop FS destination is configured to close the output file 5 seconds after the last record is written, at which point the Hive Query executor will send an `invalidate metadata` command to Impala. You should then be able to use `impala-shell` or the Hue UI to see the data. Here is the `shipping_events` data from the tutorial as it appears in `impala-shell`:
+The Hadoop FS destination is configured to close the output file 5 seconds after the last record is written, at which point the Hive Query executor will send an `invalidate metadata` command to Impala. You should then be able to use `impala-shell` or the Hue UI to see the data.
+
+Here is the `shipping_events` data from the tutorial as it appears in `impala-shell`:
 
 	[quickstart.cloudera:21000] > describe shipping_events;
 	Query: describe shipping_events
