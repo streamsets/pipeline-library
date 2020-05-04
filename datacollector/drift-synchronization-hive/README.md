@@ -3,29 +3,31 @@ Drift Synchronization for Hive
 
 This pipeline implements Drift Synchronization from MySQL to the Cloudera distribution of Apache Hive and Apache Impala. It's based on the [Ingesting Drifting Data into Hive and Impala](https://github.com/streamsets/tutorials/tree/master/tutorial-hivedrift) tutorial, extended to include a Hive Executor, and using the JDBC Multitable Consumer rather than the JDBC Query Consumer.
 
+For more information, see [Drift Synchronization Solution for Hive](https://streamsets.com/documentation/datacollector/latest/help/datacollector/UserGuide/Hive_Drift_Solution/HiveDriftSolution_title.html#concept_fjj_zcf_2w) in the [StreamSets Data Collector documentation](https://streamsets.com/documentation/datacollector/latest/help/.
+
 ![Pipeline screenshot](pipeline.png)
 
 Prerequisites
 -------------
 
-* [StreamSets Data Collector](https://streamsets.com/opensource/) 3.0.0 or higher
+* [StreamSets Data Collector](https://streamsets.com/opensource/) 3.15.0 or higher
 * StreamSets Data Collector CDH Stage Library
 * StreamSets Data Collector JDBC Stage Library
 * [Cloudera Enterprise or CDH](https://www.cloudera.com/downloads.html) - the [CDH Quickstart VM](http://www.cloudera.com/content/support/en/downloads/quickstart_vms.html) is a good place to start if you do not already have a Cloudera deployment.
-* [Impala JDBC Connector for Cloudera Enterprise](https://www.cloudera.com/downloads/connectors/impala/jdbc/2-6-4.html)
-* [MySQL](https://www.mysql.com/)
+* [Impala JDBC Connector for Cloudera Enterprise](https://www.cloudera.com/downloads/connectors/impala/jdbc/2-6-15.html)
+* [MySQL Server](https://www.mysql.com/)
 * [MySQL Connector/J](https://dev.mysql.com/downloads/connector/j/) JDBC Driver
 
 Ensure that you are using the correct stage library for your version of CDH. See the [documentation for instructions in installing Data Collector stage libraries](https://streamsets.com/documentation/datacollector/latest/help/datacollector/UserGuide/Installation/AddtionalStageLibs.html#concept_fb2_qmn_bz).
 
-Ensure that you use the matching Connector/J for your MySQL server. We have seen issues using the version 8.0.x JDBC Driver with MySQL 5.x.
+Ensure that you use the matching Connector/J for your MySQL server. We have seen issues using the version 8.0.x JDBC Driver with MySQL Server 5.x.
 
 Setup
 -----
 
 * Ensure you have installed all of the prerequisite components listed above.
-* [Download the pipeline](pipeline.json) and import it into Data Collector or Control Hub.
-* If you see a 'Could not find stage definition' error on one or more stages, ensure you have installed the required stage libraries, then click each affected stage and choose the appropriate stage library from the 'Change Stage Library' dropdown:
+* [Download the pipeline](Drift%20Synchronization%20for%20Hive.json) and import it into Data Collector or Control Hub.
+* If you see a 'Could not find stage definition' error on one or more stages, ensure you have installed the required stage libraries (listed above), then click each affected stage and choose the appropriate stage library from the 'Change Stage Library' dropdown:
   ![Change Stage Library](change_stage_library.png)
 * Configure the pipeline parameters:
   * `JDBC_URI` - JDBC Connection String for MySQL, e.g. `jdbc:mysql://localhost:3306/shipping`
@@ -152,4 +154,3 @@ Notes
 -----
 
 * If you have any issues when previewing the pipeline, increase the preview timeout and try again. It can take a few seconds for the Hive Metadata processor to retrieve the existing schema from Hive and reconcile it with the incoming record structure.
-* At present, a bug in the JDBC Multitable origin ([SDC-9908](https://issues.streamsets.com/browse/SDC-9908)) can cause problems when using a wildcard such as `%` as a table name pattern. If you encounter issues here, please create a table configuration for each table you wish to read.
