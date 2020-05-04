@@ -10,7 +10,7 @@ For more information, see [Drift Synchronization Solution for Hive](https://stre
 Prerequisites
 -------------
 
-* [StreamSets Data Collector](https://streamsets.com/opensource/) 3.15.0 or higher
+* [StreamSets Data Collector](https://streamsets.com/products/dataops-platform/data-collector/) 3.15.0 or higher. You can [run Data Collector on your cloud provider of choice](https://streamsets.com/products/cloud/), or [download it for local use](https://streamsets.com/products/dataops-platform/data-collector/download/).
 * StreamSets Data Collector CDH Stage Library
 * StreamSets Data Collector JDBC Stage Library
 * [Cloudera Enterprise or CDH](https://www.cloudera.com/downloads.html) - the [CDH Quickstart VM](http://www.cloudera.com/content/support/en/downloads/quickstart_vms.html) is a good place to start if you do not already have a Cloudera deployment.
