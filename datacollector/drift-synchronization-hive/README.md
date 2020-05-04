@@ -3,7 +3,7 @@ Drift Synchronization for Hive
 
 This pipeline implements Drift Synchronization from MySQL to the Cloudera distribution of Apache Hive and Apache Impala. It's based on the [Ingesting Drifting Data into Hive and Impala](https://github.com/streamsets/tutorials/tree/master/tutorial-hivedrift) tutorial, extended to include a Hive Executor, and using the JDBC Multitable Consumer rather than the JDBC Query Consumer.
 
-For more information, see [Drift Synchronization Solution for Hive](https://streamsets.com/documentation/datacollector/latest/help/datacollector/UserGuide/Hive_Drift_Solution/HiveDriftSolution_title.html#concept_fjj_zcf_2w) in the [StreamSets Data Collector documentation](https://streamsets.com/documentation/datacollector/latest/help/.
+For more information, see [Drift Synchronization Solution for Hive](https://streamsets.com/documentation/datacollector/latest/help/datacollector/UserGuide/Hive_Drift_Solution/HiveDriftSolution_title.html#concept_fjj_zcf_2w) in the [StreamSets Data Collector documentation](https://streamsets.com/documentation/datacollector/latest/help/).
 
 ![Pipeline screenshot](pipeline.png)
 
