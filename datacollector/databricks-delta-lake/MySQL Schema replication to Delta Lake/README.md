@@ -3,7 +3,7 @@ MySQL Schema replication to Delta Lake
 
 This pipeline demonstrates how to bulk load data from MySQL into Databricks Delta Lake. You can select one or more MySQL schemas to replicate into Delta Lake with a single pipeline.
 
-For more information, see [[Loading Data into Databricks Delta Lake](https://streamsets.com/documentation/datacollector/latest/help/index.html?contextID=concept_a5b_wvk_ckb "Loading Data into Databricks Delta Lake")](https://streamsets.com/documentation/datacollector/latest/help/index.html?contextID=concept_fjj_zcf_2w) in [StreamSets Data Collector documentation](https://streamsets.com/documentation/datacollector/latest/help/).
+For more information, see [Loading Data into Databricks Delta Lake](https://streamsets.com/documentation/datacollector/latest/help/index.html?contextID=concept_a5b_wvk_ckb) in [StreamSets Data Collector documentation](https://streamsets.com/documentation/datacollector/latest/help/).
 
 Prerequisites
 -------------

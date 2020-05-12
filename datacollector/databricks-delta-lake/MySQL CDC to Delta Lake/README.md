@@ -3,7 +3,7 @@ MySQL CDC to Delta Lake
 
 This pipeline demonstrates how to read change data capture (CDC) data from a MySQL database and replicate the changes to Delta Lake table(s) on Databricks.
 
-For more information, see [[Loading Data into Databricks Delta Lake](https://streamsets.com/documentation/datacollector/latest/help/index.html?contextID=concept_a5b_wvk_ckb "Loading Data into Databricks Delta Lake")](https://streamsets.com/documentation/datacollector/latest/help/index.html?contextID=concept_fjj_zcf_2w) in [StreamSets Data Collector documentation](https://streamsets.com/documentation/datacollector/latest/help/).
+For more information, see [Loading Data into Databricks Delta Lake](https://streamsets.com/documentation/datacollector/latest/help/index.html?contextID=concept_a5b_wvk_ckb) in [StreamSets Data Collector documentation](https://streamsets.com/documentation/datacollector/latest/help/).
 
 Prerequisites
 -------------
