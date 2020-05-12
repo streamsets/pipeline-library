@@ -16,7 +16,7 @@ Prerequisites
 Setup
 -----
 
-* [Download the pipeline](MySQL%20Schema%20replication%20to%20Delta%20Lake/MySQL%20Schema%20Replication%20to%20Delta%20Lake.json) and import it into Data Collector or Control Hub
+* [Download the pipeline](MySQL%20Schema%20Replication%20to%20Delta%20Lake.json) and import it into Data Collector or Control Hub
 * Configure all the pipeline parameters for your MySQL Database and Databricks connections
 * Update the MySQL origin to read from specific schemas and/or tables
 * By default, the Databricks Delta Lake destination is configured to auto create each table that is replicated from MySQL and write the data in DBFS. If you'd like, update the configurations in the destination per your needs.
