@@ -15,7 +15,7 @@ Prerequisites
 Setup
 -----
 
-* [Download the pipeline](Salesforce%20Accounts%20to%20Delta%20Lake.json "Download the pipeline") and import it into Data Collector or Control Hub
+* [Download the pipeline](Salesforce%20to%20Delta%20Lake/Salesforce%20Accounts%20to%20Delta%20Lake.json) and import it into Data Collector or Control Hub
 * Configure all the pipeline parameters for your Salesforce and Databricks connections
 * Update the Salesforce Query to retrieve desired attributes from the Salesforce object being queried.
 * By default, the Databricks Delta Lake destination is configured to auto create a table and write the data in DBFS. If you'd like, update the configurations in the destination per your needs.
