@@ -2,6 +2,7 @@
 <img src="https://github.com/streamsets/marty/blob/master/images/Full%20Color%20Transparent.png" width="300">
 </p>
 
+
 <h1><p align="center">MySQL CDC to Databricks Delta Lake</p></h1>
 
 # MySQL CDC to Databricks Delta Lake
