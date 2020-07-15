@@ -1,6 +1,4 @@
-<p align="center">
-<img src="https://github.com/streamsets/marty/blob/master/images/Full%20Color%20Transparent.png" width="300">
-</p>
+![StreamSets Logo](images/Full%20Color%20Transparent.png)
 
 <h1><p align="center">PostgreSQL CDC to Snowflake</p></h1>
 
