@@ -40,7 +40,7 @@ NOTE: [Templates](https://streamsets.com/documentation/controlhub/latest/onpremh
 
 ### Step 1: Download the pipeline
 
-[Click Here](https://github.com/streamsets/marty/raw/master/datacollector/databricks-delta-lake/MySQL%20binlog%20to%20DeltaLake/MySQL_CDC_to_DeltaLake.zip?raw=true) to download the pipeline and save it to your drive.
+[Click Here](./MySQL_CDC_to_Snowflake.zip?raw=true) to download the pipeline and save it to your drive.
 
 ### Step 2: Import the pipeline
 

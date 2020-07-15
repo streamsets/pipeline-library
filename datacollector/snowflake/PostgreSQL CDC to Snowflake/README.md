@@ -38,7 +38,7 @@ NOTE: [Templates](https://streamsets.com/documentation/controlhub/latest/onpremh
 
 ### Step 1: Download the pipeline
 
-[Click Here](https://github.com/streamsets/marty/raw/master/datacollector/Postgres/CDCtoSnowflake/Postgres_CDC_to_Snowflake-step-by-step.pptx?raw=true) to download the pipeline and save it to your drive.
+[Click Here](https://github.com/streamsets/marty/raw/master/datacollector/databricks-delta-lake/MySQL%20binlog%20to%20DeltaLake/PostgreSQL_CDC_to_Snowflake.zip?raw=true) to download the pipeline and save it to your drive.
 
 ### Step 2: Import the pipeline
 
