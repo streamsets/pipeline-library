@@ -1,7 +1,4 @@
-<p align="center">
-<img src="https://github.com/streamsets/marty/blob/master/images/Full%20Color%20Transparent.png" width="300">
-</p>
-
+![StreamSets Logo](images/Full%20Color%20Transparent.png)
 
 <h1><p align="center">MySQL CDC to Databricks Delta Lake</p></h1>
 
@@ -45,7 +42,7 @@ NOTE: [Templates](https://streamsets.com/documentation/controlhub/latest/onpremh
 
 ### Step 1: Download the pipeline
 
-[Click Here](https://github.com/streamsets/pipeline-library/raw/master/datacollector/databricks-delta-lake/MySQL%20binlog%20to%20DeltaLake/MySQL_CDC_to_DeltaLake.zip?raw=true) to download the pipeline and save it to your drive.
+[Click Here](./MySQL_CDC_to_DeltaLake.zip?raw=true) to download the pipeline and save it to your drive.
 
 ### Step 2: Import the pipeline
 
