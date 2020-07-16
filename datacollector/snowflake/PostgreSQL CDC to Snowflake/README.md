@@ -16,6 +16,8 @@ Here is a link to a short video on using this pipeline template: [Video Link](ht
 
 This pipeline demonstrates how to read change data capture (CDC) data from a PostgreSQL database and replicate the changes to Snowflake.
 
+**Disclaimer:** *This pipeline is meant to serve as a template for performing PostgreSQL CDC to Snowflake.  Some of the parameters, tables and fields may be different for your environment and may need additional customizations.  Please consult the StreamSets documentation (linked below) for full information on configuration of each stage used below.*
+
 ## USING THE TEMPLATE
 
 NOTE: [Templates](https://streamsets.com/documentation/controlhub/latest/onpremhelp/controlhub/UserGuide/Pipelines/PipelineTemplates.html) are supported in [StreamSets Control Hub](https://streamsets.com/products/dataops-platform/control-hub/). If you do not have Control Hub, you can import the template pipeline in Data Collector but will need to do that each time you want to use the template.
