@@ -41,7 +41,7 @@ This pipeline demonstrates how to read change data capture (CDC) data from a SQL
 
 ### Step 1: Download the pipeline
 
-[Click Here](./SQL Server CDC to Delta Lake.zip?raw=true) to download the pipeline and save it to your drive.
+[Click Here](./SQL_Server_CDC_to_DeltaLake.zip?raw=true) to download the pipeline and save it to your drive.
 
 ### Step 2: Import the pipeline
 
