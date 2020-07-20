@@ -97,7 +97,7 @@ The following parameters are set up for this pipeline:
    <td class="entry cellrowborder" headers="d442874e2925 ">User name for the JDBC connection. Use the user account
                                         created for the origin. Common user accounts for Oracle 12c,
                                         18c, or 19c multitenant databases start with
-                                            <code class="ph codeph">c##</code>.<p class="p">For more information, see <a class="xref" href="[OracleCDC.html#concept_jnz_bd2_3y](https://streamsets.com/documentation/datacollector/latest/help/datacollector/UserGuide/Origins/OracleCDC.html#concept_jnz_bd2_3y)">Task 3. Create a User Account</a>.</p>
+                                            <code class="ph codeph">c##</code>.<p class="p">For more information, see <a class="xref" href="https://streamsets.com/documentation/datacollector/latest/help/datacollector/UserGuide/Pipeline_Configuration/RuntimeValues.html#concept_bs4_5nm_2s">Task 3. Create a User Account</a>.</p>
 </td>
   </tr>
   <tr>
