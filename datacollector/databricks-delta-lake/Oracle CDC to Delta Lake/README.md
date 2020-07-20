@@ -41,7 +41,7 @@ NOTE: [Templates](https://streamsets.com/documentation/controlhub/latest/onpremh
 
 ### Step 1: Download the pipeline
 
-[Click Here](./Oracle_CDC_to_DeltaLake.zip?raw=true) to download the pipeline and save it to your drive.
+[Click Here](./OracleCDC_to_DeltaLake.zip?raw=true) to download the pipeline and save it to your drive.
 
 ### Step 2: Import the pipeline
 
