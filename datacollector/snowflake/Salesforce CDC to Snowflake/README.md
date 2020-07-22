@@ -88,7 +88,7 @@ The following parameters are set up for this pipeline:
                 For more information on generating a security token, see <a class="xref" href="https://help.salesforce.com/articleView?id=user_security_token.htm&amp;type=0" target="_blank">Reset Your Security Token</a>.</p>
               <div class="note tip"><span class="tiptitle">Tip:</span> <span class="ph" id="task_h1n_bs3_rx__d15e6239">To
                         secure sensitive information such as user names and passwords, you can use
-                              <a class="xref" href="../Pipeline_Configuration/RuntimeValues.html#concept_bs4_5nm_2s" title="Similar to runtime properties, runtime resources are values that you define in a file local to the Data Collector and call from within a pipeline. But with runtime resources, you can restrict the permissions for the files to secure information.">runtime resources</a> or <span class="ph"><a class="xref" href="../Configuration/CredentialStores.html#concept_bt1_bpj_r1b">credential stores.</a></span></span></div>
+                              <a class="xref" href="https://streamsets.com/documentation/datacollector/latest/help/index.html?contextID=concept_bs4_5nm_2s" title="Similar to runtime properties, runtime resources are values that you define in a file local to the Data Collector and call from within a pipeline. But with runtime resources, you can restrict the permissions for the files to secure information.">runtime resources</a> or <span class="ph"><a class="xref" href="https://streamsets.com/documentation/datacollector/latest/help/index.html?contextID=concept_bt1_bpj_r1b">credential stores.</a></span></span></div>
 </td>
   </tr>
   <tr>
@@ -139,7 +139,7 @@ The following parameters are set up for this pipeline:
    </td>
    <td class="entry cellrowborder" headers="d198512e2713 ">Name of the Snowflake stage used to stage the data.
                                             <p class="p">Unless using a Snowflake internal user stage, you
-                                            create this stage as part of the <a class="xref">Snowflake prerequisite tasks</a>.</p>
+                                            create this stage as part of the <a class="xref" href="https://streamsets.com/documentation/datacollector/latest/help/index.html?contextID=concept_ysy_fcj_ggb">Snowflake prerequisite tasks</a>.</p>
 <p class="p">To use a
                                             Snowflake internal user stage, enter a tilde
                                                 (<code class="ph codeph">~</code>).</p>
