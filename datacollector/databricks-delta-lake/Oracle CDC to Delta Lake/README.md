@@ -97,15 +97,17 @@ The following parameters are set up for this pipeline:
    <td class="entry cellrowborder" headers="d442874e2925 ">User name for the JDBC connection. Use the user account
                                         created for the origin. Common user accounts for Oracle 12c,
                                         18c, or 19c multitenant databases start with
-                                            <code class="ph codeph">c##</code>.<p class="p">For more information, see <a class="xref" href="[OracleCDC.html#concept_jnz_bd2_3y](https://streamsets.com/documentation/datacollector/latest/help/datacollector/UserGuide/Origins/OracleCDC.html#concept_jnz_bd2_3y)">Task 3. Create a User Account</a>.</p>
+                                            <code class="ph codeph">c##</code>.<p class="p">For more information, see <a class="xref" href=" https://streamsets.com/documentation/datacollector/latest/help/index.html?contextID=concept_jnz_bd2_3y">Task 3. Create a User Account</a>.</p>
+</td>.</p>
 </td>
   </tr>
   <tr>
    <td><code>oracle_password</code>
    </td>
-   <td class="entry cellrowborder" headers="d436212e853 ">MySQL password.<div class="note tip"><span class="tiptitle">Tip:</span> <span class="ph" id="task_qbt_kyh_xx__d15e6239">To
+   <td class="entry cellrowborder" headers="d442874e2925 ">Password for the account.<div class="note tip"><span class="tiptitle">Tip:</span> <span class="ph" id="task_ehh_mjj_tw__d15e6239">To
                         secure sensitive information such as user names and passwords, you can use
-                              <a class="xref" title="Similar to runtime properties, runtime resources are values that you define in a file local to the Data Collector and call from within a pipeline. But with runtime resources, you can restrict the permissions for the files to secure information." href="https://streamsets.com/documentation/datacollector/latest/help/datacollector/UserGuide/Pipeline_Configuration/RuntimeValues.html#concept_bs4_5nm_2s">runtime resources</a> or <span class="ph"><a class="xref" href="https://streamsets.com/documentation/datacollector/latest/help/datacollector/UserGuide/Configuration/CredentialStores.html#concept_bt1_bpj_r1b">credential stores.</a></span></span></div>
+                              <a class="xref" href="https://streamsets.com/documentation/datacollector/latest/help/index.html?contextID=concept_bs4_5nm_2s" title="Similar to runtime properties, runtime resources are values that you define in a file local to the Data Collector and call from within a pipeline. But with runtime resources, you can restrict the permissions for the files to secure information.">runtime resources</a> or <span class="ph"><a class="xref" href="https://streamsets.com/documentation/datacollector/latest/help/index.html?contextID=concept_bt1_bpj_r1b">credential stores.</a>
+</span></span></div>
 </td>
   </tr>
   <tr>
@@ -128,7 +130,8 @@ The following parameters are set up for this pipeline:
    </td>
    <td class="entry cellrowborder" headers="d108933e1968 ">Personal access token used to connect to the Databricks
                                             cluster.<div class="note tip"><span class="tiptitle">Tip:</span> To secure sensitive information such as tokens,
-                  you can use <a class="xref" title="Similar to runtime properties, runtime resources are values that you define in a file local to the Data Collector and call from within a pipeline. But with runtime resources, you can restrict the permissions for the files to secure information.">runtime resources</a> or <span class="ph"><a class="xref">credential stores.</a></span></div>
+                  you can use <a class="xref" href="https://streamsets.com/documentation/datacollector/latest/help/index.html?contextID=concept_bs4_5nm_2s" title="Similar to runtime properties, runtime resources are values that you define in a file local to the Data Collector and call from within a pipeline. But with runtime resources, you can restrict the permissions for the files to secure information.">runtime resources</a> or <span class="ph"><a class="xref" href="https://streamsets.com/documentation/datacollector/latest/help/index.html?contextID=concept_bt1_bpj_r1b">credential stores.</a>
+</span></div>
 </td>
   </tr>
   <tr>
@@ -179,7 +182,8 @@ The following parameters are set up for this pipeline:
                                             credentials.</p>
 <div class="p">Available when using the Amazon S3
                                             staging location.<div class="note tip"><span class="tiptitle">Tip:</span> To secure sensitive information such as
-                  access key pairs, you can use <a title="Similar to runtime properties, runtime resources are values that you define in a file local to the Data Collector and call from within a pipeline. But with runtime resources, you can restrict the permissions for the files to secure information.">runtime resources</a> or <span class="ph"><a>credential stores.</a></span></div>
+                  access key pairs, you can use <a class="xref" href="https://streamsets.com/documentation/datacollector/latest/help/index.html?contextID=concept_bs4_5nm_2s" title="Similar to runtime properties, runtime resources are values that you define in a file local to the Data Collector and call from within a pipeline. But with runtime resources, you can restrict the permissions for the files to secure information.">runtime resources</a> or <span class="ph"><a class="xref" href="https://streamsets.com/documentation/datacollector/latest/help/index.html?contextID=concept_bt1_bpj_r1b">credential stores.</a>
+</span></div>
 </div>
 </td>   
   </tr>
