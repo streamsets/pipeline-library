@@ -69,14 +69,14 @@ The following parameters are set up for this pipeline:
   <tr>
    <td><code>postgres_schema</code>
    </td>
-   <td class="entry cellrowborder" style="text-align:left;" headers="d450352e828 ">Schema to use. You can enter a schema name or use a <a class="xref" href="../Apx-RegEx/RegEx-Title.html#concept_vd4_nsc_gs" title="A regular expression, also known as regex, describes a pattern for a string.">regular expression</a> to specify a set of
+   <td class="entry cellrowborder" style="text-align:left;" headers="d450352e828 ">Schema to use. You can enter a schema name or use a <a class="xref" href="https://streamsets.com/documentation/datacollector/latest/help/index.html?contextID=concept_vd4_nsc_gs" title="A regular expression, also known as regex, describes a pattern for a string.">regular expression</a> to specify a set of
                                         schemas.</td>
   </tr>
   <tr>
    <td><code>postgres_tablename_pattern</code>
    </td>
    <td class="entry cellrowborder" style="text-align:left;" headers="d450352e828 ">A table name pattern that specifies the tables to track.
-                                        You can enter a table name or use a <a class="xref" href="../Apx-RegEx/RegEx-Title.html#concept_vd4_nsc_gs" title="A regular expression, also known as regex, describes a pattern for a string.">regular expression</a> to specify a set of
+                                        You can enter a table name or use a <a class="xref" href="https://streamsets.com/documentation/datacollector/latest/help/index.html?contextID=concept_vd4_nsc_gs" title="A regular expression, also known as regex, describes a pattern for a string.">regular expression</a> to specify a set of
                                         tables.</td>
   </tr>
   <tr>
@@ -106,7 +106,7 @@ The following parameters are set up for this pipeline:
    <td><code>postgres_password</code>
    <td class="entry cellrowborder" headers="d450352e1195 ">Password for the JDBC account.<div class="note tip"><span class="tiptitle">Tip:</span> <span class="ph" id="task_v21_nm4_n2b__d15e6239">To
                         secure sensitive information such as user names and passwords, you can use
-                              <a class="xref" href="../Pipeline_Configuration/RuntimeValues.html#concept_bs4_5nm_2s" title="Similar to runtime properties, runtime resources are values that you define in a file local to the Data Collector and call from within a pipeline. But with runtime resources, you can restrict the permissions for the files to secure information.">runtime resources</a> or <span class="ph"><a class="xref" href="../Configuration/CredentialStores.html#concept_bt1_bpj_r1b">credential stores.</a></span></span></div>
+                              <a class="xref" href="https://streamsets.com/documentation/datacollector/latest/help/index.html?contextID=concept_bs4_5nm_2s" title="Similar to runtime properties, runtime resources are values that you define in a file local to the Data Collector and call from within a pipeline. But with runtime resources, you can restrict the permissions for the files to secure information.">runtime resources</a> or <span class="ph"><a class="xref" href="https://streamsets.com/documentation/datacollector/latest/help/index.html?contextID=concept_bt1_bpj_r1b">credential stores.</a></span></span></div>
 </td>
   </tr>
     <tr>
@@ -129,7 +129,8 @@ The following parameters are set up for this pipeline:
    </td>
    <td class="entry cellrowborder" headers="d108933e1968 ">Personal access token used to connect to the Databricks
                                             cluster.<div class="note tip"><span class="tiptitle">Tip:</span> To secure sensitive information such as tokens,
-                  you can use <a class="xref" title="Similar to runtime properties, runtime resources are values that you define in a file local to the Data Collector and call from within a pipeline. But with runtime resources, you can restrict the permissions for the files to secure information.">runtime resources</a> or <span class="ph"><a class="xref">credential stores.</a></span></div>
+                  you can use <a class="xref" href="https://streamsets.com/documentation/datacollector/latest/help/index.html?contextID=concept_bs4_5nm_2s" title="Similar to runtime properties, runtime resources are values that you define in a file local to the Data Collector and call from within a pipeline. But with runtime resources, you can restrict the permissions for the files to secure information.">runtime resources</a> or <span class="ph"><a class="xref" href="https://streamsets.com/documentation/datacollector/latest/help/index.html?contextID=concept_bt1_bpj_r1b">credential stores.</a>
+</span></div>
 </td>
   </tr>
   <tr>
@@ -180,7 +181,8 @@ The following parameters are set up for this pipeline:
                                             credentials.</p>
 <div class="p">Available when using the Amazon S3
                                             staging location.<div class="note tip"><span class="tiptitle">Tip:</span> To secure sensitive information such as
-                  access key pairs, you can use <a title="Similar to runtime properties, runtime resources are values that you define in a file local to the Data Collector and call from within a pipeline. But with runtime resources, you can restrict the permissions for the files to secure information.">runtime resources</a> or <span class="ph"><a>credential stores.</a></span></div>
+                  access key pairs, you can use <a class="xref" href="https://streamsets.com/documentation/datacollector/latest/help/index.html?contextID=concept_bs4_5nm_2s" title="Similar to runtime properties, runtime resources are values that you define in a file local to the Data Collector and call from within a pipeline. But with runtime resources, you can restrict the permissions for the files to secure information.">runtime resources</a> or <span class="ph"><a class="xref" href="https://streamsets.com/documentation/datacollector/latest/help/index.html?contextID=concept_bt1_bpj_r1b">credential stores.</a>
+</span></div>
 </div>
 </td>   
   </tr>
