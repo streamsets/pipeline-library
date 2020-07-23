@@ -2,7 +2,7 @@
 
 <h1><p align="center">Pipeline Library</p></h1>
 
-This repo contains pipeline templates and samples that will help you get started with common use cases using StreamSets.  The directory structure is broken out by the StreamSets engine (datacollector or transformer).  Within each engine, the directory structure is broken out by origins and destinations.  Many templates and samples will be located in multiple locations so you easily find them by origin or destination.  For example, MySQL CDC to Databricks Delta Lake is found in both origins/mysql and destinations/databricks-delta-lake.
+This repo contains pipeline templates and samples that will help you get started with common use cases using StreamSets.  The directory structure is broken out by the StreamSets engine (datacollector or transformer).  Within each engine, the directory structure is broken out by origins and destinations.  Many templates and samples will be located in multiple locations so you can easily find them by origin or destination.  For example, MySQL CDC to Databricks Delta Lake is found in both origins/mysql and destinations/databricks-delta-lake.
 
 The following templates/samples are currently available:
 | Name            | Description     |
