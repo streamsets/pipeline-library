@@ -7,8 +7,8 @@ This folder contains pipeline templates and samples that reads data from SQLServ
 The following templates/samples are currently available:
 | Name            | Description     |
 | --------------- | --------------- |
-| [SQLServer CDC to Delta Lake](datacollector/origins/sqlserver/SQLServer%20CDC%20to%20Delta%20Lake) | Reads change data capture (CDC) data from SQL Server and writes to Databricks Delta Lake |
-| [SQLServer CDC to Snowflake](datacollector/origins/sqlserver/SQLServer%20CDC%20to%20Snowflake) | Reads change data capture (CDC) data from SQL Server and writes to Snowflake |
+| [SQLServer CDC to Delta Lake](./SQLServer%20CDC%20to%20Delta%20Lake) | Reads change data capture (CDC) data from SQL Server and writes to Databricks Delta Lake |
+| [SQLServer CDC to Snowflake](./SQLServer%20CDC%20to%20Snowflake) | Reads change data capture (CDC) data from SQL Server and writes to Snowflake |
 
 # Help
 

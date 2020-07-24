@@ -7,9 +7,9 @@ This folder contains pipeline templates and samples that reads data from Salesfo
 The following templates/samples are currently available:
 | Name            | Description     |
 | --------------- | --------------- |
-| [Salesforce CDC to Delta Lake](datacollector/origins/salesforce/Salesforce%20CDC%20to%20Delta%20Lake) | Reads change data capture (CDC) data from Salesforce and writes to Databricks Delta Lake |
-| [Salesforce CDC to Snowflake](datacollector/origins/salesforce/Salesforce%20CDC%20to%20Snowflake) | Reads change data capture (CDC) data from Salesforce and writes to Snowflake |
-| [Salesforce to Delta Lake](datacollector/origins/salesforce/Salesforce%20to%20Delta%20Lake) | Bulk load data from Salesforce accounts into Databricks Delta Lake |
+| [Salesforce CDC to Delta Lake](./Salesforce%20CDC%20to%20Delta%20Lake) | Reads change data capture (CDC) data from Salesforce and writes to Databricks Delta Lake |
+| [Salesforce CDC to Snowflake](./Salesforce%20CDC%20to%20Snowflake) | Reads change data capture (CDC) data from Salesforce and writes to Snowflake |
+| [Salesforce to Delta Lake](./Salesforce%20to%20Delta%20Lake) | Bulk load data from Salesforce accounts into Databricks Delta Lake |
 
 # Help
 

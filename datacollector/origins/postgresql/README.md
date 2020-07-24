@@ -7,8 +7,8 @@ This folder contains pipeline templates and samples that reads data from Postgre
 The following templates/samples are currently available:
 | Name            | Description     |
 | --------------- | --------------- |
-| [PostgreSQL CDC to Delta Lake](datacollector/origins/postgresql/PostgreSQL%20CDC%20to%20Delta%20Lake) | Reads change data capture (CDC) data from PostgreSQL and writes to Databricks Delta Lake |
-| [PostgreSQL CDC to Snowflake](datacollector/origins/snowflake/PostgreSQL%20CDC%20to%20Snowflake) | Reads change data capture (CDC) data from PostgreSQL and writes to Snowflake |
+| [PostgreSQL CDC to Delta Lake](./PostgreSQL%20CDC%20to%20Delta%20Lake) | Reads change data capture (CDC) data from PostgreSQL and writes to Databricks Delta Lake |
+| [PostgreSQL CDC to Snowflake](./PostgreSQL%20CDC%20to%20Snowflake) | Reads change data capture (CDC) data from PostgreSQL and writes to Snowflake |
 
 # Help
 

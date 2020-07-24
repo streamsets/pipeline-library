@@ -7,15 +7,15 @@ This folder contains pipeline templates and samples that write data to Databrick
 The following templates/samples are currently available:
 | Name            | Description     |
 | --------------- | --------------- |
-| [MySQL binlog to DeltaLake](datacollector/destinations/databricks-delta-lake/MySQL%20binlog%20to%20DeltaLake) | Reads MySQL binlog changed data and writes to Databricks Delta Lake |
-| [MySQL CDC to Delta Lake](datacollector/destinations/databricks-delta-lake/MySQL%20CDC%20to%20Delta%20Lake) | Reads MySQL change data capture (CDC) data and writes to Databricks Delta Lake |
-| [MySQL Schema replication to Delta Lake](datacollector/destinations/databricks-delta-lake/MySQL%20Schema%20replication%20to%20Delta%20Lake) | Bulk load data from MySQL into Databricks Delta Lake |
-| [Oracle 19c Bulk Ingest and CDC to Databricks Delta Lake](datacollector/destinations/databricks-delta-lake/Oracle%2019c%20Bulk%20Ingest%20and%20CDC%20to%20Databricks%20Delta%20Lake) | Bulk ingest data from Oracle 19c and process Change Data Capture (CDC) into Databricks Delta Lake |
-| [Oracle CDC to Delta Lake](datacollector/destinations/databricks-delta-lake/Oracle%20CDC%20to%20Delta%20Lake) | Reads change data capture (CDC) data Oracle and writes to Databricks Delta Lake |
-| [PostgreSQL CDC to Delta Lake](datacollector/destinations/databricks-delta-lake/PostgreSQL%20CDC%20to%20Delta%20Lake) | Reads change data capture (CDC) data from PostgreSQL and writes to Databricks Delta Lake |
-| [Salesforce CDC to Delta Lake](datacollector/destinations/databricks-delta-lake/Salesforce%20CDC%20to%20Delta%20Lake) | Reads change data capture (CDC) data from Salesforce and writes to Databricks Delta Lake |
-| [Salesforce to Delta Lake](datacollector/destinations/databricks-delta-lake/Salesforce%20to%20Delta%20Lake) | Bulk load data from Salesforce accounts into Databricks Delta Lake |
-| [SQLServer CDC to Delta Lake](datacollector/destinations/databricks-delta-lake/SQLServer%20CDC%20to%20Delta%20Lake) | Reads change data capture (CDC) data from SQL Server and writes to Databricks Delta Lake |
+| [MySQL binlog to DeltaLake](./MySQL%20binlog%20to%20DeltaLake) | Reads MySQL binlog changed data and writes to Databricks Delta Lake |
+| [MySQL CDC to Delta Lake](./MySQL%20CDC%20to%20Delta%20Lake) | Reads MySQL change data capture (CDC) data and writes to Databricks Delta Lake |
+| [MySQL Schema replication to Delta Lake](./MySQL%20Schema%20replication%20to%20Delta%20Lake) | Bulk load data from MySQL into Databricks Delta Lake |
+| [Oracle 19c Bulk Ingest and CDC to Databricks Delta Lake](./Oracle%2019c%20Bulk%20Ingest%20and%20CDC%20to%20Databricks%20Delta%20Lake) | Bulk ingest data from Oracle 19c and process Change Data Capture (CDC) into Databricks Delta Lake |
+| [Oracle CDC to Delta Lake](./Oracle%20CDC%20to%20Delta%20Lake) | Reads change data capture (CDC) data Oracle and writes to Databricks Delta Lake |
+| [PostgreSQL CDC to Delta Lake](./PostgreSQL%20CDC%20to%20Delta%20Lake) | Reads change data capture (CDC) data from PostgreSQL and writes to Databricks Delta Lake |
+| [Salesforce CDC to Delta Lake](./Salesforce%20CDC%20to%20Delta%20Lake) | Reads change data capture (CDC) data from Salesforce and writes to Databricks Delta Lake |
+| [Salesforce to Delta Lake](./Salesforce%20to%20Delta%20Lake) | Bulk load data from Salesforce accounts into Databricks Delta Lake |
+| [SQLServer CDC to Delta Lake](./SQLServer%20CDC%20to%20Delta%20Lake) | Reads change data capture (CDC) data from SQL Server and writes to Databricks Delta Lake |
 
 # Help
 
