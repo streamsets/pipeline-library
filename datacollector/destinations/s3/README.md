@@ -1,12 +1,13 @@
 ![StreamSets Logo](images/Full%20Color%20Transparent.png)
 
-<h1><p align="center">Destination: Synapse</p></h1>
+<h1><p align="center">Destination: AWS</p></h1>
 
-This folder contains pipeline templates and samples that write data to Synapse.
+This folder contains pipeline templates and samples that write data to S3.
 
 The following templates/samples are currently available:
 | Name            | Description     |
 | --------------- | --------------- |
+**COMING SOON!**
 
 # Help
 

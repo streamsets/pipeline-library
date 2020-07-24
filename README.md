@@ -5,16 +5,25 @@
 This repo contains pipeline templates and samples that will help you get started with common use cases using StreamSets.  The directory structure is broken out by the StreamSets engine (datacollector or transformer).  Within each engine, the directory structure is broken out by origins and destinations.  Many templates and samples will be located in multiple locations so you can easily find them by origin or destination.  For example, MySQL CDC to Databricks Delta Lake is found in both origins/mysql and destinations/databricks-delta-lake.
 
 The following templates/samples are currently available:
+
+## Data Collector
+
 | Origin            | Destination     |
 | --------------- | --------------- |
-| [AWS](datacollector/origins/aws) | [AWS](datacollector/destinations/aws) |
-| [Azure](datacollector/origins/azure) | [Azure](datacollector/destinations/azure) |
-| [HTTP](datacollector/origins/http) | [Databricks Delta Lake](datacollector/destinations/databricks-delta-lake) |
-| [MySQL](datacollector/origins/mysql) | [Redshift](datacollector/destinations/redshift) |
+| [ADLS](datacollector/origins/adls) | [ADLS](datacollector/destinations/adls) |
+| [HTTP](datacollector/origins/http) |[Databricks Delta Lake](datacollector/destinations/databricks-delta-lake)  |
+| [MySQL](datacollector/origins/mysql) | [S3](datacollector/destinations/s3) |
 | [Oracle](datacollector/origins/oracle) | [Snowflake](datacollector/destinations/snowflake) |
-| [PostgreSQL](datacollector/origins/postgresql) | [Synapse](datacollector/destinations/synapse) |
+| [PostgreSQL](datacollector/origins/postgresql) |  |
+| [S3](datacollector/origins/s3) | |
 | [Salesforce](datacollector/origins/salesforce) | |
 | [SQLServer](datacollector/origins/sqlserver) | |
+
+## Transformer
+
+| Origin            | Destination     |
+| --------------- | --------------- |
+**COMING SOON!**
 
 # Help
 
