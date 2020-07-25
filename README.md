@@ -2,28 +2,27 @@
 
 <h1><p align="center">Pipeline Library</p></h1>
 
-This repo contains pipeline templates and samples that will help you get started with common use cases using StreamSets.  The directory structure is broken out by the StreamSets engine (datacollector or transformer).  Within each engine, the directory structure is broken out by origins and destinations.  Many templates and samples will be located in multiple locations so you can easily find them by origin or destination.  For example, MySQL CDC to Databricks Delta Lake is found in both origins/mysql and destinations/databricks-delta-lake.
+This repository contains assets that will help you get started with StreamSets.  
 
-The following templates/samples are currently available:
+The following asset categories are currently available:
 
 ## Data Collector
 
-| Origin            | Destination     |
+| Asset            | Description     |
 | --------------- | --------------- |
-| [ADLS](datacollector/origins/adls) | [ADLS](datacollector/destinations/adls) |
-| [HTTP](datacollector/origins/http) |[Databricks Delta Lake](datacollector/destinations/databricks-delta-lake)  |
-| [MySQL](datacollector/origins/mysql) | [S3](datacollector/destinations/s3) |
-| [Oracle](datacollector/origins/oracle) | [Snowflake](datacollector/destinations/snowflake) |
-| [PostgreSQL](datacollector/origins/postgresql) |  |
-| [S3](datacollector/origins/s3) | |
-| [Salesforce](datacollector/origins/salesforce) | |
-| [SQLServer](datacollector/origins/sqlserver) | |
+| [Sample Pipelines](./datacollector/sample-pipelines) | Contains sample pipelines for Data Collector |
+| [Sample Scripts](./datacollector/sample-scripts) | Contain sample scripts |
+| [Best Practices](./datacollector/best-practices) | Contains best practices and configurations |
+| [Contribution Guide](./datacollector/contribution-guide) | Contains docuemntation on contributing to this repository |
 
 ## Transformer
 
-| Origin            | Destination     |
+| Asset            | Description     |
 | --------------- | --------------- |
-**COMING SOON!**
+| [Sample Pipelines](./transformer/sample-pipelines) | Contains sample pipelines for Data Collector |
+| [Sample Scripts](./transformer/sample-scripts) | Contain sample scripts |
+| [Best Practices](./transformer/best-practices) | Contains best practices and configurations |
+| [Contribution Guide](./transformer/contribution-guide) | Contains docuemntation on contributing to this repository |
 
 # Help
 
