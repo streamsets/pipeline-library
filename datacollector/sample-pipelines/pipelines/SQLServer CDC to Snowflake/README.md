@@ -1,4 +1,4 @@
-![StreamSets Logo](../../../images/Full%20Color%20Transparent.png)
+![StreamSets Logo](../../../../images/Full%20Color%20Transparent.png)
 
 <h1><p align="center">SQL Server CDC to Snowflake</p></h1>
 

@@ -1,4 +1,4 @@
-![StreamSets Logo](../../../images/Full%20Color%20Transparent.png)
+![StreamSets Logo](../../../../images/Full%20Color%20Transparent.png)
 
 <h1><p align="center">Oracle CDC to Databricks Delta Lake</p></h1>
 
