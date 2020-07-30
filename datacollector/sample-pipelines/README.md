@@ -10,7 +10,7 @@ The following templates/samples are currently available:
 | [Drift Synchronization for Hive](./pipelines/Drift%20Synchronization%20for%20Hive) | Drift Synchronization from MySQL to the Cloudera distribution of Apache Hive and Apache Impala |
 | [MySQL binlog to DeltaLake](./pipelines/MySQL%20binlog%20to%20DeltaLake) | Reads MySQL binlog changed data and writes to Databricks Delta Lake |
 | [MySQL CDC to Delta Lake](./pipelines/MySQL%20CDC%20to%20Delta%20Lake) | Reads MySQL change data capture (CDC) data and writes to Databricks Delta Lake |
-| [MySQL CDC to S3 to Snowflake](./pipelines/MySQL%20CDC%20to%20S3%20%20Snowflake) | Reads MySQL change data capture (CDC) data, writes to S3 then reads from S3 and writes to Snowflake |
+| [MySQL CDC to S3 to Snowflake](./pipelines/MySQL%20CDC%20to%20S3%20to%20Snowflake) | Reads MySQL change data capture (CDC) data, writes to S3 then reads from S3 and writes to Snowflake |
 | [MySQL CDC to Snowflake](./pipelines/MySQL%20CDC%20to%20Snowflake) | Reads MySQL change data capture (CDC) data and writes to Snowflake |
 | [MySQL Schema replication to Delta Lake](./pipelines/MySQL%20Schema%20replication%20to%20Delta%20Lake) | Bulk load data from MySQL into Databricks Delta Lake |
 | [Oracle 19c Bulk Ingest and CDC to Databricks Delta Lake](./pipelines/Oracle%2019c%20Bulk%20Ingest%20and%20CDC%20to%20Databricks%20Delta%20Lake) | Bulk ingest data from Oracle 19c and process Change Data Capture (CDC) into Databricks Delta Lake |
