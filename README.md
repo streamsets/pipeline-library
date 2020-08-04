@@ -13,7 +13,6 @@ The following asset categories are currently available:
 | [Sample Pipelines](./datacollector/sample-pipelines) | Contains sample pipelines for Data Collector |
 | [Sample Scripts](./datacollector/sample-scripts) | Contain sample scripts |
 | [Best Practices](./datacollector/best-practices) | Contains best practices and configurations |
-| [Contribution Guide](./datacollector/contribution-guide) | Contains docuemntation on contributing to this repository |
 
 ## Transformer
 
@@ -22,7 +21,6 @@ The following asset categories are currently available:
 | [Sample Pipelines](./transformer/sample-pipelines) | Contains sample pipelines for Data Collector |
 | [Sample Scripts](./transformer/sample-scripts) | Contain sample scripts |
 | [Best Practices](./transformer/best-practices) | Contains best practices and configurations |
-| [Contribution Guide](./transformer/contribution-guide) | Contains docuemntation on contributing to this repository |
 
 # Help
 
