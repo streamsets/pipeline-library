@@ -7,8 +7,7 @@ This folder contains pipeline templates and samples for Transformer.
 The following templates/samples are currently available:
 | Name            | Description     |
 | --------------- | --------------- |
-
-**COMING SOON**
+| [Tx Slowly Changing Dimensions - Type 1](./pipelines/Tx%20Slowly%20Changing%20Dimension%20-%20Type%201) | Slowly Changing Dimension - Type 1 |
 
 # Help
 

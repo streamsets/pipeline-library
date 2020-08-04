@@ -18,7 +18,7 @@ The following asset categories are currently available:
 
 | Asset            | Description     |
 | --------------- | --------------- |
-| [Sample Pipelines](./transformer/sample-pipelines) | Contains sample pipelines for Data Collector |
+| [Sample Pipelines](./transformer/sample-pipelines) | Contains sample pipelines for Transformer |
 | [Sample Scripts](./transformer/sample-scripts) | Contain sample scripts |
 | [Best Practices](./transformer/best-practices) | Contains best practices and configurations |
 
