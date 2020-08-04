@@ -56,7 +56,7 @@ Click "Browse" and locate the pipeline file you just downloaded, click "OK", the
 
 Click on the pipeline you just imported to open it and click on the "Parameters" tab and fill in the appropriate information for your environment.
 
-**Important:** *For this pipeline, you only need to specify the output directory for the file.  This is on the local file system where Transformer is installed.  Make wure the directory is created and proper permissions are set so that the transformer user can create files.  By default, the directory ```/data/master``` is used.  You can change it to anything you want.*
+**Important:** *For this pipeline, you only need to specify the output directory for the file.  This is on the local file system where Transformer is installed.  Make sure the directory is created and proper permissions are set so that the transformer user can create files.  By default, the directory ```/data/master``` is used.  You can change it to anything you want.*
 
 ![Step 3](images/TxSCDType1_step3.png "Configure the parameters")
 
