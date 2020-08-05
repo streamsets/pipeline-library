@@ -31,9 +31,13 @@ NOTE: [Templates](https://streamsets.com/documentation/controlhub/latest/help/co
 Stage | Description
 --- | ---
 [Retail and Store Details](https://streamsets.com/documentation/transformer/latest/help/transformer/Origins/File.html?contextID=concept_jcx_f2d_qgb) | Reads the source data from files on the local file system
-[Slowly Changing Dimension](https://streamsets.com/documentation/transformer/latest/help/transformer/Processors/SCDimension.html?contextID=concept_ixk_bbr_j3b) | Generates updates to a Type 1 or Type 2 slowly changing dimension by evaluating change data against master dimension data
-[Consolidate to 1 file](https://streamsets.com/documentation/transformer/latest/help/transformer/Processors/Repartition.html?contextID=concept_cm5_lfg_wgb) | Repartition - change the number of partitions that are written to file systems to 1
-[Master](https://streamsets.com/documentation/transformer/latest/help/transformer/Destinations/File-D.html?contextID=concept_akw_2r3_xgb) | Writes data to a local file system
+[Join by store_zip](https://streamsets.com/documentation/transformer/latest/help/transformer/Processors/Join.html?contextID=concept_xdr_slq_sgb) | Joins the data sources by store_zip
+[Generate IDs](https://streamsets.com/documentation/transformer/latest/help/transformer/Processors/SparkSQLExp.html?contextID=concept_akj_gsz_mhb) | Uses SparkSQL to generate an ID
+[Route Data](https://streamsets.com/documentation/transformer/latest/help/transformer/Processors/StreamSelector.html?contextID=concept_wv3_k4j_zgb) | Routes data based on lead time
+[Consolidate to 3/1](https://streamsets.com/documentation/transformer/latest/help/transformer/Processors/Repartition.html?contextID=concept_cm5_lfg_wgb) | Repartition - change the number of partitions that are written to file systems to 1
+[Get Avg Lead Time/Total Unit Price & Weight](https://streamsets.com/documentation/transformer/latest/help/transformer/Processors/Aggregate.html?contextID=concept_eby_fb4_wgb) | Aggregator to perform AVG and SUMs
+[Sort by City/Sort by Zipcode](https://streamsets.com/documentation/transformer/latest/help/transformer/Processors/Sort.html?contextID=concept_jw2_pq5_rgb) | Sorts the data
+[IDs/Avg Lead Time/Total Unit Price](https://streamsets.com/documentation/transformer/latest/help/transformer/Destinations/File-D.html?contextID=concept_akw_2r3_xgb) | Writes data to a local file system
 
 ## PREREQUISITES
 
