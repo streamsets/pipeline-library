@@ -62,18 +62,14 @@ Click on the pipeline you just imported to open it and click on the "Parameters"
 
 The following parameters are set up for this pipeline:
 <table>
-  <tr>
-   <td><code>output_file_directory</code>
+  </tr>
+   <td><code>destination_directory</code>
    </td>
    <td class="entry cellrowborder" headers="d31669e688 "><span class="ph" id="task_rcy_b4f_dhb__d67e2186">Path to the directory for
                                             the output files.</span>
-                                        <p class="p">To write to HDFS, use the following
-                                                format:</p>
-<p class="p"><kbd class="ph userinput">hdfs://&lt;authority&gt;/&lt;path&gt;</kbd></p>
-<p class="p">To
-                                            write to a local file system, use the following
+                                        <p>Use the following
                                             format:</p>
-<p class="p"><code class="ph codeph">file:///&lt;directory&gt;</code></p>
+<p class="p"><code class="ph codeph">/&lt;directory&gt;</code></p>
 </td>
   </tr>
 </table>
