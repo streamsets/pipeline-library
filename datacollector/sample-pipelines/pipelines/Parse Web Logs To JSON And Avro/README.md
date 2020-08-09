@@ -6,7 +6,7 @@ This pipeline demonstrates how to parse raw web logs ingested in Common Log Form
 Setup And Technical Details
 ---------------------------
 
-* Download the [pipeline](ParseWebLoa66d0e82-83d4-4ef9-b905-62e4e5e49a79.json) and import it into your Data Collector
+* Download the [pipeline](Parse Web Logs To JSON & Avro.json) and import it into your Data Collector
 * Update the following pipeline parameters
     * ADDED_TO_CART_FS_FOLDER
         * This is the path to the folder where you'd like Avro output file to be created
