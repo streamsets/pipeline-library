@@ -4,8 +4,8 @@
     "version" : 19,
     "pipelineId" : "ParseWebLoa66d0e82-83d4-4ef9-b905-62e4e5e49a79",
     "title" : "Parse Web Logs To JSON & Avro",
-    "description" : "",
-    "uuid" : "1d1cd9bd-4ae7-479d-9bec-67a719c7ba80",
+    "description" : "Tutorial - https://github.com/streamsets/pipeline-library/tree/master/datacollector/sample-pipelines/pipelines/Parse%20Web%20Logs%20To%20JSON%20And%20Avro",
+    "uuid" : "288087ab-4d39-407c-8bb8-9274710cb530",
     "configuration" : [ {
       "name" : "executionMode",
       "value" : "STANDALONE"
@@ -464,9 +464,9 @@
       "displayMode" : "ADVANCED",
       "previewConfig" : {
         "previewSource" : "CONFIGURED_SOURCE",
-        "batchSize" : "1",
+        "batchSize" : "100",
         "timeout" : 30000,
-        "writeToDestinations" : true,
+        "writeToDestinations" : false,
         "executeLifecycleEvents" : false,
         "showHeader" : true,
         "showFieldType" : true,
@@ -498,7 +498,7 @@
         "description" : "",
         "label" : "Load Retail Web App Logs",
         "xPos" : 60,
-        "displayMode" : "BASIC"
+        "displayMode" : "ADVANCED"
       },
       "inputLanes" : [ ],
       "outputLanes" : [ "DevRawDataSource_01OutputLane15417812388240" ],
@@ -1347,23 +1347,23 @@
     "info" : {
       "pipelineId" : "ParseWebLoa66d0e82-83d4-4ef9-b905-62e4e5e49a79",
       "title" : "Parse Web Logs To JSON & Avro",
-      "description" : "",
+      "description" : "Tutorial - https://github.com/streamsets/pipeline-library/tree/master/datacollector/sample-pipelines/pipelines/Parse%20Web%20Logs%20To%20JSON%20And%20Avro",
       "created" : 1596842583879,
-      "lastModified" : 1596995562513,
+      "lastModified" : 1597005590489,
       "creator" : "admin",
       "lastModifier" : "admin",
       "lastRev" : "0",
-      "uuid" : "1d1cd9bd-4ae7-479d-9bec-67a719c7ba80",
+      "uuid" : "288087ab-4d39-407c-8bb8-9274710cb530",
       "valid" : true,
       "metadata" : {
-        "labels" : [ ]
+        "labels" : [ "origin:Dev Raw Data Source", "destination:Local FS" ]
       },
       "name" : "ParseWebLoa66d0e82-83d4-4ef9-b905-62e4e5e49a79",
       "sdcVersion" : "3.18.0-SNAPSHOT",
       "sdcId" : "a8a11b6c-d8fc-11ea-9149-abc78c1550f2"
     },
     "metadata" : {
-      "labels" : [ ]
+      "labels" : [ "origin:Dev Raw Data Source", "destination:Local FS" ]
     },
     "statsAggregatorStage" : {
       "instanceName" : "Discard_StatsAggregatorStage",
@@ -1689,7 +1689,7 @@
       "stageIssues" : { },
       "issueCount" : 0
     },
-    "previewable" : false,
+    "previewable" : true,
     "valid" : true
   },
   "pipelineRules" : {
