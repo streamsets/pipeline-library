@@ -73,7 +73,7 @@ Provided you've updated the pipeline parameters and there aren't any validation 
 
 **Avro** -- for requests going to carts: [Sample output file](output/added-to-cart-a8a11b6c-d8fc-11ea-9149-abc78c1550f2_19aa3278-119c-4820-b11b-d58637a7b275.avro).
 
-**JSON** -- for regular page views: [Sample output file](output/page-views-a8a11b6c-d8fc-11ea-9149-abc78c1550f2_69b93e73-ac07-45ab-b89b-90550dc14ad9).
+**JSON** -- for regular page views: [Sample output file](output/page-views-a8a11b6c-d8fc-11ea-9149-abc78c1550f2_69b93e73-ac07-45ab-b89b-90550dc14ad9.json).
 
 
 
