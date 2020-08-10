@@ -67,7 +67,7 @@ The attributes of interest on **Dimension** tab are:
 * **Key Fields**: *${MASTER_PRIMARY_KEY}* which is defaulted to *customer_id* for this particular dataset. It is used to join "master" and "change" data.
 * **Tracking Fields**: *${MASTER_VERSION_TRACKING_FIELD}* which is defaulted to *version* for this particular dataset. The SCD processor will set the value for it.
 
-Given the dataset and above configuration, all of the "change" data records will have *__STREAMSETS_TRANSFORMER_METADATA_ATTRIBUTE_ChangeType__* set to "Insert". 
+Given the datasets and above configuration, all of the "change" data records will have *__STREAMSETS_TRANSFORMER_METADATA_ATTRIBUTE_ChangeType__* set to "Insert". 
 
 ![Slowly Changing Dimension](images/img2a.png)
 
@@ -75,7 +75,7 @@ Given the dataset and above configuration, all of the "change" data records will
 
 ![Slowly Changing Dimension](images/img2b.png)
 
-Given the dataset and above configuration, all of the "master" data records will have *__STREAMSETS_TRANSFORMER_METADATA_ATTRIBUTE_ChangeType__* set to "PassThrough".
+Given the datasets and above configuration, all of the "master" data records will have *__STREAMSETS_TRANSFORMER_METADATA_ATTRIBUTE_ChangeType__* set to "PassThrough".
 
 ![Slowly Changing Dimension](images/img2c.png)
 
@@ -86,25 +86,21 @@ Given the dataset and above configuration, all of the "master" data records will
 
 ![Sort](images/img3.png)
 
-Using [Sort](https://streamsets.com/documentation/transformer/latest/help/transformer/Processors/Sort.html#concept_jw2_pq5_rgb) the records are sorted by *${MASTER_PRIMARY_KEY}* and *${MASTER_VERSION_TRACKING_FIELD}* so in this case the output records will ordered by *customer_id* and *version*. 
-
-*Note*: This stage is optional and depends on your use case.
+Using [Sort](https://streamsets.com/documentation/transformer/latest/help/transformer/Processors/Sort.html#concept_jw2_pq5_rgb) the records are sorted by *${MASTER_PRIMARY_KEY}* and *${MASTER_VERSION_TRACKING_FIELD}* so in this case the output records will ordered by *customer_id* and *version*. *Note*: This stage is optional and depends on your use case.
 
 
 **Repartition**
 
 ![Repartition](images/img4.png)
 
-Using [Repartition](https://streamsets.com/documentation/transformer/latest/help/transformer/Processors/Repartition.html#concept_cm5_lfg_wgb) will force the pipeline to generate output in a single file.
-
-*Note*: This stage is optional and depends on your use case.
+Using [Repartition](https://streamsets.com/documentation/transformer/latest/help/transformer/Processors/Repartition.html#concept_cm5_lfg_wgb) will force the pipeline to generate output in a single file. *Note*: This stage is optional and depends on your use case.
 
 
 **Output**
 
 ![Output](images/img5.png)
 
-Given the two datasets above the resulting output will look like the one above. Notice that the total number of output records is **7**; **3** records from "master" origin for existing customers and **4** records from the "change" origin–-where **3** records are for existing customers (1 for Mary and 2 for Ann) with their updated address and version incremented and one record for new customer Mark with version set to 1.
+Given the two datasets above the resulting output will look like this. Notice that the total number of output records is **7**; **3** records from "master" origin for existing customers and **4** records from the "change" origin–-where **3** records are for existing customers (1 for Mary and 2 for Ann) with their updated address and version incremented, and one record for new customer Mark with version set to 1.
 
 ```
 customer_id,customer_fname,customer_lname,customer_email,customer_password,customer_street,customer_city,customer_state,customer_zipcode,version
@@ -129,4 +125,4 @@ Provided you've updated the pipeline parameters and there aren't any validation 
 Design Patterns
 ---------------
 
-To learn more about a few design patterns for Slowly Changing Dimensions - Type 2, (read this blog)[https://streamsets.com/blog/streamsets-transformer-design-patterns-for-slowly-changing-dimensions/.
+To learn more about a few design patterns for Slowly Changing Dimensions - Type 2, [read this blog](https://streamsets.com/blog/streamsets-transformer-design-patterns-for-slowly-changing-dimensions/).
