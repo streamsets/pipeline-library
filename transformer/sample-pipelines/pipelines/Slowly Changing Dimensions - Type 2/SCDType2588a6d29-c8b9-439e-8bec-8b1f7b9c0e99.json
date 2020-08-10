@@ -1,0 +1,1190 @@
+{
+  "pipelineConfig" : {
+    "schemaVersion" : 6,
+    "version" : 19,
+    "pipelineId" : "SCDType2588a6d29-c8b9-439e-8bec-8b1f7b9c0e99",
+    "title" : "Slowly Changing Dimension - Type 2",
+    "description" : "Tutorial -",
+    "uuid" : "4624abd7-3ce5-411e-b25d-228365313462",
+    "configuration" : [ {
+      "name" : "executionMode",
+      "value" : "BATCH"
+    }, {
+      "name" : "edgeHttpUrl",
+      "value" : "http://localhost:18633"
+    }, {
+      "name" : "deliveryGuarantee",
+      "value" : "AT_LEAST_ONCE"
+    }, {
+      "name" : "testOriginStage",
+      "value" : "streamsets-datacollector-dev-lib::com_streamsets_pipeline_stage_devtest_rawdata_RawDataDSource::3"
+    }, {
+      "name" : "startEventStage",
+      "value" : "streamsets-datacollector-basic-lib::com_streamsets_pipeline_stage_destination_devnull_ToErrorNullDTarget::1"
+    }, {
+      "name" : "stopEventStage",
+      "value" : "streamsets-datacollector-basic-lib::com_streamsets_pipeline_stage_destination_devnull_ToErrorNullDTarget::1"
+    }, {
+      "name" : "shouldRetry",
+      "value" : true
+    }, {
+      "name" : "triggerInterval",
+      "value" : 2000
+    }, {
+      "name" : "retryAttempts",
+      "value" : -1
+    }, {
+      "name" : "ludicrousMode",
+      "value" : false
+    }, {
+      "name" : "ludicrousModeInputCount",
+      "value" : false
+    }, {
+      "name" : "advancedErrorHandling",
+      "value" : false
+    }, {
+      "name" : "notifyOnStates",
+      "value" : [ "RUN_ERROR", "STOPPED", "FINISHED" ]
+    }, {
+      "name" : "emailIDs",
+      "value" : [ ]
+    }, {
+      "name" : "constants",
+      "value" : [ {
+        "key" : "OUTPUT_FILE_FOLDER",
+        "value" : "/Users/dash/data/scd/"
+      }, {
+        "key" : "MASTER_PRIMARY_KEY",
+        "value" : "customer_id"
+      }, {
+        "key" : "MASTER_VERSION_TRACKING_FIELD",
+        "value" : "version"
+      } ]
+    }, {
+      "name" : "badRecordsHandling",
+      "value" : null
+    }, {
+      "name" : "errorRecordPolicy",
+      "value" : "ORIGINAL_RECORD"
+    }, {
+      "name" : "workerCount",
+      "value" : 0
+    }, {
+      "name" : "clusterSlaveMemory",
+      "value" : 2048
+    }, {
+      "name" : "clusterSlaveJavaOpts",
+      "value" : "-XX:+UseConcMarkSweepGC -XX:+UseParNewGC -Dlog4j.debug"
+    }, {
+      "name" : "clusterLauncherEnv",
+      "value" : [ ]
+    }, {
+      "name" : "mesosDispatcherURL",
+      "value" : null
+    }, {
+      "name" : "logLevel",
+      "value" : "TRACE"
+    }, {
+      "name" : "hdfsS3ConfDir",
+      "value" : null
+    }, {
+      "name" : "rateLimit",
+      "value" : 0
+    }, {
+      "name" : "maxRunners",
+      "value" : 0
+    }, {
+      "name" : "shouldCreateFailureSnapshot",
+      "value" : true
+    }, {
+      "name" : "runnerIdleTIme",
+      "value" : 60
+    }, {
+      "name" : "webhookConfigs",
+      "value" : [ ]
+    }, {
+      "name" : "sparkConfigs",
+      "value" : [ {
+        "key" : "spark.driver.memory",
+        "value" : "2G"
+      }, {
+        "key" : "spark.driver.cores",
+        "value" : "1"
+      }, {
+        "key" : "spark.executor.memory",
+        "value" : "2G"
+      }, {
+        "key" : "spark.executor.cores",
+        "value" : "1"
+      }, {
+        "key" : "spark.dynamicAllocation.enabled",
+        "value" : "true"
+      }, {
+        "key" : "spark.dynamicAllocation.minExecutors",
+        "value" : "1"
+      } ]
+    }, {
+      "name" : "preprocessScript",
+      "value" : "/*\nThe following script define a method\nthat increments an integer by 1 \nand registers it as a UDF with \nthe SparkSession, which can be accessed\nusing the variable named \"spark\":\ndef inc(i: Integer): Integer = {\n  i + 1\n}\nspark.udf.register (\"inc\", inc _)\n\n*/"
+    }, {
+      "name" : "clusterConfig.clusterType",
+      "value" : "LOCAL"
+    }, {
+      "name" : "clusterConfig.sparkMasterUrl",
+      "value" : "local[*]"
+    }, {
+      "name" : "clusterConfig.deployMode",
+      "value" : "CLIENT"
+    }, {
+      "name" : "clusterConfig.hadoopUserName",
+      "value" : null
+    }, {
+      "name" : "clusterConfig.sparkAppName",
+      "value" : "${pipeline:title()}"
+    }, {
+      "name" : "clusterConfig.stagingDir",
+      "value" : "/streamsets"
+    }, {
+      "name" : "clusterConfig.useYarnKerberosKeytab",
+      "value" : false
+    }, {
+      "name" : "clusterConfig.yarnKerberosKeytabSource",
+      "value" : "PROPERTIES_FILE"
+    }, {
+      "name" : "clusterConfig.yarnKerberosKeytab",
+      "value" : null
+    }, {
+      "name" : "clusterConfig.yarnKerberosPrincipal",
+      "value" : "name@DOMAIN"
+    }, {
+      "name" : "databricksConfig.baseUrl",
+      "value" : "https://dbc-58107af9-cc2b.cloud.databricks.com"
+    }, {
+      "name" : "databricksConfig.credentialType",
+      "value" : "TOKEN"
+    }, {
+      "name" : "databricksConfig.username",
+      "value" : ""
+    }, {
+      "name" : "databricksConfig.password",
+      "value" : ""
+    }, {
+      "name" : "databricksConfig.token",
+      "value" : ""
+    }, {
+      "name" : "databricksConfig.provisionNewCluster",
+      "value" : false
+    }, {
+      "name" : "databricksConfig.clusterId",
+      "value" : "1001-183617-harm779"
+    }, {
+      "name" : "databricksConfig.clusterConfig",
+      "value" : "{\n    \"num_workers\": 8,\n    \"spark_version\": \"5.3.x-scala2.11\",\n    \"node_type_id\": \"i3.xlarge\"\n}"
+    }, {
+      "name" : "databricksConfig.terminateCluster",
+      "value" : false
+    }, {
+      "name" : "livyConfig.baseUrl",
+      "value" : "https://localhost:30443/gateway/default/livy/v1/"
+    }, {
+      "name" : "livyConfig.username",
+      "value" : ""
+    }, {
+      "name" : "livyConfig.password",
+      "value" : ""
+    }, {
+      "name" : "amazonEMRConfig.userRegion",
+      "value" : null
+    }, {
+      "name" : "amazonEMRConfig.userRegionCustom",
+      "value" : null
+    }, {
+      "name" : "amazonEMRConfig.accessKey",
+      "value" : ""
+    }, {
+      "name" : "amazonEMRConfig.secretKey",
+      "value" : ""
+    }, {
+      "name" : "amazonEMRConfig.s3StagingUri",
+      "value" : null
+    }, {
+      "name" : "amazonEMRConfig.provisionNewCluster",
+      "value" : false
+    }, {
+      "name" : "amazonEMRConfig.clusterId",
+      "value" : null
+    }, {
+      "name" : "amazonEMRConfig.clusterPrefix",
+      "value" : null
+    }, {
+      "name" : "amazonEMRConfig.terminateCluster",
+      "value" : false
+    }, {
+      "name" : "amazonEMRConfig.loggingEnabled",
+      "value" : true
+    }, {
+      "name" : "amazonEMRConfig.s3LogUri",
+      "value" : null
+    }, {
+      "name" : "amazonEMRConfig.enableEMRDebugging",
+      "value" : true
+    }, {
+      "name" : "amazonEMRConfig.serviceRole",
+      "value" : "EMR_DefaultRole"
+    }, {
+      "name" : "amazonEMRConfig.jobFlowRole",
+      "value" : "EMR_EC2_DefaultRole"
+    }, {
+      "name" : "amazonEMRConfig.visibleToAllUsers",
+      "value" : true
+    }, {
+      "name" : "amazonEMRConfig.ec2SubnetId",
+      "value" : null
+    }, {
+      "name" : "amazonEMRConfig.masterSecurityGroup",
+      "value" : null
+    }, {
+      "name" : "amazonEMRConfig.slaveSecurityGroup",
+      "value" : null
+    }, {
+      "name" : "amazonEMRConfig.instanceCount",
+      "value" : 2
+    }, {
+      "name" : "amazonEMRConfig.masterInstanceType",
+      "value" : null
+    }, {
+      "name" : "amazonEMRConfig.masterInstanceTypeCustom",
+      "value" : null
+    }, {
+      "name" : "amazonEMRConfig.slaveInstanceType",
+      "value" : null
+    }, {
+      "name" : "amazonEMRConfig.slaveInstanceTypeCustom",
+      "value" : null
+    }, {
+      "name" : "transformerEMRConfig.userRegion",
+      "value" : null
+    }, {
+      "name" : "transformerEMRConfig.userRegionCustom",
+      "value" : null
+    }, {
+      "name" : "transformerEMRConfig.s3StagingUri",
+      "value" : null
+    }, {
+      "name" : "transformerEMRConfig.clusterPrefix",
+      "value" : null
+    }, {
+      "name" : "transformerEMRConfig.clusterId",
+      "value" : null
+    }, {
+      "name" : "transformerEMRConfig.terminateCluster",
+      "value" : false
+    }, {
+      "name" : "transformerEMRConfig.s3LogUri",
+      "value" : null
+    }, {
+      "name" : "transformerEMRConfig.serviceRole",
+      "value" : "EMR_DefaultRole"
+    }, {
+      "name" : "transformerEMRConfig.jobFlowRole",
+      "value" : "EMR_EC2_DefaultRole"
+    }, {
+      "name" : "transformerEMRConfig.visibleToAllUsers",
+      "value" : true
+    }, {
+      "name" : "transformerEMRConfig.loggingEnabled",
+      "value" : true
+    }, {
+      "name" : "transformerEMRConfig.ec2SubnetId",
+      "value" : null
+    }, {
+      "name" : "transformerEMRConfig.masterSecurityGroup",
+      "value" : null
+    }, {
+      "name" : "transformerEMRConfig.slaveSecurityGroup",
+      "value" : null
+    }, {
+      "name" : "transformerEMRConfig.instanceCount",
+      "value" : 2
+    }, {
+      "name" : "transformerEMRConfig.masterInstanceType",
+      "value" : null
+    }, {
+      "name" : "transformerEMRConfig.slaveInstanceType",
+      "value" : null
+    }, {
+      "name" : "transformerEMRConfig.masterInstanceTypeCustom",
+      "value" : null
+    }, {
+      "name" : "transformerEMRConfig.slaveInstanceTypeCustom",
+      "value" : null
+    }, {
+      "name" : "transformerEMRConfig.accessKey",
+      "value" : ""
+    }, {
+      "name" : "transformerEMRConfig.secretKey",
+      "value" : ""
+    }, {
+      "name" : "transformerEMRConfig.provisionNewCluster",
+      "value" : false
+    }, {
+      "name" : "transformerEMRConfig.useIAMRoles",
+      "value" : false
+    }, {
+      "name" : "clusterConfig.callbackUrl",
+      "value" : null
+    }, {
+      "name" : "transformerEMRConfig.emrVersion",
+      "value" : null
+    }, {
+      "name" : "googleCloudConfig.region",
+      "value" : null
+    }, {
+      "name" : "googleCloudConfig.customRegion",
+      "value" : null
+    }, {
+      "name" : "googleCloudConfig.gcsStagingUri",
+      "value" : null
+    }, {
+      "name" : "googleCloudConfig.create",
+      "value" : false
+    }, {
+      "name" : "googleCloudConfig.clusterPrefix",
+      "value" : null
+    }, {
+      "name" : "googleCloudConfig.version",
+      "value" : "1.4-ubuntu18"
+    }, {
+      "name" : "googleCloudConfig.masterType",
+      "value" : null
+    }, {
+      "name" : "googleCloudConfig.workerType",
+      "value" : null
+    }, {
+      "name" : "googleCloudConfig.networkType",
+      "value" : null
+    }, {
+      "name" : "googleCloudConfig.network",
+      "value" : null
+    }, {
+      "name" : "googleCloudConfig.subnet",
+      "value" : null
+    }, {
+      "name" : "googleCloudConfig.tags",
+      "value" : [ ]
+    }, {
+      "name" : "googleCloudConfig.workerCount",
+      "value" : 2
+    }, {
+      "name" : "googleCloudConfig.clusterName",
+      "value" : null
+    }, {
+      "name" : "googleCloudConfig.terminate",
+      "value" : false
+    }, {
+      "name" : "googleCloudCredentialsConfig.projectId",
+      "value" : null
+    }, {
+      "name" : "googleCloudCredentialsConfig.credentialsProvider",
+      "value" : null
+    }, {
+      "name" : "googleCloudCredentialsConfig.path",
+      "value" : null
+    }, {
+      "name" : "googleCloudCredentialsConfig.credentialsFileContent",
+      "value" : ""
+    }, {
+      "name" : "googleCloudConfig.region",
+      "value" : null
+    }, {
+      "name" : "googleCloudConfig.customRegion",
+      "value" : null
+    }, {
+      "name" : "googleCloudConfig.gcsStagingUri",
+      "value" : null
+    }, {
+      "name" : "googleCloudConfig.create",
+      "value" : false
+    }, {
+      "name" : "googleCloudConfig.clusterPrefix",
+      "value" : null
+    }, {
+      "name" : "googleCloudConfig.version",
+      "value" : "1.4-ubuntu18"
+    }, {
+      "name" : "googleCloudConfig.masterType",
+      "value" : null
+    }, {
+      "name" : "googleCloudConfig.workerType",
+      "value" : null
+    }, {
+      "name" : "googleCloudConfig.networkType",
+      "value" : null
+    }, {
+      "name" : "googleCloudConfig.network",
+      "value" : null
+    }, {
+      "name" : "googleCloudConfig.subnet",
+      "value" : null
+    }, {
+      "name" : "googleCloudConfig.tags",
+      "value" : [ ]
+    }, {
+      "name" : "googleCloudConfig.workerCount",
+      "value" : 2
+    }, {
+      "name" : "googleCloudConfig.clusterName",
+      "value" : null
+    }, {
+      "name" : "googleCloudConfig.terminate",
+      "value" : false
+    }, {
+      "name" : "googleCloudCredentialsConfig.projectId",
+      "value" : null
+    }, {
+      "name" : "googleCloudCredentialsConfig.credentialsProvider",
+      "value" : null
+    }, {
+      "name" : "googleCloudCredentialsConfig.path",
+      "value" : null
+    }, {
+      "name" : "googleCloudCredentialsConfig.credentialsFileContent",
+      "value" : ""
+    }, {
+      "name" : "statsAggregatorStage",
+      "value" : "streamsets-spark-basic-lib::com_streamsets_pipeline_stage_destination_devnull_StatsDpmDirectlyDTarget::1"
+    }, {
+      "name" : "clusterConfig.yarnKerberosKeytabBase64Bytes",
+      "value" : ""
+    }, {
+      "name" : "transformerEMRConfig.serviceAccessSecurityGroup",
+      "value" : null
+    } ],
+    "uiInfo" : {
+      "schemaFromPreview" : {
+        "File_05OutputLane15737534782450" : {
+          "header" : { },
+          "value" : {
+            "type" : "LIST_MAP",
+            "value" : [ {
+              "type" : "INTEGER",
+              "dqpath" : "customer_id",
+              "sqpath" : "customer_id"
+            }, {
+              "type" : "STRING",
+              "dqpath" : "customer_fname",
+              "sqpath" : "customer_fname"
+            }, {
+              "type" : "STRING",
+              "dqpath" : "customer_lname",
+              "sqpath" : "customer_lname"
+            }, {
+              "type" : "STRING",
+              "dqpath" : "customer_email",
+              "sqpath" : "customer_email"
+            }, {
+              "type" : "STRING",
+              "dqpath" : "customer_password",
+              "sqpath" : "customer_password"
+            }, {
+              "type" : "STRING",
+              "dqpath" : "customer_street",
+              "sqpath" : "customer_street"
+            }, {
+              "type" : "STRING",
+              "dqpath" : "customer_city",
+              "sqpath" : "customer_city"
+            }, {
+              "type" : "STRING",
+              "dqpath" : "customer_state",
+              "sqpath" : "customer_state"
+            }, {
+              "type" : "INTEGER",
+              "dqpath" : "customer_zipcode",
+              "sqpath" : "customer_zipcode"
+            } ],
+            "dqpath" : "",
+            "sqpath" : ""
+          }
+        },
+        "SlowlyChangingDimension_01OutputLane15677977380220" : {
+          "header" : { },
+          "value" : {
+            "type" : "LIST_MAP",
+            "value" : [ {
+              "type" : "INTEGER",
+              "dqpath" : "customer_id",
+              "sqpath" : "customer_id"
+            }, {
+              "type" : "STRING",
+              "dqpath" : "customer_fname",
+              "sqpath" : "customer_fname"
+            }, {
+              "type" : "STRING",
+              "dqpath" : "customer_lname",
+              "sqpath" : "customer_lname"
+            }, {
+              "type" : "STRING",
+              "dqpath" : "customer_email",
+              "sqpath" : "customer_email"
+            }, {
+              "type" : "STRING",
+              "dqpath" : "customer_password",
+              "sqpath" : "customer_password"
+            }, {
+              "type" : "STRING",
+              "dqpath" : "customer_street",
+              "sqpath" : "customer_street"
+            }, {
+              "type" : "STRING",
+              "dqpath" : "customer_city",
+              "sqpath" : "customer_city"
+            }, {
+              "type" : "STRING",
+              "dqpath" : "customer_state",
+              "sqpath" : "customer_state"
+            }, {
+              "type" : "INTEGER",
+              "dqpath" : "customer_zipcode",
+              "sqpath" : "customer_zipcode"
+            }, {
+              "type" : "INTEGER",
+              "dqpath" : "version",
+              "sqpath" : "version"
+            }, {
+              "type" : "STRING",
+              "dqpath" : "__STREAMSETS_TRANSFORMER_METADATA_ATTRIBUTE_ChangeType__",
+              "sqpath" : "__STREAMSETS_TRANSFORMER_METADATA_ATTRIBUTE_ChangeType__"
+            } ],
+            "dqpath" : "",
+            "sqpath" : ""
+          }
+        },
+        "File_04OutputLane15737534617570" : {
+          "header" : { },
+          "value" : {
+            "type" : "LIST_MAP",
+            "value" : [ {
+              "type" : "INTEGER",
+              "dqpath" : "customer_id",
+              "sqpath" : "customer_id"
+            }, {
+              "type" : "STRING",
+              "dqpath" : "customer_fname",
+              "sqpath" : "customer_fname"
+            }, {
+              "type" : "STRING",
+              "dqpath" : "customer_lname",
+              "sqpath" : "customer_lname"
+            }, {
+              "type" : "STRING",
+              "dqpath" : "customer_email",
+              "sqpath" : "customer_email"
+            }, {
+              "type" : "STRING",
+              "dqpath" : "customer_password",
+              "sqpath" : "customer_password"
+            }, {
+              "type" : "STRING",
+              "dqpath" : "customer_street",
+              "sqpath" : "customer_street"
+            }, {
+              "type" : "STRING",
+              "dqpath" : "customer_city",
+              "sqpath" : "customer_city"
+            }, {
+              "type" : "STRING",
+              "dqpath" : "customer_state",
+              "sqpath" : "customer_state"
+            }, {
+              "type" : "INTEGER",
+              "dqpath" : "customer_zipcode",
+              "sqpath" : "customer_zipcode"
+            }, {
+              "type" : "INTEGER",
+              "dqpath" : "version",
+              "sqpath" : "version"
+            } ],
+            "dqpath" : "",
+            "sqpath" : ""
+          }
+        },
+        "Sort_01OutputLane15692669889200" : {
+          "header" : { },
+          "value" : {
+            "type" : "LIST_MAP",
+            "value" : [ {
+              "type" : "INTEGER",
+              "dqpath" : "customer_id",
+              "sqpath" : "customer_id"
+            }, {
+              "type" : "STRING",
+              "dqpath" : "customer_fname",
+              "sqpath" : "customer_fname"
+            }, {
+              "type" : "STRING",
+              "dqpath" : "customer_lname",
+              "sqpath" : "customer_lname"
+            }, {
+              "type" : "STRING",
+              "dqpath" : "customer_email",
+              "sqpath" : "customer_email"
+            }, {
+              "type" : "STRING",
+              "dqpath" : "customer_password",
+              "sqpath" : "customer_password"
+            }, {
+              "type" : "STRING",
+              "dqpath" : "customer_street",
+              "sqpath" : "customer_street"
+            }, {
+              "type" : "STRING",
+              "dqpath" : "customer_city",
+              "sqpath" : "customer_city"
+            }, {
+              "type" : "STRING",
+              "dqpath" : "customer_state",
+              "sqpath" : "customer_state"
+            }, {
+              "type" : "INTEGER",
+              "dqpath" : "customer_zipcode",
+              "sqpath" : "customer_zipcode"
+            }, {
+              "type" : "INTEGER",
+              "dqpath" : "version",
+              "sqpath" : "version"
+            }, {
+              "type" : "STRING",
+              "dqpath" : "__STREAMSETS_TRANSFORMER_METADATA_ATTRIBUTE_ChangeType__",
+              "sqpath" : "__STREAMSETS_TRANSFORMER_METADATA_ATTRIBUTE_ChangeType__"
+            } ],
+            "dqpath" : "",
+            "sqpath" : ""
+          }
+        },
+        "Repartition_01OutputLane15687314348740" : {
+          "header" : { },
+          "value" : {
+            "type" : "LIST_MAP",
+            "value" : [ {
+              "type" : "INTEGER",
+              "dqpath" : "customer_id",
+              "sqpath" : "customer_id"
+            }, {
+              "type" : "STRING",
+              "dqpath" : "customer_fname",
+              "sqpath" : "customer_fname"
+            }, {
+              "type" : "STRING",
+              "dqpath" : "customer_lname",
+              "sqpath" : "customer_lname"
+            }, {
+              "type" : "STRING",
+              "dqpath" : "customer_email",
+              "sqpath" : "customer_email"
+            }, {
+              "type" : "STRING",
+              "dqpath" : "customer_password",
+              "sqpath" : "customer_password"
+            }, {
+              "type" : "STRING",
+              "dqpath" : "customer_street",
+              "sqpath" : "customer_street"
+            }, {
+              "type" : "STRING",
+              "dqpath" : "customer_city",
+              "sqpath" : "customer_city"
+            }, {
+              "type" : "STRING",
+              "dqpath" : "customer_state",
+              "sqpath" : "customer_state"
+            }, {
+              "type" : "INTEGER",
+              "dqpath" : "customer_zipcode",
+              "sqpath" : "customer_zipcode"
+            }, {
+              "type" : "INTEGER",
+              "dqpath" : "version",
+              "sqpath" : "version"
+            }, {
+              "type" : "STRING",
+              "dqpath" : "__STREAMSETS_TRANSFORMER_METADATA_ATTRIBUTE_ChangeType__",
+              "sqpath" : "__STREAMSETS_TRANSFORMER_METADATA_ATTRIBUTE_ChangeType__"
+            } ],
+            "dqpath" : "",
+            "sqpath" : ""
+          }
+        }
+      },
+      "schemaFromPreviewUpdateTime" : 1596742614784,
+      "previewConfig" : {
+        "previewSource" : "CONFIGURED_SOURCE",
+        "batchSize" : 10,
+        "timeout" : 120000,
+        "writeToDestinations" : false,
+        "executeLifecycleEvents" : false,
+        "showHeader" : true,
+        "showFieldType" : true,
+        "rememberMe" : true,
+        "endStage" : ""
+      }
+    },
+    "fragments" : [ ],
+    "stages" : [ {
+      "instanceName" : "DevRawDataSource_01",
+      "library" : "streamsets-spark-basic-lib",
+      "stageName" : "com_streamsets_pipeline_spark_origin_dev_RawDataDOrigin",
+      "stageVersion" : "2",
+      "configuration" : [ {
+        "name" : "conf.dataFormat",
+        "value" : "CSV"
+      }, {
+        "name" : "conf.dataFormatConfig.csvHeader",
+        "value" : true
+      }, {
+        "name" : "conf.dataFormatConfig.csvDelimiter",
+        "value" : ","
+      }, {
+        "name" : "conf.dataFormatConfig.csvQuote",
+        "value" : "\""
+      }, {
+        "name" : "conf.dataFormatConfig.csvEscape",
+        "value" : "\\"
+      }, {
+        "name" : "conf.dataFormatConfig.rootTag",
+        "value" : "ROWS"
+      }, {
+        "name" : "conf.dataFormatConfig.rowTag",
+        "value" : "ROW"
+      }, {
+        "name" : "conf.dataFormatConfig.multiLineJson",
+        "value" : false
+      }, {
+        "name" : "conf.dataFormatConfig.avroSchema",
+        "value" : null
+      }, {
+        "name" : "conf.dataFormatConfig.avroIgnoreExtension",
+        "value" : true
+      }, {
+        "name" : "conf.schemaConfigBean.schemaMode",
+        "value" : "INFER"
+      }, {
+        "name" : "conf.schemaConfigBean.customSchemaString",
+        "value" : null
+      }, {
+        "name" : "conf.schemaConfigBean.parseErrorMode",
+        "value" : "PERMISSIVE"
+      }, {
+        "name" : "conf.schemaConfigBean.columnNameOfCorruptRecord",
+        "value" : null
+      }, {
+        "name" : "conf.rawData",
+        "value" : "customer_id,customer_fname,customer_lname,customer_email,customer_password,customer_street,customer_city,customer_state,customer_zipcode,version\n1,Richard,Hernandez,XXXXXXXXX,XXXXXXXXX,6303 Heather Plaza,Brownsville,TX,78521,1\n2,Mary,Barrett,XXXXXXXXX,XXXXXXXXX,9526 Noble Embers Ridge,Littleton,CO,80126,1\n3,Ann,Smith,XXXXXXXXX,XXXXXXXXX,3422 Blue Pioneer Bend,Caguas,PR,00725,1"
+      }, {
+        "name" : "noReload",
+        "value" : false
+      }, {
+        "name" : "cache",
+        "value" : false
+      }, {
+        "name" : "skipOffsetTracking",
+        "value" : false
+      } ],
+      "uiInfo" : {
+        "yPos" : 51,
+        "stageType" : "SOURCE",
+        "icon" : "dev.png",
+        "description" : "",
+        "label" : "Load Customer Master Data",
+        "xPos" : 59
+      },
+      "inputLanes" : [ ],
+      "outputLanes" : [ "DevRawDataSource_01OutputLane15970253247550" ],
+      "eventLanes" : [ ],
+      "services" : [ ]
+    }, {
+      "instanceName" : "DevRawDataSource_02",
+      "library" : "streamsets-spark-basic-lib",
+      "stageName" : "com_streamsets_pipeline_spark_origin_dev_RawDataDOrigin",
+      "stageVersion" : "2",
+      "configuration" : [ {
+        "name" : "conf.dataFormat",
+        "value" : "CSV"
+      }, {
+        "name" : "conf.dataFormatConfig.csvHeader",
+        "value" : true
+      }, {
+        "name" : "conf.dataFormatConfig.csvDelimiter",
+        "value" : ","
+      }, {
+        "name" : "conf.dataFormatConfig.csvQuote",
+        "value" : "\""
+      }, {
+        "name" : "conf.dataFormatConfig.csvEscape",
+        "value" : "\\"
+      }, {
+        "name" : "conf.dataFormatConfig.rootTag",
+        "value" : "ROWS"
+      }, {
+        "name" : "conf.dataFormatConfig.rowTag",
+        "value" : "ROW"
+      }, {
+        "name" : "conf.dataFormatConfig.multiLineJson",
+        "value" : false
+      }, {
+        "name" : "conf.dataFormatConfig.avroSchema",
+        "value" : null
+      }, {
+        "name" : "conf.dataFormatConfig.avroIgnoreExtension",
+        "value" : true
+      }, {
+        "name" : "conf.schemaConfigBean.schemaMode",
+        "value" : "INFER"
+      }, {
+        "name" : "conf.schemaConfigBean.customSchemaString",
+        "value" : null
+      }, {
+        "name" : "conf.schemaConfigBean.parseErrorMode",
+        "value" : "PERMISSIVE"
+      }, {
+        "name" : "conf.schemaConfigBean.columnNameOfCorruptRecord",
+        "value" : null
+      }, {
+        "name" : "conf.rawData",
+        "value" : "customer_id,customer_fname,customer_lname,customer_email,customer_password,customer_street,customer_city,customer_state,customer_zipcode\n2,Mary,Barrett,XXXXXXXXX,XXXXXXXXX,4963 Ponderosa Ct,Park City,UT,80126\n3,Ann,Smith,XXXXXXXXX,XXXXXXXXX,1991 Margo Pl,San Fran,CA,00725\n3,Ann,Smith,XXXXXXXXX,XXXXXXXXX,1991 Little Canyon,Salt Lake City,UT,84098\n4,Mark,Barrett,XXXXXXXXX,XXXXXXXXX,4963 Ponderosa Ct,Park City,UT,80126"
+      }, {
+        "name" : "noReload",
+        "value" : false
+      }, {
+        "name" : "cache",
+        "value" : false
+      }, {
+        "name" : "skipOffsetTracking",
+        "value" : false
+      } ],
+      "uiInfo" : {
+        "yPos" : 182,
+        "stageType" : "SOURCE",
+        "icon" : "dev.png",
+        "description" : "",
+        "label" : "Load Customer Change Data",
+        "xPos" : 59
+      },
+      "inputLanes" : [ ],
+      "outputLanes" : [ "DevRawDataSource_02OutputLane15970253733390" ],
+      "eventLanes" : [ ],
+      "services" : [ ]
+    }, {
+      "instanceName" : "SlowlyChangingDimension_01",
+      "library" : "streamsets-spark-basic-lib",
+      "stageName" : "com_streamsets_pipeline_spark_processor_scd_SCDDProcessor",
+      "stageVersion" : "1",
+      "configuration" : [ {
+        "name" : "conf.scdType",
+        "value" : "TYPE_2"
+      }, {
+        "name" : "conf.outputFullMasterData",
+        "value" : true
+      }, {
+        "name" : "conf.copyNullsFromOriginal",
+        "value" : true
+      }, {
+        "name" : "conf.extraColumnMode",
+        "value" : "DROP"
+      }, {
+        "name" : "conf.naturalKeyColumns",
+        "value" : [ "${MASTER_PRIMARY_KEY}" ]
+      }, {
+        "name" : "conf.managedColumnConfigs",
+        "value" : [ {
+          "managedColumnType" : "VERSION_INCREMENT",
+          "managedColumnName" : "${MASTER_VERSION_TRACKING_FIELD}"
+        } ]
+      }, {
+        "name" : "conf.timestampBasis",
+        "value" : "CALCULATE_NOW"
+      }, {
+        "name" : "conf.timestampBasisField",
+        "value" : null
+      }, {
+        "name" : "conf.type2ForAllChanges",
+        "value" : true
+      }, {
+        "name" : "conf.type2IncludeFields",
+        "value" : [ ]
+      }, {
+        "name" : "conf.type2ExcludeFields",
+        "value" : [ ]
+      } ],
+      "uiInfo" : {
+        "yPos" : 116,
+        "stageType" : "PROCESSOR",
+        "icon" : "iconfinder_Hosting-19_2106411.png",
+        "description" : "",
+        "inputStreamLabels" : [ "Master Data", "Change Input" ],
+        "label" : "SCD: Type 2",
+        "xPos" : 288
+      },
+      "inputLanes" : [ "DevRawDataSource_01OutputLane15970253247550", "DevRawDataSource_02OutputLane15970253733390" ],
+      "outputLanes" : [ "SlowlyChangingDimension_01OutputLane15677977380220" ],
+      "eventLanes" : [ ],
+      "services" : [ ]
+    }, {
+      "instanceName" : "Sort_01",
+      "library" : "streamsets-spark-basic-lib",
+      "stageName" : "com_streamsets_pipeline_spark_transform_sort_SortDTransform",
+      "stageVersion" : "1",
+      "configuration" : [ {
+        "name" : "configs",
+        "value" : [ {
+          "order" : "ASC",
+          "col" : "${MASTER_PRIMARY_KEY}"
+        }, {
+          "col" : "${MASTER_VERSION_TRACKING_FIELD}",
+          "order" : "ASC"
+        } ]
+      }, {
+        "name" : "sortWithinPartitions",
+        "value" : false
+      }, {
+        "name" : "cache",
+        "value" : false
+      } ],
+      "uiInfo" : {
+        "yPos" : 116,
+        "stageType" : "PROCESSOR",
+        "icon" : "sort.png",
+        "description" : "",
+        "label" : "Sort By Customer Id + Version",
+        "xPos" : 511
+      },
+      "inputLanes" : [ "SlowlyChangingDimension_01OutputLane15677977380220" ],
+      "outputLanes" : [ "Sort_01OutputLane15692669889200" ],
+      "eventLanes" : [ ],
+      "services" : [ ]
+    }, {
+      "instanceName" : "Repartition_01",
+      "library" : "streamsets-spark-basic-lib",
+      "stageName" : "com_streamsets_pipeline_spark_transform_repartition_RepartitionDTransform",
+      "stageVersion" : "1",
+      "configuration" : [ {
+        "name" : "conf.repartitionType",
+        "value" : "PARTITION_COUNT"
+      }, {
+        "name" : "conf.partitionSizeType",
+        "value" : "NUMBER_OF_PARTITIONS"
+      }, {
+        "name" : "conf.integerPartitions",
+        "value" : 1
+      }, {
+        "name" : "conf.maxRecordsPerPartition",
+        "value" : 1
+      }, {
+        "name" : "conf.repartitionFields",
+        "value" : [ ]
+      }, {
+        "name" : "cache",
+        "value" : false
+      } ],
+      "uiInfo" : {
+        "yPos" : 117,
+        "stageType" : "PROCESSOR",
+        "icon" : "repartition.png",
+        "description" : "",
+        "label" : "Repartition",
+        "xPos" : 733
+      },
+      "inputLanes" : [ "Sort_01OutputLane15692669889200" ],
+      "outputLanes" : [ "Repartition_01OutputLane15687314348740" ],
+      "eventLanes" : [ ],
+      "services" : [ ]
+    }, {
+      "instanceName" : "File_03",
+      "library" : "streamsets-spark-file-lib",
+      "stageName" : "com_streamsets_pipeline_spark_destination_fs_FileWriterDDestination",
+      "stageVersion" : "2",
+      "configuration" : [ {
+        "name" : "configBean.writeMode",
+        "value" : "OVERWRITE"
+      }, {
+        "name" : "configBean.fieldToWrite",
+        "value" : null
+      }, {
+        "name" : "configBean.partitionByColumns",
+        "value" : [ ]
+      }, {
+        "name" : "configBean.filterUnrelatedScdMasterRecords",
+        "value" : false
+      }, {
+        "name" : "configBean.dataGeneratorFormatConfig.csvHeader",
+        "value" : true
+      }, {
+        "name" : "configBean.dataGeneratorFormatConfig.csvDelimiter",
+        "value" : ","
+      }, {
+        "name" : "configBean.dataGeneratorFormatConfig.csvQuote",
+        "value" : "\""
+      }, {
+        "name" : "configBean.dataGeneratorFormatConfig.csvEscape",
+        "value" : "\\"
+      }, {
+        "name" : "configBean.dataGeneratorFormatConfig.rootTag",
+        "value" : "ROWS"
+      }, {
+        "name" : "configBean.dataGeneratorFormatConfig.rowTag",
+        "value" : "ROW"
+      }, {
+        "name" : "configBean.path",
+        "value" : "${OUTPUT_FILE_FOLDER}"
+      }, {
+        "name" : "configBean.dataFormat",
+        "value" : "CSV"
+      }, {
+        "name" : "configBean.hdfsProperties",
+        "value" : [ ]
+      } ],
+      "uiInfo" : {
+        "yPos" : 117,
+        "stageType" : "TARGET",
+        "icon" : "directory.png",
+        "description" : "",
+        "label" : "Customer Data",
+        "xPos" : 960
+      },
+      "inputLanes" : [ "Repartition_01OutputLane15687314348740" ],
+      "outputLanes" : [ ],
+      "eventLanes" : [ ],
+      "services" : [ ]
+    } ],
+    "errorStage" : null,
+    "info" : {
+      "pipelineId" : "SCDType2588a6d29-c8b9-439e-8bec-8b1f7b9c0e99",
+      "title" : "Slowly Changing Dimension - Type 2",
+      "description" : "Tutorial -",
+      "created" : 1597025081553,
+      "lastModified" : 1597026387353,
+      "creator" : "admin",
+      "lastModifier" : "admin",
+      "lastRev" : "0",
+      "uuid" : "4624abd7-3ce5-411e-b25d-228365313462",
+      "valid" : true,
+      "metadata" : {
+        "labels" : [ "origin:Dev Raw Data Source", "destination:Local FS" ],
+        "dpm.base.url" : "https://trailer.streamsetscloud.com",
+        "dpm.pipeline.id" : "e7ea5546-80e6-4c4d-b930-03204af7e9fa:iamontheinet",
+        "dpm.pipeline.commit.id" : "64663dc9-f341-456f-b49e-44c419d919ea:iamontheinet",
+        "dpm.pipeline.rules.id" : "bfa91080-bcb4-476b-b93b-11c254e19d39:iamontheinet",
+        "dpm.pipeline.version" : "5",
+        "lastConfigId" : "30f05480-6f63-46f7-aefd-566cb5938caf",
+        "lastRulesId" : "1c6ba449-6625-4695-8c8a-188d577ea00f"
+      },
+      "name" : "SCDType2588a6d29-c8b9-439e-8bec-8b1f7b9c0e99",
+      "sdcVersion" : "3.16.0-SNAPSHOT",
+      "sdcId" : "81ae437f-daad-11ea-a35e-d73eb7a94960"
+    },
+    "metadata" : {
+      "labels" : [ "origin:Dev Raw Data Source", "destination:Local FS" ],
+      "dpm.base.url" : "https://trailer.streamsetscloud.com",
+      "dpm.pipeline.id" : "e7ea5546-80e6-4c4d-b930-03204af7e9fa:iamontheinet",
+      "dpm.pipeline.commit.id" : "64663dc9-f341-456f-b49e-44c419d919ea:iamontheinet",
+      "dpm.pipeline.rules.id" : "bfa91080-bcb4-476b-b93b-11c254e19d39:iamontheinet",
+      "dpm.pipeline.version" : "5",
+      "lastConfigId" : "30f05480-6f63-46f7-aefd-566cb5938caf",
+      "lastRulesId" : "1c6ba449-6625-4695-8c8a-188d577ea00f"
+    },
+    "statsAggregatorStage" : {
+      "instanceName" : "WritetoControlHubdirectly_ErrorStage",
+      "library" : "streamsets-spark-basic-lib",
+      "stageName" : "com_streamsets_pipeline_stage_destination_devnull_StatsDpmDirectlyDTarget",
+      "stageVersion" : "1",
+      "configuration" : [ ],
+      "uiInfo" : {
+        "outputStreamLabels" : null,
+        "yPos" : 50,
+        "stageType" : "TARGET",
+        "rawSource" : null,
+        "icon" : "",
+        "description" : "",
+        "inputStreamLabels" : null,
+        "label" : "Error Records - Write to Control Hub directly",
+        "xPos" : 1198
+      },
+      "inputLanes" : [ ],
+      "outputLanes" : [ ],
+      "eventLanes" : [ ],
+      "services" : [ ]
+    },
+    "startEventStages" : [ ],
+    "stopEventStages" : [ ],
+    "testOriginStage" : null,
+    "issues" : {
+      "pipelineIssues" : [ ],
+      "stageIssues" : { },
+      "issueCount" : 0
+    },
+    "valid" : true,
+    "previewable" : false
+  },
+  "pipelineRules" : {
+    "schemaVersion" : 3,
+    "version" : 2,
+    "metricsRuleDefinitions" : [ {
+      "id" : "badRecordsAlertID",
+      "alertText" : "High incidence of Error Records",
+      "metricId" : "pipeline.batchErrorRecords.counter",
+      "metricType" : "COUNTER",
+      "metricElement" : "COUNTER_COUNT",
+      "condition" : "${value() > 100}",
+      "sendEmail" : false,
+      "enabled" : false,
+      "timestamp" : 1567795854891,
+      "valid" : true
+    }, {
+      "id" : "stageErrorAlertID",
+      "alertText" : "High incidence of Stage Errors",
+      "metricId" : "pipeline.batchErrorMessages.counter",
+      "metricType" : "COUNTER",
+      "metricElement" : "COUNTER_COUNT",
+      "condition" : "${value() > 100}",
+      "sendEmail" : false,
+      "enabled" : false,
+      "timestamp" : 1567795854891,
+      "valid" : true
+    }, {
+      "id" : "idleGaugeID",
+      "alertText" : "Pipeline is Idle",
+      "metricId" : "RuntimeStatsGauge.gauge",
+      "metricType" : "GAUGE",
+      "metricElement" : "TIME_OF_LAST_RECEIVED_RECORD",
+      "condition" : "${time:now() - value() > 120000}",
+      "sendEmail" : false,
+      "enabled" : false,
+      "timestamp" : 1567795854891,
+      "valid" : true
+    }, {
+      "id" : "batchTimeAlertID",
+      "alertText" : "Batch taking more time to process",
+      "metricId" : "RuntimeStatsGauge.gauge",
+      "metricType" : "GAUGE",
+      "metricElement" : "CURRENT_BATCH_AGE",
+      "condition" : "${value() > 200}",
+      "sendEmail" : false,
+      "enabled" : false,
+      "timestamp" : 1567795854891,
+      "valid" : true
+    } ],
+    "dataRuleDefinitions" : [ ],
+    "driftRuleDefinitions" : [ ],
+    "uuid" : "f674a514-f69c-418f-a3c5-fbfbadde0811",
+    "configuration" : [ {
+      "name" : "emailIDs",
+      "value" : [ ]
+    }, {
+      "name" : "webhookConfigs",
+      "value" : [ ]
+    } ],
+    "ruleIssues" : [ ],
+    "configIssues" : [ ]
+  },
+  "libraryDefinitions" : null
+}
