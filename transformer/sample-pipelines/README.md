@@ -7,6 +7,7 @@ This folder contains pipeline templates and samples for Transformer.
 The following templates/samples are currently available:
 | Name            | Description     |
 | --------------- | --------------- |
+| [Slowly Changing Dimension - Type 2](./pipelines/Slowly%20Changing%20Dimensions%20-%20Type%202) | Slowly Changing Dimension - Type 2 |
 | [Tx Retail Inventory - Join Agg Repartition](./pipelines/Tx%20Retail%20Inventory%20-%20Join%20Agg%20Repartition) | Example using Join, Aggregation and Repartition |
 | [Tx Scala UDF](./pipelines/Tx%20Scala%20UDF) | Example using Scala to create, register and use a User-Defined Function |
 | [Tx Slowly Changing Dimensions - Type 1](./pipelines/Tx%20Slowly%20Changing%20Dimension%20-%20Type%201) | Slowly Changing Dimension (SCD) - Type 1 |
