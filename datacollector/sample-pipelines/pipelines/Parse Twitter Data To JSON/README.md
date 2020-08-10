@@ -45,7 +45,7 @@ Using [Field Remover](https://streamsets.com/documentation/datacollector/latest/
 
 ![Field Flattener](images/img4.png)
 
-Using [Field Flattener](https://streamsets.com/documentation/datacollector/latest/help/datacollector/UserGuide/Processors/FieldFlattener.html#concept_njn_3kk_fx) the nested structure for *user*. The configuration attribute of interest here is **Name separator** set to ***_*** on **Flatten** tab.
+Using [Field Flattener](https://streamsets.com/documentation/datacollector/latest/help/datacollector/UserGuide/Processors/FieldFlattener.html#concept_njn_3kk_fx) the nested structure for *user* map field is flattened. The configuration attribute of interest here is **Name separator** set to ***_*** on **Flatten** tab.
 
 
 **Field Renamer**
@@ -67,4 +67,4 @@ Pipeline Run
 
 Provided you've updated the pipeline parameters and there aren't any validation errors, running the pipleline should create one JSON output file.
 
-**JSON** -- [Sample output file](output/tweets-curated-6a29b1bb-da8e-11ea-8b72-417388e3a72a_eec31413-3c2d-47f4-b16c-82e85f61938d.json).
+**JSON** -- [Sample output file](output/tweets-curated-6a29b1bb-da8e-11ea-8b72-417388e3a72a_335bc746-b9c2-4ef0-a5ef-5a049d35985d.json).
