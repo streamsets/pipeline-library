@@ -101,7 +101,7 @@ The following parameters are set up for this pipeline:
   <tr>
    <td><code>oracle_password</code>
    </td>
-   <td class="entry cellrowborder" headers="d436212e853 ">MySQL password.<div class="note tip"><span class="tiptitle">Tip:</span> <span class="ph" id="task_qbt_kyh_xx__d15e6239">To
+   <td class="entry cellrowborder" headers="d436212e853 ">Oracle password.<div class="note tip"><span class="tiptitle">Tip:</span> <span class="ph" id="task_qbt_kyh_xx__d15e6239">To
                         secure sensitive information such as user names and passwords, you can use
                               <a class="xref" title="Similar to runtime properties, runtime resources are values that you define in a file local to the Data Collector and call from within a pipeline. But with runtime resources, you can restrict the permissions for the files to secure information." href="https://streamsets.com/documentation/datacollector/latest/help/index.html?contextID=concept_bs4_5nm_2s">runtime resources</a> or <span class="ph"><a class="xref" href="https://streamsets.com/documentation/datacollector/latest/help/index.html?contextID=concept_bt1_bpj_r1b">credential stores.</a></span></span></div>
 </td>
@@ -157,6 +157,6 @@ Click the "START" button to run the pipeline.
 
 ![Step 4a](images/OracletoSnowflake_step4a.png "Run the pipeline")
 
-### Step 5: Make changes to the MySQL source table and see the pipeline process them
+### Step 5: Make changes to the Oracle source table and see the pipeline process them
 
 ![Step 5](images/OracletoSnowflake_step5.png "View the results")
