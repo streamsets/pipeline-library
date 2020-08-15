@@ -14,7 +14,7 @@ Setup
 ---------------------
 
 * [Download and import the pipeline](TrainNLPModelPySparkDB787ba4f1-dcb1-4d53-ab61-d80569daac14.json) into your instance of Transformer
-* [Download the sample datasets](dataset) and upload it to your Amazon S3 bucket
+* [Download the sample datasets](dataset)
 * After importing the pipeline into your environment and before running the pipeline, update the following pipeline parameters:
 
 ```
