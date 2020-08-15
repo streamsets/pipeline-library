@@ -1,0 +1,1563 @@
+ordernum,quant,region,store,saledate,dep,item,unitsold,unitprice,employeeID
+0,82,East US,East US Store 77,2019-02-21,Electronics,Speakers,3,300,22127312
+1,89,East US,East US Store 77,2019-07-13,Beauty/Health,Makeup,8,6,64243095
+2,60,East US,East US Store 77,2019-03-01,Electronics,Headphones,3,300,73531439
+3,55,East US,East US Store 77,2019-04-11,Furniture,Indoor seating,6,30,15679896
+4,9,East US,East US Store 77,2019-04-29,Furniture,Pool furniture,11,15,24496451
+5,76,East US,East US Store 77,2019-01-09,Electronics,Speakers,3,100,59637825
+6,75,East US,East US Store 77,2019-04-03,Clothing,Baby,5,12,72689502
+7,54,East US,East US Store 77,2019-04-08,Furniture,Beds,3,40,65849068
+8,75,East US,East US Store 77,2019-05-10,Baby,Strollers,5,10,88702839
+9,80,East US,East US Store 77,2019-05-11,Clothing,Baby,9,13,44136596
+10,99,East US,East US Store 77,2019-04-22,Electronics,Televisions,3,50,89699368
+11,90,East US,East US Store 77,2019-05-07,Baby,Diapers,9,30,55739691
+12,55,East US,East US Store 77,2019-04-06,Beauty/Health,Makeup,5,10,95811900
+13,23,East US,East US Store 77,2019-02-26,Baby,Baby toys,6,5,97028224
+14,30,East US,East US Store 77,2019-06-08,Beauty/Health,Skincare,10,10,73537067
+15,17,East US,East US Store 77,2019-01-11,Baby,Car seats,7,30,66192525
+16,33,East US,East US Store 77,2019-02-05,Furniture,Beds,5,30,98849160
+17,20,East US,East US Store 77,2019-07-16,Clothing,Swimwear,7,25,51283045
+18,7,East US,East US Store 77,2019-03-16,Furniture,Patio furniture,7,100,17098800
+19,35,East US,East US Store 77,2019-02-18,Clothing,Shoes,5,25,97247130
+20,21,East US,East US Store 77,2019-02-17,Clothing,Baby,7,10,84653226
+21,66,East US,East US Store 77,2019-05-28,Furniture,Pool furniture,9,15,67318051
+22,72,East US,East US Store 77,2019-01-14,Beauty/Health,Skincare,5,6,98796676
+23,86,East US,East US Store 77,2019-06-04,Baby,Cribs,12,30,24232194
+24,11,East US,East US Store 77,2019-03-21,Furniture,Indoor seating,5,15,85250798
+25,56,East US,East US Store 77,2019-04-19,Furniture,Indoor tables,12,100,63237653
+26,82,East US,East US Store 77,2019-01-16,Furniture,Patio furniture,7,40,73887152
+27,23,East US,East US Store 77,2019-05-28,Furniture,Pool furniture,7,75,86066089
+28,6,East US,East US Store 77,2019-06-24,Baby,Diapers,8,5,10208517
+29,28,East US,East US Store 77,2019-04-08,Clothing,Mens,4,13,19924718
+30,28,East US,East US Store 77,2019-02-12,Baby,Baby toys,7,30,34374038
+31,96,East US,East US Store 77,2019-03-08,Furniture,Pool furniture,5,100,41117894
+32,80,East US,East US Store 77,2019-06-01,Beauty/Health,Fragrances,6,15,92553519
+33,87,East US,East US Store 77,2019-05-11,Electronics,Speakers,4,200,84371173
+34,69,East US,East US Store 77,2019-05-15,Beauty/Health,Fragrances,11,14,40986911
+35,62,East US,East US Store 77,2019-01-07,Beauty/Health,Oral care,3,10,16973988
+36,80,East US,East US Store 77,2019-01-29,Baby,Baby toys,4,10,22155139
+37,92,East US,East US Store 77,2019-07-05,Baby,Cribs,11,5,86409574
+38,79,East US,East US Store 77,2019-02-12,Clothing,Swimwear,5,13,27431036
+39,83,East US,East US Store 77,2019-01-03,Electronics,Speakers,4,300,20202952
+40,18,East US,East US Store 77,2019-04-30,Beauty/Health,Haircare,12,10,32133569
+41,3,East US,East US Store 77,2019-02-11,Beauty/Health,Bath,7,10,75187315
+42,48,East US,East US Store 77,2019-05-18,Beauty/Health,Haircare,9,10,44672693
+43,64,East US,East US Store 77,2019-03-12,Electronics,Speakers,3,200,14383744
+44,86,East US,East US Store 77,2019-02-18,Electronics,Computers,3,300,35727588
+45,31,East US,East US Store 77,2019-06-16,Baby,Cribs,7,15,33213000
+46,28,East US,East US Store 77,2019-06-08,Beauty/Health,Oral care,7,10,39802918
+47,13,East US,East US Store 77,2019-01-27,Beauty/Health,Haircare,3,6,66233877
+48,68,East US,East US Store 77,2019-01-08,Beauty/Health,Makeup,3,6,53688926
+49,78,East US,East US Store 77,2019-01-22,Baby,Diapers,7,5,71271556
+50,62,East US,East US Store 77,2019-06-17,Furniture,Indoor tables,7,30,38495582
+51,73,East US,East US Store 77,2019-05-08,Beauty/Health,Bath,12,10,41011167
+52,55,East US,East US Store 77,2019-04-16,Clothing,Shoes,7,12,15111901
+53,80,East US,East US Store 77,2019-03-31,Baby,Cribs,6,30,18806767
+54,2,East US,East US Store 77,2019-02-12,Furniture,Beds,5,100,90943392
+55,5,East US,East US Store 77,2019-05-07,Baby,Baby toys,5,12,95113542
+56,10,East US,East US Store 77,2019-05-24,Clothing,Swimwear,5,25,23843144
+57,49,East US,East US Store 77,2019-03-19,Furniture,Pool furniture,4,40,64315621
+58,17,East US,East US Store 77,2019-06-04,Electronics,Computers,4,200,37276525
+59,88,East US,East US Store 77,2019-02-20,Furniture,Beds,4,75,19020855
+60,101,East US,East US Store 77,2019-01-04,Baby,Diapers,4,5,58903102
+61,16,East US,East US Store 77,2019-04-18,Beauty/Health,Haircare,9,14,87195092
+62,97,East US,East US Store 77,2019-03-05,Beauty/Health,Makeup,5,10,80631701
+63,83,East US,East US Store 77,2019-05-02,Baby,Car seats,12,30,89292709
+64,7,East US,East US Store 77,2019-04-27,Electronics,Headphones,3,200,81851695
+65,7,East US,East US Store 77,2019-02-07,Beauty/Health,Haircare,5,10,62348453
+66,15,East US,East US Store 77,2019-05-27,Electronics,Televisions,3,300,38298402
+67,42,East US,East US Store 77,2019-02-05,Baby,Cribs,7,30,50045766
+68,78,East US,East US Store 77,2019-02-07,Baby,Diapers,4,5,31550760
+69,7,East US,East US Store 77,2019-01-23,Furniture,Indoor tables,3,100,83160455
+70,100,East US,East US Store 77,2019-02-15,Baby,Cribs,4,30,81713367
+71,69,East US,East US Store 77,2019-06-29,Electronics,Cell Phones,4,50,38679780
+72,11,East US,East US Store 77,2019-04-22,Electronics,Tablets,3,200,11308369
+73,76,East US,East US Store 77,2019-03-05,Clothing,Mens,3,12,77702034
+74,26,East US,East US Store 77,2019-06-22,Electronics,Computers,3,200,29980859
+75,19,East US,East US Store 77,2019-07-11,Beauty/Health,Feminine Products,9,15,40858881
+76,6,East US,East US Store 77,2019-05-01,Clothing,Kids,10,25,98918065
+77,62,East US,East US Store 77,2019-03-22,Baby,Diapers,4,30,38473547
+78,21,East US,East US Store 77,2019-03-12,Electronics,Cell Phones,3,300,11889334
+79,88,East US,East US Store 77,2019-06-12,Clothing,Baby,11,12,21154070
+80,76,East US,East US Store 77,2019-05-03,Baby,Cribs,5,30,77476670
+81,71,East US,East US Store 77,2019-01-11,Clothing,Shoes,7,25,34197527
+82,11,East US,East US Store 77,2019-03-25,Clothing,Swimwear,4,13,66589829
+83,44,East US,East US Store 77,2019-07-09,Baby,Diapers,5,5,30150166
+84,15,East US,East US Store 77,2019-04-10,Beauty/Health,Makeup,5,10,77490870
+85,101,East US,East US Store 77,2019-05-27,Beauty/Health,Makeup,6,10,90234866
+86,32,East US,East US Store 77,2019-01-17,Baby,Cribs,5,30,53161640
+87,56,East US,East US Store 77,2019-04-07,Clothing,Kids,6,12,15432907
+88,85,East US,East US Store 77,2019-02-12,Beauty/Health,Haircare,5,10,42176155
+89,38,East US,East US Store 77,2019-04-04,Baby,Car seats,6,30,15735292
+90,92,East US,East US Store 77,2019-04-26,Beauty/Health,Skincare,11,6,29324203
+91,10,East US,East US Store 77,2019-05-29,Clothing,Shoes,12,25,62711489
+92,76,East US,East US Store 77,2019-03-18,Electronics,Headphones,4,200,87709430
+93,96,East US,East US Store 77,2019-06-04,Clothing,Kids,8,20,79246622
+94,91,East US,East US Store 77,2019-03-22,Clothing,Shoes,4,25,37348999
+95,75,East US,East US Store 77,2019-06-25,Furniture,Beds,10,40,15827811
+96,74,East US,East US Store 77,2019-05-22,Clothing,Mens,9,20,30498718
+97,45,East US,East US Store 77,2019-02-19,Beauty/Health,Makeup,4,14,33096402
+98,54,East US,East US Store 77,2019-05-30,Clothing,Mens,8,25,32378652
+99,82,East US,East US Store 77,2019-01-22,Baby,Cribs,7,30,83346057
+100,64,East US,East US Store 77,2019-01-31,Beauty/Health,Skincare,7,10,99325542
+101,72,East US,East US Store 77,2019-06-14,Electronics,Computers,4,200,95225112
+102,92,East US,East US Store 77,2019-03-06,Baby,Diapers,5,30,38302183
+103,28,East US,East US Store 77,2019-05-18,Furniture,Indoor tables,10,30,85682632
+104,85,East US,East US Store 77,2019-04-28,Electronics,Tablets,3,200,20965448
+105,44,East US,East US Store 77,2019-03-16,Beauty/Health,Skincare,6,10,53643594
+106,11,East US,East US Store 77,2019-01-15,Clothing,Baby,3,10,40824152
+107,85,East US,East US Store 77,2019-01-19,Furniture,Pool furniture,4,30,22403544
+108,57,East US,East US Store 77,2019-03-28,Clothing,Shoes,5,13,22147074
+109,13,East US,East US Store 77,2019-07-07,Clothing,Shoes,8,25,73252867
+110,35,East US,East US Store 77,2019-04-16,Clothing,Baby,9,25,81563095
+111,15,East US,East US Store 77,2019-06-21,Electronics,Speakers,4,50,12289267
+112,64,East US,East US Store 77,2019-04-08,Baby,Car seats,5,15,30236090
+113,91,East US,East US Store 77,2019-05-27,Baby,Strollers,12,30,92893946
+114,66,East US,East US Store 77,2019-03-29,Beauty/Health,Oral care,4,10,71057773
+115,26,East US,East US Store 77,2019-07-08,Baby,Cribs,9,10,93891553
+116,28,East US,East US Store 77,2019-01-19,Electronics,Televisions,4,50,74710172
+117,40,East US,East US Store 77,2019-03-11,Furniture,Patio furniture,5,15,46464582
+118,8,East US,East US Store 77,2019-04-22,Beauty/Health,Fragrances,7,10,28752755
+119,66,East US,East US Store 77,2019-02-24,Beauty/Health,Feminine Products,5,14,74426290
+120,18,East US,East US Store 77,2019-02-19,Furniture,Patio furniture,7,100,98225387
+121,33,East US,East US Store 77,2019-03-05,Baby,Diaper bags,6,12,38371665
+122,55,East US,East US Store 77,2019-02-07,Electronics,Computers,4,200,29731640
+123,59,East US,East US Store 77,2019-01-06,Furniture,Beds,7,30,84475160
+124,11,East US,East US Store 77,2019-01-07,Electronics,Televisions,4,200,73164658
+125,19,East US,East US Store 77,2019-03-28,Clothing,Shoes,6,20,44083535
+126,101,East US,East US Store 77,2019-06-09,Furniture,Patio furniture,11,100,79320409
+127,99,East US,East US Store 77,2019-01-31,Furniture,Indoor tables,4,15,94612977
+128,28,East US,East US Store 77,2019-07-01,Furniture,Patio furniture,12,15,36283032
+129,73,East US,East US Store 77,2019-01-24,Furniture,Pool furniture,4,75,72424846
+130,87,East US,East US Store 77,2019-02-04,Furniture,Indoor seating,6,30,61468910
+131,48,East US,East US Store 77,2019-01-08,Furniture,Pool furniture,7,30,62366539
+132,53,East US,East US Store 77,2019-04-20,Electronics,Tablets,3,100,17996379
+133,19,East US,East US Store 77,2019-03-15,Clothing,Swimwear,4,25,50375254
+134,94,East US,East US Store 77,2019-03-02,Clothing,Womens,7,10,28660155
+135,40,East US,East US Store 77,2019-03-23,Furniture,Patio furniture,6,15,89512978
+136,62,East US,East US Store 77,2019-05-22,Clothing,Mens,6,25,56050082
+137,21,East US,East US Store 77,2019-03-23,Baby,Diaper bags,4,10,62168773
+138,1,East US,East US Store 77,2019-01-09,Electronics,Televisions,4,100,68346287
+139,8,East US,East US Store 77,2019-01-12,Clothing,Baby,5,20,10299961
+140,18,East US,East US Store 77,2019-06-05,Baby,Baby toys,12,5,60071030
+141,97,East US,East US Store 77,2019-02-12,Clothing,Swimwear,7,25,58166563
+142,31,East US,East US Store 77,2019-02-09,Electronics,Tablets,4,50,66187288
+143,68,East US,East US Store 77,2019-06-27,Clothing,Swimwear,12,25,95632812
+144,98,East US,East US Store 77,2019-06-08,Electronics,Tablets,3,200,35035447
+145,83,East US,East US Store 77,2019-06-30,Furniture,Indoor tables,7,15,26067350
+146,39,East US,East US Store 77,2019-04-18,Furniture,Patio furniture,12,40,19261023
+147,87,East US,East US Store 77,2019-06-18,Electronics,Headphones,4,100,18473649
+148,6,East US,East US Store 77,2019-02-09,Beauty/Health,Bath,7,10,69408742
+149,25,East US,East US Store 77,2019-05-29,Beauty/Health,Feminine Products,7,10,80243620
+150,63,East US,East US Store 77,2019-02-10,Baby,Cribs,7,5,99025820
+151,59,East US,East US Store 77,2019-05-18,Baby,Diaper bags,9,30,12847165
+152,13,East US,East US Store 77,2019-02-20,Baby,Cribs,4,30,65511739
+153,92,East US,East US Store 77,2019-06-06,Clothing,Mens,11,25,31389909
+154,62,East US,East US Store 77,2019-02-23,Baby,Cribs,5,10,75799286
+155,59,East US,East US Store 77,2019-06-18,Clothing,Womens,11,20,40236273
+156,25,East US,East US Store 77,2019-04-15,Beauty/Health,Haircare,5,10,62131377
+157,50,East US,East US Store 77,2019-01-06,Baby,Strollers,4,10,74081489
+158,5,East US,East US Store 77,2019-05-21,Beauty/Health,Oral care,10,10,11248722
+159,57,East US,East US Store 77,2019-06-13,Baby,Car seats,7,12,47828146
+160,52,East US,East US Store 77,2019-03-29,Beauty/Health,Oral care,6,10,20366173
+161,82,East US,East US Store 77,2019-06-12,Baby,Cribs,7,15,36821915
+162,63,East US,East US Store 77,2019-03-28,Beauty/Health,Fragrances,5,10,39272961
+163,2,East US,East US Store 77,2019-07-04,Baby,Car seats,7,15,36644627
+164,25,East US,East US Store 77,2019-04-15,Electronics,Tablets,3,200,36741528
+165,90,East US,East US Store 77,2019-04-16,Clothing,Shoes,10,13,22614098
+166,80,East US,East US Store 77,2019-05-22,Beauty/Health,Makeup,12,10,89892933
+167,62,East US,East US Store 77,2019-06-25,Furniture,Indoor seating,8,30,12224625
+168,12,East US,East US Store 77,2019-01-22,Beauty/Health,Feminine Products,3,6,52884213
+169,54,East US,East US Store 77,2019-04-14,Electronics,Computers,4,100,46057540
+170,54,East US,East US Store 77,2019-07-01,Baby,Cribs,7,12,71688149
+171,100,East US,East US Store 77,2019-03-29,Baby,Cribs,3,30,50328498
+172,44,East US,East US Store 77,2019-03-09,Beauty/Health,Haircare,3,10,60491192
+173,91,East US,East US Store 77,2019-03-13,Furniture,Patio furniture,4,100,89724534
+174,85,East US,East US Store 77,2019-03-16,Baby,Diaper bags,5,15,39064190
+175,19,East US,East US Store 77,2019-01-15,Beauty/Health,Makeup,7,14,69118948
+176,62,East US,East US Store 77,2019-03-14,Furniture,Indoor seating,5,100,67935458
+177,1,East US,East US Store 77,2019-07-13,Beauty/Health,Makeup,6,14,60332796
+178,20,East US,East US Store 77,2019-04-08,Baby,Cribs,4,5,69013155
+179,88,East US,East US Store 77,2019-06-29,Beauty/Health,Makeup,7,10,85449993
+180,52,East US,East US Store 77,2019-06-30,Beauty/Health,Fragrances,7,15,97282308
+181,22,East US,East US Store 77,2019-01-09,Clothing,Swimwear,3,25,44286970
+182,14,East US,East US Store 77,2019-05-07,Beauty/Health,Makeup,11,10,66145043
+183,90,East US,East US Store 77,2019-01-26,Baby,Diapers,4,12,19592350
+184,13,East US,East US Store 77,2019-01-07,Furniture,Pool furniture,7,100,35002108
+185,7,East US,East US Store 77,2019-01-30,Furniture,Indoor seating,3,30,75830052
+186,70,East US,East US Store 77,2019-02-20,Furniture,Indoor seating,6,30,29303245
+187,38,East US,East US Store 77,2019-01-29,Beauty/Health,Fragrances,5,10,22796317
+188,71,East US,East US Store 77,2019-01-23,Beauty/Health,Fragrances,7,10,56034479
+189,93,East US,East US Store 77,2019-05-17,Beauty/Health,Skincare,7,15,78280281
+190,2,East US,East US Store 77,2019-07-13,Clothing,Mens,7,25,85065344
+191,10,East US,East US Store 77,2019-05-22,Electronics,Speakers,4,50,66817198
+192,32,East US,East US Store 77,2019-03-04,Clothing,Baby,3,12,53976673
+193,59,East US,East US Store 77,2019-02-25,Beauty/Health,Makeup,6,6,55980130
+194,60,East US,East US Store 77,2019-05-23,Beauty/Health,Fragrances,8,15,42523392
+195,94,East US,East US Store 77,2019-06-03,Electronics,Televisions,3,100,72732256
+196,91,East US,East US Store 77,2019-02-14,Furniture,Indoor tables,7,40,46614726
+197,77,East US,East US Store 77,2019-03-16,Beauty/Health,Fragrances,4,10,41921501
+198,60,East US,East US Store 77,2019-03-04,Beauty/Health,Skincare,5,10,95747675
+199,100,East US,East US Store 77,2019-07-14,Baby,Car seats,11,5,43717265
+200,66,East US,East US Store 77,2019-05-20,Furniture,Indoor tables,10,40,79200751
+201,27,East US,East US Store 77,2019-02-05,Furniture,Patio furniture,6,75,74204053
+202,45,East US,East US Store 77,2019-05-31,Furniture,Indoor seating,12,15,92978573
+203,2,East US,East US Store 77,2019-04-30,Beauty/Health,Skincare,10,10,83914327
+204,14,East US,East US Store 77,2019-05-14,Beauty/Health,Bath,12,10,95129039
+205,90,East US,East US Store 77,2019-07-05,Clothing,Womens,5,10,15640985
+206,71,East US,East US Store 77,2019-05-16,Clothing,Kids,5,13,62371720
+207,32,East US,East US Store 77,2019-03-19,Baby,Cribs,4,30,81889667
+208,89,East US,East US Store 77,2019-07-03,Clothing,Mens,5,25,74000196
+209,83,East US,East US Store 77,2019-01-03,Clothing,Womens,4,12,13915982
+210,78,East US,East US Store 77,2019-03-09,Furniture,Patio furniture,5,15,14748188
+211,55,East US,East US Store 77,2019-05-08,Furniture,Patio furniture,7,40,16753831
+212,12,East US,East US Store 77,2019-03-20,Beauty/Health,Oral care,3,10,40293071
+213,30,East US,East US Store 77,2019-05-11,Furniture,Patio furniture,5,40,44388977
+214,76,East US,East US Store 77,2019-04-23,Beauty/Health,Haircare,11,10,63756722
+215,57,East US,East US Store 77,2019-06-16,Beauty/Health,Feminine Products,10,10,66226331
+216,37,East US,East US Store 77,2019-04-23,Baby,Car seats,7,15,72728319
+217,95,East US,East US Store 77,2019-01-13,Clothing,Kids,4,13,65134428
+218,45,East US,East US Store 77,2019-03-11,Baby,Cribs,6,12,40682149
+219,27,East US,East US Store 77,2019-01-14,Electronics,Headphones,3,300,83291140
+220,48,East US,East US Store 77,2019-02-26,Electronics,Tablets,3,50,73975457
+221,46,East US,East US Store 77,2019-02-26,Baby,Strollers,6,12,41114679
+222,9,East US,East US Store 77,2019-02-07,Baby,Baby toys,7,15,96356208
+223,31,East US,East US Store 77,2019-02-20,Baby,Car seats,6,5,96122262
+224,22,East US,East US Store 77,2019-01-01,Beauty/Health,Skincare,7,6,69388895
+225,3,East US,East US Store 77,2019-05-16,Beauty/Health,Feminine Products,11,10,65144928
+226,33,East US,East US Store 77,2019-02-26,Baby,Baby toys,5,30,93077651
+227,46,East US,East US Store 77,2019-06-17,Beauty/Health,Fragrances,8,10,30254217
+228,31,East US,East US Store 77,2019-03-16,Clothing,Baby,7,12,34236302
+229,12,East US,East US Store 77,2019-06-27,Beauty/Health,Feminine Products,5,10,46337501
+230,20,East US,East US Store 77,2019-04-26,Electronics,Headphones,3,100,17094973
+231,29,East US,East US Store 77,2019-01-22,Beauty/Health,Makeup,4,15,15186411
+232,39,East US,East US Store 77,2019-03-30,Electronics,Tablets,3,50,35347870
+233,86,East US,East US Store 77,2019-03-24,Electronics,Headphones,4,200,40779554
+234,80,East US,East US Store 77,2019-02-23,Furniture,Indoor seating,5,75,50891591
+235,69,East US,East US Store 77,2019-04-18,Furniture,Beds,10,75,48175752
+236,80,East US,East US Store 77,2019-04-02,Clothing,Swimwear,3,25,32132049
+237,81,East US,East US Store 77,2019-03-04,Electronics,Headphones,3,200,49357102
+238,83,East US,East US Store 77,2019-02-17,Electronics,Televisions,4,100,81638493
+239,87,East US,East US Store 77,2019-01-25,Electronics,Speakers,4,200,72576231
+240,27,East US,East US Store 77,2019-05-16,Electronics,Headphones,3,300,91515096
+241,6,East US,East US Store 77,2019-01-14,Clothing,Shoes,4,25,22991828
+242,95,East US,East US Store 77,2019-03-25,Beauty/Health,Fragrances,4,10,28182491
+243,2,East US,East US Store 77,2019-03-24,Clothing,Baby,4,25,33813775
+244,15,East US,East US Store 77,2019-03-03,Furniture,Patio furniture,6,100,69631000
+245,84,East US,East US Store 77,2019-03-01,Furniture,Indoor tables,7,15,37892539
+246,94,East US,East US Store 77,2019-05-29,Baby,Strollers,6,10,49957738
+247,31,East US,East US Store 77,2019-05-01,Furniture,Beds,6,100,47239086
+248,77,East US,East US Store 77,2019-05-06,Electronics,Headphones,4,200,10677428
+249,21,East US,East US Store 77,2019-04-06,Electronics,Cell Phones,3,200,26753505
+250,77,East US,East US Store 77,2019-04-20,Furniture,Indoor tables,10,100,46336010
+251,69,East US,East US Store 77,2019-02-11,Beauty/Health,Skincare,3,10,49128521
+252,97,East US,East US Store 77,2019-01-09,Beauty/Health,Fragrances,6,10,99338139
+253,8,East US,East US Store 77,2019-02-06,Clothing,Baby,6,25,26610597
+254,16,East US,East US Store 77,2019-03-17,Electronics,Tablets,3,200,54300426
+255,69,East US,East US Store 77,2019-02-27,Clothing,Baby,6,25,34098784
+256,90,East US,East US Store 77,2019-05-28,Electronics,Televisions,4,300,40296663
+257,69,East US,East US Store 77,2019-03-13,Clothing,Womens,7,25,73171666
+258,28,East US,East US Store 77,2019-02-13,Beauty/Health,Feminine Products,6,10,54485081
+259,71,East US,East US Store 77,2019-01-26,Furniture,Indoor seating,6,30,11391044
+260,6,East US,East US Store 77,2019-04-20,Beauty/Health,Skincare,10,14,40126313
+261,82,East US,East US Store 77,2019-06-24,Baby,Baby toys,9,15,59425384
+262,46,East US,East US Store 77,2019-05-15,Beauty/Health,Skincare,7,6,98575933
+263,36,East US,East US Store 77,2019-03-20,Furniture,Indoor seating,7,100,76693196
+264,6,East US,East US Store 77,2019-04-18,Furniture,Pool furniture,9,75,39319450
+265,78,East US,East US Store 77,2019-03-11,Baby,Car seats,4,30,47235145
+266,96,East US,East US Store 77,2019-03-31,Electronics,Speakers,4,100,23064541
+267,88,East US,East US Store 77,2019-02-28,Beauty/Health,Makeup,7,10,95126030
+268,60,East US,East US Store 77,2019-04-03,Clothing,Baby,3,13,27556444
+269,56,East US,East US Store 77,2019-04-11,Baby,Strollers,6,30,57568742
+270,92,East US,East US Store 77,2019-03-20,Clothing,Womens,6,25,73562681
+271,58,East US,East US Store 77,2019-01-26,Furniture,Indoor tables,7,75,97751262
+272,72,East US,East US Store 77,2019-04-01,Baby,Diaper bags,7,15,12071485
+273,95,East US,East US Store 77,2019-06-27,Electronics,Tablets,3,200,20099649
+274,33,East US,East US Store 77,2019-05-25,Furniture,Pool furniture,6,75,41144990
+275,58,East US,East US Store 77,2019-07-11,Beauty/Health,Bath,7,6,36870084
+276,93,East US,East US Store 77,2019-04-22,Furniture,Pool furniture,7,30,57359756
+277,2,East US,East US Store 77,2019-05-17,Beauty/Health,Feminine Products,11,10,52921498
+278,11,East US,East US Store 77,2019-06-04,Beauty/Health,Bath,11,10,73964275
+279,21,East US,East US Store 77,2019-07-16,Electronics,Cell Phones,3,50,93937435
+280,60,East US,East US Store 77,2019-06-19,Electronics,Speakers,4,300,37247137
+281,70,East US,East US Store 77,2019-01-28,Electronics,Cell Phones,3,50,22085686
+282,43,East US,East US Store 77,2019-05-06,Baby,Strollers,5,5,10602081
+283,1,East US,East US Store 77,2019-03-25,Furniture,Indoor seating,6,40,53708525
+284,41,East US,East US Store 77,2019-01-14,Baby,Cribs,7,10,60745902
+285,7,East US,East US Store 77,2019-04-17,Clothing,Kids,11,12,11331094
+286,44,East US,East US Store 77,2019-04-06,Clothing,Womens,4,25,81210383
+287,84,East US,East US Store 77,2019-05-09,Clothing,Baby,9,20,65445878
+288,48,East US,East US Store 77,2019-05-17,Baby,Car seats,7,30,77824605
+289,50,East US,East US Store 77,2019-03-12,Beauty/Health,Feminine Products,6,6,22426987
+290,67,East US,East US Store 77,2019-04-11,Beauty/Health,Makeup,9,10,25777272
+291,72,East US,East US Store 77,2019-04-20,Clothing,Swimwear,12,20,69238079
+292,6,East US,East US Store 77,2019-02-22,Furniture,Indoor seating,7,40,24389842
+293,31,East US,East US Store 77,2019-06-24,Clothing,Mens,10,20,41241993
+294,18,East US,East US Store 77,2019-03-07,Beauty/Health,Skincare,4,15,35718704
+295,63,East US,East US Store 77,2019-07-06,Clothing,Kids,10,20,22893315
+296,40,East US,East US Store 77,2019-07-02,Electronics,Headphones,4,300,72257230
+297,33,East US,East US Store 77,2019-04-10,Electronics,Headphones,4,200,87658616
+298,65,East US,East US Store 77,2019-05-29,Baby,Cribs,5,30,86751645
+299,23,East US,East US Store 77,2019-02-18,Electronics,Computers,3,300,88603448
+300,28,East US,East US Store 77,2019-04-17,Baby,Car seats,6,15,26513783
+301,89,East US,East US Store 77,2019-01-10,Baby,Strollers,3,12,54457836
+302,35,East US,East US Store 77,2019-04-03,Baby,Strollers,4,30,58904800
+303,52,East US,East US Store 77,2019-05-20,Baby,Diapers,7,10,51628602
+304,98,East US,East US Store 77,2019-01-06,Beauty/Health,Feminine Products,4,10,34279559
+305,33,East US,East US Store 77,2019-04-24,Baby,Diapers,9,5,74720009
+306,15,East US,East US Store 77,2019-06-05,Baby,Baby toys,6,12,17086423
+307,51,East US,East US Store 77,2019-05-09,Electronics,Speakers,4,50,97269109
+308,49,East US,East US Store 77,2019-03-22,Clothing,Kids,4,12,19987454
+309,7,East US,East US Store 77,2019-03-15,Electronics,Headphones,3,50,31073037
+310,95,East US,East US Store 77,2019-04-22,Electronics,Tablets,3,100,10053011
+311,30,East US,East US Store 77,2019-05-05,Furniture,Pool furniture,8,40,17893913
+312,74,East US,East US Store 77,2019-03-18,Electronics,Tablets,3,200,96846450
+313,25,East US,East US Store 77,2019-02-07,Baby,Cribs,5,5,77776457
+314,83,East US,East US Store 77,2019-01-15,Baby,Baby toys,7,15,21350356
+315,38,East US,East US Store 77,2019-03-25,Furniture,Beds,6,100,93773817
+316,23,East US,East US Store 77,2019-01-12,Baby,Diapers,5,30,97635456
+317,81,East US,East US Store 77,2019-04-21,Electronics,Computers,4,100,74475948
+318,72,East US,East US Store 77,2019-06-19,Clothing,Womens,5,20,63580445
+319,46,East US,East US Store 77,2019-02-20,Furniture,Patio furniture,5,100,85076282
+320,10,East US,East US Store 77,2019-07-11,Electronics,Computers,3,200,52055535
+321,71,East US,East US Store 77,2019-02-20,Furniture,Beds,4,100,60210985
+322,15,East US,East US Store 77,2019-03-27,Electronics,Cell Phones,3,200,80520386
+323,10,East US,East US Store 77,2019-06-28,Baby,Diapers,11,10,24153885
+324,69,East US,East US Store 77,2019-03-07,Beauty/Health,Oral care,4,6,95263176
+325,9,East US,East US Store 77,2019-06-12,Furniture,Pool furniture,6,40,26929264
+326,4,East US,East US Store 77,2019-01-19,Baby,Diapers,5,5,69853150
+327,52,East US,East US Store 77,2019-06-28,Electronics,Tablets,4,100,38553648
+328,31,East US,East US Store 77,2019-06-13,Beauty/Health,Haircare,5,10,29998045
+329,78,East US,East US Store 77,2019-01-01,Baby,Baby toys,7,15,89760374
+330,66,East US,East US Store 77,2019-06-10,Clothing,Swimwear,11,20,40421435
+331,79,East US,East US Store 77,2019-04-19,Beauty/Health,Haircare,10,10,95264343
+332,17,East US,East US Store 77,2019-01-02,Furniture,Indoor tables,4,40,26802004
+333,91,East US,East US Store 77,2019-05-28,Furniture,Indoor seating,6,30,91429228
+334,70,East US,East US Store 77,2019-01-14,Baby,Strollers,5,10,76557777
+335,49,East US,East US Store 77,2019-06-25,Clothing,Shoes,7,20,83025970
+336,85,East US,East US Store 77,2019-06-23,Furniture,Patio furniture,5,30,21240055
+337,2,East US,East US Store 77,2019-03-22,Electronics,Cell Phones,4,50,19626947
+338,17,East US,East US Store 77,2019-06-09,Baby,Cribs,8,15,80846527
+339,23,East US,East US Store 77,2019-07-06,Furniture,Pool furniture,6,100,92638896
+340,17,East US,East US Store 77,2019-01-30,Baby,Car seats,7,15,46773127
+341,70,East US,East US Store 77,2019-02-01,Electronics,Cell Phones,4,200,98460445
+342,10,East US,East US Store 77,2019-03-13,Baby,Strollers,6,12,25493825
+343,40,East US,East US Store 77,2019-07-16,Baby,Diaper bags,8,12,67679715
+344,26,East US,East US Store 77,2019-04-21,Electronics,Televisions,3,100,50901327
+345,26,East US,East US Store 77,2019-01-02,Baby,Car seats,7,12,78235817
+346,25,East US,East US Store 77,2019-04-24,Furniture,Pool furniture,6,40,69295678
+347,24,East US,East US Store 77,2019-02-13,Furniture,Indoor seating,7,30,59480062
+348,91,East US,East US Store 77,2019-06-21,Furniture,Patio furniture,9,75,32245849
+349,86,East US,East US Store 77,2019-02-05,Furniture,Pool furniture,5,100,11286136
+350,81,East US,East US Store 77,2019-01-10,Beauty/Health,Skincare,5,10,94060510
+351,3,East US,East US Store 77,2019-04-27,Furniture,Indoor tables,7,40,27161152
+352,32,East US,East US Store 77,2019-06-20,Electronics,Cell Phones,4,100,36719916
+353,69,East US,East US Store 77,2019-03-04,Electronics,Computers,3,200,76886059
+354,40,East US,East US Store 77,2019-03-17,Furniture,Pool furniture,7,75,39985201
+355,71,East US,East US Store 77,2019-05-10,Furniture,Indoor seating,6,100,98060540
+356,83,East US,East US Store 77,2019-06-08,Baby,Diapers,5,30,80338740
+357,46,East US,East US Store 77,2019-05-14,Furniture,Indoor seating,8,75,24456189
+358,98,East US,East US Store 77,2019-03-29,Baby,Cribs,6,30,93528259
+359,60,East US,East US Store 77,2019-05-10,Clothing,Mens,7,12,92406770
+360,23,East US,East US Store 77,2019-01-14,Furniture,Beds,3,15,57647477
+361,84,East US,East US Store 77,2019-05-24,Clothing,Mens,12,12,64867203
+362,18,East US,East US Store 77,2019-02-25,Baby,Cribs,6,30,48359434
+363,101,East US,East US Store 77,2019-04-15,Baby,Strollers,10,5,13378679
+364,54,East US,East US Store 77,2019-06-14,Furniture,Pool furniture,10,30,72472367
+365,34,East US,East US Store 77,2019-01-16,Electronics,Televisions,4,100,80104627
+366,83,East US,East US Store 77,2019-05-21,Baby,Diapers,5,10,80212524
+367,84,East US,East US Store 77,2019-06-30,Electronics,Speakers,3,50,74909807
+368,17,East US,East US Store 77,2019-04-15,Furniture,Pool furniture,9,30,30143311
+369,17,East US,East US Store 77,2019-01-17,Furniture,Patio furniture,3,40,68342470
+370,38,East US,East US Store 77,2019-07-06,Furniture,Patio furniture,10,75,96352723
+371,34,East US,East US Store 77,2019-06-11,Baby,Baby toys,9,30,67234790
+372,45,East US,East US Store 77,2019-04-27,Baby,Baby toys,9,30,68432033
+373,20,East US,East US Store 77,2019-04-27,Beauty/Health,Haircare,9,10,67677967
+374,12,East US,East US Store 77,2019-07-11,Clothing,Womens,8,12,57164273
+375,75,East US,East US Store 77,2019-05-10,Furniture,Indoor seating,9,100,23533412
+376,46,East US,East US Store 77,2019-05-21,Furniture,Beds,11,40,13205033
+377,39,East US,East US Store 77,2019-07-15,Beauty/Health,Fragrances,6,10,39602305
+378,71,East US,East US Store 77,2019-01-23,Clothing,Baby,5,25,38973477
+379,61,East US,East US Store 77,2019-02-28,Beauty/Health,Haircare,3,6,18470648
+380,89,East US,East US Store 77,2019-01-24,Furniture,Patio furniture,6,75,57484758
+381,44,East US,East US Store 77,2019-03-05,Beauty/Health,Feminine Products,7,15,22760581
+382,3,East US,East US Store 77,2019-02-01,Baby,Cribs,5,10,54316062
+383,90,East US,East US Store 77,2019-03-17,Clothing,Mens,3,25,62224189
+384,18,East US,East US Store 77,2019-06-29,Baby,Diapers,6,5,56096311
+385,75,East US,East US Store 77,2019-01-11,Baby,Car seats,3,10,25247235
+386,16,East US,East US Store 77,2019-05-07,Clothing,Baby,10,25,36478384
+387,66,East US,East US Store 77,2019-05-28,Clothing,Womens,6,20,18240675
+388,51,East US,East US Store 77,2019-06-05,Baby,Baby toys,6,15,80900931
+389,101,East US,East US Store 77,2019-01-20,Electronics,Tablets,4,100,61265633
+390,25,East US,East US Store 77,2019-03-06,Electronics,Headphones,4,300,99636685
+391,23,East US,East US Store 77,2019-06-23,Electronics,Tablets,3,100,37445660
+392,4,East US,East US Store 77,2019-02-15,Baby,Car seats,3,10,55262207
+393,68,East US,East US Store 77,2019-03-02,Furniture,Pool furniture,3,40,41255197
+394,35,East US,East US Store 77,2019-01-06,Baby,Diapers,7,5,23746485
+395,66,East US,East US Store 77,2019-04-09,Baby,Car seats,6,15,23643812
+396,6,East US,East US Store 77,2019-06-27,Electronics,Televisions,4,100,97329562
+397,1,East US,East US Store 77,2019-07-11,Electronics,Televisions,4,100,77789243
+398,60,East US,East US Store 77,2019-06-18,Baby,Baby toys,8,30,95566858
+399,1,East US,East US Store 77,2019-04-05,Furniture,Indoor seating,4,30,32607883
+400,55,East US,East US Store 77,2019-04-26,Furniture,Indoor tables,10,75,22448995
+401,96,East US,East US Store 77,2019-04-06,Electronics,Cell Phones,3,300,66886261
+402,90,East US,East US Store 77,2019-02-04,Baby,Diaper bags,6,12,98196958
+403,58,East US,East US Store 77,2019-02-10,Baby,Diapers,4,30,59640192
+404,41,East US,East US Store 77,2019-05-08,Electronics,Headphones,4,50,79746437
+405,77,East US,East US Store 77,2019-05-30,Baby,Baby toys,8,12,32271025
+406,39,East US,East US Store 77,2019-04-03,Beauty/Health,Skincare,4,10,70323293
+407,75,East US,East US Store 77,2019-05-23,Furniture,Indoor seating,11,100,16600494
+408,85,East US,East US Store 77,2019-02-15,Clothing,Shoes,6,12,78232793
+409,87,East US,East US Store 77,2019-04-11,Baby,Diaper bags,12,15,39149399
+410,94,East US,East US Store 77,2019-07-14,Electronics,Televisions,3,50,35161218
+411,5,East US,East US Store 77,2019-02-05,Clothing,Baby,3,20,23543402
+412,26,East US,East US Store 77,2019-05-14,Electronics,Televisions,4,300,28079349
+413,19,East US,East US Store 77,2019-03-16,Clothing,Mens,5,20,13235810
+414,88,East US,East US Store 77,2019-05-20,Baby,Car seats,12,12,90513383
+415,47,East US,East US Store 77,2019-01-07,Beauty/Health,Bath,4,10,29593774
+416,63,East US,East US Store 77,2019-03-07,Furniture,Indoor seating,7,75,71480764
+417,10,East US,East US Store 77,2019-04-03,Clothing,Baby,6,10,17300606
+418,41,East US,East US Store 77,2019-03-16,Electronics,Cell Phones,4,100,55115201
+419,11,East US,East US Store 77,2019-05-01,Clothing,Mens,10,13,60532827
+420,66,East US,East US Store 77,2019-07-03,Clothing,Swimwear,6,10,79320907
+421,59,East US,East US Store 77,2019-05-25,Furniture,Patio furniture,12,100,52681562
+422,46,East US,East US Store 77,2019-04-22,Beauty/Health,Fragrances,8,10,70700881
+423,61,East US,East US Store 77,2019-01-07,Baby,Diaper bags,4,5,32387895
+424,74,East US,East US Store 77,2019-04-03,Baby,Strollers,5,30,27384889
+425,82,East US,East US Store 77,2019-02-06,Baby,Diapers,7,30,94228735
+426,59,East US,East US Store 77,2019-01-01,Baby,Diaper bags,3,10,79700551
+427,73,East US,East US Store 77,2019-02-18,Baby,Strollers,7,30,76062368
+428,32,East US,East US Store 77,2019-03-22,Clothing,Shoes,7,12,60854507
+429,16,East US,East US Store 77,2019-04-24,Furniture,Patio furniture,10,75,85279254
+430,22,East US,East US Store 77,2019-05-09,Electronics,Headphones,3,300,18690749
+431,73,East US,East US Store 77,2019-03-30,Beauty/Health,Bath,7,14,55798495
+432,43,East US,East US Store 77,2019-02-04,Electronics,Headphones,4,100,78007811
+433,72,East US,East US Store 77,2019-05-09,Electronics,Televisions,3,300,63944499
+434,83,East US,East US Store 77,2019-06-22,Beauty/Health,Oral care,7,6,64371390
+435,86,East US,East US Store 77,2019-01-07,Furniture,Indoor seating,4,100,66939917
+436,25,East US,East US Store 77,2019-05-08,Clothing,Womens,10,25,89251973
+437,65,East US,East US Store 77,2019-03-06,Furniture,Indoor tables,3,40,47033480
+438,33,East US,East US Store 77,2019-05-16,Electronics,Speakers,3,100,79551175
+439,15,East US,East US Store 77,2019-06-12,Baby,Strollers,8,15,33273409
+440,26,East US,East US Store 77,2019-05-12,Furniture,Pool furniture,6,75,74177844
+441,39,East US,East US Store 77,2019-06-28,Clothing,Womens,5,20,51009741
+442,56,East US,East US Store 77,2019-03-07,Beauty/Health,Feminine Products,4,6,46020469
+443,79,East US,East US Store 77,2019-06-27,Baby,Car seats,10,5,43467769
+444,67,East US,East US Store 77,2019-02-04,Clothing,Shoes,5,25,17377522
+445,101,East US,East US Store 77,2019-01-08,Baby,Cribs,6,12,43771551
+446,33,East US,East US Store 77,2019-06-13,Electronics,Headphones,3,100,94314226
+447,96,East US,East US Store 77,2019-07-10,Clothing,Womens,12,13,74256034
+448,82,East US,East US Store 77,2019-05-07,Furniture,Indoor tables,9,15,76458542
+449,70,East US,East US Store 77,2019-04-26,Furniture,Beds,6,15,59983922
+450,48,East US,East US Store 77,2019-03-05,Electronics,Computers,4,300,42834865
+451,4,East US,East US Store 77,2019-01-04,Beauty/Health,Haircare,5,14,63609257
+452,72,East US,East US Store 77,2019-03-27,Furniture,Indoor seating,3,100,90681172
+453,74,East US,East US Store 77,2019-03-30,Clothing,Womens,3,12,16218268
+454,38,East US,East US Store 77,2019-07-04,Electronics,Headphones,3,200,69595719
+455,23,East US,East US Store 77,2019-01-02,Electronics,Cell Phones,3,300,11230776
+456,9,East US,East US Store 77,2019-04-07,Clothing,Baby,5,13,43881085
+457,49,East US,East US Store 77,2019-01-08,Furniture,Indoor tables,6,30,59761217
+458,32,East US,East US Store 77,2019-01-08,Furniture,Patio furniture,7,40,93001937
+459,44,East US,East US Store 77,2019-03-30,Beauty/Health,Skincare,3,15,79126946
+460,24,East US,East US Store 77,2019-03-09,Furniture,Pool furniture,6,75,78048841
+461,62,East US,East US Store 77,2019-01-22,Clothing,Baby,5,12,53310467
+462,100,East US,East US Store 77,2019-04-09,Beauty/Health,Makeup,5,6,84854950
+463,19,East US,East US Store 77,2019-06-01,Furniture,Pool furniture,5,75,23654302
+464,11,East US,East US Store 77,2019-03-06,Clothing,Mens,6,13,46015346
+465,67,East US,East US Store 77,2019-05-09,Clothing,Kids,12,25,54253299
+466,70,East US,East US Store 77,2019-03-03,Electronics,Speakers,4,50,13281853
+467,91,East US,East US Store 77,2019-02-07,Baby,Car seats,5,12,78915788
+468,34,East US,East US Store 77,2019-02-04,Clothing,Kids,6,10,68078345
+469,78,East US,East US Store 77,2019-01-29,Clothing,Shoes,6,12,77604089
+470,55,East US,East US Store 77,2019-03-10,Furniture,Pool furniture,7,75,69794520
+471,29,East US,East US Store 77,2019-01-10,Baby,Baby toys,6,15,85351318
+472,80,East US,East US Store 77,2019-05-09,Baby,Cribs,11,30,83844253
+473,72,East US,East US Store 77,2019-03-07,Baby,Diapers,4,30,31523377
+474,88,East US,East US Store 77,2019-02-09,Beauty/Health,Skincare,6,15,75048408
+475,14,East US,East US Store 77,2019-01-21,Electronics,Televisions,4,100,18170896
+476,69,East US,East US Store 77,2019-05-29,Furniture,Beds,11,40,40512492
+477,67,East US,East US Store 77,2019-07-05,Furniture,Pool furniture,9,40,52178543
+478,8,East US,East US Store 77,2019-02-11,Furniture,Beds,5,15,18875885
+479,57,East US,East US Store 77,2019-05-26,Furniture,Indoor tables,10,30,28909502
+480,80,East US,East US Store 77,2019-05-05,Electronics,Computers,4,200,97587704
+481,56,East US,East US Store 77,2019-05-05,Electronics,Tablets,4,200,56915168
+482,37,East US,East US Store 77,2019-03-08,Furniture,Beds,7,75,83591301
+483,50,East US,East US Store 77,2019-02-06,Baby,Car seats,5,15,47119008
+484,50,East US,East US Store 77,2019-04-11,Clothing,Baby,7,12,18809621
+485,38,East US,East US Store 77,2019-06-30,Beauty/Health,Bath,8,10,36405501
+486,15,East US,East US Store 77,2019-06-29,Baby,Cribs,5,30,89930033
+487,60,East US,East US Store 77,2019-02-10,Electronics,Cell Phones,4,100,56213103
+488,16,East US,East US Store 77,2019-01-15,Baby,Baby toys,3,30,74956198
+489,72,East US,East US Store 77,2019-03-15,Furniture,Indoor tables,7,15,22037959
+490,14,East US,East US Store 77,2019-05-13,Clothing,Swimwear,12,20,11219497
+491,56,East US,East US Store 77,2019-06-28,Beauty/Health,Bath,5,10,59181940
+492,92,East US,East US Store 77,2019-05-23,Furniture,Pool furniture,6,100,43918404
+493,95,East US,East US Store 77,2019-03-26,Furniture,Pool furniture,6,30,67307734
+494,1,East US,East US Store 77,2019-05-08,Baby,Strollers,6,12,82896442
+495,62,East US,East US Store 77,2019-06-03,Clothing,Shoes,5,25,62863932
+496,61,East US,East US Store 77,2019-02-24,Clothing,Womens,6,20,21252318
+497,2,East US,East US Store 77,2019-01-25,Furniture,Pool furniture,4,100,46923033
+498,62,East US,East US Store 77,2019-02-09,Clothing,Swimwear,4,25,56838602
+499,86,East US,East US Store 77,2019-03-30,Furniture,Beds,4,75,16098580
+500,49,East US,East US Store 77,2019-06-14,Electronics,Computers,3,50,59637327
+501,31,East US,East US Store 77,2019-03-03,Beauty/Health,Oral care,5,6,71473849
+502,24,East US,East US Store 77,2019-04-28,Furniture,Indoor seating,6,30,79888169
+503,23,East US,East US Store 77,2019-05-29,Electronics,Televisions,4,300,19698251
+504,43,East US,East US Store 77,2019-01-10,Beauty/Health,Skincare,3,10,97684010
+505,85,East US,East US Store 77,2019-05-31,Beauty/Health,Skincare,7,14,90726831
+506,10,East US,East US Store 77,2019-05-10,Electronics,Headphones,3,200,68347431
+507,59,East US,East US Store 77,2019-04-24,Furniture,Patio furniture,10,75,91518416
+508,28,East US,East US Store 77,2019-02-15,Baby,Cribs,7,30,29522092
+509,73,East US,East US Store 77,2019-01-16,Electronics,Tablets,3,100,93315356
+510,64,East US,East US Store 77,2019-01-07,Beauty/Health,Fragrances,6,15,14105245
+511,2,East US,East US Store 77,2019-06-19,Beauty/Health,Haircare,9,14,74561172
+512,81,East US,East US Store 77,2019-02-27,Clothing,Shoes,3,10,74125127
+513,12,East US,East US Store 77,2019-05-12,Baby,Strollers,7,30,46785161
+514,100,East US,East US Store 77,2019-03-27,Baby,Strollers,5,10,72110295
+515,53,East US,East US Store 77,2019-01-04,Clothing,Baby,5,25,50774500
+516,5,East US,East US Store 77,2019-01-09,Beauty/Health,Haircare,5,10,81716670
+517,66,East US,East US Store 77,2019-03-24,Furniture,Patio furniture,5,100,34394646
+518,5,East US,East US Store 77,2019-03-11,Electronics,Speakers,4,50,39694895
+519,57,East US,East US Store 77,2019-04-24,Furniture,Patio furniture,12,40,34207172
+520,73,East US,East US Store 77,2019-05-12,Beauty/Health,Makeup,7,14,15470240
+521,93,East US,East US Store 77,2019-07-02,Beauty/Health,Haircare,7,10,90713842
+522,46,East US,East US Store 77,2019-01-04,Electronics,Cell Phones,3,300,28998413
+523,89,East US,East US Store 77,2019-07-07,Beauty/Health,Oral care,12,15,72709489
+524,9,East US,East US Store 77,2019-04-10,Clothing,Mens,11,25,50230786
+525,33,East US,East US Store 77,2019-03-28,Clothing,Baby,3,12,31508952
+526,13,East US,East US Store 77,2019-05-05,Baby,Strollers,5,10,48231337
+527,21,East US,East US Store 77,2019-06-24,Electronics,Tablets,3,50,70230478
+528,18,East US,East US Store 77,2019-06-10,Beauty/Health,Bath,9,15,13361987
+529,75,East US,East US Store 77,2019-07-13,Clothing,Womens,5,10,85847305
+530,31,East US,East US Store 77,2019-05-06,Beauty/Health,Fragrances,5,15,26322767
+531,56,East US,East US Store 77,2019-05-04,Clothing,Swimwear,12,10,93560759
+532,43,East US,East US Store 77,2019-06-30,Baby,Strollers,7,12,52308644
+533,75,East US,East US Store 77,2019-04-11,Furniture,Indoor tables,9,75,42686370
+534,11,East US,East US Store 77,2019-01-11,Clothing,Shoes,4,25,34202510
+535,99,East US,East US Store 77,2019-02-01,Furniture,Indoor seating,5,40,74443804
+536,42,East US,East US Store 77,2019-02-14,Beauty/Health,Feminine Products,7,10,79187909
+537,34,East US,East US Store 77,2019-03-29,Clothing,Shoes,6,25,69590575
+538,73,East US,East US Store 77,2019-02-10,Clothing,Swimwear,5,25,73621693
+539,55,East US,East US Store 77,2019-05-11,Clothing,Mens,5,13,24957450
+540,31,East US,East US Store 77,2019-05-25,Beauty/Health,Fragrances,6,10,29257346
+541,64,East US,East US Store 77,2019-04-17,Baby,Diapers,7,12,15158359
+542,6,East US,East US Store 77,2019-05-04,Electronics,Speakers,4,200,26873752
+543,99,East US,East US Store 77,2019-05-23,Electronics,Headphones,4,100,69516411
+544,74,East US,East US Store 77,2019-06-22,Baby,Cribs,10,5,20725109
+545,75,East US,East US Store 77,2019-03-14,Furniture,Patio furniture,3,30,76133664
+546,54,East US,East US Store 77,2019-04-18,Electronics,Computers,3,200,28038216
+547,84,East US,East US Store 77,2019-04-02,Beauty/Health,Feminine Products,6,10,90150325
+548,58,East US,East US Store 77,2019-02-10,Baby,Strollers,4,5,25321763
+549,51,East US,East US Store 77,2019-01-22,Clothing,Swimwear,4,13,86390230
+550,83,East US,East US Store 77,2019-03-10,Baby,Baby toys,3,10,46267688
+551,66,East US,East US Store 77,2019-05-08,Clothing,Shoes,8,25,69226504
+552,46,East US,East US Store 77,2019-04-07,Electronics,Televisions,3,200,73624106
+553,42,East US,East US Store 77,2019-05-22,Baby,Diaper bags,8,30,63469462
+554,6,East US,East US Store 77,2019-05-17,Electronics,Cell Phones,4,100,70856549
+555,46,East US,East US Store 77,2019-06-05,Baby,Diapers,12,12,86453879
+556,93,East US,East US Store 77,2019-05-20,Baby,Car seats,7,12,38511522
+557,6,East US,East US Store 77,2019-02-05,Clothing,Baby,6,10,16215881
+558,64,East US,East US Store 77,2019-06-16,Furniture,Patio furniture,5,100,88587391
+559,76,East US,East US Store 77,2019-01-30,Clothing,Swimwear,7,13,53760676
+560,41,East US,East US Store 77,2019-07-09,Beauty/Health,Skincare,10,10,85641600
+561,13,East US,East US Store 77,2019-01-05,Baby,Baby toys,5,15,31438451
+562,44,East US,East US Store 77,2019-01-26,Furniture,Patio furniture,7,30,12627052
+563,85,East US,East US Store 77,2019-01-16,Baby,Car seats,5,30,31437183
+564,76,East US,East US Store 77,2019-05-30,Beauty/Health,Makeup,6,6,35477112
+565,45,East US,East US Store 77,2019-01-14,Baby,Diapers,3,10,69536693
+566,100,East US,East US Store 77,2019-01-25,Furniture,Pool furniture,5,100,21880368
+567,38,East US,East US Store 77,2019-02-05,Clothing,Baby,7,20,57510119
+568,79,East US,East US Store 77,2019-03-11,Electronics,Tablets,4,100,36957375
+569,12,East US,East US Store 77,2019-05-14,Baby,Baby toys,8,10,75229276
+570,20,East US,East US Store 77,2019-06-30,Baby,Car seats,7,10,59425003
+571,17,East US,East US Store 77,2019-04-29,Clothing,Shoes,7,13,99867602
+572,39,East US,East US Store 77,2019-03-28,Clothing,Womens,4,20,33990595
+573,30,East US,East US Store 77,2019-06-07,Baby,Diapers,6,10,38341705
+574,40,East US,East US Store 77,2019-01-05,Beauty/Health,Fragrances,7,6,66254690
+575,69,East US,East US Store 77,2019-05-22,Furniture,Pool furniture,8,100,97197879
+576,7,East US,East US Store 77,2019-02-14,Electronics,Computers,3,200,79354596
+577,86,East US,East US Store 77,2019-03-20,Baby,Strollers,3,30,55890151
+578,91,East US,East US Store 77,2019-03-24,Beauty/Health,Bath,6,6,19007609
+579,55,East US,East US Store 77,2019-05-31,Baby,Car seats,11,30,24458048
+580,31,East US,East US Store 77,2019-05-29,Beauty/Health,Haircare,12,10,44968061
+581,71,East US,East US Store 77,2019-03-30,Baby,Diapers,3,30,63050692
+582,68,East US,East US Store 77,2019-04-10,Clothing,Swimwear,10,12,46652938
+583,49,East US,East US Store 77,2019-05-07,Electronics,Cell Phones,3,100,33292577
+584,80,East US,East US Store 77,2019-02-02,Baby,Strollers,6,12,39885927
+585,77,East US,East US Store 77,2019-04-15,Baby,Baby toys,6,30,99238554
+586,96,East US,East US Store 77,2019-04-29,Baby,Diaper bags,5,12,81692200
+587,67,East US,East US Store 77,2019-04-10,Beauty/Health,Bath,10,10,78683127
+588,18,East US,East US Store 77,2019-07-07,Electronics,Cell Phones,3,100,44475532
+589,46,East US,East US Store 77,2019-01-14,Furniture,Indoor seating,3,40,32600407
+590,30,East US,East US Store 77,2019-04-10,Clothing,Mens,6,25,85595894
+591,59,East US,East US Store 77,2019-04-06,Electronics,Televisions,4,100,70735463
+592,27,East US,East US Store 77,2019-03-21,Clothing,Mens,6,10,13265065
+593,85,East US,East US Store 77,2019-02-24,Electronics,Cell Phones,4,300,91030685
+594,31,East US,East US Store 77,2019-05-09,Baby,Diaper bags,5,30,69364736
+595,40,East US,East US Store 77,2019-04-18,Electronics,Cell Phones,3,200,53058809
+596,68,East US,East US Store 77,2019-05-11,Baby,Diaper bags,10,30,54620103
+597,19,East US,East US Store 77,2019-06-05,Clothing,Kids,8,12,25278910
+598,59,East US,East US Store 77,2019-03-19,Furniture,Pool furniture,6,15,57293146
+599,55,East US,East US Store 77,2019-01-22,Baby,Car seats,3,30,76107883
+600,97,East US,East US Store 77,2019-01-16,Electronics,Cell Phones,3,100,34636831
+601,75,East US,East US Store 77,2019-03-06,Electronics,Cell Phones,4,100,14576349
+602,98,East US,East US Store 77,2019-06-09,Beauty/Health,Bath,11,6,97301008
+603,55,East US,East US Store 77,2019-01-22,Baby,Diapers,4,30,85683694
+604,66,East US,East US Store 77,2019-07-05,Baby,Cribs,12,10,29702381
+605,89,East US,East US Store 77,2019-06-26,Electronics,Computers,4,200,93512914
+606,68,East US,East US Store 77,2019-01-05,Beauty/Health,Oral care,5,10,31617238
+607,54,East US,East US Store 77,2019-02-17,Beauty/Health,Bath,7,14,68407928
+608,49,East US,East US Store 77,2019-05-04,Clothing,Kids,11,20,87469258
+609,85,East US,East US Store 77,2019-07-12,Beauty/Health,Skincare,11,6,35420881
+610,19,East US,East US Store 77,2019-05-29,Furniture,Pool furniture,12,100,58411173
+611,40,East US,East US Store 77,2019-06-26,Electronics,Speakers,4,300,91301622
+612,93,East US,East US Store 77,2019-06-06,Beauty/Health,Makeup,8,14,81298449
+613,17,East US,East US Store 77,2019-02-20,Clothing,Swimwear,7,25,43931684
+614,92,East US,East US Store 77,2019-04-03,Beauty/Health,Haircare,6,15,61607075
+615,34,East US,East US Store 77,2019-04-08,Furniture,Indoor seating,4,30,60136139
+616,78,East US,East US Store 77,2019-06-27,Beauty/Health,Oral care,9,10,71939882
+617,96,East US,East US Store 77,2019-04-04,Electronics,Speakers,4,200,20945680
+618,16,East US,East US Store 77,2019-04-25,Electronics,Headphones,4,200,96228872
+619,99,East US,East US Store 77,2019-01-28,Furniture,Beds,4,100,76292225
+620,50,East US,East US Store 77,2019-07-04,Clothing,Mens,10,10,62299916
+621,44,East US,East US Store 77,2019-05-22,Clothing,Swimwear,12,25,79774374
+622,30,East US,East US Store 77,2019-01-18,Clothing,Womens,3,13,61093138
+623,72,East US,East US Store 77,2019-03-01,Furniture,Indoor tables,4,40,83929022
+624,100,East US,East US Store 77,2019-05-01,Furniture,Beds,6,15,15811209
+625,53,East US,East US Store 77,2019-05-08,Electronics,Computers,4,100,51506803
+626,20,East US,East US Store 77,2019-06-08,Clothing,Mens,8,25,75016560
+627,56,East US,East US Store 77,2019-01-27,Furniture,Indoor seating,5,75,23022290
+628,34,East US,East US Store 77,2019-06-12,Furniture,Patio furniture,6,100,51984260
+629,89,East US,East US Store 77,2019-05-23,Electronics,Headphones,4,50,79601258
+630,81,East US,East US Store 77,2019-01-16,Baby,Diapers,7,30,73701447
+631,16,East US,East US Store 77,2019-07-08,Electronics,Tablets,4,100,12883714
+632,99,East US,East US Store 77,2019-06-29,Baby,Cribs,5,30,84526387
+633,3,East US,East US Store 77,2019-01-03,Beauty/Health,Oral care,6,6,81183976
+634,24,East US,East US Store 77,2019-02-03,Electronics,Cell Phones,4,50,88398453
+635,70,East US,East US Store 77,2019-07-02,Beauty/Health,Makeup,6,10,50275661
+636,86,East US,East US Store 77,2019-03-23,Beauty/Health,Makeup,4,10,63470947
+637,79,East US,East US Store 77,2019-02-03,Furniture,Patio furniture,3,15,61150463
+638,39,East US,East US Store 77,2019-07-12,Electronics,Computers,4,200,40629544
+639,75,East US,East US Store 77,2019-02-13,Baby,Diapers,3,30,76543977
+640,19,East US,East US Store 77,2019-04-23,Electronics,Headphones,3,100,70744202
+641,59,East US,East US Store 77,2019-03-11,Beauty/Health,Oral care,7,10,86830929
+642,82,East US,East US Store 77,2019-04-23,Furniture,Patio furniture,6,15,23740610
+643,43,East US,East US Store 77,2019-03-10,Electronics,Cell Phones,3,100,76916705
+644,27,East US,East US Store 77,2019-04-13,Beauty/Health,Fragrances,7,10,91317485
+645,8,East US,East US Store 77,2019-06-23,Clothing,Mens,10,20,17649743
+646,3,East US,East US Store 77,2019-04-05,Electronics,Televisions,3,50,86693224
+647,11,East US,East US Store 77,2019-01-12,Beauty/Health,Oral care,3,15,18983910
+648,19,East US,East US Store 77,2019-03-17,Baby,Diapers,7,15,80592162
+649,16,East US,East US Store 77,2019-02-03,Beauty/Health,Skincare,3,14,63113874
+650,18,East US,East US Store 77,2019-05-21,Clothing,Shoes,8,25,12234797
+651,42,East US,East US Store 77,2019-02-09,Electronics,Speakers,4,100,81456671
+652,66,East US,East US Store 77,2019-01-24,Baby,Strollers,7,15,37930406
+653,15,East US,East US Store 77,2019-05-29,Electronics,Speakers,4,50,65204987
+654,50,East US,East US Store 77,2019-02-06,Furniture,Indoor tables,5,40,51980846
+655,73,East US,East US Store 77,2019-04-28,Electronics,Cell Phones,3,50,21761623
+656,94,East US,East US Store 77,2019-03-21,Baby,Diapers,7,12,10017141
+657,55,East US,East US Store 77,2019-03-27,Baby,Car seats,3,5,51581211
+658,85,East US,East US Store 77,2019-05-03,Furniture,Pool furniture,9,15,32230686
+659,66,East US,East US Store 77,2019-01-09,Beauty/Health,Makeup,4,15,73606761
+660,75,East US,East US Store 77,2019-06-24,Baby,Diapers,9,30,98159968
+661,45,East US,East US Store 77,2019-06-17,Electronics,Computers,4,50,30594402
+662,9,East US,East US Store 77,2019-05-22,Beauty/Health,Haircare,12,6,71988539
+663,71,East US,East US Store 77,2019-05-03,Electronics,Tablets,4,200,73103968
+664,47,East US,East US Store 77,2019-06-06,Electronics,Tablets,3,100,58349020
+665,5,East US,East US Store 77,2019-01-21,Baby,Strollers,5,12,23641496
+666,45,East US,East US Store 77,2019-02-17,Furniture,Patio furniture,6,40,22484127
+667,82,East US,East US Store 77,2019-03-06,Baby,Diapers,3,10,85705036
+668,10,East US,East US Store 77,2019-02-21,Beauty/Health,Skincare,6,10,34804004
+669,65,East US,East US Store 77,2019-03-30,Electronics,Speakers,4,100,23484225
+670,96,East US,East US Store 77,2019-06-24,Clothing,Kids,11,20,95235314
+671,20,East US,East US Store 77,2019-01-17,Clothing,Womens,7,13,36847942
+672,91,East US,East US Store 77,2019-03-11,Electronics,Tablets,3,300,49282505
+673,47,East US,East US Store 77,2019-05-18,Beauty/Health,Makeup,10,6,39178208
+674,28,East US,East US Store 77,2019-01-19,Furniture,Indoor seating,4,75,27605160
+675,57,East US,East US Store 77,2019-07-08,Beauty/Health,Bath,5,10,30139426
+676,23,East US,East US Store 77,2019-07-06,Furniture,Beds,6,40,54633656
+677,86,East US,East US Store 77,2019-01-12,Beauty/Health,Bath,7,10,78348250
+678,91,East US,East US Store 77,2019-02-16,Baby,Baby toys,4,30,29545835
+679,48,East US,East US Store 77,2019-03-31,Baby,Diaper bags,3,15,11124823
+680,24,East US,East US Store 77,2019-07-15,Beauty/Health,Makeup,12,10,96886280
+681,37,East US,East US Store 77,2019-01-11,Furniture,Indoor tables,4,75,38038274
+682,91,East US,East US Store 77,2019-03-31,Baby,Cribs,3,5,12133456
+683,44,East US,East US Store 77,2019-01-02,Clothing,Baby,6,10,34132024
+684,32,East US,East US Store 77,2019-02-26,Baby,Car seats,6,5,88980397
+685,21,East US,East US Store 77,2019-02-01,Electronics,Speakers,3,50,64403744
+686,86,East US,East US Store 77,2019-04-20,Furniture,Patio furniture,8,30,40449644
+687,24,East US,East US Store 77,2019-05-27,Furniture,Indoor tables,8,75,36722979
+688,74,East US,East US Store 77,2019-07-09,Furniture,Indoor tables,7,15,91808274
+689,89,East US,East US Store 77,2019-01-30,Baby,Car seats,7,15,26275933
+690,43,East US,East US Store 77,2019-07-03,Clothing,Baby,8,12,55785261
+691,9,East US,East US Store 77,2019-05-08,Electronics,Headphones,4,200,77672157
+692,33,East US,East US Store 77,2019-04-08,Baby,Diapers,3,30,68632170
+693,91,East US,East US Store 77,2019-01-12,Beauty/Health,Feminine Products,7,14,65373826
+694,51,East US,East US Store 77,2019-04-13,Beauty/Health,Makeup,6,10,37398092
+695,56,East US,East US Store 77,2019-01-10,Beauty/Health,Makeup,4,6,91049851
+696,98,East US,East US Store 77,2019-05-28,Clothing,Baby,9,12,42160305
+697,31,East US,East US Store 77,2019-03-09,Furniture,Indoor tables,6,15,22328264
+698,17,East US,East US Store 77,2019-01-18,Electronics,Computers,4,100,23169647
+699,98,East US,East US Store 77,2019-04-08,Beauty/Health,Makeup,5,14,60929226
+700,45,East US,East US Store 77,2019-04-13,Electronics,Headphones,4,200,62486719
+701,35,East US,East US Store 77,2019-07-02,Furniture,Indoor seating,6,40,89821875
+702,69,East US,East US Store 77,2019-07-14,Furniture,Beds,11,40,14836224
+703,81,East US,East US Store 77,2019-06-24,Furniture,Beds,12,30,23579249
+704,35,East US,East US Store 77,2019-03-26,Electronics,Cell Phones,4,50,65544536
+705,32,East US,East US Store 77,2019-02-19,Baby,Cribs,6,15,31509238
+706,10,East US,East US Store 77,2019-06-18,Electronics,Cell Phones,3,100,79590630
+707,74,East US,East US Store 77,2019-04-04,Furniture,Patio furniture,5,100,96707815
+708,7,East US,East US Store 77,2019-04-16,Clothing,Shoes,6,20,26507279
+709,2,East US,East US Store 77,2019-04-18,Baby,Baby toys,7,15,38625258
+710,37,East US,East US Store 77,2019-04-24,Baby,Car seats,11,10,84559567
+711,99,East US,East US Store 77,2019-05-02,Clothing,Swimwear,7,25,66576375
+712,26,East US,East US Store 77,2019-03-27,Beauty/Health,Oral care,6,14,91848863
+713,38,East US,East US Store 77,2019-02-11,Furniture,Indoor tables,3,40,48729816
+714,25,East US,East US Store 77,2019-03-04,Beauty/Health,Makeup,6,6,50299027
+715,29,East US,East US Store 77,2019-01-03,Electronics,Cell Phones,4,100,18724479
+716,77,East US,East US Store 77,2019-03-30,Baby,Car seats,4,30,71552533
+717,82,East US,East US Store 77,2019-04-03,Beauty/Health,Skincare,5,14,17117121
+718,8,East US,East US Store 77,2019-01-27,Electronics,Headphones,4,100,94959311
+719,65,East US,East US Store 77,2019-02-11,Electronics,Tablets,3,200,33065685
+720,43,East US,East US Store 77,2019-02-26,Beauty/Health,Skincare,3,10,77986124
+721,10,East US,East US Store 77,2019-02-27,Clothing,Baby,5,25,33091308
+722,3,East US,East US Store 77,2019-03-13,Furniture,Indoor tables,3,75,91326160
+723,53,East US,East US Store 77,2019-07-15,Clothing,Womens,8,25,81090592
+724,51,East US,East US Store 77,2019-04-29,Furniture,Beds,8,75,86445022
+725,85,East US,East US Store 77,2019-03-14,Furniture,Patio furniture,5,100,65942063
+726,88,East US,East US Store 77,2019-04-07,Furniture,Indoor seating,6,75,17121232
+727,98,East US,East US Store 77,2019-03-01,Electronics,Headphones,4,100,50519488
+728,75,East US,East US Store 77,2019-01-11,Furniture,Indoor tables,3,100,86766831
+729,4,East US,East US Store 77,2019-04-27,Electronics,Computers,3,200,39232228
+730,95,East US,East US Store 77,2019-04-20,Electronics,Computers,3,300,33581592
+731,63,East US,East US Store 77,2019-02-13,Furniture,Indoor seating,6,40,67559638
+732,89,East US,East US Store 77,2019-03-09,Furniture,Indoor tables,7,15,63892814
+733,99,East US,East US Store 77,2019-07-02,Furniture,Patio furniture,10,15,35484872
+734,1,East US,East US Store 77,2019-02-17,Clothing,Swimwear,4,12,18725683
+735,76,East US,East US Store 77,2019-03-22,Electronics,Televisions,4,100,69071861
+736,67,East US,East US Store 77,2019-06-08,Baby,Car seats,8,15,52618010
+737,66,East US,East US Store 77,2019-05-18,Beauty/Health,Makeup,6,15,44490535
+738,100,East US,East US Store 77,2019-01-14,Furniture,Pool furniture,7,40,40643273
+739,51,East US,East US Store 77,2019-05-06,Baby,Diaper bags,12,5,79572431
+740,16,East US,East US Store 77,2019-04-20,Beauty/Health,Haircare,9,10,25881202
+741,47,East US,East US Store 77,2019-04-07,Clothing,Baby,3,25,56734987
+742,20,East US,East US Store 77,2019-05-09,Electronics,Tablets,3,100,32123496
+743,3,East US,East US Store 77,2019-07-09,Clothing,Swimwear,10,20,83343944
+744,37,East US,East US Store 77,2019-04-02,Furniture,Pool furniture,6,75,37782013
+745,13,East US,East US Store 77,2019-01-06,Clothing,Baby,7,25,32582352
+746,35,East US,East US Store 77,2019-03-15,Baby,Baby toys,5,5,54867682
+747,82,East US,East US Store 77,2019-03-22,Furniture,Indoor tables,4,15,16842210
+748,7,East US,East US Store 77,2019-03-27,Electronics,Speakers,3,200,81437228
+749,1,East US,East US Store 77,2019-02-28,Clothing,Mens,5,25,29527630
+750,57,East US,East US Store 77,2019-06-10,Electronics,Televisions,3,200,65236688
+751,20,East US,East US Store 77,2019-01-17,Baby,Baby toys,7,5,97449151
+752,32,East US,East US Store 77,2019-05-10,Electronics,Tablets,4,300,95719191
+753,79,East US,East US Store 77,2019-01-14,Beauty/Health,Fragrances,4,10,53710793
+754,59,East US,East US Store 77,2019-03-29,Clothing,Baby,6,13,93618300
+755,51,East US,East US Store 77,2019-02-23,Baby,Baby toys,7,12,46730271
+756,10,East US,East US Store 77,2019-04-28,Clothing,Baby,11,10,49987428
+757,34,East US,East US Store 77,2019-05-01,Baby,Cribs,6,5,36780914
+758,93,East US,East US Store 77,2019-05-12,Electronics,Cell Phones,4,300,55356571
+759,25,East US,East US Store 77,2019-04-18,Electronics,Cell Phones,3,50,65994404
+760,66,East US,East US Store 77,2019-05-29,Furniture,Pool furniture,10,40,87140877
+761,67,East US,East US Store 77,2019-07-13,Baby,Diapers,11,30,14992964
+762,26,East US,East US Store 77,2019-03-05,Clothing,Mens,6,20,14074231
+763,68,East US,East US Store 77,2019-07-11,Clothing,Shoes,12,12,29349339
+764,65,East US,East US Store 77,2019-03-24,Electronics,Cell Phones,4,200,87651744
+765,76,East US,East US Store 77,2019-03-12,Baby,Diaper bags,3,5,22134936
+766,100,East US,East US Store 77,2019-01-30,Clothing,Baby,4,12,27507124
+767,98,East US,East US Store 77,2019-07-13,Electronics,Tablets,3,100,70132048
+768,61,East US,East US Store 77,2019-02-06,Furniture,Patio furniture,5,30,77718617
+769,96,East US,East US Store 77,2019-04-23,Furniture,Indoor tables,7,40,57433272
+770,97,East US,East US Store 77,2019-02-07,Furniture,Indoor tables,4,40,50545208
+771,3,East US,East US Store 77,2019-05-20,Beauty/Health,Haircare,7,10,39477380
+772,85,East US,East US Store 77,2019-07-09,Furniture,Beds,8,30,19195385
+773,40,East US,East US Store 77,2019-03-29,Beauty/Health,Skincare,5,10,14273049
+774,45,East US,East US Store 77,2019-07-13,Furniture,Patio furniture,12,30,52375633
+775,6,East US,East US Store 77,2019-04-24,Baby,Baby toys,5,30,75564497
+776,44,East US,East US Store 77,2019-07-16,Furniture,Pool furniture,6,15,40190308
+777,8,East US,East US Store 77,2019-03-18,Clothing,Womens,6,25,89322904
+778,13,East US,East US Store 77,2019-06-11,Electronics,Tablets,4,300,64027803
+779,14,East US,East US Store 77,2019-01-12,Furniture,Patio furniture,7,40,11484384
+780,1,East US,East US Store 77,2019-06-07,Beauty/Health,Bath,12,10,56359364
+781,38,East US,East US Store 77,2019-07-12,Furniture,Indoor tables,6,30,75769906
+782,78,East US,East US Store 77,2019-03-11,Electronics,Computers,4,300,15912073
+783,62,East US,East US Store 77,2019-03-11,Clothing,Kids,6,25,44037095
+784,81,East US,East US Store 77,2019-01-02,Furniture,Indoor tables,7,40,87705232
+785,62,East US,East US Store 77,2019-02-05,Electronics,Speakers,3,100,38449151
+786,51,East US,East US Store 77,2019-02-15,Furniture,Indoor seating,5,75,67557651
+787,79,East US,East US Store 77,2019-01-06,Beauty/Health,Bath,7,10,60221005
+788,80,East US,East US Store 77,2019-02-17,Baby,Baby toys,3,30,23359759
+789,8,East US,East US Store 77,2019-05-01,Baby,Diaper bags,5,30,63973047
+790,17,East US,East US Store 77,2019-02-01,Clothing,Swimwear,6,20,58807328
+791,2,East US,East US Store 77,2019-02-14,Clothing,Kids,3,20,67998805
+792,91,East US,East US Store 77,2019-05-04,Baby,Diaper bags,9,5,20269821
+793,53,East US,East US Store 77,2019-05-15,Furniture,Indoor seating,11,100,13143045
+794,61,East US,East US Store 77,2019-05-21,Beauty/Health,Oral care,6,14,13688164
+795,45,East US,East US Store 77,2019-04-10,Furniture,Pool furniture,12,40,75424255
+796,85,East US,East US Store 77,2019-01-05,Furniture,Patio furniture,3,30,88212407
+797,94,East US,East US Store 77,2019-02-22,Clothing,Womens,3,13,33780373
+798,96,East US,East US Store 77,2019-02-01,Clothing,Kids,7,12,69693909
+799,94,East US,East US Store 77,2019-01-28,Furniture,Beds,5,40,21597812
+800,38,East US,East US Store 77,2019-06-30,Beauty/Health,Haircare,12,14,39675577
+801,58,East US,East US Store 77,2019-01-11,Furniture,Indoor seating,3,100,38118531
+802,78,East US,East US Store 77,2019-02-21,Furniture,Indoor tables,5,40,50076717
+803,86,East US,East US Store 77,2019-04-17,Beauty/Health,Makeup,12,10,61050151
+804,18,East US,East US Store 77,2019-05-15,Baby,Baby toys,12,12,69006858
+805,46,East US,East US Store 77,2019-02-11,Electronics,Tablets,4,50,94448474
+806,85,East US,East US Store 77,2019-04-28,Electronics,Tablets,4,200,53474013
+807,19,East US,East US Store 77,2019-05-05,Clothing,Mens,7,13,20209720
+808,39,East US,East US Store 77,2019-06-19,Beauty/Health,Haircare,9,10,71008439
+809,66,East US,East US Store 77,2019-07-12,Furniture,Indoor seating,7,40,97385280
+810,97,East US,East US Store 77,2019-01-09,Beauty/Health,Haircare,7,14,29887272
+811,95,East US,East US Store 77,2019-04-10,Electronics,Televisions,4,200,36805510
+812,95,East US,East US Store 77,2019-01-31,Baby,Cribs,3,15,16201562
+813,15,East US,East US Store 77,2019-05-09,Furniture,Patio furniture,10,100,82460203
+814,33,East US,East US Store 77,2019-04-15,Electronics,Computers,3,50,73267175
+815,1,East US,East US Store 77,2019-01-22,Clothing,Swimwear,7,10,57346031
+816,86,East US,East US Store 77,2019-04-23,Electronics,Headphones,3,200,83627618
+817,2,East US,East US Store 77,2019-04-15,Baby,Cribs,7,15,87236964
+818,28,East US,East US Store 77,2019-05-29,Beauty/Health,Fragrances,7,15,11862844
+819,100,East US,East US Store 77,2019-02-01,Furniture,Beds,5,40,74437318
+820,10,East US,East US Store 77,2019-03-08,Electronics,Tablets,3,200,56289573
+821,77,East US,East US Store 77,2019-07-04,Baby,Strollers,11,10,53895478
+822,48,East US,East US Store 77,2019-03-12,Furniture,Beds,4,15,42909914
+823,15,East US,East US Store 77,2019-05-15,Electronics,Computers,4,100,29109179
+824,54,East US,East US Store 77,2019-03-21,Beauty/Health,Makeup,7,10,30682233
+825,70,East US,East US Store 77,2019-03-11,Beauty/Health,Fragrances,4,10,59715172
+826,76,East US,East US Store 77,2019-05-11,Clothing,Womens,9,10,82381361
+827,58,East US,East US Store 77,2019-01-28,Beauty/Health,Makeup,4,10,42644276
+828,82,East US,East US Store 77,2019-06-10,Baby,Strollers,11,30,82416980
+829,92,East US,East US Store 77,2019-06-30,Clothing,Womens,8,10,68531468
+830,77,East US,East US Store 77,2019-05-14,Beauty/Health,Makeup,9,10,76996733
+831,56,East US,East US Store 77,2019-05-16,Beauty/Health,Bath,11,10,96116169
+832,61,East US,East US Store 77,2019-03-13,Clothing,Shoes,6,12,38926021
+833,54,East US,East US Store 77,2019-04-19,Clothing,Mens,6,10,56179234
+834,3,East US,East US Store 77,2019-06-05,Furniture,Patio furniture,6,100,37802905
+835,30,East US,East US Store 77,2019-05-05,Electronics,Computers,4,300,89830334
+836,63,East US,East US Store 77,2019-05-30,Furniture,Indoor seating,7,40,71536885
+837,8,East US,East US Store 77,2019-03-10,Clothing,Kids,5,25,15711565
+838,57,East US,East US Store 77,2019-04-18,Electronics,Televisions,4,100,44500573
+839,65,East US,East US Store 77,2019-05-17,Clothing,Shoes,6,13,51515889
+840,8,East US,East US Store 77,2019-06-03,Baby,Diaper bags,7,5,60104672
+841,42,East US,East US Store 77,2019-01-25,Beauty/Health,Feminine Products,4,10,76694626
+842,91,East US,East US Store 77,2019-06-08,Clothing,Baby,12,12,73610451
+843,69,East US,East US Store 77,2019-05-22,Electronics,Tablets,3,200,27339486
+844,93,East US,East US Store 77,2019-03-16,Electronics,Cell Phones,4,300,77454042
+845,45,East US,East US Store 77,2019-03-22,Furniture,Pool furniture,5,75,46549149
+846,43,East US,East US Store 77,2019-06-29,Beauty/Health,Makeup,9,10,41509297
+847,69,East US,East US Store 77,2019-04-22,Clothing,Womens,11,13,57575244
+848,20,East US,East US Store 77,2019-04-22,Furniture,Beds,5,100,34119811
+849,4,East US,East US Store 77,2019-03-15,Furniture,Indoor tables,4,40,50843686
+850,86,East US,East US Store 77,2019-05-12,Electronics,Televisions,3,50,32796658
+851,23,East US,East US Store 77,2019-02-10,Electronics,Televisions,3,200,69537885
+852,5,East US,East US Store 77,2019-06-23,Beauty/Health,Fragrances,9,10,86304711
+853,63,East US,East US Store 77,2019-05-07,Electronics,Cell Phones,3,50,10600065
+854,32,East US,East US Store 77,2019-01-28,Beauty/Health,Fragrances,5,14,42143130
+855,57,East US,East US Store 77,2019-02-26,Baby,Strollers,7,15,42014382
+856,31,East US,East US Store 77,2019-05-19,Electronics,Computers,3,200,43133288
+857,66,East US,East US Store 77,2019-03-31,Baby,Diaper bags,3,10,61864199
+858,11,East US,East US Store 77,2019-01-03,Electronics,Tablets,4,200,51150222
+859,94,East US,East US Store 77,2019-03-29,Baby,Car seats,4,10,71432970
+860,24,East US,East US Store 77,2019-01-06,Electronics,Tablets,4,300,62247367
+861,1,East US,East US Store 77,2019-03-19,Baby,Cribs,4,10,78068405
+862,78,East US,East US Store 77,2019-05-12,Furniture,Indoor tables,5,40,71176623
+863,30,East US,East US Store 77,2019-04-13,Baby,Diaper bags,10,10,73963137
+864,73,East US,East US Store 77,2019-04-22,Baby,Car seats,5,12,72076127
+865,31,East US,East US Store 77,2019-01-20,Furniture,Patio furniture,3,75,55742831
+866,70,East US,East US Store 77,2019-04-15,Electronics,Televisions,3,300,91075661
+867,84,East US,East US Store 77,2019-05-21,Electronics,Tablets,4,300,82845985
+868,84,East US,East US Store 77,2019-01-04,Baby,Diapers,5,15,15204817
+869,26,East US,East US Store 77,2019-01-17,Clothing,Shoes,3,20,46622009
+870,12,East US,East US Store 77,2019-04-11,Beauty/Health,Makeup,5,14,44233297
+871,46,East US,East US Store 77,2019-06-20,Electronics,Computers,3,300,13696576
+872,71,East US,East US Store 77,2019-01-25,Beauty/Health,Oral care,4,10,37508580
+873,39,East US,East US Store 77,2019-04-26,Furniture,Patio furniture,8,100,10843686
+874,99,East US,East US Store 77,2019-06-06,Baby,Strollers,9,30,67434484
+875,95,East US,East US Store 77,2019-04-19,Furniture,Indoor seating,5,100,98364324
+876,50,East US,East US Store 77,2019-06-12,Baby,Diapers,10,15,53983308
+877,21,East US,East US Store 77,2019-06-06,Furniture,Patio furniture,8,30,76442969
+878,86,East US,East US Store 77,2019-04-17,Furniture,Indoor tables,11,40,26754670
+879,72,East US,East US Store 77,2019-06-13,Clothing,Kids,5,25,51525102
+880,7,East US,East US Store 77,2019-06-23,Beauty/Health,Haircare,6,10,87996328
+881,70,East US,East US Store 77,2019-06-13,Baby,Strollers,11,15,36703846
+882,92,East US,East US Store 77,2019-07-12,Clothing,Shoes,11,10,85574459
+883,71,East US,East US Store 77,2019-03-22,Furniture,Indoor tables,3,75,23460602
+884,47,East US,East US Store 77,2019-07-16,Furniture,Patio furniture,7,75,29452760
+885,96,East US,East US Store 77,2019-05-11,Clothing,Baby,7,13,20786113
+886,14,East US,East US Store 77,2019-06-28,Baby,Car seats,8,15,10029065
+887,49,East US,East US Store 77,2019-02-07,Clothing,Womens,7,13,46682144
+888,83,East US,East US Store 77,2019-01-21,Electronics,Computers,3,200,17858173
+889,88,East US,East US Store 77,2019-02-24,Beauty/Health,Makeup,3,10,71262934
+890,72,East US,East US Store 77,2019-05-22,Beauty/Health,Makeup,12,10,46363838
+891,79,East US,East US Store 77,2019-03-06,Electronics,Headphones,3,100,80857826
+892,76,East US,East US Store 77,2019-04-24,Beauty/Health,Oral care,12,10,25483190
+893,75,East US,East US Store 77,2019-05-03,Clothing,Swimwear,10,25,11464586
+894,43,East US,East US Store 77,2019-02-12,Clothing,Baby,7,10,70784717
+895,100,East US,East US Store 77,2019-01-25,Electronics,Cell Phones,4,300,94214771
+896,37,East US,East US Store 77,2019-06-10,Clothing,Kids,10,12,77737343
+897,100,East US,East US Store 77,2019-06-22,Clothing,Kids,9,12,97311001
+898,60,East US,East US Store 77,2019-04-16,Baby,Diaper bags,10,10,55515083
+899,26,East US,East US Store 77,2019-02-22,Beauty/Health,Bath,7,6,93961336
+900,48,East US,East US Store 77,2019-04-08,Electronics,Headphones,3,50,36404259
+901,44,East US,East US Store 77,2019-03-02,Beauty/Health,Fragrances,7,14,90235149
+902,40,East US,East US Store 77,2019-04-12,Beauty/Health,Haircare,9,6,53002577
+903,71,East US,East US Store 77,2019-02-05,Clothing,Baby,4,13,29298938
+904,80,East US,East US Store 77,2019-05-06,Beauty/Health,Skincare,9,10,98837596
+905,54,East US,East US Store 77,2019-02-26,Clothing,Baby,5,25,27528483
+906,87,East US,East US Store 77,2019-04-24,Furniture,Indoor seating,12,30,88948881
+907,82,East US,East US Store 77,2019-05-07,Clothing,Kids,7,13,12818252
+908,34,East US,East US Store 77,2019-05-28,Baby,Baby toys,7,12,24278145
+909,68,East US,East US Store 77,2019-03-07,Clothing,Baby,5,20,80390178
+910,6,East US,East US Store 77,2019-02-23,Electronics,Cell Phones,4,200,56352333
+911,72,East US,East US Store 77,2019-03-23,Clothing,Mens,6,13,31176059
+912,9,East US,East US Store 77,2019-05-13,Electronics,Headphones,3,50,32992201
+913,6,East US,East US Store 77,2019-03-16,Furniture,Patio furniture,5,100,61949378
+914,8,East US,East US Store 77,2019-02-27,Beauty/Health,Skincare,7,6,58606778
+915,16,East US,East US Store 77,2019-05-16,Beauty/Health,Bath,11,10,70891809
+916,74,East US,East US Store 77,2019-02-20,Furniture,Indoor tables,5,15,28678582
+917,70,East US,East US Store 77,2019-01-25,Beauty/Health,Skincare,6,10,46697205
+918,45,East US,East US Store 77,2019-04-27,Baby,Cribs,7,30,86228530
+919,24,East US,East US Store 77,2019-03-17,Beauty/Health,Bath,7,10,83635522
+920,61,East US,East US Store 77,2019-04-12,Clothing,Womens,8,20,69314250
+921,58,East US,East US Store 77,2019-02-05,Furniture,Indoor tables,6,40,53067526
+922,87,East US,East US Store 77,2019-02-26,Electronics,Tablets,3,50,53652827
+923,69,East US,East US Store 77,2019-01-26,Clothing,Swimwear,6,20,77027968
+924,48,East US,East US Store 77,2019-05-11,Beauty/Health,Bath,10,10,85772326
+925,5,East US,East US Store 77,2019-06-23,Beauty/Health,Oral care,10,15,37010243
+926,25,East US,East US Store 77,2019-01-02,Furniture,Patio furniture,5,100,32115720
+927,30,East US,East US Store 77,2019-05-12,Beauty/Health,Oral care,8,15,92185115
+928,82,East US,East US Store 77,2019-02-17,Baby,Diapers,5,5,76960604
+929,54,East US,East US Store 77,2019-06-16,Furniture,Indoor tables,11,75,78652664
+930,11,East US,East US Store 77,2019-05-10,Electronics,Tablets,3,200,84104742
+931,28,East US,East US Store 77,2019-03-06,Electronics,Tablets,3,100,94724770
+932,78,East US,East US Store 77,2019-04-27,Clothing,Mens,12,10,97316421
+933,78,East US,East US Store 77,2019-02-07,Beauty/Health,Bath,5,15,47043474
+934,62,East US,East US Store 77,2019-05-26,Clothing,Baby,10,20,72278317
+935,42,East US,East US Store 77,2019-01-10,Electronics,Televisions,3,100,54056544
+936,1,East US,East US Store 77,2019-06-08,Electronics,Tablets,3,300,50717357
+937,6,East US,East US Store 77,2019-02-14,Beauty/Health,Bath,6,10,27533365
+938,91,East US,East US Store 77,2019-07-12,Beauty/Health,Feminine Products,5,10,13585705
+939,30,East US,East US Store 77,2019-04-20,Baby,Diaper bags,12,15,16026983
+940,4,East US,East US Store 77,2019-04-15,Beauty/Health,Makeup,5,10,17113489
+941,18,East US,East US Store 77,2019-01-06,Furniture,Beds,3,75,47540440
+942,55,East US,East US Store 77,2019-06-20,Electronics,Tablets,4,200,70479542
+943,46,East US,East US Store 77,2019-02-01,Clothing,Kids,7,10,71408831
+944,21,East US,East US Store 77,2019-06-29,Furniture,Indoor tables,10,100,10545008
+945,96,East US,East US Store 77,2019-05-31,Furniture,Indoor seating,12,40,47598156
+946,35,East US,East US Store 77,2019-06-02,Electronics,Cell Phones,4,100,97706973
+947,3,East US,East US Store 77,2019-06-04,Electronics,Televisions,4,50,44850889
+948,92,East US,East US Store 77,2019-02-19,Clothing,Womens,3,12,13194936
+949,58,East US,East US Store 77,2019-07-05,Beauty/Health,Oral care,9,10,61416354
+950,90,East US,East US Store 77,2019-01-08,Furniture,Patio furniture,3,40,99172827
+951,67,East US,East US Store 77,2019-05-17,Furniture,Indoor seating,5,75,69450523
+952,57,East US,East US Store 77,2019-04-13,Clothing,Womens,8,25,50342309
+953,87,East US,East US Store 77,2019-05-11,Electronics,Headphones,3,100,93540893
+954,29,East US,East US Store 77,2019-03-14,Beauty/Health,Oral care,7,10,30440823
+955,68,East US,East US Store 77,2019-07-11,Baby,Car seats,10,10,21191432
+956,100,East US,East US Store 77,2019-01-04,Clothing,Baby,6,12,51431299
+957,27,East US,East US Store 77,2019-06-17,Beauty/Health,Fragrances,5,14,51291289
+958,94,East US,East US Store 77,2019-05-07,Clothing,Shoes,8,13,61517759
+959,97,East US,East US Store 77,2019-03-28,Electronics,Tablets,3,100,30096105
+960,60,East US,East US Store 77,2019-05-27,Clothing,Kids,10,12,71575913
+961,37,East US,East US Store 77,2019-05-17,Clothing,Womens,9,25,74533506
+962,76,East US,East US Store 77,2019-03-26,Baby,Strollers,7,10,81855864
+963,42,East US,East US Store 77,2019-06-23,Electronics,Televisions,3,200,16847877
+964,83,East US,East US Store 77,2019-06-27,Electronics,Headphones,4,200,36611562
+965,24,East US,East US Store 77,2019-03-13,Baby,Diaper bags,4,12,72669389
+966,40,East US,East US Store 77,2019-03-02,Beauty/Health,Feminine Products,4,10,86727096
+967,37,East US,East US Store 77,2019-05-18,Clothing,Kids,9,20,93306938
+968,18,East US,East US Store 77,2019-02-01,Furniture,Pool furniture,5,30,99500770
+969,76,East US,East US Store 77,2019-04-30,Furniture,Pool furniture,5,40,34964388
+970,60,East US,East US Store 77,2019-01-20,Electronics,Speakers,4,100,69518244
+971,88,East US,East US Store 77,2019-02-19,Electronics,Headphones,3,100,29531573
+972,88,East US,East US Store 77,2019-06-13,Electronics,Tablets,3,200,24437598
+973,60,East US,East US Store 77,2019-05-28,Baby,Car seats,5,15,31246621
+974,57,East US,East US Store 77,2019-05-26,Clothing,Shoes,8,13,37965598
+975,81,East US,East US Store 77,2019-02-17,Furniture,Indoor tables,4,40,20189005
+976,60,East US,East US Store 77,2019-02-06,Beauty/Health,Fragrances,6,15,89002573
+977,2,East US,East US Store 77,2019-01-20,Clothing,Shoes,7,25,70465310
+978,30,East US,East US Store 77,2019-05-31,Furniture,Beds,5,75,84656889
+979,82,East US,East US Store 77,2019-06-20,Clothing,Womens,10,12,31063752
+980,61,East US,East US Store 77,2019-07-15,Electronics,Headphones,4,300,18431779
+981,32,East US,East US Store 77,2019-03-15,Electronics,Speakers,3,50,75148271
+982,57,East US,East US Store 77,2019-05-20,Baby,Car seats,8,12,11398769
+983,15,East US,East US Store 77,2019-05-11,Electronics,Cell Phones,4,200,41553074
+984,28,East US,East US Store 77,2019-04-04,Furniture,Pool furniture,4,15,19367290
+985,96,East US,East US Store 77,2019-07-03,Baby,Diapers,6,30,94214887
+986,46,East US,East US Store 77,2019-02-04,Furniture,Beds,6,40,57017701
+987,92,East US,East US Store 77,2019-06-20,Beauty/Health,Oral care,11,14,77684515
+988,60,East US,East US Store 77,2019-05-13,Electronics,Computers,3,200,50867946
+989,26,East US,East US Store 77,2019-04-29,Furniture,Beds,8,100,85858441
+990,80,East US,East US Store 77,2019-01-14,Baby,Strollers,3,12,94859731
+991,38,East US,East US Store 77,2019-03-31,Beauty/Health,Feminine Products,4,6,99505535
+992,4,East US,East US Store 77,2019-02-23,Beauty/Health,Haircare,4,10,51529759
+993,61,East US,East US Store 77,2019-01-20,Electronics,Headphones,4,50,11237456
+994,33,East US,East US Store 77,2019-06-01,Beauty/Health,Fragrances,6,6,66396763
+995,31,East US,East US Store 77,2019-05-24,Beauty/Health,Skincare,11,14,10026212
+996,81,East US,East US Store 77,2019-07-15,Clothing,Kids,8,12,96868230
+997,12,East US,East US Store 77,2019-04-30,Beauty/Health,Makeup,7,10,50366423
+998,76,East US,East US Store 77,2019-02-08,Baby,Diaper bags,7,15,50736426
+999,68,East US,East US Store 77,2019-07-04,Baby,Diapers,11,12,53786827
+1000,40,East US,East US Store 77,2019-04-03,Beauty/Health,Fragrances,7,14,95618433
+1001,70,East US,East US Store 77,2019-02-26,Baby,Cribs,4,15,97279438
+1002,52,East US,East US Store 77,2019-04-09,Clothing,Swimwear,8,12,33418963
+1003,32,East US,East US Store 77,2019-04-12,Clothing,Baby,6,25,45195942
+1004,74,East US,East US Store 77,2019-04-06,Electronics,Tablets,4,100,10264212
+1005,62,East US,East US Store 77,2019-05-08,Clothing,Swimwear,7,13,30298812
+1006,14,East US,East US Store 77,2019-03-22,Clothing,Swimwear,3,25,84025121
+1007,9,East US,East US Store 77,2019-01-19,Beauty/Health,Makeup,3,14,42882541
+1008,67,East US,East US Store 77,2019-05-23,Beauty/Health,Feminine Products,8,10,73073314
+1009,77,East US,East US Store 77,2019-05-23,Furniture,Indoor tables,9,75,16629653
+1010,68,East US,East US Store 77,2019-04-04,Furniture,Beds,5,100,27288258
+1011,21,East US,East US Store 77,2019-05-04,Furniture,Indoor seating,7,75,71436281
+1012,16,East US,East US Store 77,2019-06-03,Furniture,Indoor tables,6,100,28577191
+1013,44,East US,East US Store 77,2019-02-25,Electronics,Tablets,3,100,15541588
+1014,69,East US,East US Store 77,2019-03-30,Clothing,Baby,6,13,56023728
+1015,16,East US,East US Store 77,2019-07-05,Furniture,Patio furniture,10,75,37406205
+1016,87,East US,East US Store 77,2019-02-13,Baby,Car seats,6,30,19775034
+1017,84,East US,East US Store 77,2019-01-05,Electronics,Speakers,4,200,30188591
+1018,22,East US,East US Store 77,2019-06-07,Clothing,Swimwear,9,25,35531227
+1019,43,East US,East US Store 77,2019-05-17,Baby,Cribs,9,12,73211639
+1020,45,East US,East US Store 77,2019-02-14,Clothing,Kids,5,10,73157384
+1021,8,East US,East US Store 77,2019-05-07,Beauty/Health,Makeup,6,6,44035913
+1022,11,East US,East US Store 77,2019-04-04,Clothing,Swimwear,6,20,52288067
+1023,64,East US,East US Store 77,2019-01-31,Baby,Strollers,5,5,53577274
+1024,97,East US,East US Store 77,2019-04-22,Furniture,Pool furniture,8,40,95853092
+1025,74,East US,East US Store 77,2019-01-09,Baby,Baby toys,3,5,66988263
+1026,30,East US,East US Store 77,2019-04-06,Clothing,Womens,4,10,63100581
+1027,37,East US,East US Store 77,2019-06-06,Furniture,Patio furniture,7,75,22865777
+1028,92,East US,East US Store 77,2019-04-30,Clothing,Shoes,6,10,69133421
+1029,71,East US,East US Store 77,2019-03-29,Furniture,Indoor seating,4,30,12548714
+1030,93,East US,East US Store 77,2019-01-02,Baby,Diapers,3,5,61056307
+1031,70,East US,East US Store 77,2019-07-02,Clothing,Baby,5,13,76369859
+1032,73,East US,East US Store 77,2019-01-13,Baby,Car seats,7,15,79373480
+1033,4,East US,East US Store 77,2019-02-23,Beauty/Health,Makeup,4,10,85138315
+1034,41,East US,East US Store 77,2019-01-17,Clothing,Mens,4,25,47290224
+1035,5,East US,East US Store 77,2019-06-12,Beauty/Health,Bath,10,15,65849180
+1036,91,East US,East US Store 77,2019-06-01,Baby,Baby toys,8,5,29443939
+1037,88,East US,East US Store 77,2019-07-04,Electronics,Computers,3,50,27333280
+1038,14,East US,East US Store 77,2019-04-03,Furniture,Indoor tables,3,40,81692227
+1039,93,East US,East US Store 77,2019-01-23,Baby,Strollers,4,10,37131123
+1040,91,East US,East US Store 77,2019-03-28,Clothing,Baby,5,10,22089466
+1041,90,East US,East US Store 77,2019-04-28,Baby,Car seats,12,15,17435275
+1042,58,East US,East US Store 77,2019-02-13,Clothing,Womens,4,20,45874807
+1043,16,East US,East US Store 77,2019-06-08,Beauty/Health,Oral care,10,10,82334397
+1044,57,East US,East US Store 77,2019-05-11,Electronics,Computers,3,50,59794722
+1045,28,East US,East US Store 77,2019-05-04,Clothing,Womens,9,25,54116274
+1046,99,East US,East US Store 77,2019-03-08,Beauty/Health,Haircare,7,10,18417813
+1047,49,East US,East US Store 77,2019-03-11,Electronics,Televisions,3,100,38670770
+1048,73,East US,East US Store 77,2019-07-08,Electronics,Speakers,3,200,58693754
+1049,59,East US,East US Store 77,2019-04-16,Clothing,Mens,7,13,19310834
+1050,73,East US,East US Store 77,2019-04-07,Clothing,Baby,7,12,20039538
+1051,9,East US,East US Store 77,2019-05-09,Electronics,Computers,4,200,18223136
+1052,65,East US,East US Store 77,2019-03-08,Furniture,Patio furniture,3,40,92995864
+1053,95,East US,East US Store 77,2019-04-02,Clothing,Kids,3,20,14268254
+1054,51,East US,East US Store 77,2019-06-04,Furniture,Beds,6,75,82747075
+1055,10,East US,East US Store 77,2019-05-08,Baby,Car seats,12,5,37099028
+1056,31,East US,East US Store 77,2019-03-22,Baby,Strollers,3,10,10125858
+1057,77,East US,East US Store 77,2019-01-23,Clothing,Swimwear,4,25,63008258
+1058,72,East US,East US Store 77,2019-04-19,Furniture,Patio furniture,8,15,76266370
+1059,4,East US,East US Store 77,2019-01-13,Furniture,Beds,5,15,41679611
+1060,25,East US,East US Store 77,2019-03-15,Clothing,Shoes,3,20,34636210
+1061,90,East US,East US Store 77,2019-05-29,Electronics,Computers,3,300,82973229
+1062,89,East US,East US Store 77,2019-07-04,Beauty/Health,Skincare,5,14,89793513
+1063,51,East US,East US Store 77,2019-02-22,Clothing,Kids,3,10,92567045
+1064,40,East US,East US Store 77,2019-02-06,Clothing,Kids,3,13,31155513
+1065,77,East US,East US Store 77,2019-02-08,Electronics,Tablets,4,200,19914913
+1066,101,East US,East US Store 77,2019-05-05,Clothing,Swimwear,8,25,28964495
+1067,7,East US,East US Store 77,2019-01-08,Clothing,Swimwear,4,25,82146550
+1068,32,East US,East US Store 77,2019-05-27,Baby,Cribs,5,5,40021371
+1069,16,East US,East US Store 77,2019-03-13,Clothing,Womens,4,20,53219596
+1070,66,East US,East US Store 77,2019-06-29,Furniture,Patio furniture,9,40,94499182
+1071,44,East US,East US Store 77,2019-02-17,Electronics,Tablets,3,100,78900483
+1072,28,East US,East US Store 77,2019-05-21,Electronics,Computers,4,300,42923020
+1073,92,East US,East US Store 77,2019-07-16,Beauty/Health,Skincare,10,10,84984217
+1074,10,East US,East US Store 77,2019-05-12,Beauty/Health,Feminine Products,12,10,24657448
+1075,62,East US,East US Store 77,2019-01-08,Electronics,Tablets,4,100,57851768
+1076,20,East US,East US Store 77,2019-02-11,Clothing,Shoes,3,20,74718029
+1077,68,East US,East US Store 77,2019-01-02,Electronics,Speakers,3,200,57338741
+1078,76,East US,East US Store 77,2019-04-06,Electronics,Computers,3,100,24986351
+1079,27,East US,East US Store 77,2019-03-15,Beauty/Health,Skincare,6,15,67382768
+1080,62,East US,East US Store 77,2019-01-07,Furniture,Beds,5,75,30519330
+1081,46,East US,East US Store 77,2019-04-24,Baby,Baby toys,6,30,69645391
+1082,4,East US,East US Store 77,2019-02-02,Baby,Car seats,5,10,55104830
+1083,2,East US,East US Store 77,2019-05-26,Clothing,Kids,5,25,43380547
+1084,95,East US,East US Store 77,2019-07-06,Beauty/Health,Haircare,12,10,66792721
+1085,59,East US,East US Store 77,2019-03-14,Beauty/Health,Bath,6,10,32708559
+1086,14,East US,East US Store 77,2019-06-06,Electronics,Tablets,3,100,58049542
+1087,26,East US,East US Store 77,2019-06-17,Furniture,Indoor tables,8,40,37147277
+1088,91,East US,East US Store 77,2019-06-23,Beauty/Health,Bath,10,10,59997513
+1089,45,East US,East US Store 77,2019-07-13,Baby,Baby toys,8,5,10500282
+1090,68,East US,East US Store 77,2019-05-31,Baby,Strollers,5,10,93313597
+1091,10,East US,East US Store 77,2019-03-25,Clothing,Womens,7,10,79623876
+1092,56,East US,East US Store 77,2019-07-02,Electronics,Televisions,4,300,99223857
+1093,96,East US,East US Store 77,2019-04-08,Baby,Diapers,3,5,43564450
+1094,34,East US,East US Store 77,2019-07-04,Electronics,Televisions,4,300,50343148
+1095,18,East US,East US Store 77,2019-03-02,Beauty/Health,Bath,3,15,57794594
+1096,10,East US,East US Store 77,2019-04-14,Clothing,Womens,11,13,87820637
+1097,18,East US,East US Store 77,2019-05-01,Baby,Diaper bags,12,15,68328212
+1098,49,East US,East US Store 77,2019-04-22,Clothing,Womens,12,25,60483854
+1099,87,East US,East US Store 77,2019-05-11,Clothing,Womens,11,25,14276415
+1100,79,East US,East US Store 77,2019-06-27,Electronics,Computers,3,50,82503543
+1101,26,East US,East US Store 77,2019-05-27,Beauty/Health,Bath,10,10,68570153
+1102,88,East US,East US Store 77,2019-03-16,Beauty/Health,Feminine Products,3,6,98687179
+1103,4,East US,East US Store 77,2019-06-22,Electronics,Computers,4,100,43940100
+1104,43,East US,East US Store 77,2019-01-03,Beauty/Health,Bath,3,6,34460641
+1105,38,East US,East US Store 77,2019-05-18,Electronics,Tablets,4,200,91339720
+1106,6,East US,East US Store 77,2019-02-03,Beauty/Health,Fragrances,5,10,70456093
+1107,5,East US,East US Store 77,2019-07-03,Furniture,Indoor seating,12,40,83579371
+1108,86,East US,East US Store 77,2019-05-11,Beauty/Health,Oral care,8,6,74731908
+1109,10,East US,East US Store 77,2019-06-29,Baby,Cribs,11,30,11542112
+1110,81,East US,East US Store 77,2019-05-15,Baby,Baby toys,7,5,76987770
+1111,76,East US,East US Store 77,2019-03-25,Clothing,Kids,5,20,45340276
+1112,69,East US,East US Store 77,2019-05-24,Furniture,Patio furniture,10,30,71455551
+1113,11,East US,East US Store 77,2019-04-02,Baby,Diaper bags,3,10,99824132
+1114,69,East US,East US Store 77,2019-01-02,Electronics,Speakers,3,100,57139913
+1115,67,East US,East US Store 77,2019-01-21,Electronics,Televisions,3,100,70421825
+1116,89,East US,East US Store 77,2019-06-11,Baby,Cribs,11,30,78221197
+1117,29,East US,East US Store 77,2019-06-02,Clothing,Swimwear,7,13,51308539
+1118,53,East US,East US Store 77,2019-04-01,Beauty/Health,Oral care,4,14,51438848
+1119,14,East US,East US Store 77,2019-02-24,Baby,Strollers,6,12,38459042
+1120,90,East US,East US Store 77,2019-05-07,Beauty/Health,Feminine Products,12,15,13184417
+1121,91,East US,East US Store 77,2019-01-02,Clothing,Shoes,5,10,55722605
+1122,23,East US,East US Store 77,2019-03-05,Clothing,Shoes,7,25,85882394
+1123,41,East US,East US Store 77,2019-03-27,Baby,Car seats,6,30,89580705
+1124,49,East US,East US Store 77,2019-05-19,Baby,Baby toys,12,5,97615494
+1125,100,East US,East US Store 77,2019-03-21,Beauty/Health,Skincare,3,6,86084309
+1126,29,East US,East US Store 77,2019-02-20,Beauty/Health,Feminine Products,3,10,29227819
+1127,35,East US,East US Store 77,2019-01-11,Baby,Baby toys,4,5,83890611
+1128,92,East US,East US Store 77,2019-04-22,Beauty/Health,Fragrances,6,10,13221035
+1129,12,East US,East US Store 77,2019-05-24,Baby,Strollers,9,15,33251371
+1130,92,East US,East US Store 77,2019-04-23,Baby,Cribs,5,10,18721282
+1131,57,East US,East US Store 77,2019-04-05,Clothing,Womens,7,12,16027067
+1132,63,East US,East US Store 77,2019-03-26,Baby,Strollers,4,10,69322408
+1133,98,East US,East US Store 77,2019-03-08,Furniture,Patio furniture,3,40,36028378
+1134,8,East US,East US Store 77,2019-04-18,Furniture,Beds,7,100,29722788
+1135,91,East US,East US Store 77,2019-02-26,Electronics,Headphones,3,50,32285032
+1136,43,East US,East US Store 77,2019-01-09,Beauty/Health,Bath,4,6,43831532
+1137,54,East US,East US Store 77,2019-02-17,Furniture,Patio furniture,6,15,48317483
+1138,7,East US,East US Store 77,2019-01-15,Baby,Diaper bags,7,5,19430385
+1139,8,East US,East US Store 77,2019-06-01,Baby,Diapers,7,30,62372952
+1140,82,East US,East US Store 77,2019-05-06,Electronics,Computers,3,100,79028956
+1141,60,East US,East US Store 77,2019-04-13,Furniture,Indoor tables,9,75,33446107
+1142,26,East US,East US Store 77,2019-07-16,Clothing,Shoes,6,12,19551839
+1143,47,East US,East US Store 77,2019-06-04,Clothing,Womens,5,12,97875261
+1144,98,East US,East US Store 77,2019-01-01,Furniture,Indoor tables,5,30,18132391
+1145,11,East US,East US Store 77,2019-03-29,Beauty/Health,Bath,3,10,39373104
+1146,84,East US,East US Store 77,2019-04-17,Clothing,Baby,8,25,47205259
+1147,87,East US,East US Store 77,2019-05-27,Electronics,Televisions,3,200,92128244
+1148,32,East US,East US Store 77,2019-03-08,Furniture,Beds,7,40,57603937
+1149,52,East US,East US Store 77,2019-06-04,Electronics,Tablets,3,100,99574486
+1150,67,East US,East US Store 77,2019-06-09,Beauty/Health,Fragrances,6,15,82153461
+1151,72,East US,East US Store 77,2019-04-29,Beauty/Health,Bath,12,15,73288663
+1152,99,East US,East US Store 77,2019-01-31,Furniture,Patio furniture,3,75,35238912
+1153,59,East US,East US Store 77,2019-04-19,Beauty/Health,Oral care,5,10,79833251
+1154,87,East US,East US Store 77,2019-02-13,Clothing,Womens,3,13,42444751
+1155,44,East US,East US Store 77,2019-02-07,Clothing,Mens,6,12,89554193
+1156,26,East US,East US Store 77,2019-06-09,Clothing,Mens,12,10,80918469
+1157,32,East US,East US Store 77,2019-03-25,Clothing,Shoes,5,10,25461932
+1158,31,East US,East US Store 77,2019-06-23,Clothing,Shoes,10,12,17058700
+1159,14,East US,East US Store 77,2019-01-17,Baby,Diaper bags,3,10,16774002
+1160,43,East US,East US Store 77,2019-01-15,Electronics,Tablets,4,50,23926530
+1161,62,East US,East US Store 77,2019-07-04,Beauty/Health,Skincare,10,6,25645249
+1162,87,East US,East US Store 77,2019-04-17,Electronics,Headphones,4,300,83322662
+1163,41,East US,East US Store 77,2019-05-15,Electronics,Computers,4,50,91607653
+1164,14,East US,East US Store 77,2019-02-05,Clothing,Womens,3,12,42332847
+1165,40,East US,East US Store 77,2019-05-29,Baby,Diapers,6,10,14103171
+1166,9,East US,East US Store 77,2019-04-30,Beauty/Health,Fragrances,10,14,66465325
+1167,33,East US,East US Store 77,2019-03-10,Baby,Strollers,4,10,84310330
+1168,47,East US,East US Store 77,2019-06-03,Beauty/Health,Skincare,5,10,42490401
+1169,58,East US,East US Store 77,2019-01-22,Beauty/Health,Bath,4,10,86890753
+1170,15,East US,East US Store 77,2019-02-10,Electronics,Cell Phones,3,200,83545489
+1171,42,East US,East US Store 77,2019-01-01,Beauty/Health,Skincare,7,10,23327839
+1172,38,East US,East US Store 77,2019-01-01,Electronics,Computers,3,200,14435828
+1173,75,East US,East US Store 77,2019-05-26,Baby,Diaper bags,6,10,14884800
+1174,96,East US,East US Store 77,2019-05-18,Clothing,Womens,7,12,29901669
+1175,21,East US,East US Store 77,2019-03-07,Clothing,Kids,4,12,58307240
+1176,12,East US,East US Store 77,2019-01-28,Baby,Diaper bags,4,30,80026403
+1177,2,East US,East US Store 77,2019-04-30,Clothing,Shoes,11,25,54292948
+1178,47,East US,East US Store 77,2019-03-16,Furniture,Indoor seating,4,15,91110930
+1179,26,East US,East US Store 77,2019-06-16,Clothing,Swimwear,7,13,25056001
+1180,9,East US,East US Store 77,2019-01-03,Baby,Cribs,4,12,45674945
+1181,24,East US,East US Store 77,2019-04-25,Furniture,Pool furniture,10,100,19365240
+1182,49,East US,East US Store 77,2019-03-01,Beauty/Health,Haircare,3,10,30096962
+1183,29,East US,East US Store 77,2019-05-03,Beauty/Health,Fragrances,5,10,44045102
+1184,77,East US,East US Store 77,2019-02-04,Furniture,Beds,4,15,90947816
+1185,63,East US,East US Store 77,2019-01-31,Clothing,Baby,3,20,68872828
+1186,23,East US,East US Store 77,2019-01-03,Baby,Car seats,5,10,92044282
+1187,21,East US,East US Store 77,2019-01-01,Clothing,Womens,3,25,63569356
+1188,101,East US,East US Store 77,2019-05-16,Furniture,Indoor seating,8,100,80209936
+1189,41,East US,East US Store 77,2019-02-11,Beauty/Health,Oral care,5,15,21195260
+1190,57,East US,East US Store 77,2019-04-18,Beauty/Health,Feminine Products,10,15,68552052
+1191,25,East US,East US Store 77,2019-01-06,Electronics,Speakers,4,200,82525040
+1192,22,East US,East US Store 77,2019-04-15,Clothing,Shoes,11,25,31488700
+1193,41,East US,East US Store 77,2019-02-18,Beauty/Health,Fragrances,7,10,94708729
+1194,30,East US,East US Store 77,2019-06-22,Furniture,Pool furniture,9,15,84477149
+1195,54,East US,East US Store 77,2019-02-19,Beauty/Health,Feminine Products,3,14,15100566
+1196,65,East US,East US Store 77,2019-02-05,Baby,Diaper bags,3,30,87181145
+1197,23,East US,East US Store 77,2019-02-28,Clothing,Baby,7,13,71209347
+1198,64,East US,East US Store 77,2019-02-26,Baby,Strollers,4,12,13406259
+1199,62,East US,East US Store 77,2019-01-27,Baby,Strollers,3,10,38913211
+1200,65,East US,East US Store 77,2019-07-14,Furniture,Beds,5,100,30910142
+1201,73,East US,East US Store 77,2019-04-25,Beauty/Health,Oral care,10,10,64258928
+1202,100,East US,East US Store 77,2019-01-18,Beauty/Health,Bath,6,10,88405342
+1203,85,East US,East US Store 77,2019-07-10,Furniture,Pool furniture,8,15,22345041
+1204,52,East US,East US Store 77,2019-06-02,Electronics,Tablets,4,50,16184358
+1205,64,East US,East US Store 77,2019-03-30,Clothing,Shoes,7,25,44243218
+1206,18,East US,East US Store 77,2019-06-23,Furniture,Beds,8,15,58105497
+1207,26,East US,East US Store 77,2019-03-10,Clothing,Swimwear,4,10,77566834
+1208,86,East US,East US Store 77,2019-03-22,Clothing,Baby,6,12,54881842
+1209,20,East US,East US Store 77,2019-02-26,Electronics,Televisions,3,200,11797921
+1210,69,East US,East US Store 77,2019-06-17,Baby,Baby toys,7,15,82950112
+1211,8,East US,East US Store 77,2019-04-07,Baby,Car seats,5,30,65746828
+1212,60,East US,East US Store 77,2019-02-14,Clothing,Womens,7,20,55566099
+1213,84,East US,East US Store 77,2019-05-13,Beauty/Health,Fragrances,8,6,37171031
+1214,65,East US,East US Store 77,2019-02-25,Clothing,Swimwear,7,13,27684583
+1215,89,East US,East US Store 77,2019-04-02,Clothing,Womens,7,10,12029851
+1216,47,East US,East US Store 77,2019-06-21,Clothing,Mens,9,13,79286227
+1217,54,East US,East US Store 77,2019-05-22,Baby,Cribs,8,15,70068447
+1218,73,East US,East US Store 77,2019-05-26,Beauty/Health,Fragrances,5,15,41431852
+1219,32,East US,East US Store 77,2019-06-08,Clothing,Shoes,9,25,10263232
+1220,34,East US,East US Store 77,2019-06-24,Electronics,Headphones,3,50,42573075
+1221,94,East US,East US Store 77,2019-02-19,Electronics,Headphones,4,100,96565999
+1222,8,East US,East US Store 77,2019-01-15,Electronics,Televisions,4,100,49088957
+1223,41,East US,East US Store 77,2019-05-26,Electronics,Headphones,3,50,43934822
+1224,80,East US,East US Store 77,2019-02-02,Clothing,Mens,4,12,79034290
+1225,40,East US,East US Store 77,2019-04-11,Baby,Car seats,10,30,96456139
+1226,61,East US,East US Store 77,2019-04-23,Electronics,Cell Phones,4,50,81565022
+1227,31,East US,East US Store 77,2019-02-14,Electronics,Headphones,4,300,92677945
+1228,87,East US,East US Store 77,2019-04-27,Clothing,Womens,11,20,12130936
+1229,12,East US,East US Store 77,2019-02-09,Furniture,Beds,6,75,99594333
+1230,56,East US,East US Store 77,2019-02-26,Beauty/Health,Makeup,7,6,92365155
+1231,77,East US,East US Store 77,2019-02-26,Baby,Diapers,4,5,55388823
+1232,37,East US,East US Store 77,2019-06-23,Electronics,Headphones,3,100,81790123
+1233,56,East US,East US Store 77,2019-06-04,Beauty/Health,Fragrances,5,10,37323418
+1234,31,East US,East US Store 77,2019-01-23,Electronics,Televisions,3,300,57350586
+1235,80,East US,East US Store 77,2019-06-16,Beauty/Health,Makeup,8,6,47517015
+1236,2,East US,East US Store 77,2019-05-19,Furniture,Indoor tables,9,40,83490220
+1237,30,East US,East US Store 77,2019-07-09,Clothing,Shoes,7,25,74994581
+1238,48,East US,East US Store 77,2019-05-06,Beauty/Health,Bath,5,10,12848576
+1239,18,East US,East US Store 77,2019-01-24,Clothing,Mens,7,13,50137570
+1240,54,East US,East US Store 77,2019-05-02,Clothing,Baby,8,25,29373892
+1241,10,East US,East US Store 77,2019-02-22,Beauty/Health,Oral care,5,10,74800602
+1242,2,East US,East US Store 77,2019-02-23,Furniture,Indoor tables,6,15,91214227
+1243,29,East US,East US Store 77,2019-05-24,Furniture,Beds,6,30,37637324
+1244,12,East US,East US Store 77,2019-01-13,Electronics,Televisions,4,200,16412575
+1245,68,East US,East US Store 77,2019-03-30,Baby,Baby toys,3,12,33066143
+1246,25,East US,East US Store 77,2019-04-28,Beauty/Health,Makeup,8,10,61298918
+1247,50,East US,East US Store 77,2019-01-06,Beauty/Health,Feminine Products,3,6,84199705
+1248,97,East US,East US Store 77,2019-04-22,Beauty/Health,Fragrances,12,15,42253744
+1249,79,East US,East US Store 77,2019-01-15,Beauty/Health,Skincare,3,15,73296111
+1250,5,East US,East US Store 77,2019-01-21,Beauty/Health,Feminine Products,7,10,71967171
+1251,101,East US,East US Store 77,2019-06-11,Baby,Strollers,8,10,51123080
+1252,7,East US,East US Store 77,2019-01-04,Furniture,Pool furniture,3,30,72980227
+1253,20,East US,East US Store 77,2019-06-26,Electronics,Computers,3,300,61389213
+1254,38,East US,East US Store 77,2019-06-14,Clothing,Mens,10,20,32343854
+1255,48,East US,East US Store 77,2019-04-15,Baby,Car seats,8,10,33237517
+1256,33,East US,East US Store 77,2019-03-20,Baby,Diapers,7,30,77203715
+1257,34,East US,East US Store 77,2019-06-18,Furniture,Beds,8,15,41406074
+1258,14,East US,East US Store 77,2019-06-22,Furniture,Indoor tables,11,75,46780767
+1259,74,East US,East US Store 77,2019-02-22,Electronics,Computers,3,200,71238990
+1260,56,East US,East US Store 77,2019-01-09,Electronics,Televisions,3,100,96848283
+1261,24,East US,East US Store 77,2019-01-01,Baby,Diaper bags,4,12,53629221
+1262,52,East US,East US Store 77,2019-04-24,Clothing,Womens,7,25,34868028
+1263,55,East US,East US Store 77,2019-03-09,Baby,Diaper bags,7,30,98707291
+1264,63,East US,East US Store 77,2019-04-13,Electronics,Headphones,4,100,62156062
+1265,52,East US,East US Store 77,2019-05-20,Furniture,Indoor tables,11,40,43500036
+1266,6,East US,East US Store 77,2019-01-09,Clothing,Womens,4,13,67929173
+1267,90,East US,East US Store 77,2019-05-27,Beauty/Health,Haircare,9,15,41715173
+1268,59,East US,East US Store 77,2019-01-25,Beauty/Health,Fragrances,4,10,60582026
+1269,82,East US,East US Store 77,2019-03-22,Electronics,Cell Phones,3,100,40680458
+1270,69,East US,East US Store 77,2019-02-17,Clothing,Swimwear,5,25,85761410
+1271,84,East US,East US Store 77,2019-04-10,Baby,Diaper bags,12,30,49525017
+1272,41,East US,East US Store 77,2019-03-27,Baby,Cribs,5,5,70791354
+1273,62,East US,East US Store 77,2019-04-26,Baby,Diaper bags,10,5,61457061
+1274,73,East US,East US Store 77,2019-01-07,Electronics,Speakers,3,100,75239756
+1275,42,East US,East US Store 77,2019-07-03,Clothing,Kids,9,10,46452548
+1276,6,East US,East US Store 77,2019-06-07,Electronics,Speakers,4,100,15889608
+1277,82,East US,East US Store 77,2019-03-31,Clothing,Swimwear,7,25,74133061
+1278,74,East US,East US Store 77,2019-03-15,Furniture,Indoor tables,3,40,50891846
+1279,57,East US,East US Store 77,2019-02-19,Beauty/Health,Fragrances,5,10,76957296
+1280,55,East US,East US Store 77,2019-03-28,Furniture,Pool furniture,4,40,22999262
+1281,55,East US,East US Store 77,2019-05-26,Baby,Baby toys,7,15,85273307
+1282,101,East US,East US Store 77,2019-04-17,Furniture,Pool furniture,8,40,23313735
+1283,60,East US,East US Store 77,2019-02-19,Baby,Baby toys,6,15,84768525
+1284,85,East US,East US Store 77,2019-04-17,Baby,Strollers,8,30,89729523
+1285,22,East US,East US Store 77,2019-04-15,Furniture,Indoor seating,5,100,34795222
+1286,100,East US,East US Store 77,2019-03-25,Clothing,Womens,5,25,37678119
+1287,93,East US,East US Store 77,2019-01-26,Furniture,Pool furniture,7,15,30534964
+1288,19,East US,East US Store 77,2019-01-19,Clothing,Womens,7,10,17752735
+1289,23,East US,East US Store 77,2019-02-26,Furniture,Beds,3,30,59494072
+1290,43,East US,East US Store 77,2019-03-02,Baby,Car seats,5,30,41404415
+1291,87,East US,East US Store 77,2019-02-26,Electronics,Computers,4,200,22517465
+1292,76,East US,East US Store 77,2019-05-08,Furniture,Pool furniture,8,75,12538047
+1293,17,East US,East US Store 77,2019-04-02,Beauty/Health,Skincare,7,14,80749049
+1294,32,East US,East US Store 77,2019-01-15,Beauty/Health,Oral care,4,15,84938570
+1295,83,East US,East US Store 77,2019-05-26,Baby,Cribs,7,12,32845506
+1296,87,East US,East US Store 77,2019-07-05,Furniture,Pool furniture,10,15,89194522
+1297,73,East US,East US Store 77,2019-02-13,Beauty/Health,Haircare,6,10,90176449
+1298,41,East US,East US Store 77,2019-04-15,Beauty/Health,Bath,8,15,61623888
+1299,9,East US,East US Store 77,2019-05-14,Clothing,Mens,8,25,44865480
+1300,41,East US,East US Store 77,2019-04-05,Beauty/Health,Fragrances,7,10,51149174
+1301,71,East US,East US Store 77,2019-02-07,Baby,Diapers,7,12,93101059
+1302,68,East US,East US Store 77,2019-02-25,Electronics,Headphones,4,200,50798906
+1303,10,East US,East US Store 77,2019-03-10,Clothing,Womens,3,13,80403796
+1304,13,East US,East US Store 77,2019-01-12,Furniture,Patio furniture,5,15,19055956
+1305,90,East US,East US Store 77,2019-03-01,Clothing,Shoes,6,13,42997158
+1306,61,East US,East US Store 77,2019-03-04,Clothing,Shoes,5,13,19868474
+1307,70,East US,East US Store 77,2019-03-16,Baby,Baby toys,4,30,71523335
+1308,38,East US,East US Store 77,2019-04-12,Baby,Cribs,11,10,46129897
+1309,69,East US,East US Store 77,2019-04-25,Beauty/Health,Oral care,10,15,56360961
+1310,34,East US,East US Store 77,2019-01-18,Clothing,Baby,5,20,55762527
+1311,68,East US,East US Store 77,2019-03-09,Furniture,Pool furniture,4,100,81962689
+1312,6,East US,East US Store 77,2019-01-07,Baby,Diapers,5,30,31874059
+1313,85,East US,East US Store 77,2019-05-20,Clothing,Mens,8,10,76403046
+1314,48,East US,East US Store 77,2019-01-11,Baby,Baby toys,6,12,24775017
+1315,68,East US,East US Store 77,2019-01-28,Baby,Strollers,4,10,79597271
+1316,72,East US,East US Store 77,2019-03-22,Baby,Strollers,7,30,84058827
+1317,58,East US,East US Store 77,2019-03-22,Furniture,Pool furniture,7,100,54116562
+1318,81,East US,East US Store 77,2019-05-03,Clothing,Baby,7,25,31454844
+1319,75,East US,East US Store 77,2019-02-23,Clothing,Mens,5,25,65998016
+1320,75,East US,East US Store 77,2019-01-06,Electronics,Televisions,3,200,11997184
+1321,78,East US,East US Store 77,2019-07-07,Furniture,Pool furniture,5,100,52637748
+1322,10,East US,East US Store 77,2019-01-17,Clothing,Womens,5,25,61315567
+1323,83,East US,East US Store 77,2019-05-18,Furniture,Beds,7,75,72246203
+1324,35,East US,East US Store 77,2019-01-25,Electronics,Computers,3,50,59955374
+1325,92,East US,East US Store 77,2019-05-18,Beauty/Health,Skincare,7,10,38285897
+1326,31,East US,East US Store 77,2019-05-14,Beauty/Health,Oral care,5,10,96253719
+1327,22,East US,East US Store 77,2019-03-04,Furniture,Indoor tables,3,100,43855875
+1328,91,East US,East US Store 77,2019-05-30,Furniture,Indoor tables,11,75,34348460
+1329,68,East US,East US Store 77,2019-04-08,Furniture,Beds,3,75,26594585
+1330,50,East US,East US Store 77,2019-07-09,Furniture,Patio furniture,5,100,39612042
+1331,43,East US,East US Store 77,2019-03-03,Clothing,Shoes,7,25,53695193
+1332,25,East US,East US Store 77,2019-01-07,Baby,Diapers,3,5,31023717
+1333,58,East US,East US Store 77,2019-04-26,Beauty/Health,Oral care,7,6,51631667
+1334,15,East US,East US Store 77,2019-06-12,Baby,Car seats,10,30,47668194
+1335,45,East US,East US Store 77,2019-05-31,Baby,Strollers,8,15,57247846
+1336,7,East US,East US Store 77,2019-05-23,Baby,Baby toys,11,15,88487293
+1337,39,East US,East US Store 77,2019-04-05,Clothing,Kids,7,12,75075308
+1338,36,East US,East US Store 77,2019-01-16,Baby,Strollers,6,12,86363854
+1339,86,East US,East US Store 77,2019-04-23,Clothing,Mens,5,25,77206200
+1340,12,East US,East US Store 77,2019-03-04,Clothing,Shoes,7,25,38867811
+1341,54,East US,East US Store 77,2019-01-17,Furniture,Pool furniture,5,100,95693709
+1342,31,East US,East US Store 77,2019-05-25,Electronics,Televisions,4,200,15403447
+1343,16,East US,East US Store 77,2019-01-09,Furniture,Beds,4,100,42328702
+1344,50,East US,East US Store 77,2019-01-02,Electronics,Cell Phones,4,100,72810237
+1345,23,East US,East US Store 77,2019-05-06,Furniture,Pool furniture,6,40,38056578
+1346,51,East US,East US Store 77,2019-01-05,Furniture,Patio furniture,6,40,13939026
+1347,4,East US,East US Store 77,2019-05-13,Beauty/Health,Haircare,5,10,51627712
+1348,35,East US,East US Store 77,2019-03-17,Furniture,Patio furniture,4,40,52217923
+1349,5,East US,East US Store 77,2019-07-09,Electronics,Speakers,4,100,24164703
+1350,58,East US,East US Store 77,2019-02-01,Furniture,Pool furniture,7,40,15018673
+1351,84,East US,East US Store 77,2019-02-01,Baby,Car seats,3,30,40873215
+1352,21,East US,East US Store 77,2019-07-13,Clothing,Shoes,9,25,29635317
+1353,51,East US,East US Store 77,2019-06-09,Beauty/Health,Oral care,12,10,90261538
+1354,69,East US,East US Store 77,2019-06-19,Furniture,Pool furniture,5,30,69356104
+1355,18,East US,East US Store 77,2019-05-31,Furniture,Indoor tables,10,40,40077479
+1356,75,East US,East US Store 77,2019-04-06,Beauty/Health,Oral care,6,10,35144411
+1357,17,East US,East US Store 77,2019-07-05,Furniture,Indoor tables,7,75,22044952
+1358,38,East US,East US Store 77,2019-04-13,Baby,Diapers,9,15,13751819
+1359,30,East US,East US Store 77,2019-03-23,Electronics,Headphones,3,300,70226970
+1360,75,East US,East US Store 77,2019-03-07,Beauty/Health,Bath,3,6,45595661
+1361,74,East US,East US Store 77,2019-01-25,Baby,Car seats,3,5,85711627
+1362,3,East US,East US Store 77,2019-06-22,Electronics,Televisions,3,100,75733777
+1363,4,East US,East US Store 77,2019-04-05,Furniture,Indoor seating,3,40,39436450
+1364,68,East US,East US Store 77,2019-05-28,Baby,Cribs,6,30,52476267
+1365,29,East US,East US Store 77,2019-01-01,Clothing,Mens,7,13,14438221
+1366,97,East US,East US Store 77,2019-04-11,Furniture,Indoor tables,6,30,95463077
+1367,62,East US,East US Store 77,2019-06-22,Furniture,Patio furniture,8,100,43700252
+1368,35,East US,East US Store 77,2019-01-27,Electronics,Tablets,3,200,33955926
+1369,29,East US,East US Store 77,2019-03-12,Electronics,Televisions,4,300,77007357
+1370,78,East US,East US Store 77,2019-01-03,Baby,Car seats,6,12,52418715
+1371,66,East US,East US Store 77,2019-04-21,Beauty/Health,Oral care,10,14,28676965
+1372,99,East US,East US Store 77,2019-03-23,Baby,Cribs,3,30,32370145
+1373,46,East US,East US Store 77,2019-03-20,Beauty/Health,Bath,5,15,55506667
+1374,98,East US,East US Store 77,2019-05-25,Baby,Strollers,5,30,48483628
+1375,79,East US,East US Store 77,2019-03-01,Baby,Cribs,6,10,91535189
+1376,78,East US,East US Store 77,2019-06-22,Furniture,Beds,10,15,77676786
+1377,28,East US,East US Store 77,2019-07-12,Electronics,Tablets,4,100,49291576
+1378,9,East US,East US Store 77,2019-05-27,Baby,Car seats,9,12,27882563
+1379,26,East US,East US Store 77,2019-05-07,Furniture,Indoor seating,5,15,84532367
+1380,71,East US,East US Store 77,2019-06-24,Baby,Diaper bags,10,30,18287172
+1381,89,East US,East US Store 77,2019-03-11,Furniture,Pool furniture,5,30,46146391
+1382,13,East US,East US Store 77,2019-05-09,Electronics,Speakers,4,200,66528003
+1383,84,East US,East US Store 77,2019-05-22,Beauty/Health,Haircare,6,15,48391905
+1384,20,East US,East US Store 77,2019-06-14,Baby,Diapers,9,30,86148595
+1385,75,East US,East US Store 77,2019-03-14,Baby,Strollers,7,15,38568688
+1386,12,East US,East US Store 77,2019-04-10,Electronics,Televisions,3,200,94094785
+1387,60,East US,East US Store 77,2019-05-22,Electronics,Computers,3,50,27718895
+1388,79,East US,East US Store 77,2019-06-29,Baby,Diaper bags,8,10,79934297
+1389,50,East US,East US Store 77,2019-04-06,Furniture,Patio furniture,3,15,93838576
+1390,94,East US,East US Store 77,2019-04-25,Beauty/Health,Bath,10,10,46263927
+1391,88,East US,East US Store 77,2019-07-16,Furniture,Beds,10,40,74108581
+1392,15,East US,East US Store 77,2019-04-19,Furniture,Patio furniture,10,100,11578540
+1393,26,East US,East US Store 77,2019-03-04,Beauty/Health,Makeup,3,14,89949128
+1394,45,East US,East US Store 77,2019-04-01,Clothing,Kids,6,13,72432095
+1395,58,East US,East US Store 77,2019-05-21,Furniture,Beds,7,30,93041061
+1396,54,East US,East US Store 77,2019-01-01,Baby,Car seats,6,12,92320646
+1397,65,East US,East US Store 77,2019-02-17,Baby,Strollers,7,30,51598245
+1398,95,East US,East US Store 77,2019-07-06,Baby,Car seats,12,15,40177966
+1399,44,East US,East US Store 77,2019-06-07,Clothing,Mens,8,25,12054959
+1400,49,East US,East US Store 77,2019-07-09,Electronics,Tablets,4,100,46113755
+1401,72,East US,East US Store 77,2019-05-02,Furniture,Beds,6,75,87364662
+1402,91,East US,East US Store 77,2019-03-26,Beauty/Health,Skincare,7,14,20676722
+1403,14,East US,East US Store 77,2019-04-26,Beauty/Health,Skincare,6,6,25868380
+1404,8,East US,East US Store 77,2019-07-05,Furniture,Patio furniture,5,100,20778515
+1405,13,East US,East US Store 77,2019-01-30,Clothing,Swimwear,6,25,26033557
+1406,59,East US,East US Store 77,2019-05-29,Baby,Cribs,10,30,92674381
+1407,38,East US,East US Store 77,2019-03-25,Furniture,Patio furniture,4,30,15262218
+1408,84,East US,East US Store 77,2019-02-13,Clothing,Womens,7,25,18444672
+1409,101,East US,East US Store 77,2019-03-08,Beauty/Health,Skincare,5,10,62027947
+1410,5,East US,East US Store 77,2019-05-07,Beauty/Health,Oral care,8,6,30992959
+1411,91,East US,East US Store 77,2019-06-01,Furniture,Patio furniture,7,15,51842277
+1412,100,East US,East US Store 77,2019-04-30,Baby,Cribs,6,30,17857297
+1413,92,East US,East US Store 77,2019-07-03,Clothing,Swimwear,7,12,98707443
+1414,55,East US,East US Store 77,2019-07-06,Beauty/Health,Oral care,10,10,53597834
+1415,13,East US,East US Store 77,2019-05-24,Electronics,Cell Phones,3,50,87314461
+1416,88,East US,East US Store 77,2019-05-21,Clothing,Womens,12,10,87028528
+1417,64,East US,East US Store 77,2019-06-26,Baby,Cribs,9,10,97418452
+1418,62,East US,East US Store 77,2019-07-09,Baby,Diaper bags,8,12,51650767
+1419,74,East US,East US Store 77,2019-01-15,Furniture,Beds,7,75,57321134
+1420,95,East US,East US Store 77,2019-01-04,Furniture,Indoor seating,4,30,55450954
+1421,13,East US,East US Store 77,2019-03-31,Beauty/Health,Haircare,7,14,85316095
+1422,16,East US,East US Store 77,2019-03-06,Furniture,Pool furniture,6,100,37220525
+1423,62,East US,East US Store 77,2019-03-28,Furniture,Indoor tables,3,40,29706916
+1424,82,East US,East US Store 77,2019-07-02,Furniture,Pool furniture,7,75,34223599
+1425,4,East US,East US Store 77,2019-04-24,Clothing,Womens,7,12,43703490
+1426,69,East US,East US Store 77,2019-02-22,Clothing,Kids,3,25,13956072
+1427,41,East US,East US Store 77,2019-06-19,Clothing,Womens,10,10,64010303
+1428,98,East US,East US Store 77,2019-02-11,Baby,Baby toys,5,12,70178020
+1429,90,East US,East US Store 77,2019-04-19,Electronics,Televisions,3,200,25370157
+1430,86,East US,East US Store 77,2019-03-22,Furniture,Patio furniture,3,40,55331732
+1431,47,East US,East US Store 77,2019-05-08,Clothing,Swimwear,12,25,63825124
+1432,64,East US,East US Store 77,2019-05-29,Clothing,Swimwear,8,25,15082689
+1433,63,East US,East US Store 77,2019-06-03,Baby,Diaper bags,7,30,55378423
+1434,73,East US,East US Store 77,2019-01-20,Electronics,Computers,4,300,45157761
+1435,100,East US,East US Store 77,2019-03-16,Electronics,Cell Phones,3,300,64964931
+1436,93,East US,East US Store 77,2019-03-07,Furniture,Indoor seating,5,75,74246638
+1437,58,East US,East US Store 77,2019-03-30,Electronics,Televisions,3,200,62584863
+1438,36,East US,East US Store 77,2019-03-14,Baby,Diaper bags,6,12,41692878
+1439,95,East US,East US Store 77,2019-07-09,Clothing,Swimwear,5,10,57240275
+1440,97,East US,East US Store 77,2019-05-25,Baby,Strollers,7,12,62659794
+1441,45,East US,East US Store 77,2019-04-18,Clothing,Kids,10,12,30244734
+1442,30,East US,East US Store 77,2019-02-24,Baby,Car seats,3,30,14024278
+1443,90,East US,East US Store 77,2019-01-01,Beauty/Health,Fragrances,3,10,64393728
+1444,11,East US,East US Store 77,2019-01-05,Furniture,Indoor seating,4,100,65426954
+1445,51,East US,East US Store 77,2019-03-15,Clothing,Swimwear,6,25,58193541
+1446,5,East US,East US Store 77,2019-06-30,Furniture,Pool furniture,9,30,54050562
+1447,29,East US,East US Store 77,2019-02-13,Beauty/Health,Fragrances,5,15,17543268
+1448,76,East US,East US Store 77,2019-06-18,Beauty/Health,Oral care,6,15,21876715
+1449,30,East US,East US Store 77,2019-01-27,Electronics,Computers,3,200,62692870
+1450,48,East US,East US Store 77,2019-01-29,Baby,Diapers,4,30,18491340
+1451,47,East US,East US Store 77,2019-04-05,Clothing,Mens,3,20,58855234
+1452,30,East US,East US Store 77,2019-05-25,Clothing,Baby,11,12,33570354
+1453,65,East US,East US Store 77,2019-03-13,Furniture,Beds,4,40,23429582
+1454,38,East US,East US Store 77,2019-02-25,Beauty/Health,Bath,4,6,94029177
+1455,29,East US,East US Store 77,2019-04-18,Beauty/Health,Skincare,5,14,34212137
+1456,32,East US,East US Store 77,2019-02-07,Clothing,Baby,3,13,95683388
+1457,9,East US,East US Store 77,2019-01-04,Baby,Strollers,7,12,81879597
+1458,95,East US,East US Store 77,2019-01-12,Beauty/Health,Bath,6,10,64664092
+1459,31,East US,East US Store 77,2019-07-12,Beauty/Health,Fragrances,12,10,89026483
+1460,61,East US,East US Store 77,2019-07-06,Clothing,Mens,9,13,47163549
+1461,20,East US,East US Store 77,2019-07-02,Baby,Baby toys,5,12,22481423
+1462,30,East US,East US Store 77,2019-06-02,Furniture,Pool furniture,7,15,38793321
+1463,81,East US,East US Store 77,2019-03-17,Furniture,Pool furniture,4,15,96409455
+1464,81,East US,East US Store 77,2019-01-13,Beauty/Health,Oral care,6,10,43523384
+1465,46,East US,East US Store 77,2019-04-09,Electronics,Cell Phones,3,100,43668193
+1466,2,East US,East US Store 77,2019-03-18,Baby,Diapers,6,10,19972767
+1467,94,East US,East US Store 77,2019-04-12,Furniture,Indoor tables,5,30,51288994
+1468,30,East US,East US Store 77,2019-01-02,Clothing,Mens,3,25,86671029
+1469,54,East US,East US Store 77,2019-07-05,Clothing,Kids,8,25,37180525
+1470,51,East US,East US Store 77,2019-05-14,Clothing,Kids,5,10,97658062
+1471,66,East US,East US Store 77,2019-04-03,Baby,Cribs,3,12,64505715
+1472,26,East US,East US Store 77,2019-03-07,Clothing,Mens,7,25,96687228
+1473,73,East US,East US Store 77,2019-05-05,Baby,Baby toys,6,30,39200397
+1474,8,East US,East US Store 77,2019-01-20,Beauty/Health,Oral care,7,6,32575821
+1475,76,East US,East US Store 77,2019-05-23,Beauty/Health,Bath,5,14,50265099
+1476,1,East US,East US Store 77,2019-01-06,Baby,Cribs,3,30,56295502
+1477,5,East US,East US Store 77,2019-03-06,Clothing,Kids,7,20,89512196
+1478,50,East US,East US Store 77,2019-03-31,Furniture,Patio furniture,7,30,42639231
+1479,73,East US,East US Store 77,2019-02-24,Electronics,Speakers,3,200,50063807
+1480,72,East US,East US Store 77,2019-03-23,Baby,Baby toys,4,30,26639024
+1481,99,East US,East US Store 77,2019-05-10,Beauty/Health,Oral care,7,14,38216049
+1482,37,East US,East US Store 77,2019-06-16,Beauty/Health,Oral care,9,10,55754950
+1483,18,East US,East US Store 77,2019-05-20,Furniture,Pool furniture,12,40,45883318
+1484,16,East US,East US Store 77,2019-01-25,Beauty/Health,Skincare,5,10,30986612
+1485,66,East US,East US Store 77,2019-03-15,Beauty/Health,Makeup,7,10,42456009
+1486,47,East US,East US Store 77,2019-01-27,Electronics,Headphones,4,100,13894716
+1487,67,East US,East US Store 77,2019-01-14,Furniture,Indoor seating,4,100,79891374
+1488,90,East US,East US Store 77,2019-04-07,Furniture,Pool furniture,7,15,75026358
+1489,23,East US,East US Store 77,2019-04-05,Clothing,Swimwear,7,25,51695017
+1490,68,East US,East US Store 77,2019-01-23,Electronics,Computers,4,100,70661969
+1491,93,East US,East US Store 77,2019-06-13,Beauty/Health,Feminine Products,11,10,80534373
+1492,14,East US,East US Store 77,2019-03-23,Beauty/Health,Haircare,5,10,27828624
+1493,38,East US,East US Store 77,2019-06-13,Beauty/Health,Haircare,7,10,85021369
+1494,12,East US,East US Store 77,2019-01-13,Furniture,Indoor seating,4,100,64898291
+1495,32,East US,East US Store 77,2019-01-08,Clothing,Shoes,4,25,76820397
+1496,62,East US,East US Store 77,2019-02-21,Furniture,Indoor tables,3,15,34699803
+1497,69,East US,East US Store 77,2019-06-23,Clothing,Kids,10,25,66665182
+1498,72,East US,East US Store 77,2019-03-11,Beauty/Health,Oral care,3,10,41938844
+1499,88,East US,East US Store 77,2019-05-17,Baby,Strollers,6,12,16029505
+1500,88,East US,East US Store 77,2019-03-31,Beauty/Health,Haircare,3,10,71482643
+1501,66,East US,East US Store 77,2019-06-02,Baby,Diapers,6,10,58276379
+1502,12,East US,East US Store 77,2019-06-14,Furniture,Pool furniture,9,100,82394871
+1503,18,East US,East US Store 77,2019-02-20,Beauty/Health,Makeup,4,15,14022152
+1504,92,East US,East US Store 77,2019-06-05,Clothing,Shoes,9,10,27450213
+1505,29,East US,East US Store 77,2019-06-08,Baby,Car seats,12,30,96575148
+1506,62,East US,East US Store 77,2019-06-01,Electronics,Speakers,4,200,59865258
+1507,1,East US,East US Store 77,2019-02-27,Furniture,Beds,4,40,79443833
+1508,21,East US,East US Store 77,2019-05-30,Clothing,Swimwear,6,25,82489773
+1509,46,East US,East US Store 77,2019-07-09,Baby,Cribs,12,30,15042519
+1510,73,East US,East US Store 77,2019-06-20,Beauty/Health,Haircare,8,14,31050847
+1511,3,East US,East US Store 77,2019-05-09,Beauty/Health,Makeup,7,10,31911907
+1512,67,East US,East US Store 77,2019-02-19,Clothing,Swimwear,4,25,60986496
+1513,38,East US,East US Store 77,2019-04-07,Baby,Baby toys,3,10,38630824
+1514,64,East US,East US Store 77,2019-06-30,Electronics,Tablets,3,50,94234093
+1515,51,East US,East US Store 77,2019-03-08,Beauty/Health,Bath,6,15,28543616
+1516,59,East US,East US Store 77,2019-06-19,Clothing,Kids,9,20,27083281
+1517,67,East US,East US Store 77,2019-06-24,Furniture,Indoor tables,11,40,85006058
+1518,90,East US,East US Store 77,2019-03-26,Furniture,Patio furniture,5,15,77433290
+1519,42,East US,East US Store 77,2019-05-30,Furniture,Indoor seating,10,75,56895993
+1520,94,East US,East US Store 77,2019-04-09,Electronics,Cell Phones,4,100,34895830
+1521,50,East US,East US Store 77,2019-02-16,Electronics,Headphones,4,300,76988832
+1522,20,East US,East US Store 77,2019-01-12,Clothing,Swimwear,6,25,86506365
+1523,91,East US,East US Store 77,2019-06-10,Beauty/Health,Bath,12,15,95328626
+1524,98,East US,East US Store 77,2019-02-07,Beauty/Health,Makeup,3,15,92454145
+1525,91,East US,East US Store 77,2019-01-09,Clothing,Baby,4,10,67111500
+1526,42,East US,East US Store 77,2019-02-14,Clothing,Mens,7,25,60387254
+1527,96,East US,East US Store 77,2019-07-04,Baby,Car seats,5,12,60256778
+1528,52,East US,East US Store 77,2019-03-13,Clothing,Baby,5,12,68813847
+1529,19,East US,East US Store 77,2019-05-04,Baby,Baby toys,10,15,26559859
+1530,36,East US,East US Store 77,2019-02-22,Baby,Strollers,3,30,36004686
+1531,37,East US,East US Store 77,2019-01-11,Clothing,Swimwear,5,13,73316464
+1532,100,East US,East US Store 77,2019-04-19,Electronics,Headphones,4,200,95262924
+1533,50,East US,East US Store 77,2019-03-18,Baby,Diaper bags,6,5,98873306
+1534,14,East US,East US Store 77,2019-03-30,Furniture,Pool furniture,3,40,17787915
+1535,71,East US,East US Store 77,2019-04-06,Baby,Diapers,4,30,73277347
+1536,72,East US,East US Store 77,2019-03-03,Beauty/Health,Fragrances,4,10,30419442
+1537,2,East US,East US Store 77,2019-05-19,Clothing,Swimwear,10,25,25280006
+1538,46,East US,East US Store 77,2019-02-12,Clothing,Shoes,6,12,26082783
+1539,62,East US,East US Store 77,2019-04-15,Baby,Baby toys,10,30,62990713
+1540,97,East US,East US Store 77,2019-02-04,Electronics,Speakers,4,100,93356911
+1541,34,East US,East US Store 77,2019-07-13,Electronics,Computers,4,300,49278894
+1542,56,East US,East US Store 77,2019-03-08,Beauty/Health,Feminine Products,3,10,60638401
+1543,69,East US,East US Store 77,2019-01-03,Beauty/Health,Makeup,3,10,91989422
+1544,67,East US,East US Store 77,2019-06-12,Beauty/Health,Oral care,7,14,21685463
+1545,58,East US,East US Store 77,2019-04-05,Furniture,Beds,6,75,74773369
+1546,82,East US,East US Store 77,2019-04-27,Furniture,Pool furniture,8,75,27190191
+1547,13,East US,East US Store 77,2019-06-27,Baby,Strollers,9,30,57224748
+1548,25,East US,East US Store 77,2019-01-18,Beauty/Health,Skincare,3,10,17728335
+1549,55,East US,East US Store 77,2019-05-01,Beauty/Health,Bath,7,10,76546426
+1550,16,East US,East US Store 77,2019-06-30,Beauty/Health,Haircare,7,10,14975517
+1551,31,East US,East US Store 77,2019-04-14,Clothing,Shoes,6,10,82958567
+1552,78,East US,East US Store 77,2019-04-21,Electronics,Computers,3,200,95726745
+1553,5,East US,East US Store 77,2019-05-31,Electronics,Computers,4,300,38748794
+1554,27,East US,East US Store 77,2019-06-09,Electronics,Computers,4,50,23191383
+1555,33,East US,East US Store 77,2019-03-12,Electronics,Televisions,3,200,32430273
+1556,6,East US,East US Store 77,2019-05-19,Baby,Diaper bags,8,5,18171726
+1557,56,East US,East US Store 77,2019-01-09,Furniture,Indoor tables,7,30,81692360
+1558,41,East US,East US Store 77,2019-03-18,Furniture,Patio furniture,5,30,62112664
+1559,79,East US,East US Store 77,2019-05-06,Electronics,Cell Phones,3,50,90452988
+1560,63,East US,East US Store 77,2019-03-24,Clothing,Kids,6,12,80305447
+1561,45,East US,East US Store 77,2019-01-09,Baby,Car seats,7,10,18919989
