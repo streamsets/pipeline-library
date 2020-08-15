@@ -1,0 +1,1489 @@
+ordernum,quant,region,store,saledate,dep,item,unitsold,unitprice,employeeID
+0,58,West Europe,West Europe Store 24,2019-01-08,Clothing,Shoes,3,13,70191979
+1,61,West Europe,West Europe Store 24,2019-04-10,Electronics,Headphones,2,200,65670484
+2,96,West Europe,West Europe Store 24,2019-02-24,Electronics,Cell Phones,2,100,87947834
+3,47,West Europe,West Europe Store 24,2019-06-25,Furniture,Pool furniture,8,15,53493237
+4,25,West Europe,West Europe Store 24,2019-03-27,Electronics,Cell Phones,1,50,57269139
+5,20,West Europe,West Europe Store 24,2019-01-24,Beauty/Health,Skincare,3,6,23480816
+6,67,West Europe,West Europe Store 24,2019-07-10,Clothing,Womens,3,13,71375295
+7,55,West Europe,West Europe Store 24,2019-02-05,Clothing,Baby,3,20,17059456
+8,32,West Europe,West Europe Store 24,2019-03-21,Electronics,Tablets,1,100,51644673
+9,33,West Europe,West Europe Store 24,2019-01-10,Baby,Strollers,3,15,58898635
+10,84,West Europe,West Europe Store 24,2019-03-30,Baby,Diaper bags,1,15,60205612
+11,73,West Europe,West Europe Store 24,2019-01-20,Beauty/Health,Fragrances,4,15,24149729
+12,14,West Europe,West Europe Store 24,2019-03-31,Electronics,Cell Phones,2,50,82359305
+13,34,West Europe,West Europe Store 24,2019-01-28,Clothing,Swimwear,5,25,73165293
+14,9,West Europe,West Europe Store 24,2019-06-20,Electronics,Tablets,1,300,68997595
+15,60,West Europe,West Europe Store 24,2019-07-13,Furniture,Beds,10,15,62682403
+16,21,West Europe,West Europe Store 24,2019-06-07,Baby,Diaper bags,7,30,38283147
+17,57,West Europe,West Europe Store 24,2019-04-29,Beauty/Health,Makeup,7,10,86814899
+18,12,West Europe,West Europe Store 24,2019-03-07,Electronics,Tablets,1,200,14153980
+19,59,West Europe,West Europe Store 24,2019-04-05,Furniture,Patio furniture,5,100,16425555
+20,65,West Europe,West Europe Store 24,2019-02-22,Baby,Car seats,3,30,58227195
+21,68,West Europe,West Europe Store 24,2019-07-05,Beauty/Health,Oral care,3,6,37144485
+22,4,West Europe,West Europe Store 24,2019-07-14,Baby,Diaper bags,4,15,73907825
+23,95,West Europe,West Europe Store 24,2019-03-13,Baby,Strollers,3,30,16031088
+24,67,West Europe,West Europe Store 24,2019-06-28,Furniture,Pool furniture,3,100,76800602
+25,84,West Europe,West Europe Store 24,2019-04-29,Beauty/Health,Haircare,5,10,11763817
+26,40,West Europe,West Europe Store 24,2019-05-08,Baby,Car seats,9,12,45852821
+27,17,West Europe,West Europe Store 24,2019-01-05,Furniture,Pool furniture,1,15,47825213
+28,91,West Europe,West Europe Store 24,2019-03-05,Beauty/Health,Feminine Products,5,14,50191520
+29,52,West Europe,West Europe Store 24,2019-01-24,Clothing,Womens,1,25,68934445
+30,59,West Europe,West Europe Store 24,2019-02-25,Baby,Diapers,2,30,19695384
+31,97,West Europe,West Europe Store 24,2019-06-06,Baby,Cribs,9,30,20359886
+32,82,West Europe,West Europe Store 24,2019-01-08,Baby,Baby toys,1,10,32426282
+33,16,West Europe,West Europe Store 24,2019-03-10,Beauty/Health,Fragrances,2,10,44565071
+34,16,West Europe,West Europe Store 24,2019-02-08,Electronics,Cell Phones,1,100,25652993
+35,49,West Europe,West Europe Store 24,2019-03-13,Baby,Diaper bags,5,10,62879604
+36,42,West Europe,West Europe Store 24,2019-06-16,Baby,Strollers,7,10,55461907
+37,98,West Europe,West Europe Store 24,2019-07-05,Baby,Cribs,4,15,10366625
+38,57,West Europe,West Europe Store 24,2019-06-20,Furniture,Patio furniture,10,15,35413874
+39,41,West Europe,West Europe Store 24,2019-06-23,Clothing,Womens,4,10,39881691
+40,46,West Europe,West Europe Store 24,2019-01-04,Furniture,Pool furniture,4,30,80412776
+41,24,West Europe,West Europe Store 24,2019-01-07,Clothing,Mens,4,10,32117543
+42,31,West Europe,West Europe Store 24,2019-07-10,Electronics,Headphones,1,200,44585875
+43,75,West Europe,West Europe Store 24,2019-04-03,Clothing,Swimwear,3,13,41978631
+44,54,West Europe,West Europe Store 24,2019-03-30,Beauty/Health,Bath,3,14,76066929
+45,91,West Europe,West Europe Store 24,2019-04-03,Beauty/Health,Skincare,1,10,11918990
+46,91,West Europe,West Europe Store 24,2019-06-12,Furniture,Indoor seating,6,100,22875158
+47,93,West Europe,West Europe Store 24,2019-02-05,Electronics,Televisions,1,200,96010070
+48,41,West Europe,West Europe Store 24,2019-05-11,Electronics,Cell Phones,1,50,42400909
+49,21,West Europe,West Europe Store 24,2019-01-11,Baby,Cribs,3,30,47432517
+50,15,West Europe,West Europe Store 24,2019-06-23,Beauty/Health,Haircare,9,6,12710387
+51,8,West Europe,West Europe Store 24,2019-06-08,Clothing,Swimwear,10,20,28288535
+52,21,West Europe,West Europe Store 24,2019-04-20,Clothing,Swimwear,5,20,85377291
+53,98,West Europe,West Europe Store 24,2019-01-15,Baby,Diapers,3,12,13674656
+54,16,West Europe,West Europe Store 24,2019-01-14,Baby,Cribs,2,30,46585713
+55,16,West Europe,West Europe Store 24,2019-01-18,Baby,Baby toys,5,5,59216525
+56,51,West Europe,West Europe Store 24,2019-05-06,Beauty/Health,Feminine Products,4,10,18670768
+57,26,West Europe,West Europe Store 24,2019-02-10,Beauty/Health,Makeup,5,15,53739176
+58,92,West Europe,West Europe Store 24,2019-03-02,Baby,Strollers,5,15,69743817
+59,61,West Europe,West Europe Store 24,2019-01-04,Furniture,Patio furniture,5,75,56602827
+60,25,West Europe,West Europe Store 24,2019-03-15,Baby,Car seats,1,15,41476421
+61,85,West Europe,West Europe Store 24,2019-06-09,Electronics,Tablets,1,200,50192594
+62,58,West Europe,West Europe Store 24,2019-02-04,Furniture,Indoor tables,2,100,97979993
+63,91,West Europe,West Europe Store 24,2019-01-28,Furniture,Indoor seating,3,75,58367135
+64,98,West Europe,West Europe Store 24,2019-02-01,Furniture,Beds,5,40,30559793
+65,73,West Europe,West Europe Store 24,2019-07-03,Electronics,Speakers,2,100,13890291
+66,72,West Europe,West Europe Store 24,2019-01-25,Beauty/Health,Oral care,2,6,22586828
+67,17,West Europe,West Europe Store 24,2019-07-09,Electronics,Headphones,2,100,43450576
+68,78,West Europe,West Europe Store 24,2019-04-02,Furniture,Indoor tables,5,40,35116456
+69,22,West Europe,West Europe Store 24,2019-07-10,Baby,Diaper bags,7,10,38663908
+70,56,West Europe,West Europe Store 24,2019-01-02,Electronics,Tablets,2,200,91113562
+71,35,West Europe,West Europe Store 24,2019-07-12,Clothing,Shoes,5,25,99584266
+72,2,West Europe,West Europe Store 24,2019-06-04,Electronics,Tablets,1,200,23251697
+73,21,West Europe,West Europe Store 24,2019-05-08,Beauty/Health,Haircare,5,10,20039772
+74,90,West Europe,West Europe Store 24,2019-01-03,Furniture,Indoor seating,3,15,29608221
+75,79,West Europe,West Europe Store 24,2019-03-19,Furniture,Indoor seating,1,100,69921520
+76,59,West Europe,West Europe Store 24,2019-03-06,Electronics,Speakers,1,100,11056228
+77,67,West Europe,West Europe Store 24,2019-04-06,Beauty/Health,Oral care,1,10,73160794
+78,99,West Europe,West Europe Store 24,2019-04-01,Baby,Baby toys,3,5,89322089
+79,11,West Europe,West Europe Store 24,2019-05-01,Furniture,Patio furniture,6,30,68596997
+80,29,West Europe,West Europe Store 24,2019-03-31,Clothing,Womens,4,10,99159032
+81,67,West Europe,West Europe Store 24,2019-05-03,Electronics,Televisions,1,100,86394396
+82,55,West Europe,West Europe Store 24,2019-06-07,Furniture,Indoor seating,3,15,43458386
+83,93,West Europe,West Europe Store 24,2019-03-27,Electronics,Computers,2,200,71695824
+84,60,West Europe,West Europe Store 24,2019-06-24,Clothing,Swimwear,7,13,95070976
+85,46,West Europe,West Europe Store 24,2019-07-15,Electronics,Tablets,1,300,80043207
+86,45,West Europe,West Europe Store 24,2019-03-02,Baby,Strollers,4,10,23985391
+87,90,West Europe,West Europe Store 24,2019-01-07,Furniture,Beds,5,100,87997358
+88,53,West Europe,West Europe Store 24,2019-04-30,Baby,Strollers,4,30,76552617
+89,92,West Europe,West Europe Store 24,2019-01-31,Electronics,Cell Phones,1,100,31394566
+90,21,West Europe,West Europe Store 24,2019-01-02,Baby,Cribs,3,15,56203770
+91,67,West Europe,West Europe Store 24,2019-06-11,Clothing,Baby,4,25,89123322
+92,86,West Europe,West Europe Store 24,2019-03-02,Electronics,Computers,2,300,75729104
+93,81,West Europe,West Europe Store 24,2019-06-29,Baby,Strollers,10,30,18526888
+94,45,West Europe,West Europe Store 24,2019-03-13,Beauty/Health,Fragrances,2,6,15386742
+95,43,West Europe,West Europe Store 24,2019-01-08,Baby,Cribs,1,30,34874105
+96,77,West Europe,West Europe Store 24,2019-04-25,Baby,Baby toys,4,5,63430377
+97,52,West Europe,West Europe Store 24,2019-05-09,Furniture,Indoor tables,6,100,76701320
+98,79,West Europe,West Europe Store 24,2019-01-22,Baby,Car seats,5,5,82426544
+99,42,West Europe,West Europe Store 24,2019-06-02,Beauty/Health,Haircare,6,14,75242156
+100,49,West Europe,West Europe Store 24,2019-01-26,Baby,Cribs,3,30,80026034
+101,94,West Europe,West Europe Store 24,2019-02-16,Beauty/Health,Oral care,1,10,24459255
+102,76,West Europe,West Europe Store 24,2019-03-26,Electronics,Speakers,1,100,37507468
+103,94,West Europe,West Europe Store 24,2019-02-25,Furniture,Pool furniture,2,30,41739545
+104,2,West Europe,West Europe Store 24,2019-05-22,Baby,Car seats,10,10,52964925
+105,91,West Europe,West Europe Store 24,2019-04-06,Baby,Diapers,1,5,16335577
+106,80,West Europe,West Europe Store 24,2019-03-27,Electronics,Tablets,1,200,90703560
+107,47,West Europe,West Europe Store 24,2019-02-11,Baby,Diapers,2,12,77318736
+108,71,West Europe,West Europe Store 24,2019-02-22,Clothing,Shoes,3,25,39419139
+109,8,West Europe,West Europe Store 24,2019-06-16,Electronics,Tablets,1,300,49631500
+110,73,West Europe,West Europe Store 24,2019-02-22,Clothing,Mens,2,12,78942345
+111,77,West Europe,West Europe Store 24,2019-05-24,Baby,Strollers,8,5,25708225
+112,39,West Europe,West Europe Store 24,2019-02-06,Electronics,Computers,1,200,50460069
+113,65,West Europe,West Europe Store 24,2019-02-19,Baby,Diapers,2,10,58090038
+114,96,West Europe,West Europe Store 24,2019-05-13,Furniture,Pool furniture,8,75,87246995
+115,21,West Europe,West Europe Store 24,2019-01-21,Electronics,Speakers,2,200,23646558
+116,6,West Europe,West Europe Store 24,2019-05-28,Clothing,Womens,5,25,34787842
+117,90,West Europe,West Europe Store 24,2019-03-01,Baby,Car seats,2,15,44288524
+118,72,West Europe,West Europe Store 24,2019-01-05,Beauty/Health,Bath,2,14,37296405
+119,70,West Europe,West Europe Store 24,2019-02-19,Electronics,Televisions,2,100,97346662
+120,93,West Europe,West Europe Store 24,2019-06-27,Electronics,Headphones,2,200,69143039
+121,42,West Europe,West Europe Store 24,2019-05-01,Clothing,Womens,3,25,63957046
+122,68,West Europe,West Europe Store 24,2019-05-16,Electronics,Speakers,1,100,58768985
+123,20,West Europe,West Europe Store 24,2019-04-17,Electronics,Computers,1,100,11443098
+124,68,West Europe,West Europe Store 24,2019-01-05,Beauty/Health,Haircare,2,10,58089222
+125,17,West Europe,West Europe Store 24,2019-01-12,Baby,Diaper bags,1,15,91169447
+126,93,West Europe,West Europe Store 24,2019-07-09,Electronics,Headphones,1,200,16010296
+127,41,West Europe,West Europe Store 24,2019-03-31,Furniture,Indoor seating,1,40,75572096
+128,26,West Europe,West Europe Store 24,2019-07-07,Electronics,Headphones,2,50,11613330
+129,35,West Europe,West Europe Store 24,2019-03-16,Furniture,Pool furniture,2,40,14566856
+130,37,West Europe,West Europe Store 24,2019-05-11,Clothing,Kids,6,10,88116196
+131,3,West Europe,West Europe Store 24,2019-06-27,Electronics,Speakers,1,200,24838933
+132,46,West Europe,West Europe Store 24,2019-01-27,Beauty/Health,Bath,1,15,55638320
+133,67,West Europe,West Europe Store 24,2019-06-04,Clothing,Womens,5,13,47335877
+134,73,West Europe,West Europe Store 24,2019-04-03,Clothing,Mens,2,12,74282824
+135,78,West Europe,West Europe Store 24,2019-06-15,Beauty/Health,Skincare,5,6,64081164
+136,59,West Europe,West Europe Store 24,2019-04-26,Beauty/Health,Fragrances,4,10,30877095
+137,35,West Europe,West Europe Store 24,2019-03-30,Furniture,Patio furniture,2,100,71835196
+138,79,West Europe,West Europe Store 24,2019-05-30,Clothing,Mens,10,12,75911399
+139,78,West Europe,West Europe Store 24,2019-07-02,Furniture,Indoor tables,8,15,20434275
+140,48,West Europe,West Europe Store 24,2019-05-27,Furniture,Pool furniture,8,30,47844745
+141,90,West Europe,West Europe Store 24,2019-05-06,Baby,Diapers,10,12,35658321
+142,74,West Europe,West Europe Store 24,2019-02-10,Electronics,Headphones,2,200,75236786
+143,2,West Europe,West Europe Store 24,2019-03-09,Beauty/Health,Haircare,3,10,18124645
+144,58,West Europe,West Europe Store 24,2019-01-19,Furniture,Pool furniture,1,75,30033681
+145,100,West Europe,West Europe Store 24,2019-01-09,Clothing,Mens,3,13,40873553
+146,8,West Europe,West Europe Store 24,2019-03-13,Baby,Diaper bags,1,10,24164967
+147,72,West Europe,West Europe Store 24,2019-03-18,Baby,Diaper bags,2,30,25364283
+148,10,West Europe,West Europe Store 24,2019-07-06,Furniture,Patio furniture,6,75,76512080
+149,72,West Europe,West Europe Store 24,2019-06-10,Electronics,Televisions,1,50,85731191
+150,40,West Europe,West Europe Store 24,2019-01-23,Clothing,Womens,5,10,72812804
+151,98,West Europe,West Europe Store 24,2019-02-18,Baby,Diapers,2,30,21220286
+152,66,West Europe,West Europe Store 24,2019-05-28,Beauty/Health,Oral care,5,10,11163694
+153,80,West Europe,West Europe Store 24,2019-03-14,Baby,Baby toys,3,15,28545078
+154,10,West Europe,West Europe Store 24,2019-03-19,Electronics,Computers,1,300,53942714
+155,17,West Europe,West Europe Store 24,2019-02-16,Baby,Diaper bags,1,30,41267711
+156,100,West Europe,West Europe Store 24,2019-04-10,Clothing,Swimwear,7,20,62174978
+157,45,West Europe,West Europe Store 24,2019-03-31,Furniture,Indoor tables,1,15,27886424
+158,83,West Europe,West Europe Store 24,2019-05-26,Clothing,Shoes,8,25,24967309
+159,36,West Europe,West Europe Store 24,2019-06-19,Furniture,Indoor seating,6,75,57491357
+160,51,West Europe,West Europe Store 24,2019-06-05,Clothing,Swimwear,10,12,80917936
+161,60,West Europe,West Europe Store 24,2019-02-05,Clothing,Swimwear,2,13,68328442
+162,59,West Europe,West Europe Store 24,2019-01-31,Beauty/Health,Bath,4,10,45084716
+163,55,West Europe,West Europe Store 24,2019-07-02,Baby,Cribs,9,12,65208817
+164,85,West Europe,West Europe Store 24,2019-03-28,Electronics,Computers,1,200,97110839
+165,98,West Europe,West Europe Store 24,2019-06-22,Clothing,Mens,4,20,31618965
+166,10,West Europe,West Europe Store 24,2019-03-20,Furniture,Pool furniture,1,40,54290687
+167,4,West Europe,West Europe Store 24,2019-02-19,Furniture,Pool furniture,3,75,95492859
+168,38,West Europe,West Europe Store 24,2019-05-21,Clothing,Kids,4,20,69770639
+169,96,West Europe,West Europe Store 24,2019-04-03,Clothing,Swimwear,5,20,79443319
+170,14,West Europe,West Europe Store 24,2019-06-23,Furniture,Patio furniture,7,100,76324339
+171,38,West Europe,West Europe Store 24,2019-07-13,Beauty/Health,Skincare,8,10,99126307
+172,36,West Europe,West Europe Store 24,2019-03-07,Clothing,Mens,5,25,26435109
+173,56,West Europe,West Europe Store 24,2019-06-22,Furniture,Indoor seating,4,15,54247247
+174,100,West Europe,West Europe Store 24,2019-05-11,Clothing,Mens,4,25,71573978
+175,63,West Europe,West Europe Store 24,2019-03-14,Electronics,Cell Phones,2,50,23165018
+176,26,West Europe,West Europe Store 24,2019-06-20,Clothing,Swimwear,8,20,34609790
+177,15,West Europe,West Europe Store 24,2019-01-05,Electronics,Computers,2,100,65930118
+178,27,West Europe,West Europe Store 24,2019-01-16,Clothing,Baby,5,13,66178278
+179,12,West Europe,West Europe Store 24,2019-06-08,Furniture,Pool furniture,8,100,40918723
+180,45,West Europe,West Europe Store 24,2019-07-01,Baby,Diapers,5,30,79279658
+181,11,West Europe,West Europe Store 24,2019-04-26,Furniture,Patio furniture,5,30,75544699
+182,78,West Europe,West Europe Store 24,2019-01-30,Electronics,Tablets,1,200,34368089
+183,84,West Europe,West Europe Store 24,2019-06-07,Furniture,Indoor seating,10,100,40325931
+184,75,West Europe,West Europe Store 24,2019-03-26,Clothing,Baby,5,12,63937480
+185,46,West Europe,West Europe Store 24,2019-06-05,Electronics,Computers,2,100,52124025
+186,92,West Europe,West Europe Store 24,2019-01-15,Clothing,Shoes,3,12,34032324
+187,59,West Europe,West Europe Store 24,2019-06-18,Baby,Diapers,8,30,89648844
+188,44,West Europe,West Europe Store 24,2019-02-20,Baby,Car seats,3,15,48441793
+189,54,West Europe,West Europe Store 24,2019-02-22,Furniture,Indoor tables,2,40,70392557
+190,24,West Europe,West Europe Store 24,2019-05-30,Electronics,Tablets,1,300,55161360
+191,75,West Europe,West Europe Store 24,2019-05-09,Baby,Car seats,10,15,52217311
+192,72,West Europe,West Europe Store 24,2019-02-26,Clothing,Mens,1,25,82698615
+193,42,West Europe,West Europe Store 24,2019-03-22,Beauty/Health,Fragrances,2,10,66845545
+194,65,West Europe,West Europe Store 24,2019-05-19,Baby,Cribs,5,30,97828536
+195,92,West Europe,West Europe Store 24,2019-02-20,Beauty/Health,Bath,5,15,22375969
+196,29,West Europe,West Europe Store 24,2019-06-15,Furniture,Patio furniture,8,40,35642979
+197,73,West Europe,West Europe Store 24,2019-01-05,Clothing,Baby,1,12,84385685
+198,69,West Europe,West Europe Store 24,2019-01-08,Clothing,Shoes,4,10,91757182
+199,13,West Europe,West Europe Store 24,2019-05-28,Clothing,Mens,3,10,73912071
+200,32,West Europe,West Europe Store 24,2019-07-15,Furniture,Patio furniture,3,30,58720728
+201,57,West Europe,West Europe Store 24,2019-01-15,Electronics,Computers,2,100,26658543
+202,90,West Europe,West Europe Store 24,2019-03-29,Furniture,Indoor seating,2,40,67487019
+203,17,West Europe,West Europe Store 24,2019-06-26,Electronics,Computers,1,100,36255044
+204,44,West Europe,West Europe Store 24,2019-05-07,Electronics,Computers,2,50,61338281
+205,66,West Europe,West Europe Store 24,2019-04-21,Electronics,Tablets,1,100,16050505
+206,20,West Europe,West Europe Store 24,2019-02-14,Electronics,Speakers,2,100,48838385
+207,17,West Europe,West Europe Store 24,2019-05-20,Beauty/Health,Fragrances,9,10,46487146
+208,91,West Europe,West Europe Store 24,2019-04-11,Clothing,Womens,3,12,95770296
+209,86,West Europe,West Europe Store 24,2019-01-11,Beauty/Health,Bath,2,10,89931793
+210,17,West Europe,West Europe Store 24,2019-06-28,Clothing,Swimwear,3,20,16909120
+211,64,West Europe,West Europe Store 24,2019-05-17,Beauty/Health,Skincare,9,15,11022705
+212,32,West Europe,West Europe Store 24,2019-03-09,Furniture,Patio furniture,2,40,24091665
+213,29,West Europe,West Europe Store 24,2019-07-06,Furniture,Indoor seating,6,15,13830787
+214,80,West Europe,West Europe Store 24,2019-05-23,Furniture,Indoor seating,6,40,89102020
+215,8,West Europe,West Europe Store 24,2019-02-04,Electronics,Speakers,2,50,95834124
+216,17,West Europe,West Europe Store 24,2019-02-10,Electronics,Cell Phones,2,100,71589827
+217,74,West Europe,West Europe Store 24,2019-04-26,Beauty/Health,Makeup,10,15,95548300
+218,36,West Europe,West Europe Store 24,2019-01-31,Furniture,Indoor seating,5,30,98251204
+219,12,West Europe,West Europe Store 24,2019-03-23,Clothing,Kids,5,10,95787972
+220,88,West Europe,West Europe Store 24,2019-01-22,Beauty/Health,Makeup,1,14,98518518
+221,93,West Europe,West Europe Store 24,2019-04-11,Furniture,Indoor tables,7,75,49878733
+222,71,West Europe,West Europe Store 24,2019-06-03,Baby,Cribs,10,30,24056193
+223,51,West Europe,West Europe Store 24,2019-03-17,Electronics,Speakers,1,50,85984858
+224,15,West Europe,West Europe Store 24,2019-01-26,Electronics,Televisions,1,100,52458360
+225,48,West Europe,West Europe Store 24,2019-03-30,Beauty/Health,Skincare,3,10,85221514
+226,96,West Europe,West Europe Store 24,2019-05-18,Baby,Baby toys,8,30,95095023
+227,16,West Europe,West Europe Store 24,2019-03-15,Furniture,Indoor tables,2,40,37760889
+228,18,West Europe,West Europe Store 24,2019-07-13,Clothing,Swimwear,6,10,44432906
+229,25,West Europe,West Europe Store 24,2019-03-02,Furniture,Pool furniture,1,40,33945470
+230,77,West Europe,West Europe Store 24,2019-05-06,Clothing,Kids,7,25,59621781
+231,27,West Europe,West Europe Store 24,2019-03-13,Electronics,Speakers,1,300,89360123
+232,89,West Europe,West Europe Store 24,2019-04-19,Furniture,Indoor tables,10,40,69753974
+233,62,West Europe,West Europe Store 24,2019-03-24,Clothing,Shoes,5,13,68613214
+234,84,West Europe,West Europe Store 24,2019-01-31,Electronics,Televisions,2,100,53518312
+235,64,West Europe,West Europe Store 24,2019-04-05,Furniture,Indoor seating,1,100,12427274
+236,55,West Europe,West Europe Store 24,2019-06-21,Baby,Diaper bags,5,15,58999277
+237,73,West Europe,West Europe Store 24,2019-06-19,Baby,Diapers,4,10,81119507
+238,9,West Europe,West Europe Store 24,2019-02-14,Furniture,Patio furniture,1,40,84618106
+239,4,West Europe,West Europe Store 24,2019-03-12,Clothing,Womens,3,25,14059114
+240,67,West Europe,West Europe Store 24,2019-03-03,Baby,Car seats,3,30,13681691
+241,95,West Europe,West Europe Store 24,2019-05-12,Furniture,Beds,10,30,19657917
+242,9,West Europe,West Europe Store 24,2019-01-19,Electronics,Tablets,1,100,48062035
+243,82,West Europe,West Europe Store 24,2019-03-21,Furniture,Beds,5,30,27817770
+244,92,West Europe,West Europe Store 24,2019-07-11,Furniture,Pool furniture,8,100,98316380
+245,45,West Europe,West Europe Store 24,2019-04-07,Electronics,Cell Phones,1,200,91919370
+246,13,West Europe,West Europe Store 24,2019-05-07,Furniture,Indoor tables,6,30,50089434
+247,81,West Europe,West Europe Store 24,2019-06-15,Beauty/Health,Haircare,9,14,11497357
+248,14,West Europe,West Europe Store 24,2019-01-18,Beauty/Health,Skincare,4,10,83333698
+249,9,West Europe,West Europe Store 24,2019-06-04,Beauty/Health,Bath,6,14,91030169
+250,20,West Europe,West Europe Store 24,2019-01-18,Clothing,Swimwear,5,25,86351779
+251,35,West Europe,West Europe Store 24,2019-01-19,Clothing,Swimwear,4,25,84076577
+252,87,West Europe,West Europe Store 24,2019-04-16,Clothing,Kids,6,20,45769590
+253,77,West Europe,West Europe Store 24,2019-07-08,Baby,Strollers,3,12,67307755
+254,96,West Europe,West Europe Store 24,2019-07-01,Baby,Baby toys,6,30,77593322
+255,65,West Europe,West Europe Store 24,2019-02-28,Clothing,Mens,2,10,99730937
+256,21,West Europe,West Europe Store 24,2019-02-27,Electronics,Speakers,1,50,63179041
+257,99,West Europe,West Europe Store 24,2019-01-18,Baby,Strollers,1,30,36217419
+258,66,West Europe,West Europe Store 24,2019-06-12,Electronics,Headphones,2,100,92942676
+259,96,West Europe,West Europe Store 24,2019-07-15,Electronics,Tablets,1,50,64705518
+260,101,West Europe,West Europe Store 24,2019-04-09,Baby,Diaper bags,3,5,56713143
+261,70,West Europe,West Europe Store 24,2019-05-04,Beauty/Health,Fragrances,9,10,80312748
+262,81,West Europe,West Europe Store 24,2019-04-21,Furniture,Indoor seating,6,75,12112676
+263,15,West Europe,West Europe Store 24,2019-04-21,Electronics,Computers,2,200,21026277
+264,63,West Europe,West Europe Store 24,2019-06-09,Electronics,Headphones,2,300,36016847
+265,52,West Europe,West Europe Store 24,2019-03-19,Clothing,Baby,1,25,10247416
+266,57,West Europe,West Europe Store 24,2019-06-01,Furniture,Indoor tables,8,15,52456999
+267,80,West Europe,West Europe Store 24,2019-04-13,Beauty/Health,Feminine Products,10,10,85749432
+268,25,West Europe,West Europe Store 24,2019-05-19,Baby,Diaper bags,5,12,74723203
+269,85,West Europe,West Europe Store 24,2019-05-06,Electronics,Headphones,2,100,32050299
+270,74,West Europe,West Europe Store 24,2019-01-15,Clothing,Swimwear,3,13,13143440
+271,87,West Europe,West Europe Store 24,2019-03-26,Furniture,Patio furniture,1,40,18818532
+272,8,West Europe,West Europe Store 24,2019-01-23,Beauty/Health,Makeup,3,10,67632688
+273,41,West Europe,West Europe Store 24,2019-02-01,Clothing,Baby,5,12,11951343
+274,23,West Europe,West Europe Store 24,2019-03-26,Clothing,Kids,2,25,84335143
+275,1,West Europe,West Europe Store 24,2019-04-19,Clothing,Kids,8,25,92234678
+276,40,West Europe,West Europe Store 24,2019-01-01,Beauty/Health,Makeup,2,15,46641923
+277,88,West Europe,West Europe Store 24,2019-01-18,Electronics,Computers,1,200,58379883
+278,47,West Europe,West Europe Store 24,2019-05-14,Electronics,Cell Phones,2,50,71430513
+279,67,West Europe,West Europe Store 24,2019-01-05,Beauty/Health,Bath,4,10,83139047
+280,43,West Europe,West Europe Store 24,2019-04-24,Beauty/Health,Makeup,5,10,97325316
+281,79,West Europe,West Europe Store 24,2019-07-08,Baby,Strollers,10,30,16069148
+282,33,West Europe,West Europe Store 24,2019-06-11,Baby,Diapers,5,30,98515108
+283,65,West Europe,West Europe Store 24,2019-02-26,Clothing,Womens,5,25,20628071
+284,59,West Europe,West Europe Store 24,2019-04-10,Baby,Baby toys,4,30,26782369
+285,84,West Europe,West Europe Store 24,2019-05-27,Furniture,Indoor tables,9,75,92328244
+286,21,West Europe,West Europe Store 24,2019-03-18,Beauty/Health,Fragrances,3,6,83711924
+287,72,West Europe,West Europe Store 24,2019-04-11,Baby,Car seats,8,15,87576495
+288,30,West Europe,West Europe Store 24,2019-04-15,Beauty/Health,Haircare,7,15,38423667
+289,101,West Europe,West Europe Store 24,2019-02-22,Clothing,Womens,4,25,79750316
+290,61,West Europe,West Europe Store 24,2019-05-28,Beauty/Health,Skincare,9,15,80563006
+291,68,West Europe,West Europe Store 24,2019-04-06,Beauty/Health,Skincare,3,10,74596680
+292,100,West Europe,West Europe Store 24,2019-05-30,Baby,Cribs,3,5,27342470
+293,17,West Europe,West Europe Store 24,2019-05-03,Beauty/Health,Fragrances,9,6,92842872
+294,82,West Europe,West Europe Store 24,2019-07-12,Electronics,Cell Phones,2,200,38358963
+295,15,West Europe,West Europe Store 24,2019-04-12,Furniture,Beds,9,100,93490661
+296,18,West Europe,West Europe Store 24,2019-05-12,Furniture,Patio furniture,5,40,76798147
+297,73,West Europe,West Europe Store 24,2019-03-03,Furniture,Beds,3,75,10803009
+298,49,West Europe,West Europe Store 24,2019-03-10,Furniture,Patio furniture,1,100,94008669
+299,39,West Europe,West Europe Store 24,2019-02-16,Furniture,Pool furniture,5,15,71150311
+300,6,West Europe,West Europe Store 24,2019-01-02,Furniture,Pool furniture,1,15,90080087
+301,15,West Europe,West Europe Store 24,2019-05-07,Furniture,Beds,9,100,72959370
+302,68,West Europe,West Europe Store 24,2019-03-14,Clothing,Womens,1,25,73336444
+303,68,West Europe,West Europe Store 24,2019-03-20,Baby,Car seats,3,10,94928234
+304,16,West Europe,West Europe Store 24,2019-01-16,Baby,Diapers,4,5,93887728
+305,101,West Europe,West Europe Store 24,2019-03-25,Electronics,Headphones,1,100,41737372
+306,44,West Europe,West Europe Store 24,2019-06-04,Furniture,Pool furniture,4,75,76225926
+307,85,West Europe,West Europe Store 24,2019-02-12,Electronics,Computers,2,50,46951362
+308,4,West Europe,West Europe Store 24,2019-05-14,Baby,Baby toys,7,30,59184123
+309,82,West Europe,West Europe Store 24,2019-05-18,Baby,Diaper bags,4,30,25918370
+310,46,West Europe,West Europe Store 24,2019-03-24,Clothing,Swimwear,5,10,83685643
+311,38,West Europe,West Europe Store 24,2019-03-01,Baby,Car seats,1,5,94786366
+312,55,West Europe,West Europe Store 24,2019-04-12,Beauty/Health,Haircare,4,10,68878817
+313,76,West Europe,West Europe Store 24,2019-02-24,Beauty/Health,Fragrances,1,15,94462941
+314,33,West Europe,West Europe Store 24,2019-02-24,Electronics,Computers,2,50,11500528
+315,43,West Europe,West Europe Store 24,2019-02-04,Clothing,Baby,3,25,99289227
+316,14,West Europe,West Europe Store 24,2019-01-05,Electronics,Tablets,1,100,69343181
+317,62,West Europe,West Europe Store 24,2019-06-04,Clothing,Mens,9,13,27951301
+318,73,West Europe,West Europe Store 24,2019-06-29,Beauty/Health,Makeup,6,15,68535454
+319,74,West Europe,West Europe Store 24,2019-02-07,Clothing,Swimwear,1,25,88973934
+320,6,West Europe,West Europe Store 24,2019-02-24,Beauty/Health,Fragrances,5,10,67682467
+321,76,West Europe,West Europe Store 24,2019-03-05,Furniture,Patio furniture,2,30,14363043
+322,82,West Europe,West Europe Store 24,2019-01-01,Baby,Baby toys,5,15,60049692
+323,101,West Europe,West Europe Store 24,2019-02-11,Furniture,Indoor tables,4,40,82185647
+324,68,West Europe,West Europe Store 24,2019-03-15,Furniture,Indoor tables,5,15,10030321
+325,79,West Europe,West Europe Store 24,2019-01-24,Furniture,Patio furniture,4,40,76886992
+326,43,West Europe,West Europe Store 24,2019-04-30,Baby,Diapers,6,15,35286508
+327,67,West Europe,West Europe Store 24,2019-03-20,Beauty/Health,Makeup,5,10,34996884
+328,67,West Europe,West Europe Store 24,2019-03-10,Beauty/Health,Feminine Products,3,10,89380441
+329,68,West Europe,West Europe Store 24,2019-04-13,Electronics,Computers,2,200,96527550
+330,29,West Europe,West Europe Store 24,2019-04-09,Clothing,Womens,10,25,25033256
+331,42,West Europe,West Europe Store 24,2019-02-02,Beauty/Health,Bath,3,6,51675315
+332,30,West Europe,West Europe Store 24,2019-05-04,Electronics,Televisions,1,300,11437257
+333,19,West Europe,West Europe Store 24,2019-03-19,Beauty/Health,Makeup,3,6,94432568
+334,41,West Europe,West Europe Store 24,2019-02-20,Baby,Diapers,5,10,51055325
+335,62,West Europe,West Europe Store 24,2019-02-22,Electronics,Computers,2,50,71270451
+336,77,West Europe,West Europe Store 24,2019-02-18,Electronics,Televisions,1,50,17868618
+337,7,West Europe,West Europe Store 24,2019-07-02,Beauty/Health,Makeup,3,14,50847857
+338,10,West Europe,West Europe Store 24,2019-01-05,Furniture,Pool furniture,2,40,54572564
+339,2,West Europe,West Europe Store 24,2019-02-28,Beauty/Health,Skincare,3,10,86923002
+340,14,West Europe,West Europe Store 24,2019-01-18,Clothing,Swimwear,1,25,41608544
+341,101,West Europe,West Europe Store 24,2019-04-05,Clothing,Mens,5,20,49269903
+342,66,West Europe,West Europe Store 24,2019-02-16,Beauty/Health,Fragrances,5,6,33806964
+343,17,West Europe,West Europe Store 24,2019-05-13,Baby,Diapers,5,30,89976351
+344,14,West Europe,West Europe Store 24,2019-04-22,Electronics,Tablets,1,200,79509566
+345,16,West Europe,West Europe Store 24,2019-06-03,Clothing,Swimwear,5,13,31122603
+346,25,West Europe,West Europe Store 24,2019-03-24,Electronics,Computers,1,50,33800508
+347,32,West Europe,West Europe Store 24,2019-03-30,Clothing,Kids,3,10,86105557
+348,35,West Europe,West Europe Store 24,2019-05-28,Beauty/Health,Haircare,5,10,16845482
+349,19,West Europe,West Europe Store 24,2019-04-26,Electronics,Televisions,2,200,79426921
+350,53,West Europe,West Europe Store 24,2019-06-04,Clothing,Womens,4,25,11913564
+351,95,West Europe,West Europe Store 24,2019-01-24,Furniture,Indoor seating,5,30,35488593
+352,53,West Europe,West Europe Store 24,2019-04-18,Clothing,Mens,3,20,32457006
+353,71,West Europe,West Europe Store 24,2019-04-17,Electronics,Tablets,2,100,38184206
+354,60,West Europe,West Europe Store 24,2019-02-07,Clothing,Kids,3,12,48885877
+355,54,West Europe,West Europe Store 24,2019-07-05,Furniture,Pool furniture,7,15,45880415
+356,4,West Europe,West Europe Store 24,2019-03-30,Electronics,Cell Phones,2,200,55551569
+357,16,West Europe,West Europe Store 24,2019-06-25,Beauty/Health,Skincare,3,6,67610869
+358,41,West Europe,West Europe Store 24,2019-05-12,Clothing,Shoes,7,25,69474110
+359,26,West Europe,West Europe Store 24,2019-03-31,Baby,Diapers,5,12,62017775
+360,99,West Europe,West Europe Store 24,2019-02-14,Furniture,Pool furniture,1,40,50463054
+361,99,West Europe,West Europe Store 24,2019-06-06,Furniture,Indoor seating,5,30,31053203
+362,50,West Europe,West Europe Store 24,2019-02-09,Beauty/Health,Feminine Products,2,14,96898222
+363,97,West Europe,West Europe Store 24,2019-04-19,Electronics,Computers,1,50,26307776
+364,32,West Europe,West Europe Store 24,2019-01-01,Electronics,Tablets,2,200,52242615
+365,23,West Europe,West Europe Store 24,2019-01-12,Clothing,Shoes,1,25,66935975
+366,66,West Europe,West Europe Store 24,2019-04-15,Furniture,Beds,7,15,93513933
+367,12,West Europe,West Europe Store 24,2019-02-01,Beauty/Health,Skincare,4,10,97512673
+368,82,West Europe,West Europe Store 24,2019-03-20,Clothing,Swimwear,3,20,80545224
+369,70,West Europe,West Europe Store 24,2019-04-07,Baby,Diapers,5,30,20679690
+370,3,West Europe,West Europe Store 24,2019-06-24,Electronics,Computers,2,200,60952635
+371,58,West Europe,West Europe Store 24,2019-02-26,Baby,Diaper bags,1,30,41689435
+372,50,West Europe,West Europe Store 24,2019-03-02,Baby,Strollers,4,30,42246190
+373,55,West Europe,West Europe Store 24,2019-02-10,Electronics,Cell Phones,2,100,78206963
+374,44,West Europe,West Europe Store 24,2019-02-08,Baby,Baby toys,5,30,68525541
+375,98,West Europe,West Europe Store 24,2019-01-14,Furniture,Indoor seating,3,30,27044198
+376,69,West Europe,West Europe Store 24,2019-04-28,Clothing,Swimwear,4,25,29936439
+377,87,West Europe,West Europe Store 24,2019-03-29,Furniture,Indoor tables,5,100,70510106
+378,15,West Europe,West Europe Store 24,2019-03-19,Beauty/Health,Bath,3,10,93303682
+379,40,West Europe,West Europe Store 24,2019-03-30,Baby,Baby toys,3,30,28071170
+380,39,West Europe,West Europe Store 24,2019-04-04,Beauty/Health,Oral care,5,15,85977182
+381,4,West Europe,West Europe Store 24,2019-02-11,Electronics,Speakers,1,200,41251196
+382,52,West Europe,West Europe Store 24,2019-03-02,Electronics,Cell Phones,1,100,94986522
+383,95,West Europe,West Europe Store 24,2019-05-08,Beauty/Health,Makeup,5,6,68316411
+384,40,West Europe,West Europe Store 24,2019-02-22,Baby,Cribs,4,30,84328972
+385,68,West Europe,West Europe Store 24,2019-04-01,Furniture,Pool furniture,3,100,63523133
+386,98,West Europe,West Europe Store 24,2019-04-16,Electronics,Computers,1,100,38198590
+387,33,West Europe,West Europe Store 24,2019-03-23,Electronics,Speakers,2,100,54800211
+388,14,West Europe,West Europe Store 24,2019-01-09,Electronics,Headphones,2,100,45996562
+389,41,West Europe,West Europe Store 24,2019-03-21,Furniture,Indoor seating,1,15,41662568
+390,48,West Europe,West Europe Store 24,2019-01-20,Baby,Diaper bags,2,12,80887821
+391,51,West Europe,West Europe Store 24,2019-03-11,Electronics,Cell Phones,1,300,77728524
+392,28,West Europe,West Europe Store 24,2019-04-04,Furniture,Beds,1,30,22243424
+393,77,West Europe,West Europe Store 24,2019-05-25,Clothing,Shoes,4,25,64149357
+394,62,West Europe,West Europe Store 24,2019-01-10,Beauty/Health,Bath,4,10,90045604
+395,84,West Europe,West Europe Store 24,2019-04-23,Electronics,Tablets,2,200,92018429
+396,58,West Europe,West Europe Store 24,2019-02-04,Beauty/Health,Haircare,5,10,44808081
+397,53,West Europe,West Europe Store 24,2019-07-14,Furniture,Patio furniture,5,15,89107179
+398,20,West Europe,West Europe Store 24,2019-06-27,Baby,Baby toys,3,30,65742127
+399,31,West Europe,West Europe Store 24,2019-05-06,Baby,Car seats,7,12,75986606
+400,49,West Europe,West Europe Store 24,2019-04-10,Baby,Car seats,9,15,88562494
+401,24,West Europe,West Europe Store 24,2019-05-01,Clothing,Shoes,4,25,91859101
+402,94,West Europe,West Europe Store 24,2019-02-08,Electronics,Tablets,2,300,69960364
+403,99,West Europe,West Europe Store 24,2019-04-23,Baby,Strollers,3,10,28704794
+404,4,West Europe,West Europe Store 24,2019-02-25,Beauty/Health,Skincare,4,10,11425307
+405,78,West Europe,West Europe Store 24,2019-03-09,Furniture,Pool furniture,5,75,75160831
+406,95,West Europe,West Europe Store 24,2019-03-13,Electronics,Headphones,2,50,38343364
+407,34,West Europe,West Europe Store 24,2019-02-24,Furniture,Indoor tables,5,15,89211637
+408,8,West Europe,West Europe Store 24,2019-02-22,Baby,Diapers,2,30,56431632
+409,97,West Europe,West Europe Store 24,2019-01-06,Furniture,Indoor tables,5,30,13213301
+410,20,West Europe,West Europe Store 24,2019-04-23,Clothing,Kids,3,25,26873228
+411,26,West Europe,West Europe Store 24,2019-02-14,Electronics,Speakers,1,100,83967134
+412,70,West Europe,West Europe Store 24,2019-01-18,Beauty/Health,Makeup,2,6,54649268
+413,22,West Europe,West Europe Store 24,2019-01-21,Baby,Diapers,2,5,17241560
+414,11,West Europe,West Europe Store 24,2019-04-22,Furniture,Beds,6,75,16786504
+415,62,West Europe,West Europe Store 24,2019-07-04,Baby,Diapers,8,30,61006978
+416,46,West Europe,West Europe Store 24,2019-07-14,Beauty/Health,Haircare,5,10,60726050
+417,86,West Europe,West Europe Store 24,2019-03-02,Electronics,Computers,1,50,96672139
+418,49,West Europe,West Europe Store 24,2019-04-21,Baby,Cribs,3,30,49150248
+419,12,West Europe,West Europe Store 24,2019-04-01,Baby,Strollers,5,10,87836704
+420,59,West Europe,West Europe Store 24,2019-03-17,Beauty/Health,Makeup,1,10,35996291
+421,4,West Europe,West Europe Store 24,2019-06-19,Clothing,Baby,10,12,25473183
+422,25,West Europe,West Europe Store 24,2019-05-16,Electronics,Computers,1,200,62550284
+423,74,West Europe,West Europe Store 24,2019-03-20,Electronics,Cell Phones,1,100,49225775
+424,37,West Europe,West Europe Store 24,2019-07-12,Electronics,Speakers,2,50,66702817
+425,63,West Europe,West Europe Store 24,2019-04-01,Clothing,Shoes,4,20,97997642
+426,94,West Europe,West Europe Store 24,2019-05-27,Clothing,Shoes,4,13,47121539
+427,32,West Europe,West Europe Store 24,2019-05-28,Baby,Diapers,5,15,58439779
+428,19,West Europe,West Europe Store 24,2019-03-17,Beauty/Health,Skincare,4,10,67848169
+429,36,West Europe,West Europe Store 24,2019-02-23,Furniture,Patio furniture,5,15,18953218
+430,25,West Europe,West Europe Store 24,2019-04-02,Baby,Baby toys,3,5,48851130
+431,10,West Europe,West Europe Store 24,2019-03-02,Beauty/Health,Bath,5,14,39106552
+432,87,West Europe,West Europe Store 24,2019-04-09,Beauty/Health,Makeup,9,10,23376828
+433,21,West Europe,West Europe Store 24,2019-06-16,Beauty/Health,Makeup,8,6,11686956
+434,56,West Europe,West Europe Store 24,2019-05-06,Clothing,Baby,8,12,41097672
+435,14,West Europe,West Europe Store 24,2019-03-08,Electronics,Tablets,2,100,29318897
+436,78,West Europe,West Europe Store 24,2019-03-03,Electronics,Cell Phones,2,200,79188504
+437,65,West Europe,West Europe Store 24,2019-03-06,Electronics,Computers,2,100,38133421
+438,2,West Europe,West Europe Store 24,2019-04-23,Baby,Strollers,5,30,12083691
+439,64,West Europe,West Europe Store 24,2019-02-25,Clothing,Shoes,3,20,35885414
+440,92,West Europe,West Europe Store 24,2019-06-21,Clothing,Shoes,4,12,41315193
+441,45,West Europe,West Europe Store 24,2019-01-14,Furniture,Patio furniture,2,15,87269845
+442,7,West Europe,West Europe Store 24,2019-02-12,Furniture,Indoor tables,4,30,75183829
+443,3,West Europe,West Europe Store 24,2019-02-17,Clothing,Swimwear,3,25,29293757
+444,8,West Europe,West Europe Store 24,2019-04-07,Beauty/Health,Oral care,1,6,40636860
+445,34,West Europe,West Europe Store 24,2019-04-10,Baby,Diapers,8,15,25537350
+446,39,West Europe,West Europe Store 24,2019-05-15,Clothing,Swimwear,4,13,94662839
+447,55,West Europe,West Europe Store 24,2019-04-29,Clothing,Kids,5,25,79257380
+448,72,West Europe,West Europe Store 24,2019-05-05,Electronics,Computers,1,100,58297798
+449,98,West Europe,West Europe Store 24,2019-03-28,Furniture,Beds,1,100,52752076
+450,77,West Europe,West Europe Store 24,2019-03-15,Furniture,Beds,5,40,53631794
+451,32,West Europe,West Europe Store 24,2019-07-01,Furniture,Beds,3,75,53276311
+452,64,West Europe,West Europe Store 24,2019-05-29,Clothing,Mens,5,25,28774990
+453,72,West Europe,West Europe Store 24,2019-03-17,Electronics,Computers,2,200,52077027
+454,24,West Europe,West Europe Store 24,2019-05-13,Baby,Car seats,5,30,54178109
+455,44,West Europe,West Europe Store 24,2019-07-15,Electronics,Speakers,1,100,86498353
+456,92,West Europe,West Europe Store 24,2019-06-10,Clothing,Baby,4,10,76743291
+457,79,West Europe,West Europe Store 24,2019-02-02,Beauty/Health,Fragrances,1,10,51268243
+458,36,West Europe,West Europe Store 24,2019-07-03,Baby,Car seats,8,12,44747128
+459,89,West Europe,West Europe Store 24,2019-07-14,Baby,Baby toys,9,30,99585038
+460,10,West Europe,West Europe Store 24,2019-05-27,Baby,Strollers,7,30,18968302
+461,7,West Europe,West Europe Store 24,2019-04-17,Beauty/Health,Makeup,4,6,73631974
+462,25,West Europe,West Europe Store 24,2019-03-23,Baby,Strollers,3,15,79238014
+463,39,West Europe,West Europe Store 24,2019-02-07,Baby,Car seats,4,30,32883159
+464,28,West Europe,West Europe Store 24,2019-07-13,Beauty/Health,Feminine Products,10,10,49514197
+465,94,West Europe,West Europe Store 24,2019-02-13,Clothing,Womens,5,20,59085249
+466,26,West Europe,West Europe Store 24,2019-02-10,Beauty/Health,Oral care,2,10,78943691
+467,25,West Europe,West Europe Store 24,2019-05-04,Beauty/Health,Feminine Products,10,10,94342718
+468,71,West Europe,West Europe Store 24,2019-05-14,Clothing,Baby,5,25,24132508
+469,32,West Europe,West Europe Store 24,2019-06-24,Furniture,Patio furniture,3,75,12222553
+470,66,West Europe,West Europe Store 24,2019-04-17,Furniture,Beds,7,30,22110451
+471,3,West Europe,West Europe Store 24,2019-03-05,Baby,Cribs,3,10,13055291
+472,9,West Europe,West Europe Store 24,2019-01-15,Clothing,Kids,4,12,56228095
+473,41,West Europe,West Europe Store 24,2019-02-15,Electronics,Computers,2,200,47048830
+474,59,West Europe,West Europe Store 24,2019-06-11,Furniture,Indoor tables,3,15,38173287
+475,46,West Europe,West Europe Store 24,2019-01-15,Furniture,Beds,2,15,29215846
+476,78,West Europe,West Europe Store 24,2019-06-24,Baby,Cribs,10,30,84122900
+477,49,West Europe,West Europe Store 24,2019-02-13,Clothing,Womens,3,25,83812769
+478,71,West Europe,West Europe Store 24,2019-02-03,Baby,Diapers,5,10,42816973
+479,61,West Europe,West Europe Store 24,2019-03-22,Baby,Cribs,4,5,12026831
+480,21,West Europe,West Europe Store 24,2019-05-16,Baby,Diapers,10,12,10142825
+481,86,West Europe,West Europe Store 24,2019-07-13,Baby,Strollers,5,10,52837015
+482,81,West Europe,West Europe Store 24,2019-06-10,Furniture,Indoor tables,9,30,62614282
+483,82,West Europe,West Europe Store 24,2019-02-10,Clothing,Baby,2,12,20336749
+484,37,West Europe,West Europe Store 24,2019-05-05,Beauty/Health,Fragrances,6,10,46517780
+485,51,West Europe,West Europe Store 24,2019-04-18,Beauty/Health,Haircare,7,6,99988495
+486,41,West Europe,West Europe Store 24,2019-05-02,Furniture,Beds,5,30,46165610
+487,24,West Europe,West Europe Store 24,2019-03-10,Clothing,Womens,4,13,11906006
+488,85,West Europe,West Europe Store 24,2019-06-16,Clothing,Baby,3,20,22121694
+489,90,West Europe,West Europe Store 24,2019-03-09,Clothing,Mens,4,25,19808644
+490,43,West Europe,West Europe Store 24,2019-05-25,Electronics,Speakers,2,100,67714437
+491,86,West Europe,West Europe Store 24,2019-02-08,Furniture,Indoor seating,2,100,72021580
+492,90,West Europe,West Europe Store 24,2019-01-01,Baby,Car seats,4,10,92259535
+493,55,West Europe,West Europe Store 24,2019-06-18,Electronics,Cell Phones,1,100,16287478
+494,63,West Europe,West Europe Store 24,2019-01-14,Furniture,Beds,3,100,48889255
+495,57,West Europe,West Europe Store 24,2019-03-09,Beauty/Health,Bath,3,15,68610886
+496,94,West Europe,West Europe Store 24,2019-06-19,Clothing,Swimwear,9,10,74669375
+497,87,West Europe,West Europe Store 24,2019-06-08,Furniture,Indoor tables,3,15,26853976
+498,82,West Europe,West Europe Store 24,2019-05-04,Baby,Strollers,3,30,29146303
+499,21,West Europe,West Europe Store 24,2019-05-24,Electronics,Cell Phones,2,50,84277185
+500,67,West Europe,West Europe Store 24,2019-02-19,Baby,Baby toys,5,10,46964394
+501,68,West Europe,West Europe Store 24,2019-04-24,Furniture,Pool furniture,9,100,62117075
+502,69,West Europe,West Europe Store 24,2019-02-03,Furniture,Patio furniture,3,15,52150461
+503,10,West Europe,West Europe Store 24,2019-04-25,Electronics,Televisions,1,100,47048870
+504,36,West Europe,West Europe Store 24,2019-02-27,Beauty/Health,Makeup,3,14,61500129
+505,47,West Europe,West Europe Store 24,2019-04-28,Beauty/Health,Makeup,7,10,75158659
+506,8,West Europe,West Europe Store 24,2019-06-08,Electronics,Speakers,2,200,16994139
+507,59,West Europe,West Europe Store 24,2019-05-07,Furniture,Indoor seating,4,30,18620325
+508,21,West Europe,West Europe Store 24,2019-04-11,Baby,Strollers,3,15,98252534
+509,38,West Europe,West Europe Store 24,2019-01-10,Furniture,Indoor seating,5,40,46729448
+510,44,West Europe,West Europe Store 24,2019-03-16,Baby,Strollers,5,10,80853114
+511,98,West Europe,West Europe Store 24,2019-02-12,Baby,Car seats,4,10,64499621
+512,43,West Europe,West Europe Store 24,2019-03-08,Electronics,Headphones,2,50,66677326
+513,32,West Europe,West Europe Store 24,2019-01-19,Clothing,Mens,4,13,13734491
+514,34,West Europe,West Europe Store 24,2019-04-12,Beauty/Health,Oral care,8,10,33368100
+515,30,West Europe,West Europe Store 24,2019-04-29,Baby,Strollers,9,10,33362758
+516,25,West Europe,West Europe Store 24,2019-01-31,Clothing,Baby,5,25,63734928
+517,66,West Europe,West Europe Store 24,2019-05-27,Baby,Diapers,7,30,47919904
+518,71,West Europe,West Europe Store 24,2019-05-02,Electronics,Headphones,2,100,40162933
+519,69,West Europe,West Europe Store 24,2019-02-28,Furniture,Pool furniture,5,75,10569724
+520,48,West Europe,West Europe Store 24,2019-07-13,Electronics,Headphones,2,100,57828880
+521,27,West Europe,West Europe Store 24,2019-01-08,Clothing,Womens,1,10,65066303
+522,69,West Europe,West Europe Store 24,2019-03-10,Baby,Strollers,1,12,80616051
+523,73,West Europe,West Europe Store 24,2019-06-04,Beauty/Health,Feminine Products,5,14,13949001
+524,66,West Europe,West Europe Store 24,2019-01-05,Baby,Cribs,2,30,22344394
+525,71,West Europe,West Europe Store 24,2019-05-21,Clothing,Womens,7,10,83614103
+526,66,West Europe,West Europe Store 24,2019-01-30,Beauty/Health,Skincare,4,14,66910191
+527,35,West Europe,West Europe Store 24,2019-02-22,Electronics,Headphones,1,200,10504561
+528,2,West Europe,West Europe Store 24,2019-04-10,Baby,Car seats,9,5,50894450
+529,32,West Europe,West Europe Store 24,2019-04-23,Clothing,Baby,10,25,70185050
+530,51,West Europe,West Europe Store 24,2019-05-26,Clothing,Baby,9,25,74930674
+531,78,West Europe,West Europe Store 24,2019-03-24,Clothing,Womens,4,25,62474344
+532,72,West Europe,West Europe Store 24,2019-06-30,Beauty/Health,Oral care,10,10,76163194
+533,8,West Europe,West Europe Store 24,2019-01-07,Clothing,Shoes,4,10,95640277
+534,44,West Europe,West Europe Store 24,2019-01-15,Electronics,Cell Phones,1,300,99556632
+535,17,West Europe,West Europe Store 24,2019-01-29,Beauty/Health,Bath,4,10,53594417
+536,14,West Europe,West Europe Store 24,2019-03-09,Beauty/Health,Skincare,2,10,64164240
+537,30,West Europe,West Europe Store 24,2019-03-08,Electronics,Cell Phones,2,200,27697587
+538,10,West Europe,West Europe Store 24,2019-07-14,Furniture,Patio furniture,3,75,16632183
+539,87,West Europe,West Europe Store 24,2019-03-12,Furniture,Indoor tables,2,15,35736426
+540,86,West Europe,West Europe Store 24,2019-06-28,Baby,Baby toys,6,12,17823054
+541,37,West Europe,West Europe Store 24,2019-06-13,Furniture,Beds,8,40,14634962
+542,16,West Europe,West Europe Store 24,2019-04-26,Electronics,Headphones,2,100,67864408
+543,36,West Europe,West Europe Store 24,2019-01-24,Electronics,Televisions,1,100,13680710
+544,61,West Europe,West Europe Store 24,2019-06-21,Clothing,Swimwear,7,13,52593853
+545,97,West Europe,West Europe Store 24,2019-04-26,Baby,Cribs,3,5,96638336
+546,93,West Europe,West Europe Store 24,2019-01-08,Electronics,Tablets,2,50,40894490
+547,70,West Europe,West Europe Store 24,2019-05-18,Electronics,Speakers,1,300,76155060
+548,21,West Europe,West Europe Store 24,2019-05-26,Clothing,Baby,5,25,97858074
+549,86,West Europe,West Europe Store 24,2019-01-10,Clothing,Baby,3,12,80656463
+550,48,West Europe,West Europe Store 24,2019-02-03,Beauty/Health,Bath,3,6,19262957
+551,10,West Europe,West Europe Store 24,2019-04-25,Baby,Baby toys,6,10,40360175
+552,58,West Europe,West Europe Store 24,2019-06-04,Clothing,Kids,8,25,96903186
+553,79,West Europe,West Europe Store 24,2019-05-29,Electronics,Tablets,1,200,64010987
+554,56,West Europe,West Europe Store 24,2019-05-19,Baby,Cribs,9,12,94305162
+555,53,West Europe,West Europe Store 24,2019-03-27,Furniture,Pool furniture,1,40,91803058
+556,100,West Europe,West Europe Store 24,2019-02-13,Furniture,Indoor seating,1,15,56462740
+557,69,West Europe,West Europe Store 24,2019-02-16,Baby,Diapers,1,5,80050841
+558,9,West Europe,West Europe Store 24,2019-04-04,Furniture,Pool furniture,2,30,90019199
+559,92,West Europe,West Europe Store 24,2019-05-10,Clothing,Baby,7,12,75595696
+560,86,West Europe,West Europe Store 24,2019-04-08,Beauty/Health,Makeup,1,15,35344088
+561,89,West Europe,West Europe Store 24,2019-06-20,Electronics,Tablets,2,100,29698752
+562,46,West Europe,West Europe Store 24,2019-04-12,Beauty/Health,Feminine Products,10,10,34352178
+563,98,West Europe,West Europe Store 24,2019-06-26,Electronics,Speakers,2,100,51539208
+564,18,West Europe,West Europe Store 24,2019-04-09,Clothing,Shoes,10,12,46818296
+565,43,West Europe,West Europe Store 24,2019-04-22,Electronics,Headphones,2,100,29125156
+566,11,West Europe,West Europe Store 24,2019-01-13,Furniture,Indoor seating,3,30,41529677
+567,29,West Europe,West Europe Store 24,2019-01-01,Baby,Strollers,5,5,53087084
+568,76,West Europe,West Europe Store 24,2019-07-04,Clothing,Kids,4,20,19782105
+569,18,West Europe,West Europe Store 24,2019-07-11,Baby,Diaper bags,6,15,61240989
+570,92,West Europe,West Europe Store 24,2019-01-12,Electronics,Computers,2,100,76585649
+571,50,West Europe,West Europe Store 24,2019-06-16,Baby,Cribs,6,12,83591309
+572,33,West Europe,West Europe Store 24,2019-05-16,Clothing,Womens,9,10,27377278
+573,32,West Europe,West Europe Store 24,2019-01-02,Beauty/Health,Makeup,4,14,32574798
+574,96,West Europe,West Europe Store 24,2019-06-10,Furniture,Indoor tables,7,100,77184316
+575,85,West Europe,West Europe Store 24,2019-04-22,Clothing,Womens,4,20,56741460
+576,17,West Europe,West Europe Store 24,2019-04-29,Beauty/Health,Oral care,4,15,49589001
+577,89,West Europe,West Europe Store 24,2019-05-19,Electronics,Computers,2,50,88098608
+578,1,West Europe,West Europe Store 24,2019-01-12,Furniture,Patio furniture,3,75,77172478
+579,88,West Europe,West Europe Store 24,2019-05-12,Furniture,Pool furniture,5,30,34134328
+580,23,West Europe,West Europe Store 24,2019-05-27,Clothing,Shoes,5,13,53537645
+581,21,West Europe,West Europe Store 24,2019-04-07,Clothing,Baby,3,25,44050222
+582,51,West Europe,West Europe Store 24,2019-04-13,Electronics,Televisions,2,100,56620139
+583,95,West Europe,West Europe Store 24,2019-03-12,Electronics,Headphones,2,300,38902002
+584,75,West Europe,West Europe Store 24,2019-04-05,Beauty/Health,Haircare,5,10,15465128
+585,63,West Europe,West Europe Store 24,2019-07-01,Beauty/Health,Oral care,4,10,86276755
+586,50,West Europe,West Europe Store 24,2019-04-13,Furniture,Indoor seating,4,15,89356389
+587,53,West Europe,West Europe Store 24,2019-01-11,Clothing,Mens,2,25,32192357
+588,40,West Europe,West Europe Store 24,2019-01-24,Beauty/Health,Fragrances,1,10,35960332
+589,15,West Europe,West Europe Store 24,2019-03-13,Beauty/Health,Feminine Products,4,6,90184486
+590,13,West Europe,West Europe Store 24,2019-01-22,Clothing,Womens,1,25,16406589
+591,73,West Europe,West Europe Store 24,2019-02-14,Furniture,Beds,2,100,72193181
+592,76,West Europe,West Europe Store 24,2019-05-26,Clothing,Kids,4,20,87824944
+593,18,West Europe,West Europe Store 24,2019-01-27,Clothing,Womens,3,25,44382473
+594,44,West Europe,West Europe Store 24,2019-02-22,Beauty/Health,Haircare,2,15,18515480
+595,93,West Europe,West Europe Store 24,2019-06-23,Beauty/Health,Oral care,5,10,49400812
+596,101,West Europe,West Europe Store 24,2019-06-13,Clothing,Mens,3,13,51928321
+597,89,West Europe,West Europe Store 24,2019-01-14,Clothing,Swimwear,4,25,83504156
+598,12,West Europe,West Europe Store 24,2019-05-04,Baby,Diaper bags,6,5,24734208
+599,10,West Europe,West Europe Store 24,2019-03-02,Electronics,Cell Phones,2,300,98237475
+600,43,West Europe,West Europe Store 24,2019-01-30,Furniture,Beds,4,30,87450167
+601,100,West Europe,West Europe Store 24,2019-03-25,Furniture,Beds,3,100,47225018
+602,21,West Europe,West Europe Store 24,2019-05-17,Furniture,Indoor tables,10,30,40097936
+603,66,West Europe,West Europe Store 24,2019-03-03,Baby,Strollers,5,15,19655184
+604,91,West Europe,West Europe Store 24,2019-06-30,Furniture,Patio furniture,9,75,82776719
+605,101,West Europe,West Europe Store 24,2019-06-04,Baby,Cribs,9,12,72326592
+606,33,West Europe,West Europe Store 24,2019-05-24,Baby,Baby toys,4,5,58753109
+607,24,West Europe,West Europe Store 24,2019-01-25,Beauty/Health,Bath,1,6,61688544
+608,19,West Europe,West Europe Store 24,2019-06-19,Beauty/Health,Skincare,10,10,95799262
+609,92,West Europe,West Europe Store 24,2019-05-03,Beauty/Health,Haircare,7,10,30401435
+610,98,West Europe,West Europe Store 24,2019-06-22,Electronics,Speakers,1,100,19324721
+611,78,West Europe,West Europe Store 24,2019-01-27,Beauty/Health,Feminine Products,4,10,98584053
+612,32,West Europe,West Europe Store 24,2019-06-29,Clothing,Womens,8,12,98472268
+613,61,West Europe,West Europe Store 24,2019-04-25,Furniture,Beds,3,75,52182321
+614,38,West Europe,West Europe Store 24,2019-03-21,Clothing,Mens,4,20,69246744
+615,30,West Europe,West Europe Store 24,2019-02-08,Electronics,Televisions,1,200,83387688
+616,31,West Europe,West Europe Store 24,2019-02-14,Furniture,Beds,5,100,88076319
+617,94,West Europe,West Europe Store 24,2019-05-26,Clothing,Swimwear,7,13,30868479
+618,63,West Europe,West Europe Store 24,2019-02-11,Clothing,Baby,4,20,24632759
+619,29,West Europe,West Europe Store 24,2019-02-20,Clothing,Kids,3,25,29146129
+620,91,West Europe,West Europe Store 24,2019-03-09,Furniture,Beds,5,40,14171915
+621,9,West Europe,West Europe Store 24,2019-01-08,Furniture,Patio furniture,2,40,40626300
+622,15,West Europe,West Europe Store 24,2019-07-11,Beauty/Health,Makeup,5,15,51936504
+623,25,West Europe,West Europe Store 24,2019-03-09,Clothing,Kids,5,10,98833223
+624,93,West Europe,West Europe Store 24,2019-02-06,Electronics,Computers,1,200,59009798
+625,59,West Europe,West Europe Store 24,2019-05-08,Clothing,Baby,8,13,16960487
+626,50,West Europe,West Europe Store 24,2019-06-14,Baby,Diapers,5,30,40689467
+627,71,West Europe,West Europe Store 24,2019-06-26,Electronics,Televisions,2,200,30794597
+628,79,West Europe,West Europe Store 24,2019-06-06,Beauty/Health,Bath,7,6,48711387
+629,101,West Europe,West Europe Store 24,2019-06-03,Electronics,Cell Phones,1,200,49944838
+630,10,West Europe,West Europe Store 24,2019-06-21,Electronics,Computers,1,100,89295667
+631,86,West Europe,West Europe Store 24,2019-03-20,Electronics,Tablets,1,200,87293620
+632,87,West Europe,West Europe Store 24,2019-04-16,Electronics,Televisions,2,100,85646120
+633,19,West Europe,West Europe Store 24,2019-02-17,Clothing,Kids,3,10,81317718
+634,53,West Europe,West Europe Store 24,2019-04-25,Clothing,Kids,5,10,79199878
+635,6,West Europe,West Europe Store 24,2019-01-06,Furniture,Indoor tables,4,30,34336453
+636,17,West Europe,West Europe Store 24,2019-02-08,Furniture,Indoor seating,5,40,30727393
+637,13,West Europe,West Europe Store 24,2019-01-26,Beauty/Health,Skincare,1,14,87182343
+638,85,West Europe,West Europe Store 24,2019-05-18,Furniture,Beds,10,100,86970293
+639,80,West Europe,West Europe Store 24,2019-06-06,Beauty/Health,Makeup,10,10,15582673
+640,60,West Europe,West Europe Store 24,2019-03-21,Beauty/Health,Haircare,3,10,42780783
+641,63,West Europe,West Europe Store 24,2019-04-19,Baby,Car seats,8,5,63424631
+642,95,West Europe,West Europe Store 24,2019-05-04,Baby,Cribs,5,15,79536542
+643,52,West Europe,West Europe Store 24,2019-03-25,Furniture,Indoor seating,4,15,89136688
+644,36,West Europe,West Europe Store 24,2019-06-20,Electronics,Speakers,2,200,32849047
+645,26,West Europe,West Europe Store 24,2019-06-23,Electronics,Headphones,1,100,75530762
+646,16,West Europe,West Europe Store 24,2019-06-29,Beauty/Health,Feminine Products,9,10,20861770
+647,95,West Europe,West Europe Store 24,2019-06-12,Clothing,Swimwear,7,20,77395838
+648,63,West Europe,West Europe Store 24,2019-02-11,Beauty/Health,Makeup,3,6,69805949
+649,101,West Europe,West Europe Store 24,2019-01-06,Furniture,Pool furniture,1,40,76662876
+650,48,West Europe,West Europe Store 24,2019-01-08,Electronics,Computers,2,200,64900764
+651,39,West Europe,West Europe Store 24,2019-03-06,Clothing,Kids,2,25,30232022
+652,66,West Europe,West Europe Store 24,2019-01-12,Furniture,Indoor tables,5,75,71663664
+653,69,West Europe,West Europe Store 24,2019-02-01,Beauty/Health,Haircare,3,6,83004754
+654,63,West Europe,West Europe Store 24,2019-03-02,Baby,Car seats,1,30,38586818
+655,65,West Europe,West Europe Store 24,2019-05-22,Beauty/Health,Makeup,6,10,25997462
+656,38,West Europe,West Europe Store 24,2019-01-21,Furniture,Pool furniture,3,40,97097557
+657,55,West Europe,West Europe Store 24,2019-04-26,Clothing,Baby,9,20,55590497
+658,15,West Europe,West Europe Store 24,2019-02-27,Clothing,Kids,3,25,92748039
+659,11,West Europe,West Europe Store 24,2019-04-12,Electronics,Tablets,1,200,67080607
+660,35,West Europe,West Europe Store 24,2019-05-20,Clothing,Shoes,10,25,84766316
+661,94,West Europe,West Europe Store 24,2019-05-18,Clothing,Swimwear,3,25,84057093
+662,12,West Europe,West Europe Store 24,2019-07-11,Furniture,Pool furniture,4,100,35441906
+663,76,West Europe,West Europe Store 24,2019-01-07,Electronics,Cell Phones,2,100,73057378
+664,57,West Europe,West Europe Store 24,2019-01-17,Electronics,Cell Phones,1,50,70944372
+665,88,West Europe,West Europe Store 24,2019-06-21,Baby,Cribs,10,10,36438252
+666,48,West Europe,West Europe Store 24,2019-05-24,Furniture,Patio furniture,10,15,94495649
+667,67,West Europe,West Europe Store 24,2019-02-24,Clothing,Baby,1,12,54033078
+668,98,West Europe,West Europe Store 24,2019-02-06,Beauty/Health,Haircare,3,10,98054347
+669,84,West Europe,West Europe Store 24,2019-07-03,Furniture,Indoor tables,9,40,27163537
+670,28,West Europe,West Europe Store 24,2019-05-08,Electronics,Televisions,2,300,99295855
+671,51,West Europe,West Europe Store 24,2019-03-15,Beauty/Health,Feminine Products,5,10,29732404
+672,40,West Europe,West Europe Store 24,2019-03-06,Beauty/Health,Bath,5,10,87723925
+673,74,West Europe,West Europe Store 24,2019-06-11,Baby,Cribs,7,15,76661603
+674,76,West Europe,West Europe Store 24,2019-03-12,Baby,Diapers,3,30,83419354
+675,23,West Europe,West Europe Store 24,2019-05-11,Beauty/Health,Haircare,7,10,25937279
+676,66,West Europe,West Europe Store 24,2019-07-10,Furniture,Patio furniture,4,40,78908123
+677,24,West Europe,West Europe Store 24,2019-03-08,Beauty/Health,Bath,1,14,32822599
+678,50,West Europe,West Europe Store 24,2019-02-06,Furniture,Beds,4,30,55940345
+679,30,West Europe,West Europe Store 24,2019-02-11,Clothing,Baby,2,20,71676426
+680,29,West Europe,West Europe Store 24,2019-01-17,Baby,Diaper bags,4,10,59102315
+681,51,West Europe,West Europe Store 24,2019-06-13,Beauty/Health,Feminine Products,6,10,50224653
+682,4,West Europe,West Europe Store 24,2019-02-02,Baby,Diaper bags,3,15,89514377
+683,97,West Europe,West Europe Store 24,2019-06-10,Beauty/Health,Makeup,8,6,98126212
+684,30,West Europe,West Europe Store 24,2019-02-16,Beauty/Health,Oral care,1,15,16664348
+685,56,West Europe,West Europe Store 24,2019-01-02,Clothing,Baby,1,10,51927863
+686,83,West Europe,West Europe Store 24,2019-01-15,Baby,Diaper bags,2,12,96110626
+687,84,West Europe,West Europe Store 24,2019-05-05,Baby,Baby toys,7,5,72537044
+688,66,West Europe,West Europe Store 24,2019-07-08,Baby,Diapers,4,15,93419636
+689,1,West Europe,West Europe Store 24,2019-02-22,Furniture,Indoor tables,5,15,61937024
+690,89,West Europe,West Europe Store 24,2019-05-27,Furniture,Pool furniture,8,30,63948835
+691,70,West Europe,West Europe Store 24,2019-05-09,Baby,Cribs,7,30,38387860
+692,101,West Europe,West Europe Store 24,2019-06-19,Clothing,Swimwear,5,12,57921531
+693,66,West Europe,West Europe Store 24,2019-02-02,Clothing,Mens,4,10,31362803
+694,61,West Europe,West Europe Store 24,2019-07-06,Baby,Cribs,6,15,83888127
+695,48,West Europe,West Europe Store 24,2019-01-18,Clothing,Mens,5,12,79143639
+696,31,West Europe,West Europe Store 24,2019-02-01,Baby,Diaper bags,5,12,15869507
+697,86,West Europe,West Europe Store 24,2019-05-25,Furniture,Pool furniture,4,100,82015134
+698,8,West Europe,West Europe Store 24,2019-05-30,Clothing,Kids,8,12,10311456
+699,34,West Europe,West Europe Store 24,2019-05-26,Furniture,Pool furniture,3,40,43710751
+700,69,West Europe,West Europe Store 24,2019-03-17,Furniture,Beds,5,15,35881219
+701,85,West Europe,West Europe Store 24,2019-07-01,Clothing,Kids,4,10,74641007
+702,37,West Europe,West Europe Store 24,2019-02-27,Baby,Diaper bags,5,30,74440164
+703,11,West Europe,West Europe Store 24,2019-02-21,Baby,Diaper bags,4,12,84206514
+704,37,West Europe,West Europe Store 24,2019-01-12,Clothing,Womens,5,20,78213105
+705,23,West Europe,West Europe Store 24,2019-03-21,Furniture,Patio furniture,2,40,20884998
+706,53,West Europe,West Europe Store 24,2019-02-02,Baby,Car seats,3,10,34658636
+707,54,West Europe,West Europe Store 24,2019-06-25,Clothing,Kids,6,13,92764228
+708,93,West Europe,West Europe Store 24,2019-04-01,Baby,Diapers,2,12,77753006
+709,15,West Europe,West Europe Store 24,2019-01-03,Clothing,Baby,3,10,75464207
+710,50,West Europe,West Europe Store 24,2019-04-03,Beauty/Health,Fragrances,2,10,62514528
+711,49,West Europe,West Europe Store 24,2019-04-30,Baby,Diapers,4,10,74142182
+712,74,West Europe,West Europe Store 24,2019-04-13,Electronics,Computers,2,200,68547795
+713,67,West Europe,West Europe Store 24,2019-03-26,Electronics,Speakers,1,200,94560123
+714,58,West Europe,West Europe Store 24,2019-02-14,Furniture,Patio furniture,3,75,83101511
+715,86,West Europe,West Europe Store 24,2019-07-16,Furniture,Indoor tables,4,15,43621050
+716,99,West Europe,West Europe Store 24,2019-06-17,Beauty/Health,Haircare,9,10,71957533
+717,44,West Europe,West Europe Store 24,2019-02-18,Clothing,Swimwear,1,25,86147627
+718,75,West Europe,West Europe Store 24,2019-05-29,Baby,Strollers,5,15,11623026
+719,84,West Europe,West Europe Store 24,2019-07-04,Furniture,Indoor seating,3,75,49955125
+720,22,West Europe,West Europe Store 24,2019-01-13,Electronics,Headphones,2,200,80177306
+721,27,West Europe,West Europe Store 24,2019-05-11,Furniture,Indoor tables,5,100,91463962
+722,73,West Europe,West Europe Store 24,2019-04-24,Clothing,Kids,9,25,38873262
+723,35,West Europe,West Europe Store 24,2019-01-02,Beauty/Health,Haircare,1,6,78766140
+724,80,West Europe,West Europe Store 24,2019-04-26,Electronics,Computers,1,200,63176895
+725,79,West Europe,West Europe Store 24,2019-01-07,Clothing,Womens,5,20,91120681
+726,93,West Europe,West Europe Store 24,2019-06-08,Furniture,Pool furniture,10,40,49103456
+727,46,West Europe,West Europe Store 24,2019-02-28,Baby,Cribs,4,30,51238867
+728,73,West Europe,West Europe Store 24,2019-02-01,Electronics,Televisions,2,100,93552723
+729,36,West Europe,West Europe Store 24,2019-06-29,Baby,Cribs,5,5,32906025
+730,62,West Europe,West Europe Store 24,2019-06-22,Electronics,Speakers,2,50,28709138
+731,25,West Europe,West Europe Store 24,2019-07-01,Baby,Diaper bags,4,15,60655970
+732,5,West Europe,West Europe Store 24,2019-06-30,Baby,Diapers,10,12,43900960
+733,13,West Europe,West Europe Store 24,2019-05-29,Clothing,Mens,4,25,84665717
+734,99,West Europe,West Europe Store 24,2019-05-31,Clothing,Kids,5,20,35834914
+735,14,West Europe,West Europe Store 24,2019-01-23,Baby,Baby toys,1,12,52566972
+736,24,West Europe,West Europe Store 24,2019-01-26,Baby,Car seats,4,12,27880436
+737,90,West Europe,West Europe Store 24,2019-02-21,Baby,Diapers,5,10,82547768
+738,40,West Europe,West Europe Store 24,2019-06-11,Furniture,Indoor tables,4,30,72326681
+739,12,West Europe,West Europe Store 24,2019-04-13,Beauty/Health,Oral care,9,10,73691178
+740,22,West Europe,West Europe Store 24,2019-02-07,Furniture,Beds,1,75,47524603
+741,78,West Europe,West Europe Store 24,2019-03-24,Beauty/Health,Makeup,3,10,48213914
+742,42,West Europe,West Europe Store 24,2019-05-11,Furniture,Indoor seating,10,75,64846992
+743,17,West Europe,West Europe Store 24,2019-05-30,Furniture,Beds,4,75,90998032
+744,45,West Europe,West Europe Store 24,2019-01-17,Beauty/Health,Oral care,3,14,91525621
+745,7,West Europe,West Europe Store 24,2019-05-01,Beauty/Health,Haircare,5,10,34724799
+746,78,West Europe,West Europe Store 24,2019-02-12,Beauty/Health,Makeup,4,10,62887096
+747,59,West Europe,West Europe Store 24,2019-02-13,Furniture,Beds,2,75,95008330
+748,72,West Europe,West Europe Store 24,2019-03-26,Clothing,Mens,3,13,63150945
+749,28,West Europe,West Europe Store 24,2019-06-12,Furniture,Pool furniture,9,40,91647131
+750,5,West Europe,West Europe Store 24,2019-02-04,Beauty/Health,Bath,1,15,99644806
+751,34,West Europe,West Europe Store 24,2019-06-20,Furniture,Indoor tables,5,40,91419046
+752,15,West Europe,West Europe Store 24,2019-02-22,Furniture,Indoor tables,4,75,99780473
+753,28,West Europe,West Europe Store 24,2019-04-10,Electronics,Tablets,1,50,44662040
+754,82,West Europe,West Europe Store 24,2019-01-29,Clothing,Kids,5,12,52732332
+755,16,West Europe,West Europe Store 24,2019-01-22,Beauty/Health,Skincare,4,14,13412476
+756,90,West Europe,West Europe Store 24,2019-01-11,Furniture,Indoor tables,5,15,12518267
+757,82,West Europe,West Europe Store 24,2019-02-16,Baby,Diaper bags,3,30,78870884
+758,46,West Europe,West Europe Store 24,2019-03-19,Clothing,Mens,4,20,80676473
+759,96,West Europe,West Europe Store 24,2019-06-16,Clothing,Womens,5,13,42363560
+760,20,West Europe,West Europe Store 24,2019-04-02,Clothing,Baby,5,25,16704468
+761,44,West Europe,West Europe Store 24,2019-02-26,Clothing,Mens,2,25,16202688
+762,72,West Europe,West Europe Store 24,2019-07-02,Furniture,Patio furniture,8,75,99300680
+763,20,West Europe,West Europe Store 24,2019-03-16,Clothing,Mens,4,13,13765984
+764,15,West Europe,West Europe Store 24,2019-06-21,Baby,Car seats,6,15,51240782
+765,80,West Europe,West Europe Store 24,2019-02-04,Beauty/Health,Skincare,1,14,66218828
+766,67,West Europe,West Europe Store 24,2019-06-24,Furniture,Patio furniture,10,15,80352891
+767,49,West Europe,West Europe Store 24,2019-01-16,Furniture,Indoor seating,5,75,44401805
+768,54,West Europe,West Europe Store 24,2019-02-18,Electronics,Speakers,2,300,53346622
+769,64,West Europe,West Europe Store 24,2019-04-25,Furniture,Beds,9,75,36607595
+770,82,West Europe,West Europe Store 24,2019-05-15,Clothing,Baby,6,10,62615184
+771,55,West Europe,West Europe Store 24,2019-02-19,Clothing,Mens,4,10,95470596
+772,52,West Europe,West Europe Store 24,2019-06-15,Beauty/Health,Fragrances,5,14,44291208
+773,32,West Europe,West Europe Store 24,2019-02-21,Furniture,Beds,1,40,24304467
+774,63,West Europe,West Europe Store 24,2019-03-12,Furniture,Indoor seating,1,100,79276434
+775,27,West Europe,West Europe Store 24,2019-04-26,Baby,Diapers,8,5,48377069
+776,41,West Europe,West Europe Store 24,2019-07-13,Furniture,Patio furniture,9,15,80068569
+777,84,West Europe,West Europe Store 24,2019-03-17,Furniture,Indoor tables,1,30,42410390
+778,28,West Europe,West Europe Store 24,2019-03-23,Electronics,Cell Phones,2,300,10691043
+779,39,West Europe,West Europe Store 24,2019-03-09,Baby,Strollers,1,30,95853266
+780,18,West Europe,West Europe Store 24,2019-03-23,Electronics,Televisions,2,50,17429825
+781,48,West Europe,West Europe Store 24,2019-06-25,Furniture,Indoor tables,5,100,18316325
+782,53,West Europe,West Europe Store 24,2019-02-23,Baby,Cribs,2,30,55985344
+783,50,West Europe,West Europe Store 24,2019-01-15,Clothing,Mens,1,13,48845527
+784,31,West Europe,West Europe Store 24,2019-07-14,Clothing,Womens,3,20,33562320
+785,47,West Europe,West Europe Store 24,2019-05-05,Electronics,Televisions,2,300,13014231
+786,22,West Europe,West Europe Store 24,2019-03-02,Furniture,Indoor tables,5,40,23182862
+787,50,West Europe,West Europe Store 24,2019-03-12,Furniture,Pool furniture,2,30,48301518
+788,85,West Europe,West Europe Store 24,2019-02-16,Furniture,Beds,2,15,79459593
+789,101,West Europe,West Europe Store 24,2019-01-11,Electronics,Headphones,1,300,59298908
+790,25,West Europe,West Europe Store 24,2019-03-06,Beauty/Health,Oral care,4,10,85740138
+791,20,West Europe,West Europe Store 24,2019-07-05,Furniture,Beds,4,75,72084566
+792,23,West Europe,West Europe Store 24,2019-05-10,Furniture,Pool furniture,10,30,39185247
+793,97,West Europe,West Europe Store 24,2019-02-14,Baby,Cribs,4,10,56775564
+794,39,West Europe,West Europe Store 24,2019-01-27,Clothing,Kids,3,13,85540057
+795,72,West Europe,West Europe Store 24,2019-03-16,Baby,Car seats,2,30,58242862
+796,72,West Europe,West Europe Store 24,2019-07-05,Electronics,Tablets,2,100,53738388
+797,72,West Europe,West Europe Store 24,2019-06-24,Clothing,Womens,8,13,10551196
+798,16,West Europe,West Europe Store 24,2019-02-01,Baby,Baby toys,1,10,79473582
+799,33,West Europe,West Europe Store 24,2019-02-22,Beauty/Health,Makeup,3,10,38807009
+800,41,West Europe,West Europe Store 24,2019-04-07,Electronics,Televisions,1,300,40305412
+801,100,West Europe,West Europe Store 24,2019-01-20,Baby,Strollers,4,30,19393574
+802,64,West Europe,West Europe Store 24,2019-03-19,Baby,Diaper bags,2,15,68882268
+803,85,West Europe,West Europe Store 24,2019-01-05,Clothing,Baby,4,25,75982694
+804,5,West Europe,West Europe Store 24,2019-07-04,Beauty/Health,Skincare,8,15,28625445
+805,34,West Europe,West Europe Store 24,2019-05-10,Clothing,Kids,7,10,90575890
+806,66,West Europe,West Europe Store 24,2019-04-07,Beauty/Health,Bath,5,10,26712516
+807,60,West Europe,West Europe Store 24,2019-02-12,Furniture,Patio furniture,3,15,79470241
+808,25,West Europe,West Europe Store 24,2019-05-20,Electronics,Cell Phones,1,200,40738714
+809,24,West Europe,West Europe Store 24,2019-01-21,Baby,Baby toys,2,12,44848834
+810,43,West Europe,West Europe Store 24,2019-02-03,Electronics,Speakers,1,200,26979089
+811,16,West Europe,West Europe Store 24,2019-03-29,Furniture,Beds,3,100,28649231
+812,36,West Europe,West Europe Store 24,2019-03-13,Furniture,Beds,3,15,76354154
+813,37,West Europe,West Europe Store 24,2019-01-18,Beauty/Health,Feminine Products,2,15,98382757
+814,14,West Europe,West Europe Store 24,2019-05-19,Baby,Diaper bags,5,10,31279378
+815,40,West Europe,West Europe Store 24,2019-02-13,Baby,Car seats,5,12,99651041
+816,19,West Europe,West Europe Store 24,2019-03-28,Furniture,Indoor seating,2,40,65626307
+817,90,West Europe,West Europe Store 24,2019-04-27,Clothing,Swimwear,9,25,67267906
+818,12,West Europe,West Europe Store 24,2019-03-09,Baby,Diapers,2,15,65543543
+819,34,West Europe,West Europe Store 24,2019-04-02,Electronics,Computers,1,100,55744615
+820,90,West Europe,West Europe Store 24,2019-02-03,Electronics,Headphones,2,300,21791242
+821,52,West Europe,West Europe Store 24,2019-05-19,Baby,Baby toys,10,12,92353938
+822,9,West Europe,West Europe Store 24,2019-06-18,Baby,Diapers,7,10,96063500
+823,20,West Europe,West Europe Store 24,2019-03-08,Furniture,Beds,3,30,51166663
+824,61,West Europe,West Europe Store 24,2019-04-19,Electronics,Cell Phones,1,200,34465818
+825,52,West Europe,West Europe Store 24,2019-02-10,Furniture,Indoor tables,5,15,28211544
+826,46,West Europe,West Europe Store 24,2019-05-12,Beauty/Health,Bath,5,10,31297895
+827,46,West Europe,West Europe Store 24,2019-04-19,Baby,Diaper bags,8,5,37904230
+828,27,West Europe,West Europe Store 24,2019-02-20,Clothing,Shoes,2,10,20654133
+829,74,West Europe,West Europe Store 24,2019-06-03,Electronics,Computers,1,50,76735995
+830,44,West Europe,West Europe Store 24,2019-06-11,Furniture,Indoor tables,3,100,73048189
+831,49,West Europe,West Europe Store 24,2019-03-29,Electronics,Televisions,1,200,26680240
+832,57,West Europe,West Europe Store 24,2019-01-14,Clothing,Shoes,5,12,91917087
+833,81,West Europe,West Europe Store 24,2019-03-16,Baby,Diaper bags,3,15,24360742
+834,19,West Europe,West Europe Store 24,2019-01-20,Clothing,Kids,4,25,23564045
+835,76,West Europe,West Europe Store 24,2019-07-01,Beauty/Health,Feminine Products,3,10,59291633
+836,67,West Europe,West Europe Store 24,2019-03-26,Electronics,Computers,1,50,83171439
+837,23,West Europe,West Europe Store 24,2019-01-25,Electronics,Cell Phones,1,50,19648919
+838,86,West Europe,West Europe Store 24,2019-02-19,Baby,Cribs,2,30,54258615
+839,86,West Europe,West Europe Store 24,2019-01-16,Baby,Strollers,2,10,28489391
+840,89,West Europe,West Europe Store 24,2019-05-15,Clothing,Womens,8,10,86075444
+841,95,West Europe,West Europe Store 24,2019-01-16,Furniture,Indoor seating,5,15,29159005
+842,52,West Europe,West Europe Store 24,2019-01-26,Clothing,Womens,5,25,59463337
+843,50,West Europe,West Europe Store 24,2019-01-02,Baby,Diaper bags,2,30,79496311
+844,18,West Europe,West Europe Store 24,2019-06-24,Furniture,Indoor seating,8,75,42388197
+845,90,West Europe,West Europe Store 24,2019-04-05,Beauty/Health,Fragrances,5,14,60626249
+846,50,West Europe,West Europe Store 24,2019-04-21,Electronics,Computers,1,50,79867988
+847,11,West Europe,West Europe Store 24,2019-06-11,Baby,Diapers,6,30,90685736
+848,63,West Europe,West Europe Store 24,2019-04-06,Electronics,Televisions,1,300,36129310
+849,79,West Europe,West Europe Store 24,2019-01-31,Furniture,Beds,2,100,74365051
+850,69,West Europe,West Europe Store 24,2019-03-18,Baby,Cribs,4,10,13103598
+851,10,West Europe,West Europe Store 24,2019-04-08,Furniture,Indoor tables,5,75,57892609
+852,101,West Europe,West Europe Store 24,2019-04-13,Baby,Diapers,5,30,14698039
+853,59,West Europe,West Europe Store 24,2019-06-16,Beauty/Health,Skincare,7,10,21045001
+854,30,West Europe,West Europe Store 24,2019-01-24,Baby,Baby toys,4,5,73257747
+855,31,West Europe,West Europe Store 24,2019-05-20,Beauty/Health,Skincare,6,10,41513738
+856,22,West Europe,West Europe Store 24,2019-07-05,Baby,Baby toys,6,30,47674909
+857,10,West Europe,West Europe Store 24,2019-04-13,Baby,Diapers,4,30,75101575
+858,63,West Europe,West Europe Store 24,2019-01-16,Clothing,Baby,1,25,23099759
+859,76,West Europe,West Europe Store 24,2019-06-21,Furniture,Pool furniture,10,100,15738646
+860,28,West Europe,West Europe Store 24,2019-04-03,Electronics,Televisions,1,100,55807655
+861,95,West Europe,West Europe Store 24,2019-04-17,Clothing,Mens,10,13,61556837
+862,84,West Europe,West Europe Store 24,2019-05-09,Clothing,Shoes,5,20,12611232
+863,56,West Europe,West Europe Store 24,2019-01-17,Beauty/Health,Oral care,2,14,69015924
+864,64,West Europe,West Europe Store 24,2019-06-15,Beauty/Health,Oral care,6,10,57711576
+865,95,West Europe,West Europe Store 24,2019-05-03,Beauty/Health,Skincare,7,10,17452218
+866,65,West Europe,West Europe Store 24,2019-04-06,Clothing,Baby,5,12,13144408
+867,38,West Europe,West Europe Store 24,2019-05-13,Electronics,Televisions,2,50,54050714
+868,88,West Europe,West Europe Store 24,2019-04-22,Electronics,Computers,1,100,70944817
+869,20,West Europe,West Europe Store 24,2019-03-06,Clothing,Mens,3,13,46899490
+870,22,West Europe,West Europe Store 24,2019-03-15,Clothing,Swimwear,3,25,30527980
+871,47,West Europe,West Europe Store 24,2019-02-22,Baby,Diaper bags,3,5,22769177
+872,52,West Europe,West Europe Store 24,2019-04-16,Furniture,Indoor seating,4,40,13113629
+873,50,West Europe,West Europe Store 24,2019-02-04,Beauty/Health,Fragrances,1,10,48860330
+874,35,West Europe,West Europe Store 24,2019-01-03,Clothing,Baby,4,13,45566234
+875,46,West Europe,West Europe Store 24,2019-03-16,Beauty/Health,Feminine Products,5,10,46749970
+876,54,West Europe,West Europe Store 24,2019-07-14,Electronics,Tablets,2,300,89822332
+877,48,West Europe,West Europe Store 24,2019-01-18,Beauty/Health,Bath,5,10,54421888
+878,35,West Europe,West Europe Store 24,2019-04-28,Furniture,Patio furniture,3,15,17266387
+879,36,West Europe,West Europe Store 24,2019-02-06,Baby,Diaper bags,2,5,20797743
+880,87,West Europe,West Europe Store 24,2019-07-06,Beauty/Health,Makeup,8,10,78580095
+881,69,West Europe,West Europe Store 24,2019-05-28,Clothing,Swimwear,7,10,73696715
+882,30,West Europe,West Europe Store 24,2019-07-13,Clothing,Womens,8,13,32803333
+883,96,West Europe,West Europe Store 24,2019-03-17,Baby,Car seats,4,30,64853347
+884,40,West Europe,West Europe Store 24,2019-03-09,Electronics,Speakers,1,300,73556718
+885,78,West Europe,West Europe Store 24,2019-03-23,Beauty/Health,Makeup,2,14,12084741
+886,4,West Europe,West Europe Store 24,2019-02-02,Furniture,Beds,2,75,57256116
+887,47,West Europe,West Europe Store 24,2019-05-10,Baby,Baby toys,7,12,67140177
+888,24,West Europe,West Europe Store 24,2019-05-11,Baby,Baby toys,3,30,17976527
+889,74,West Europe,West Europe Store 24,2019-01-23,Beauty/Health,Skincare,3,10,44282542
+890,47,West Europe,West Europe Store 24,2019-02-17,Baby,Car seats,4,15,82171414
+891,47,West Europe,West Europe Store 24,2019-06-13,Clothing,Swimwear,6,13,78618170
+892,34,West Europe,West Europe Store 24,2019-03-16,Furniture,Beds,1,75,67245588
+893,76,West Europe,West Europe Store 24,2019-02-24,Furniture,Beds,3,100,32302850
+894,7,West Europe,West Europe Store 24,2019-06-22,Baby,Car seats,6,15,47868092
+895,87,West Europe,West Europe Store 24,2019-04-19,Beauty/Health,Haircare,9,14,72126652
+896,41,West Europe,West Europe Store 24,2019-05-03,Baby,Baby toys,6,10,54774244
+897,93,West Europe,West Europe Store 24,2019-07-11,Furniture,Pool furniture,3,40,54939391
+898,36,West Europe,West Europe Store 24,2019-02-08,Clothing,Womens,1,10,33481008
+899,43,West Europe,West Europe Store 24,2019-01-27,Beauty/Health,Makeup,1,15,16726313
+900,68,West Europe,West Europe Store 24,2019-04-24,Beauty/Health,Fragrances,6,10,60433308
+901,80,West Europe,West Europe Store 24,2019-06-25,Baby,Diaper bags,8,10,14037638
+902,19,West Europe,West Europe Store 24,2019-03-27,Clothing,Mens,2,25,59980328
+903,14,West Europe,West Europe Store 24,2019-03-13,Beauty/Health,Oral care,1,10,79231977
+904,95,West Europe,West Europe Store 24,2019-07-01,Furniture,Indoor tables,5,30,29957760
+905,72,West Europe,West Europe Store 24,2019-04-30,Furniture,Indoor seating,7,30,14523901
+906,15,West Europe,West Europe Store 24,2019-03-09,Baby,Baby toys,3,12,42760460
+907,45,West Europe,West Europe Store 24,2019-05-27,Beauty/Health,Feminine Products,5,10,23049395
+908,10,West Europe,West Europe Store 24,2019-05-27,Electronics,Tablets,1,300,66612187
+909,101,West Europe,West Europe Store 24,2019-04-06,Beauty/Health,Fragrances,1,6,40701106
+910,65,West Europe,West Europe Store 24,2019-04-03,Beauty/Health,Bath,3,10,51619430
+911,80,West Europe,West Europe Store 24,2019-05-28,Clothing,Kids,7,10,84806033
+912,77,West Europe,West Europe Store 24,2019-03-17,Baby,Strollers,3,12,82914408
+913,21,West Europe,West Europe Store 24,2019-05-15,Beauty/Health,Haircare,6,10,90776086
+914,47,West Europe,West Europe Store 24,2019-07-09,Beauty/Health,Oral care,8,10,41426882
+915,5,West Europe,West Europe Store 24,2019-06-01,Furniture,Beds,9,30,45273444
+916,73,West Europe,West Europe Store 24,2019-04-30,Furniture,Indoor seating,5,75,30703198
+917,82,West Europe,West Europe Store 24,2019-05-07,Baby,Cribs,9,30,51814647
+918,81,West Europe,West Europe Store 24,2019-06-06,Beauty/Health,Makeup,10,10,21763811
+919,65,West Europe,West Europe Store 24,2019-03-26,Baby,Car seats,1,15,55975548
+920,82,West Europe,West Europe Store 24,2019-05-19,Beauty/Health,Bath,6,15,97418503
+921,28,West Europe,West Europe Store 24,2019-02-10,Beauty/Health,Skincare,2,14,49447276
+922,29,West Europe,West Europe Store 24,2019-05-24,Furniture,Beds,3,40,32708703
+923,25,West Europe,West Europe Store 24,2019-03-15,Electronics,Computers,1,300,49084384
+924,88,West Europe,West Europe Store 24,2019-04-30,Electronics,Cell Phones,2,100,66855626
+925,95,West Europe,West Europe Store 24,2019-04-22,Baby,Strollers,6,30,15557247
+926,17,West Europe,West Europe Store 24,2019-02-27,Furniture,Beds,4,40,92918827
+927,56,West Europe,West Europe Store 24,2019-03-27,Clothing,Baby,4,13,94498941
+928,88,West Europe,West Europe Store 24,2019-04-04,Baby,Diapers,3,5,94773028
+929,34,West Europe,West Europe Store 24,2019-05-05,Electronics,Tablets,1,100,26835175
+930,89,West Europe,West Europe Store 24,2019-07-03,Baby,Diapers,3,30,56853217
+931,77,West Europe,West Europe Store 24,2019-01-30,Clothing,Womens,5,25,21163808
+932,13,West Europe,West Europe Store 24,2019-06-10,Clothing,Baby,8,25,72078013
+933,38,West Europe,West Europe Store 24,2019-04-03,Furniture,Patio furniture,5,40,36868938
+934,81,West Europe,West Europe Store 24,2019-05-18,Furniture,Patio furniture,9,40,74656680
+935,25,West Europe,West Europe Store 24,2019-03-13,Electronics,Cell Phones,2,300,86256494
+936,96,West Europe,West Europe Store 24,2019-07-08,Beauty/Health,Haircare,8,15,38467607
+937,49,West Europe,West Europe Store 24,2019-06-07,Beauty/Health,Fragrances,9,10,51487884
+938,4,West Europe,West Europe Store 24,2019-05-02,Furniture,Beds,9,75,17826221
+939,75,West Europe,West Europe Store 24,2019-04-26,Electronics,Tablets,2,300,43691367
+940,41,West Europe,West Europe Store 24,2019-06-16,Baby,Cribs,3,30,58976221
+941,34,West Europe,West Europe Store 24,2019-05-16,Beauty/Health,Oral care,8,10,79914957
+942,9,West Europe,West Europe Store 24,2019-01-02,Beauty/Health,Oral care,4,15,11282964
+943,67,West Europe,West Europe Store 24,2019-04-13,Electronics,Speakers,2,50,43417203
+944,34,West Europe,West Europe Store 24,2019-05-17,Beauty/Health,Bath,4,15,39097334
+945,2,West Europe,West Europe Store 24,2019-06-10,Electronics,Cell Phones,2,300,50369747
+946,72,West Europe,West Europe Store 24,2019-01-04,Baby,Baby toys,3,5,97855221
+947,72,West Europe,West Europe Store 24,2019-07-02,Furniture,Indoor tables,4,75,24095081
+948,53,West Europe,West Europe Store 24,2019-04-11,Furniture,Patio furniture,5,100,13204442
+949,81,West Europe,West Europe Store 24,2019-03-14,Electronics,Cell Phones,2,100,11984878
+950,69,West Europe,West Europe Store 24,2019-05-12,Beauty/Health,Bath,7,10,97778301
+951,72,West Europe,West Europe Store 24,2019-04-30,Beauty/Health,Haircare,3,10,71753684
+952,28,West Europe,West Europe Store 24,2019-02-26,Baby,Baby toys,5,5,57718677
+953,55,West Europe,West Europe Store 24,2019-03-04,Furniture,Beds,2,40,39659616
+954,3,West Europe,West Europe Store 24,2019-04-02,Baby,Cribs,4,30,98097492
+955,25,West Europe,West Europe Store 24,2019-03-20,Beauty/Health,Makeup,5,10,52726306
+956,36,West Europe,West Europe Store 24,2019-06-24,Beauty/Health,Skincare,6,10,81984457
+957,81,West Europe,West Europe Store 24,2019-02-03,Electronics,Tablets,1,100,78503662
+958,52,West Europe,West Europe Store 24,2019-01-11,Electronics,Headphones,1,300,26858465
+959,35,West Europe,West Europe Store 24,2019-07-02,Clothing,Kids,3,20,32667427
+960,64,West Europe,West Europe Store 24,2019-03-31,Electronics,Televisions,1,300,62366379
+961,68,West Europe,West Europe Store 24,2019-02-13,Furniture,Indoor tables,3,30,25252569
+962,1,West Europe,West Europe Store 24,2019-06-22,Electronics,Tablets,2,100,79214187
+963,33,West Europe,West Europe Store 24,2019-06-10,Beauty/Health,Bath,7,10,79348176
+964,50,West Europe,West Europe Store 24,2019-05-19,Clothing,Kids,4,12,73624994
+965,49,West Europe,West Europe Store 24,2019-03-21,Beauty/Health,Bath,3,15,32650132
+966,16,West Europe,West Europe Store 24,2019-01-12,Baby,Cribs,3,15,77298261
+967,101,West Europe,West Europe Store 24,2019-06-08,Beauty/Health,Skincare,9,6,34964769
+968,84,West Europe,West Europe Store 24,2019-02-14,Beauty/Health,Oral care,1,6,98546268
+969,61,West Europe,West Europe Store 24,2019-03-23,Furniture,Indoor tables,2,30,43735297
+970,79,West Europe,West Europe Store 24,2019-05-04,Electronics,Televisions,1,300,10094370
+971,36,West Europe,West Europe Store 24,2019-02-22,Furniture,Indoor seating,3,40,16245790
+972,70,West Europe,West Europe Store 24,2019-02-16,Electronics,Speakers,2,200,75948097
+973,56,West Europe,West Europe Store 24,2019-06-10,Furniture,Indoor seating,9,100,53988812
+974,101,West Europe,West Europe Store 24,2019-06-16,Electronics,Cell Phones,1,50,38208719
+975,38,West Europe,West Europe Store 24,2019-03-01,Beauty/Health,Fragrances,5,10,74071150
+976,87,West Europe,West Europe Store 24,2019-05-08,Beauty/Health,Makeup,10,10,82396754
+977,17,West Europe,West Europe Store 24,2019-03-10,Furniture,Indoor seating,5,100,15194224
+978,67,West Europe,West Europe Store 24,2019-05-21,Beauty/Health,Oral care,4,10,17599975
+979,87,West Europe,West Europe Store 24,2019-03-03,Beauty/Health,Fragrances,1,10,95353613
+980,28,West Europe,West Europe Store 24,2019-02-16,Electronics,Televisions,2,200,34561132
+981,67,West Europe,West Europe Store 24,2019-05-09,Beauty/Health,Feminine Products,6,14,49896730
+982,63,West Europe,West Europe Store 24,2019-05-16,Electronics,Televisions,1,100,76263897
+983,100,West Europe,West Europe Store 24,2019-04-11,Electronics,Cell Phones,2,100,67449672
+984,67,West Europe,West Europe Store 24,2019-01-12,Electronics,Speakers,2,50,95736571
+985,89,West Europe,West Europe Store 24,2019-05-04,Electronics,Speakers,2,50,34197091
+986,38,West Europe,West Europe Store 24,2019-02-20,Clothing,Kids,5,10,66983829
+987,26,West Europe,West Europe Store 24,2019-01-20,Beauty/Health,Fragrances,2,10,57743724
+988,73,West Europe,West Europe Store 24,2019-01-14,Electronics,Headphones,2,50,93019060
+989,12,West Europe,West Europe Store 24,2019-05-19,Electronics,Speakers,2,200,65351055
+990,44,West Europe,West Europe Store 24,2019-01-10,Electronics,Cell Phones,2,100,49024748
+991,88,West Europe,West Europe Store 24,2019-07-14,Clothing,Mens,5,12,59758461
+992,51,West Europe,West Europe Store 24,2019-03-16,Furniture,Patio furniture,3,30,43213733
+993,57,West Europe,West Europe Store 24,2019-05-19,Furniture,Patio furniture,5,75,83138003
+994,11,West Europe,West Europe Store 24,2019-01-03,Baby,Baby toys,4,12,89977556
+995,39,West Europe,West Europe Store 24,2019-06-02,Electronics,Speakers,1,200,54640437
+996,81,West Europe,West Europe Store 24,2019-05-18,Baby,Car seats,5,10,20663922
+997,39,West Europe,West Europe Store 24,2019-01-08,Beauty/Health,Fragrances,3,6,61508599
+998,16,West Europe,West Europe Store 24,2019-01-10,Furniture,Beds,2,30,36395069
+999,5,West Europe,West Europe Store 24,2019-04-07,Electronics,Televisions,2,200,55120093
+1000,85,West Europe,West Europe Store 24,2019-01-20,Beauty/Health,Feminine Products,2,6,60097844
+1001,36,West Europe,West Europe Store 24,2019-04-07,Clothing,Swimwear,3,12,54214826
+1002,41,West Europe,West Europe Store 24,2019-05-10,Electronics,Televisions,1,300,95086458
+1003,38,West Europe,West Europe Store 24,2019-05-22,Electronics,Tablets,2,200,35529275
+1004,37,West Europe,West Europe Store 24,2019-04-23,Furniture,Indoor tables,6,30,73547018
+1005,94,West Europe,West Europe Store 24,2019-07-09,Clothing,Kids,8,12,67292824
+1006,54,West Europe,West Europe Store 24,2019-05-02,Electronics,Headphones,2,200,60034603
+1007,43,West Europe,West Europe Store 24,2019-07-04,Beauty/Health,Oral care,10,10,15541468
+1008,86,West Europe,West Europe Store 24,2019-03-04,Clothing,Swimwear,3,10,74666749
+1009,74,West Europe,West Europe Store 24,2019-01-21,Beauty/Health,Fragrances,4,6,84719944
+1010,38,West Europe,West Europe Store 24,2019-05-18,Electronics,Televisions,2,100,11783943
+1011,11,West Europe,West Europe Store 24,2019-01-22,Beauty/Health,Feminine Products,1,6,61245933
+1012,78,West Europe,West Europe Store 24,2019-06-16,Beauty/Health,Bath,8,10,25691197
+1013,72,West Europe,West Europe Store 24,2019-01-02,Baby,Strollers,1,30,17634236
+1014,31,West Europe,West Europe Store 24,2019-01-25,Baby,Car seats,1,15,17123839
+1015,55,West Europe,West Europe Store 24,2019-07-15,Baby,Cribs,8,15,36626655
+1016,35,West Europe,West Europe Store 24,2019-02-21,Furniture,Indoor tables,4,30,20380650
+1017,59,West Europe,West Europe Store 24,2019-06-30,Beauty/Health,Makeup,5,14,44077593
+1018,74,West Europe,West Europe Store 24,2019-05-12,Baby,Diaper bags,3,10,66741138
+1019,12,West Europe,West Europe Store 24,2019-07-11,Beauty/Health,Skincare,8,15,19771132
+1020,95,West Europe,West Europe Store 24,2019-03-19,Electronics,Computers,2,50,78628094
+1021,14,West Europe,West Europe Store 24,2019-06-27,Baby,Diaper bags,4,5,25673784
+1022,65,West Europe,West Europe Store 24,2019-06-07,Clothing,Mens,10,25,69963759
+1023,69,West Europe,West Europe Store 24,2019-05-22,Beauty/Health,Haircare,10,6,62136193
+1024,25,West Europe,West Europe Store 24,2019-06-12,Furniture,Indoor seating,5,75,76857463
+1025,36,West Europe,West Europe Store 24,2019-03-17,Clothing,Swimwear,5,25,53791129
+1026,71,West Europe,West Europe Store 24,2019-02-10,Beauty/Health,Makeup,5,10,48011202
+1027,89,West Europe,West Europe Store 24,2019-01-03,Beauty/Health,Feminine Products,5,10,41815205
+1028,84,West Europe,West Europe Store 24,2019-06-24,Clothing,Womens,10,12,53971491
+1029,41,West Europe,West Europe Store 24,2019-05-29,Furniture,Patio furniture,9,40,70553010
+1030,26,West Europe,West Europe Store 24,2019-04-19,Clothing,Womens,10,13,72550243
+1031,78,West Europe,West Europe Store 24,2019-07-14,Clothing,Swimwear,9,12,79668343
+1032,101,West Europe,West Europe Store 24,2019-04-10,Electronics,Headphones,1,200,83610436
+1033,55,West Europe,West Europe Store 24,2019-05-08,Beauty/Health,Oral care,9,10,43411994
+1034,53,West Europe,West Europe Store 24,2019-01-15,Clothing,Womens,5,13,89239568
+1035,63,West Europe,West Europe Store 24,2019-01-27,Clothing,Swimwear,1,13,49107411
+1036,31,West Europe,West Europe Store 24,2019-04-24,Baby,Diapers,5,5,31709237
+1037,85,West Europe,West Europe Store 24,2019-04-07,Clothing,Kids,4,13,12736265
+1038,19,West Europe,West Europe Store 24,2019-06-01,Baby,Diaper bags,10,15,62246134
+1039,87,West Europe,West Europe Store 24,2019-01-28,Clothing,Mens,1,13,66831076
+1040,46,West Europe,West Europe Store 24,2019-03-14,Furniture,Pool furniture,2,75,46585800
+1041,3,West Europe,West Europe Store 24,2019-03-17,Furniture,Indoor tables,2,100,52681711
+1042,59,West Europe,West Europe Store 24,2019-03-04,Electronics,Computers,1,50,95886305
+1043,73,West Europe,West Europe Store 24,2019-06-26,Furniture,Indoor tables,4,15,46045339
+1044,28,West Europe,West Europe Store 24,2019-02-25,Baby,Baby toys,5,5,48047143
+1045,71,West Europe,West Europe Store 24,2019-01-20,Beauty/Health,Bath,3,14,61654691
+1046,82,West Europe,West Europe Store 24,2019-03-18,Baby,Cribs,5,15,61626010
+1047,5,West Europe,West Europe Store 24,2019-05-21,Furniture,Indoor tables,3,15,89072374
+1048,88,West Europe,West Europe Store 24,2019-04-05,Baby,Diapers,1,5,20111365
+1049,9,West Europe,West Europe Store 24,2019-05-27,Clothing,Kids,3,25,34039620
+1050,84,West Europe,West Europe Store 24,2019-02-19,Beauty/Health,Bath,2,6,28427292
+1051,78,West Europe,West Europe Store 24,2019-04-13,Electronics,Computers,1,200,93763942
+1052,18,West Europe,West Europe Store 24,2019-02-26,Baby,Diapers,3,12,64814007
+1053,40,West Europe,West Europe Store 24,2019-01-21,Clothing,Womens,1,25,38465573
+1054,28,West Europe,West Europe Store 24,2019-04-24,Electronics,Cell Phones,1,50,89388732
+1055,61,West Europe,West Europe Store 24,2019-05-28,Electronics,Televisions,2,100,73281151
+1056,99,West Europe,West Europe Store 24,2019-04-30,Electronics,Speakers,1,100,71039041
+1057,23,West Europe,West Europe Store 24,2019-04-17,Clothing,Mens,8,12,63256102
+1058,49,West Europe,West Europe Store 24,2019-04-04,Beauty/Health,Skincare,5,6,61569842
+1059,56,West Europe,West Europe Store 24,2019-03-23,Clothing,Shoes,1,25,56328007
+1060,93,West Europe,West Europe Store 24,2019-01-01,Clothing,Shoes,3,20,16017572
+1061,1,West Europe,West Europe Store 24,2019-06-20,Furniture,Pool furniture,4,15,79739732
+1062,75,West Europe,West Europe Store 24,2019-06-14,Beauty/Health,Makeup,5,10,39979605
+1063,71,West Europe,West Europe Store 24,2019-02-04,Beauty/Health,Haircare,2,6,68099896
+1064,14,West Europe,West Europe Store 24,2019-04-20,Beauty/Health,Bath,4,10,19428118
+1065,41,West Europe,West Europe Store 24,2019-04-12,Furniture,Pool furniture,9,75,78091776
+1066,15,West Europe,West Europe Store 24,2019-07-14,Baby,Car seats,6,5,66398761
+1067,61,West Europe,West Europe Store 24,2019-02-07,Beauty/Health,Oral care,4,10,68798969
+1068,96,West Europe,West Europe Store 24,2019-07-01,Furniture,Indoor tables,10,40,19329117
+1069,12,West Europe,West Europe Store 24,2019-04-18,Furniture,Pool furniture,3,75,85932825
+1070,48,West Europe,West Europe Store 24,2019-03-31,Beauty/Health,Skincare,3,10,66301610
+1071,4,West Europe,West Europe Store 24,2019-07-05,Beauty/Health,Makeup,10,15,91726705
+1072,15,West Europe,West Europe Store 24,2019-07-08,Electronics,Computers,1,100,84293232
+1073,35,West Europe,West Europe Store 24,2019-04-28,Beauty/Health,Bath,8,10,63447746
+1074,63,West Europe,West Europe Store 24,2019-05-24,Clothing,Baby,8,25,37595978
+1075,13,West Europe,West Europe Store 24,2019-05-17,Furniture,Patio furniture,7,100,72914973
+1076,38,West Europe,West Europe Store 24,2019-03-17,Beauty/Health,Makeup,4,10,68370054
+1077,100,West Europe,West Europe Store 24,2019-03-01,Furniture,Indoor tables,1,100,82386601
+1078,39,West Europe,West Europe Store 24,2019-01-28,Baby,Baby toys,2,30,82911129
+1079,96,West Europe,West Europe Store 24,2019-01-11,Clothing,Mens,3,10,58418081
+1080,91,West Europe,West Europe Store 24,2019-01-31,Furniture,Indoor tables,5,75,98416391
+1081,77,West Europe,West Europe Store 24,2019-07-09,Clothing,Kids,10,12,46069143
+1082,16,West Europe,West Europe Store 24,2019-02-25,Beauty/Health,Haircare,5,15,67989183
+1083,9,West Europe,West Europe Store 24,2019-04-05,Clothing,Swimwear,5,25,78378905
+1084,32,West Europe,West Europe Store 24,2019-06-11,Electronics,Televisions,1,100,22291154
+1085,73,West Europe,West Europe Store 24,2019-01-10,Beauty/Health,Skincare,2,14,85301249
+1086,31,West Europe,West Europe Store 24,2019-06-30,Baby,Diaper bags,6,10,48631448
+1087,88,West Europe,West Europe Store 24,2019-03-01,Clothing,Baby,5,13,91227974
+1088,53,West Europe,West Europe Store 24,2019-04-17,Furniture,Indoor seating,4,30,26953466
+1089,56,West Europe,West Europe Store 24,2019-07-05,Beauty/Health,Feminine Products,6,10,34832683
+1090,69,West Europe,West Europe Store 24,2019-03-27,Beauty/Health,Makeup,1,6,17133345
+1091,19,West Europe,West Europe Store 24,2019-06-10,Furniture,Indoor seating,8,40,87544531
+1092,91,West Europe,West Europe Store 24,2019-04-02,Beauty/Health,Skincare,1,6,35810692
+1093,12,West Europe,West Europe Store 24,2019-07-02,Clothing,Mens,10,20,47255164
+1094,87,West Europe,West Europe Store 24,2019-01-20,Beauty/Health,Fragrances,3,6,35783791
+1095,59,West Europe,West Europe Store 24,2019-06-15,Electronics,Computers,1,100,86692264
+1096,92,West Europe,West Europe Store 24,2019-02-27,Furniture,Pool furniture,3,75,89679555
+1097,70,West Europe,West Europe Store 24,2019-05-20,Beauty/Health,Bath,10,10,74476824
+1098,96,West Europe,West Europe Store 24,2019-01-02,Beauty/Health,Haircare,3,10,27471828
+1099,51,West Europe,West Europe Store 24,2019-06-25,Beauty/Health,Haircare,6,14,24638942
+1100,2,West Europe,West Europe Store 24,2019-03-15,Electronics,Speakers,2,200,48465408
+1101,59,West Europe,West Europe Store 24,2019-01-05,Furniture,Indoor seating,3,40,79373719
+1102,20,West Europe,West Europe Store 24,2019-03-24,Electronics,Computers,2,200,27704386
+1103,30,West Europe,West Europe Store 24,2019-04-02,Baby,Cribs,2,30,17610351
+1104,7,West Europe,West Europe Store 24,2019-02-13,Furniture,Patio furniture,5,75,13790185
+1105,69,West Europe,West Europe Store 24,2019-05-14,Furniture,Beds,5,75,69645014
+1106,85,West Europe,West Europe Store 24,2019-06-04,Beauty/Health,Feminine Products,10,6,31277150
+1107,21,West Europe,West Europe Store 24,2019-01-26,Furniture,Patio furniture,5,30,30062214
+1108,17,West Europe,West Europe Store 24,2019-07-06,Baby,Car seats,10,30,48941733
+1109,64,West Europe,West Europe Store 24,2019-01-23,Furniture,Beds,3,40,48854544
+1110,11,West Europe,West Europe Store 24,2019-02-17,Clothing,Shoes,2,12,11440365
+1111,8,West Europe,West Europe Store 24,2019-05-25,Baby,Car seats,6,30,12770328
+1112,76,West Europe,West Europe Store 24,2019-03-18,Electronics,Speakers,2,300,44102369
+1113,28,West Europe,West Europe Store 24,2019-02-16,Clothing,Shoes,4,13,25285599
+1114,55,West Europe,West Europe Store 24,2019-04-19,Electronics,Tablets,2,50,35730573
+1115,74,West Europe,West Europe Store 24,2019-04-13,Clothing,Baby,6,20,18127466
+1116,42,West Europe,West Europe Store 24,2019-02-23,Electronics,Speakers,2,300,92938111
+1117,17,West Europe,West Europe Store 24,2019-04-23,Beauty/Health,Oral care,4,6,14011985
+1118,42,West Europe,West Europe Store 24,2019-02-08,Baby,Strollers,1,30,72819071
+1119,51,West Europe,West Europe Store 24,2019-01-27,Electronics,Televisions,2,200,87011781
+1120,45,West Europe,West Europe Store 24,2019-05-15,Furniture,Pool furniture,7,75,96982053
+1121,69,West Europe,West Europe Store 24,2019-06-18,Clothing,Shoes,3,13,48162653
+1122,25,West Europe,West Europe Store 24,2019-02-13,Beauty/Health,Feminine Products,2,10,78010440
+1123,31,West Europe,West Europe Store 24,2019-02-02,Beauty/Health,Makeup,2,14,34944675
+1124,13,West Europe,West Europe Store 24,2019-02-24,Furniture,Indoor seating,1,30,93134139
+1125,49,West Europe,West Europe Store 24,2019-04-12,Clothing,Womens,8,25,36803585
+1126,22,West Europe,West Europe Store 24,2019-07-05,Baby,Baby toys,3,12,98404555
+1127,56,West Europe,West Europe Store 24,2019-06-28,Baby,Strollers,10,30,64556113
+1128,46,West Europe,West Europe Store 24,2019-06-19,Clothing,Shoes,3,12,33785297
+1129,53,West Europe,West Europe Store 24,2019-04-03,Beauty/Health,Oral care,3,6,17421039
+1130,26,West Europe,West Europe Store 24,2019-03-12,Clothing,Baby,4,20,42592366
+1131,52,West Europe,West Europe Store 24,2019-05-09,Baby,Car seats,3,30,75936700
+1132,61,West Europe,West Europe Store 24,2019-07-16,Clothing,Kids,8,10,65560620
+1133,37,West Europe,West Europe Store 24,2019-03-24,Beauty/Health,Fragrances,3,10,12623951
+1134,3,West Europe,West Europe Store 24,2019-04-01,Clothing,Kids,2,13,37664509
+1135,59,West Europe,West Europe Store 24,2019-01-28,Clothing,Swimwear,3,25,84194326
+1136,89,West Europe,West Europe Store 24,2019-01-31,Baby,Car seats,5,30,10979616
+1137,48,West Europe,West Europe Store 24,2019-02-22,Beauty/Health,Haircare,1,10,48469026
+1138,68,West Europe,West Europe Store 24,2019-02-15,Clothing,Womens,4,13,92752387
+1139,22,West Europe,West Europe Store 24,2019-06-14,Furniture,Patio furniture,6,15,31094291
+1140,8,West Europe,West Europe Store 24,2019-03-17,Baby,Cribs,3,30,60542635
+1141,46,West Europe,West Europe Store 24,2019-03-19,Beauty/Health,Fragrances,5,10,29613795
+1142,33,West Europe,West Europe Store 24,2019-03-25,Furniture,Indoor tables,1,15,22872334
+1143,24,West Europe,West Europe Store 24,2019-02-12,Baby,Baby toys,1,15,16292854
+1144,90,West Europe,West Europe Store 24,2019-04-04,Baby,Diaper bags,5,30,25863298
+1145,24,West Europe,West Europe Store 24,2019-06-22,Beauty/Health,Skincare,5,10,49186617
+1146,16,West Europe,West Europe Store 24,2019-06-09,Beauty/Health,Makeup,5,14,24252902
+1147,35,West Europe,West Europe Store 24,2019-05-12,Electronics,Speakers,2,50,27351788
+1148,94,West Europe,West Europe Store 24,2019-04-22,Beauty/Health,Bath,3,10,75841532
+1149,1,West Europe,West Europe Store 24,2019-04-04,Beauty/Health,Haircare,1,15,81678998
+1150,94,West Europe,West Europe Store 24,2019-01-16,Furniture,Patio furniture,2,40,84423632
+1151,93,West Europe,West Europe Store 24,2019-04-28,Clothing,Womens,4,25,94035667
+1152,35,West Europe,West Europe Store 24,2019-06-20,Clothing,Baby,5,25,88192461
+1153,3,West Europe,West Europe Store 24,2019-01-29,Baby,Cribs,2,30,98558842
+1154,60,West Europe,West Europe Store 24,2019-05-31,Clothing,Womens,5,20,10010298
+1155,17,West Europe,West Europe Store 24,2019-01-06,Furniture,Beds,4,15,42904537
+1156,68,West Europe,West Europe Store 24,2019-05-16,Baby,Diapers,5,30,48031394
+1157,99,West Europe,West Europe Store 24,2019-03-08,Electronics,Speakers,1,200,82459505
+1158,89,West Europe,West Europe Store 24,2019-06-24,Clothing,Mens,8,12,29197057
+1159,44,West Europe,West Europe Store 24,2019-04-07,Clothing,Swimwear,4,25,93317403
+1160,18,West Europe,West Europe Store 24,2019-01-28,Clothing,Womens,3,25,88306491
+1161,80,West Europe,West Europe Store 24,2019-04-20,Furniture,Indoor seating,3,75,82995959
+1162,12,West Europe,West Europe Store 24,2019-03-13,Clothing,Mens,3,13,87364158
+1163,36,West Europe,West Europe Store 24,2019-07-05,Furniture,Pool furniture,3,30,41396306
+1164,73,West Europe,West Europe Store 24,2019-02-02,Beauty/Health,Haircare,2,15,39453298
+1165,44,West Europe,West Europe Store 24,2019-04-26,Electronics,Cell Phones,2,300,48542347
+1166,27,West Europe,West Europe Store 24,2019-02-09,Beauty/Health,Haircare,1,10,30543634
+1167,48,West Europe,West Europe Store 24,2019-05-21,Beauty/Health,Makeup,4,10,54763791
+1168,68,West Europe,West Europe Store 24,2019-06-13,Baby,Diaper bags,5,30,95991801
+1169,46,West Europe,West Europe Store 24,2019-03-15,Clothing,Womens,2,13,48927004
+1170,68,West Europe,West Europe Store 24,2019-04-01,Beauty/Health,Haircare,3,6,73728945
+1171,49,West Europe,West Europe Store 24,2019-02-23,Clothing,Mens,5,12,15539975
+1172,69,West Europe,West Europe Store 24,2019-04-02,Baby,Cribs,3,30,96615643
+1173,79,West Europe,West Europe Store 24,2019-03-03,Beauty/Health,Fragrances,1,10,24318181
+1174,19,West Europe,West Europe Store 24,2019-01-08,Electronics,Computers,2,100,65624403
+1175,87,West Europe,West Europe Store 24,2019-02-24,Electronics,Computers,2,200,13884872
+1176,43,West Europe,West Europe Store 24,2019-07-14,Furniture,Pool furniture,8,40,52314551
+1177,98,West Europe,West Europe Store 24,2019-05-02,Clothing,Swimwear,6,25,55116236
+1178,94,West Europe,West Europe Store 24,2019-04-03,Baby,Strollers,3,5,34045639
+1179,95,West Europe,West Europe Store 24,2019-05-19,Furniture,Indoor tables,3,30,31581878
+1180,17,West Europe,West Europe Store 24,2019-04-21,Baby,Diapers,10,15,94974889
+1181,81,West Europe,West Europe Store 24,2019-03-14,Clothing,Swimwear,5,25,50323814
+1182,101,West Europe,West Europe Store 24,2019-01-02,Baby,Strollers,2,5,25492468
+1183,99,West Europe,West Europe Store 24,2019-05-07,Beauty/Health,Skincare,8,10,45883346
+1184,60,West Europe,West Europe Store 24,2019-02-19,Furniture,Indoor seating,4,100,37536008
+1185,21,West Europe,West Europe Store 24,2019-06-14,Beauty/Health,Bath,5,6,35718171
+1186,26,West Europe,West Europe Store 24,2019-05-26,Baby,Strollers,3,30,77056841
+1187,17,West Europe,West Europe Store 24,2019-05-31,Furniture,Indoor tables,6,100,10463751
+1188,42,West Europe,West Europe Store 24,2019-01-09,Electronics,Speakers,1,200,79481191
+1189,79,West Europe,West Europe Store 24,2019-06-30,Furniture,Beds,5,75,89342735
+1190,64,West Europe,West Europe Store 24,2019-04-14,Electronics,Headphones,1,200,60496585
+1191,13,West Europe,West Europe Store 24,2019-06-10,Clothing,Womens,10,20,45515274
+1192,41,West Europe,West Europe Store 24,2019-03-16,Baby,Strollers,4,15,76651260
+1193,76,West Europe,West Europe Store 24,2019-02-06,Baby,Diaper bags,1,10,19620045
+1194,39,West Europe,West Europe Store 24,2019-06-21,Clothing,Shoes,6,12,94213032
+1195,19,West Europe,West Europe Store 24,2019-01-18,Electronics,Cell Phones,2,50,49819755
+1196,53,West Europe,West Europe Store 24,2019-07-16,Baby,Diaper bags,7,15,64518667
+1197,81,West Europe,West Europe Store 24,2019-01-27,Furniture,Indoor seating,5,40,36741143
+1198,70,West Europe,West Europe Store 24,2019-05-11,Furniture,Indoor seating,4,30,59732878
+1199,61,West Europe,West Europe Store 24,2019-02-19,Baby,Diaper bags,5,5,81064472
+1200,4,West Europe,West Europe Store 24,2019-04-10,Electronics,Tablets,1,300,46086948
+1201,73,West Europe,West Europe Store 24,2019-01-08,Baby,Diaper bags,3,10,64549104
+1202,54,West Europe,West Europe Store 24,2019-03-03,Clothing,Mens,1,25,93201011
+1203,39,West Europe,West Europe Store 24,2019-05-10,Electronics,Speakers,2,100,56808992
+1204,81,West Europe,West Europe Store 24,2019-05-28,Furniture,Indoor seating,9,40,43885387
+1205,58,West Europe,West Europe Store 24,2019-06-22,Baby,Car seats,6,15,34456794
+1206,46,West Europe,West Europe Store 24,2019-06-27,Beauty/Health,Fragrances,6,15,14697338
+1207,85,West Europe,West Europe Store 24,2019-04-06,Baby,Diaper bags,3,30,33152558
+1208,34,West Europe,West Europe Store 24,2019-02-17,Furniture,Indoor tables,2,30,15028843
+1209,1,West Europe,West Europe Store 24,2019-04-21,Electronics,Headphones,1,200,65004589
+1210,67,West Europe,West Europe Store 24,2019-01-01,Beauty/Health,Fragrances,2,10,77285517
+1211,9,West Europe,West Europe Store 24,2019-07-14,Electronics,Tablets,1,100,16437629
+1212,30,West Europe,West Europe Store 24,2019-05-25,Beauty/Health,Makeup,4,6,74942521
+1213,26,West Europe,West Europe Store 24,2019-05-04,Electronics,Headphones,2,50,81969198
+1214,46,West Europe,West Europe Store 24,2019-03-07,Clothing,Baby,5,10,28505867
+1215,99,West Europe,West Europe Store 24,2019-06-02,Furniture,Indoor seating,9,75,81946088
+1216,25,West Europe,West Europe Store 24,2019-04-12,Furniture,Patio furniture,10,40,26376058
+1217,67,West Europe,West Europe Store 24,2019-05-30,Baby,Car seats,5,5,96929785
+1218,60,West Europe,West Europe Store 24,2019-05-24,Baby,Cribs,7,12,86490806
+1219,25,West Europe,West Europe Store 24,2019-06-27,Clothing,Shoes,9,10,56844710
+1220,50,West Europe,West Europe Store 24,2019-04-01,Baby,Diapers,3,30,29465314
+1221,34,West Europe,West Europe Store 24,2019-02-01,Electronics,Tablets,2,100,29992642
+1222,9,West Europe,West Europe Store 24,2019-01-01,Electronics,Cell Phones,1,200,38281698
+1223,4,West Europe,West Europe Store 24,2019-05-01,Beauty/Health,Makeup,5,10,11655578
+1224,41,West Europe,West Europe Store 24,2019-02-02,Electronics,Computers,2,50,99114819
+1225,89,West Europe,West Europe Store 24,2019-03-06,Clothing,Womens,2,10,88278351
+1226,14,West Europe,West Europe Store 24,2019-06-15,Baby,Baby toys,8,10,47063307
+1227,96,West Europe,West Europe Store 24,2019-06-05,Clothing,Baby,4,13,77116514
+1228,45,West Europe,West Europe Store 24,2019-02-25,Beauty/Health,Fragrances,4,10,33397347
+1229,31,West Europe,West Europe Store 24,2019-02-21,Furniture,Pool furniture,3,100,13437948
+1230,78,West Europe,West Europe Store 24,2019-02-18,Furniture,Patio furniture,1,75,74891707
+1231,50,West Europe,West Europe Store 24,2019-06-23,Beauty/Health,Oral care,5,10,35455219
+1232,6,West Europe,West Europe Store 24,2019-07-08,Furniture,Beds,4,75,59188138
+1233,29,West Europe,West Europe Store 24,2019-05-23,Beauty/Health,Makeup,10,10,99104844
+1234,81,West Europe,West Europe Store 24,2019-07-10,Baby,Baby toys,10,12,27372575
+1235,57,West Europe,West Europe Store 24,2019-04-10,Baby,Strollers,7,15,82380294
+1236,53,West Europe,West Europe Store 24,2019-01-27,Baby,Strollers,4,15,67834942
+1237,101,West Europe,West Europe Store 24,2019-06-28,Beauty/Health,Skincare,5,10,30235192
+1238,94,West Europe,West Europe Store 24,2019-02-19,Clothing,Swimwear,1,10,13482394
+1239,65,West Europe,West Europe Store 24,2019-07-08,Baby,Car seats,10,12,62188694
+1240,61,West Europe,West Europe Store 24,2019-03-01,Furniture,Patio furniture,3,30,78745048
+1241,16,West Europe,West Europe Store 24,2019-03-29,Baby,Strollers,3,30,83684239
+1242,62,West Europe,West Europe Store 24,2019-06-07,Baby,Diapers,9,30,14561176
+1243,70,West Europe,West Europe Store 24,2019-03-13,Furniture,Beds,3,40,47486153
+1244,61,West Europe,West Europe Store 24,2019-06-19,Beauty/Health,Skincare,7,10,80688893
+1245,85,West Europe,West Europe Store 24,2019-01-13,Electronics,Televisions,2,300,64717431
+1246,91,West Europe,West Europe Store 24,2019-01-17,Electronics,Tablets,1,200,45662014
+1247,73,West Europe,West Europe Store 24,2019-07-08,Baby,Diapers,9,15,53196197
+1248,15,West Europe,West Europe Store 24,2019-03-11,Electronics,Tablets,2,100,79076836
+1249,39,West Europe,West Europe Store 24,2019-07-01,Baby,Car seats,3,30,74211511
+1250,97,West Europe,West Europe Store 24,2019-02-27,Baby,Strollers,1,5,68275434
+1251,70,West Europe,West Europe Store 24,2019-05-28,Beauty/Health,Skincare,6,6,79883190
+1252,46,West Europe,West Europe Store 24,2019-04-20,Furniture,Beds,8,75,42712298
+1253,97,West Europe,West Europe Store 24,2019-05-23,Electronics,Headphones,1,200,55530520
+1254,81,West Europe,West Europe Store 24,2019-06-13,Baby,Cribs,8,30,73644331
+1255,88,West Europe,West Europe Store 24,2019-01-23,Baby,Diapers,2,10,50967229
+1256,43,West Europe,West Europe Store 24,2019-02-19,Beauty/Health,Bath,1,15,59339363
+1257,41,West Europe,West Europe Store 24,2019-04-08,Beauty/Health,Makeup,5,6,58266218
+1258,41,West Europe,West Europe Store 24,2019-03-05,Furniture,Patio furniture,5,100,27233253
+1259,78,West Europe,West Europe Store 24,2019-02-08,Electronics,Cell Phones,2,100,22115319
+1260,3,West Europe,West Europe Store 24,2019-02-24,Clothing,Kids,3,13,43779329
+1261,44,West Europe,West Europe Store 24,2019-03-23,Beauty/Health,Oral care,5,6,91232912
+1262,99,West Europe,West Europe Store 24,2019-01-27,Baby,Diapers,1,10,19054050
+1263,24,West Europe,West Europe Store 24,2019-06-20,Baby,Car seats,5,12,76871693
+1264,54,West Europe,West Europe Store 24,2019-02-03,Furniture,Patio furniture,1,100,47030385
+1265,4,West Europe,West Europe Store 24,2019-05-01,Furniture,Indoor tables,6,100,77079822
+1266,7,West Europe,West Europe Store 24,2019-02-15,Furniture,Beds,5,75,98642517
+1267,35,West Europe,West Europe Store 24,2019-03-27,Beauty/Health,Bath,5,10,92517966
+1268,35,West Europe,West Europe Store 24,2019-07-14,Baby,Cribs,7,15,37693883
+1269,77,West Europe,West Europe Store 24,2019-04-12,Electronics,Televisions,1,100,78240638
+1270,52,West Europe,West Europe Store 24,2019-01-04,Baby,Strollers,1,10,88622734
+1271,88,West Europe,West Europe Store 24,2019-02-10,Electronics,Computers,1,100,70869898
+1272,27,West Europe,West Europe Store 24,2019-07-07,Beauty/Health,Haircare,9,10,31844816
+1273,67,West Europe,West Europe Store 24,2019-07-04,Beauty/Health,Haircare,10,15,39594958
+1274,6,West Europe,West Europe Store 24,2019-01-15,Baby,Car seats,3,30,24985655
+1275,74,West Europe,West Europe Store 24,2019-01-20,Electronics,Televisions,2,100,20889323
+1276,54,West Europe,West Europe Store 24,2019-05-12,Furniture,Pool furniture,7,15,82781543
+1277,45,West Europe,West Europe Store 24,2019-01-08,Furniture,Indoor seating,2,15,80800758
+1278,23,West Europe,West Europe Store 24,2019-02-06,Electronics,Televisions,1,100,35713138
+1279,1,West Europe,West Europe Store 24,2019-06-11,Furniture,Indoor tables,10,75,18496535
+1280,82,West Europe,West Europe Store 24,2019-04-08,Clothing,Shoes,1,25,24824236
+1281,16,West Europe,West Europe Store 24,2019-07-15,Furniture,Patio furniture,3,40,38955308
+1282,36,West Europe,West Europe Store 24,2019-06-14,Clothing,Baby,10,25,89374341
+1283,85,West Europe,West Europe Store 24,2019-01-02,Furniture,Pool furniture,4,30,63162642
+1284,23,West Europe,West Europe Store 24,2019-05-11,Baby,Cribs,6,10,98975222
+1285,12,West Europe,West Europe Store 24,2019-02-20,Clothing,Mens,1,25,90167652
+1286,23,West Europe,West Europe Store 24,2019-02-15,Electronics,Tablets,1,200,10911726
+1287,67,West Europe,West Europe Store 24,2019-02-07,Electronics,Cell Phones,2,300,56850330
+1288,54,West Europe,West Europe Store 24,2019-02-23,Furniture,Indoor tables,2,100,99818562
+1289,46,West Europe,West Europe Store 24,2019-02-18,Baby,Baby toys,4,12,33827569
+1290,40,West Europe,West Europe Store 24,2019-05-31,Baby,Diaper bags,5,10,82181809
+1291,18,West Europe,West Europe Store 24,2019-05-09,Electronics,Speakers,1,50,74073957
+1292,44,West Europe,West Europe Store 24,2019-06-08,Beauty/Health,Bath,6,10,25126332
+1293,87,West Europe,West Europe Store 24,2019-06-18,Baby,Diaper bags,9,12,44767129
+1294,65,West Europe,West Europe Store 24,2019-01-26,Furniture,Beds,4,100,54883388
+1295,25,West Europe,West Europe Store 24,2019-04-28,Furniture,Indoor seating,6,15,52163777
+1296,72,West Europe,West Europe Store 24,2019-01-29,Electronics,Tablets,1,100,55180389
+1297,32,West Europe,West Europe Store 24,2019-03-27,Electronics,Speakers,1,200,15284734
+1298,49,West Europe,West Europe Store 24,2019-05-07,Beauty/Health,Fragrances,9,6,90084969
+1299,41,West Europe,West Europe Store 24,2019-04-02,Electronics,Tablets,2,300,73800435
+1300,45,West Europe,West Europe Store 24,2019-05-22,Clothing,Kids,6,12,51590777
+1301,98,West Europe,West Europe Store 24,2019-05-13,Baby,Car seats,9,15,17470625
+1302,55,West Europe,West Europe Store 24,2019-03-19,Baby,Car seats,5,15,53377945
+1303,58,West Europe,West Europe Store 24,2019-05-01,Beauty/Health,Oral care,9,10,36905108
+1304,59,West Europe,West Europe Store 24,2019-06-24,Clothing,Shoes,10,10,81847869
+1305,18,West Europe,West Europe Store 24,2019-04-04,Clothing,Swimwear,4,12,93829549
+1306,93,West Europe,West Europe Store 24,2019-05-26,Clothing,Mens,9,25,55766356
+1307,45,West Europe,West Europe Store 24,2019-04-17,Clothing,Kids,9,25,11813169
+1308,78,West Europe,West Europe Store 24,2019-04-30,Beauty/Health,Bath,6,10,38328422
+1309,38,West Europe,West Europe Store 24,2019-02-28,Clothing,Mens,4,20,22342068
+1310,19,West Europe,West Europe Store 24,2019-07-07,Clothing,Kids,8,20,81078403
+1311,36,West Europe,West Europe Store 24,2019-02-13,Electronics,Televisions,2,100,17807440
+1312,30,West Europe,West Europe Store 24,2019-07-02,Baby,Cribs,7,10,20281359
+1313,20,West Europe,West Europe Store 24,2019-02-16,Beauty/Health,Makeup,5,14,58061154
+1314,89,West Europe,West Europe Store 24,2019-07-07,Beauty/Health,Fragrances,9,10,41638724
+1315,4,West Europe,West Europe Store 24,2019-06-18,Furniture,Indoor tables,9,40,65843483
+1316,21,West Europe,West Europe Store 24,2019-03-26,Baby,Cribs,5,30,53379437
+1317,71,West Europe,West Europe Store 24,2019-02-15,Beauty/Health,Oral care,5,6,26885009
+1318,19,West Europe,West Europe Store 24,2019-01-24,Electronics,Televisions,2,200,32574577
+1319,23,West Europe,West Europe Store 24,2019-03-28,Clothing,Womens,1,13,82736992
+1320,51,West Europe,West Europe Store 24,2019-05-19,Clothing,Womens,10,20,83598427
+1321,84,West Europe,West Europe Store 24,2019-06-01,Furniture,Beds,7,75,34012339
+1322,68,West Europe,West Europe Store 24,2019-03-09,Clothing,Womens,3,12,61029946
+1323,24,West Europe,West Europe Store 24,2019-06-17,Beauty/Health,Makeup,9,10,44244608
+1324,15,West Europe,West Europe Store 24,2019-06-19,Clothing,Kids,5,20,85979973
+1325,50,West Europe,West Europe Store 24,2019-06-05,Beauty/Health,Feminine Products,10,10,73536741
+1326,88,West Europe,West Europe Store 24,2019-02-28,Furniture,Pool furniture,2,15,86700974
+1327,58,West Europe,West Europe Store 24,2019-02-11,Baby,Diaper bags,3,15,41006229
+1328,65,West Europe,West Europe Store 24,2019-01-08,Beauty/Health,Skincare,1,6,18330143
+1329,38,West Europe,West Europe Store 24,2019-04-30,Furniture,Patio furniture,5,100,22388661
+1330,42,West Europe,West Europe Store 24,2019-04-12,Clothing,Mens,9,13,77444214
+1331,46,West Europe,West Europe Store 24,2019-07-15,Electronics,Headphones,2,200,44347570
+1332,22,West Europe,West Europe Store 24,2019-04-30,Baby,Baby toys,7,10,12732515
+1333,100,West Europe,West Europe Store 24,2019-06-10,Furniture,Beds,9,100,59223420
+1334,46,West Europe,West Europe Store 24,2019-03-08,Furniture,Indoor seating,1,100,61679810
+1335,85,West Europe,West Europe Store 24,2019-07-14,Clothing,Shoes,8,25,70197343
+1336,55,West Europe,West Europe Store 24,2019-06-25,Electronics,Tablets,1,200,46377624
+1337,39,West Europe,West Europe Store 24,2019-04-06,Beauty/Health,Haircare,3,10,46567868
+1338,72,West Europe,West Europe Store 24,2019-02-18,Beauty/Health,Feminine Products,3,6,47093586
+1339,57,West Europe,West Europe Store 24,2019-02-14,Baby,Baby toys,4,12,68760686
+1340,50,West Europe,West Europe Store 24,2019-06-26,Electronics,Computers,1,50,21406841
+1341,100,West Europe,West Europe Store 24,2019-01-18,Electronics,Speakers,2,100,31992373
+1342,83,West Europe,West Europe Store 24,2019-04-26,Beauty/Health,Skincare,4,10,89236221
+1343,67,West Europe,West Europe Store 24,2019-01-09,Electronics,Cell Phones,2,200,69104658
+1344,52,West Europe,West Europe Store 24,2019-04-20,Beauty/Health,Oral care,9,14,13506628
+1345,87,West Europe,West Europe Store 24,2019-06-29,Baby,Strollers,7,15,39454935
+1346,27,West Europe,West Europe Store 24,2019-04-08,Baby,Diapers,3,30,32345575
+1347,28,West Europe,West Europe Store 24,2019-07-02,Beauty/Health,Haircare,10,6,94578498
+1348,67,West Europe,West Europe Store 24,2019-01-31,Baby,Diapers,3,10,55777492
+1349,83,West Europe,West Europe Store 24,2019-04-26,Electronics,Speakers,2,300,69664989
+1350,31,West Europe,West Europe Store 24,2019-06-19,Clothing,Mens,6,13,61987607
+1351,1,West Europe,West Europe Store 24,2019-04-21,Furniture,Pool furniture,9,40,74804744
+1352,56,West Europe,West Europe Store 24,2019-02-16,Clothing,Shoes,1,10,73143716
+1353,78,West Europe,West Europe Store 24,2019-04-16,Electronics,Televisions,1,100,24235472
+1354,17,West Europe,West Europe Store 24,2019-02-14,Electronics,Computers,1,200,23149888
+1355,93,West Europe,West Europe Store 24,2019-01-06,Clothing,Shoes,3,13,79968334
+1356,25,West Europe,West Europe Store 24,2019-07-16,Furniture,Indoor tables,10,40,39144142
+1357,84,West Europe,West Europe Store 24,2019-07-09,Baby,Strollers,3,30,56099761
+1358,27,West Europe,West Europe Store 24,2019-04-06,Beauty/Health,Oral care,1,6,23718693
+1359,71,West Europe,West Europe Store 24,2019-03-22,Electronics,Cell Phones,1,100,85975697
+1360,46,West Europe,West Europe Store 24,2019-04-12,Clothing,Kids,7,20,14067122
+1361,95,West Europe,West Europe Store 24,2019-07-08,Baby,Baby toys,8,15,83739049
+1362,97,West Europe,West Europe Store 24,2019-01-15,Baby,Cribs,1,12,27775152
+1363,24,West Europe,West Europe Store 24,2019-01-18,Electronics,Cell Phones,2,200,48260693
+1364,54,West Europe,West Europe Store 24,2019-07-09,Electronics,Televisions,2,50,54050359
+1365,67,West Europe,West Europe Store 24,2019-01-13,Furniture,Patio furniture,4,75,42658807
+1366,86,West Europe,West Europe Store 24,2019-01-23,Electronics,Cell Phones,1,100,65261379
+1367,50,West Europe,West Europe Store 24,2019-04-05,Beauty/Health,Fragrances,1,10,52169365
+1368,96,West Europe,West Europe Store 24,2019-01-17,Furniture,Patio furniture,2,75,99705713
+1369,66,West Europe,West Europe Store 24,2019-05-13,Beauty/Health,Feminine Products,3,10,89680907
+1370,56,West Europe,West Europe Store 24,2019-05-04,Clothing,Swimwear,7,10,97336146
+1371,21,West Europe,West Europe Store 24,2019-01-22,Furniture,Patio furniture,4,100,87926955
+1372,14,West Europe,West Europe Store 24,2019-01-04,Electronics,Televisions,1,300,61854548
+1373,90,West Europe,West Europe Store 24,2019-03-27,Electronics,Tablets,1,300,69816199
+1374,40,West Europe,West Europe Store 24,2019-05-25,Furniture,Indoor seating,4,15,47822236
+1375,47,West Europe,West Europe Store 24,2019-06-02,Clothing,Shoes,7,13,37024032
+1376,61,West Europe,West Europe Store 24,2019-06-12,Electronics,Tablets,2,50,47468312
+1377,53,West Europe,West Europe Store 24,2019-06-09,Baby,Diaper bags,7,30,84019681
+1378,67,West Europe,West Europe Store 24,2019-03-04,Electronics,Cell Phones,1,100,44057163
+1379,22,West Europe,West Europe Store 24,2019-07-06,Furniture,Pool furniture,10,30,10911811
+1380,81,West Europe,West Europe Store 24,2019-02-02,Beauty/Health,Bath,5,10,93097074
+1381,77,West Europe,West Europe Store 24,2019-07-03,Furniture,Patio furniture,7,40,34442043
+1382,72,West Europe,West Europe Store 24,2019-07-01,Clothing,Womens,5,10,30184775
+1383,59,West Europe,West Europe Store 24,2019-04-25,Furniture,Indoor seating,4,30,11698578
+1384,100,West Europe,West Europe Store 24,2019-05-10,Baby,Strollers,6,12,75710639
+1385,16,West Europe,West Europe Store 24,2019-07-13,Furniture,Beds,6,30,72439331
+1386,1,West Europe,West Europe Store 24,2019-05-25,Furniture,Indoor seating,10,100,75486199
+1387,55,West Europe,West Europe Store 24,2019-06-30,Furniture,Indoor tables,5,75,15010925
+1388,32,West Europe,West Europe Store 24,2019-01-31,Electronics,Headphones,2,300,41494710
+1389,45,West Europe,West Europe Store 24,2019-05-01,Electronics,Cell Phones,2,100,10987892
+1390,80,West Europe,West Europe Store 24,2019-04-21,Baby,Strollers,4,30,38253892
+1391,22,West Europe,West Europe Store 24,2019-03-12,Clothing,Womens,5,10,64154953
+1392,15,West Europe,West Europe Store 24,2019-06-02,Electronics,Headphones,1,300,98106121
+1393,100,West Europe,West Europe Store 24,2019-04-22,Baby,Strollers,7,15,86186422
+1394,54,West Europe,West Europe Store 24,2019-05-13,Clothing,Swimwear,3,25,78843465
+1395,90,West Europe,West Europe Store 24,2019-03-05,Beauty/Health,Fragrances,5,15,94044324
+1396,67,West Europe,West Europe Store 24,2019-05-06,Baby,Diaper bags,7,30,75800667
+1397,95,West Europe,West Europe Store 24,2019-01-22,Clothing,Kids,3,13,25008294
+1398,65,West Europe,West Europe Store 24,2019-06-04,Clothing,Womens,9,10,23847594
+1399,34,West Europe,West Europe Store 24,2019-07-12,Electronics,Tablets,2,50,40046865
+1400,24,West Europe,West Europe Store 24,2019-01-19,Furniture,Indoor tables,5,30,17417713
+1401,69,West Europe,West Europe Store 24,2019-02-21,Furniture,Indoor seating,3,100,22926796
+1402,67,West Europe,West Europe Store 24,2019-06-06,Electronics,Computers,1,200,52484520
+1403,34,West Europe,West Europe Store 24,2019-07-01,Baby,Diaper bags,3,30,51583900
+1404,43,West Europe,West Europe Store 24,2019-04-12,Furniture,Indoor tables,3,15,80412232
+1405,71,West Europe,West Europe Store 24,2019-04-12,Clothing,Womens,9,10,43323624
+1406,66,West Europe,West Europe Store 24,2019-02-15,Baby,Diapers,4,5,25747242
+1407,21,West Europe,West Europe Store 24,2019-07-02,Beauty/Health,Bath,6,10,24623960
+1408,86,West Europe,West Europe Store 24,2019-05-01,Beauty/Health,Feminine Products,7,15,41260778
+1409,47,West Europe,West Europe Store 24,2019-03-15,Baby,Diaper bags,4,10,73325438
+1410,19,West Europe,West Europe Store 24,2019-02-04,Furniture,Indoor seating,2,30,46011367
+1411,72,West Europe,West Europe Store 24,2019-07-08,Clothing,Womens,5,25,89485201
+1412,4,West Europe,West Europe Store 24,2019-01-24,Clothing,Shoes,3,12,41301371
+1413,50,West Europe,West Europe Store 24,2019-03-28,Beauty/Health,Makeup,1,10,85431476
+1414,8,West Europe,West Europe Store 24,2019-01-09,Beauty/Health,Skincare,5,10,68094798
+1415,4,West Europe,West Europe Store 24,2019-04-27,Beauty/Health,Makeup,4,10,67788513
+1416,81,West Europe,West Europe Store 24,2019-05-16,Furniture,Beds,4,100,37637504
+1417,36,West Europe,West Europe Store 24,2019-06-04,Electronics,Speakers,2,50,65200999
+1418,5,West Europe,West Europe Store 24,2019-02-10,Furniture,Patio furniture,4,15,12672790
+1419,72,West Europe,West Europe Store 24,2019-04-06,Beauty/Health,Oral care,5,10,28392640
+1420,52,West Europe,West Europe Store 24,2019-03-07,Baby,Car seats,5,15,62440068
+1421,27,West Europe,West Europe Store 24,2019-06-09,Furniture,Pool furniture,7,100,34690522
+1422,82,West Europe,West Europe Store 24,2019-03-22,Beauty/Health,Haircare,1,6,60499098
+1423,36,West Europe,West Europe Store 24,2019-03-21,Beauty/Health,Feminine Products,2,10,60630873
+1424,82,West Europe,West Europe Store 24,2019-02-12,Beauty/Health,Bath,5,10,98738181
+1425,33,West Europe,West Europe Store 24,2019-06-03,Electronics,Televisions,1,100,45513374
+1426,14,West Europe,West Europe Store 24,2019-04-06,Baby,Strollers,1,15,44220239
+1427,20,West Europe,West Europe Store 24,2019-04-03,Clothing,Mens,4,10,59995133
+1428,99,West Europe,West Europe Store 24,2019-02-21,Clothing,Womens,5,25,71163971
+1429,33,West Europe,West Europe Store 24,2019-02-10,Furniture,Indoor seating,4,15,39187723
+1430,93,West Europe,West Europe Store 24,2019-05-08,Beauty/Health,Haircare,5,10,77166363
+1431,82,West Europe,West Europe Store 24,2019-03-07,Beauty/Health,Fragrances,2,10,42335860
+1432,41,West Europe,West Europe Store 24,2019-03-24,Beauty/Health,Skincare,4,10,42241373
+1433,9,West Europe,West Europe Store 24,2019-05-27,Beauty/Health,Feminine Products,9,15,80426180
+1434,62,West Europe,West Europe Store 24,2019-06-05,Clothing,Kids,3,13,94353880
+1435,27,West Europe,West Europe Store 24,2019-05-06,Furniture,Patio furniture,6,15,41771784
+1436,49,West Europe,West Europe Store 24,2019-05-03,Clothing,Womens,7,12,65860642
+1437,27,West Europe,West Europe Store 24,2019-01-04,Baby,Baby toys,2,10,96213656
+1438,67,West Europe,West Europe Store 24,2019-07-05,Electronics,Speakers,2,100,92957694
+1439,20,West Europe,West Europe Store 24,2019-05-21,Clothing,Mens,4,20,40270541
+1440,31,West Europe,West Europe Store 24,2019-05-05,Furniture,Pool furniture,7,40,29126339
+1441,60,West Europe,West Europe Store 24,2019-04-04,Baby,Diaper bags,4,30,44000328
+1442,53,West Europe,West Europe Store 24,2019-02-22,Electronics,Headphones,2,200,52424421
+1443,42,West Europe,West Europe Store 24,2019-03-16,Beauty/Health,Makeup,2,6,15786665
+1444,4,West Europe,West Europe Store 24,2019-06-28,Electronics,Headphones,2,50,90162518
+1445,7,West Europe,West Europe Store 24,2019-03-29,Furniture,Indoor tables,2,15,92952659
+1446,28,West Europe,West Europe Store 24,2019-05-01,Beauty/Health,Fragrances,3,6,22275578
+1447,26,West Europe,West Europe Store 24,2019-06-19,Baby,Strollers,6,10,77643804
+1448,36,West Europe,West Europe Store 24,2019-05-06,Clothing,Kids,3,10,76582047
+1449,8,West Europe,West Europe Store 24,2019-01-07,Baby,Diapers,5,10,76503088
+1450,48,West Europe,West Europe Store 24,2019-01-10,Baby,Cribs,3,30,93134239
+1451,89,West Europe,West Europe Store 24,2019-04-07,Clothing,Womens,2,25,29816578
+1452,74,West Europe,West Europe Store 24,2019-04-08,Furniture,Beds,4,30,19696286
+1453,11,West Europe,West Europe Store 24,2019-07-16,Baby,Diaper bags,8,30,96317377
+1454,27,West Europe,West Europe Store 24,2019-02-15,Electronics,Televisions,2,300,77503927
+1455,90,West Europe,West Europe Store 24,2019-04-13,Furniture,Beds,8,100,35878986
+1456,53,West Europe,West Europe Store 24,2019-03-30,Electronics,Computers,2,300,22976742
+1457,30,West Europe,West Europe Store 24,2019-04-27,Baby,Cribs,5,10,40422246
+1458,18,West Europe,West Europe Store 24,2019-02-15,Clothing,Swimwear,1,25,72254244
+1459,79,West Europe,West Europe Store 24,2019-06-15,Beauty/Health,Feminine Products,7,10,43778549
+1460,65,West Europe,West Europe Store 24,2019-07-09,Electronics,Speakers,2,100,55297384
+1461,58,West Europe,West Europe Store 24,2019-02-01,Furniture,Pool furniture,2,75,44834040
+1462,52,West Europe,West Europe Store 24,2019-03-10,Baby,Car seats,1,30,61277414
+1463,38,West Europe,West Europe Store 24,2019-02-20,Baby,Car seats,3,30,63006829
+1464,73,West Europe,West Europe Store 24,2019-01-31,Beauty/Health,Oral care,1,6,76617072
+1465,47,West Europe,West Europe Store 24,2019-05-04,Furniture,Patio furniture,3,40,31204676
+1466,61,West Europe,West Europe Store 24,2019-05-04,Baby,Strollers,8,10,58198977
+1467,70,West Europe,West Europe Store 24,2019-01-25,Beauty/Health,Oral care,2,10,82979830
+1468,53,West Europe,West Europe Store 24,2019-03-26,Furniture,Indoor seating,4,30,99585489
+1469,13,West Europe,West Europe Store 24,2019-05-01,Clothing,Shoes,4,25,54760621
+1470,55,West Europe,West Europe Store 24,2019-06-09,Electronics,Speakers,1,100,27714641
+1471,87,West Europe,West Europe Store 24,2019-07-11,Clothing,Kids,3,25,43061990
+1472,47,West Europe,West Europe Store 24,2019-04-08,Electronics,Computers,2,200,15228073
+1473,85,West Europe,West Europe Store 24,2019-04-25,Clothing,Swimwear,5,10,24322761
+1474,54,West Europe,West Europe Store 24,2019-02-11,Clothing,Baby,4,12,83252165
+1475,61,West Europe,West Europe Store 24,2019-05-16,Electronics,Cell Phones,1,100,81862632
+1476,62,West Europe,West Europe Store 24,2019-05-02,Furniture,Indoor tables,5,100,11755004
+1477,51,West Europe,West Europe Store 24,2019-02-23,Electronics,Tablets,1,100,59384948
+1478,22,West Europe,West Europe Store 24,2019-02-27,Clothing,Swimwear,1,12,33341747
+1479,28,West Europe,West Europe Store 24,2019-01-14,Baby,Car seats,1,30,61047884
+1480,36,West Europe,West Europe Store 24,2019-04-20,Furniture,Patio furniture,9,15,21523204
+1481,53,West Europe,West Europe Store 24,2019-04-04,Beauty/Health,Oral care,3,6,27517902
+1482,100,West Europe,West Europe Store 24,2019-04-21,Clothing,Swimwear,3,25,36364248
+1483,65,West Europe,West Europe Store 24,2019-02-08,Furniture,Pool furniture,1,100,33395477
+1484,77,West Europe,West Europe Store 24,2019-02-14,Electronics,Speakers,1,200,98495873
+1485,12,West Europe,West Europe Store 24,2019-02-28,Beauty/Health,Fragrances,2,6,10718200
+1486,9,West Europe,West Europe Store 24,2019-04-19,Electronics,Televisions,1,200,14696831
+1487,47,West Europe,West Europe Store 24,2019-04-12,Furniture,Beds,8,40,12304455

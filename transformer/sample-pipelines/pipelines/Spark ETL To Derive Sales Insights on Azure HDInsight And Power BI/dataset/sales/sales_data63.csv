@@ -1,0 +1,1740 @@
+ordernum,quant,region,store,saledate,dep,item,unitsold,unitprice,employeeID
+0,55,North Europe,North Europe Store 63,2019-06-14,Baby,Cribs,5,30,88085777
+1,73,North Europe,North Europe Store 63,2019-01-09,Baby,Baby toys,1,15,30048535
+2,30,North Europe,North Europe Store 63,2019-04-03,Furniture,Patio furniture,1,100,21401653
+3,22,North Europe,North Europe Store 63,2019-05-02,Clothing,Mens,4,20,66364636
+4,84,North Europe,North Europe Store 63,2019-03-24,Beauty/Health,Makeup,4,10,66388071
+5,17,North Europe,North Europe Store 63,2019-06-26,Baby,Car seats,9,30,54793827
+6,96,North Europe,North Europe Store 63,2019-04-24,Baby,Diaper bags,3,5,88485459
+7,94,North Europe,North Europe Store 63,2019-04-25,Clothing,Swimwear,8,10,24569647
+8,99,North Europe,North Europe Store 63,2019-02-06,Baby,Diaper bags,2,30,99026074
+9,67,North Europe,North Europe Store 63,2019-02-20,Furniture,Indoor seating,1,100,24257403
+10,57,North Europe,North Europe Store 63,2019-05-29,Furniture,Indoor seating,5,15,79144126
+11,81,North Europe,North Europe Store 63,2019-03-16,Baby,Diapers,4,5,83751215
+12,31,North Europe,North Europe Store 63,2019-03-19,Baby,Diapers,4,30,59022786
+13,56,North Europe,North Europe Store 63,2019-01-10,Clothing,Swimwear,4,25,53343629
+14,13,North Europe,North Europe Store 63,2019-02-10,Clothing,Baby,5,20,79480186
+15,31,North Europe,North Europe Store 63,2019-06-15,Clothing,Shoes,10,25,45860602
+16,79,North Europe,North Europe Store 63,2019-05-11,Furniture,Beds,3,100,64895372
+17,82,North Europe,North Europe Store 63,2019-07-10,Electronics,Headphones,2,100,89646175
+18,76,North Europe,North Europe Store 63,2019-04-10,Beauty/Health,Bath,5,10,64023592
+19,64,North Europe,North Europe Store 63,2019-01-19,Baby,Car seats,3,12,11045086
+20,80,North Europe,North Europe Store 63,2019-04-01,Furniture,Pool furniture,5,75,31224996
+21,4,North Europe,North Europe Store 63,2019-06-07,Furniture,Beds,7,15,71434873
+22,18,North Europe,North Europe Store 63,2019-01-06,Furniture,Patio furniture,4,75,20639638
+23,7,North Europe,North Europe Store 63,2019-05-29,Beauty/Health,Haircare,7,10,55542163
+24,100,North Europe,North Europe Store 63,2019-05-24,Clothing,Mens,6,25,54332236
+25,51,North Europe,North Europe Store 63,2019-02-11,Beauty/Health,Skincare,5,15,45494212
+26,72,North Europe,North Europe Store 63,2019-05-26,Electronics,Cell Phones,1,50,88771242
+27,85,North Europe,North Europe Store 63,2019-01-23,Furniture,Indoor seating,1,15,58460410
+28,34,North Europe,North Europe Store 63,2019-06-30,Clothing,Swimwear,3,25,65221493
+29,74,North Europe,North Europe Store 63,2019-07-11,Clothing,Swimwear,7,10,39376869
+30,57,North Europe,North Europe Store 63,2019-01-18,Furniture,Patio furniture,2,40,69772511
+31,10,North Europe,North Europe Store 63,2019-02-11,Baby,Baby toys,2,30,19957986
+32,38,North Europe,North Europe Store 63,2019-05-15,Beauty/Health,Oral care,8,10,14275792
+33,29,North Europe,North Europe Store 63,2019-04-12,Beauty/Health,Oral care,5,10,62007277
+34,11,North Europe,North Europe Store 63,2019-06-02,Furniture,Patio furniture,5,100,17805795
+35,7,North Europe,North Europe Store 63,2019-05-20,Clothing,Swimwear,7,25,26519661
+36,61,North Europe,North Europe Store 63,2019-02-05,Beauty/Health,Feminine Products,1,15,62510428
+37,97,North Europe,North Europe Store 63,2019-02-25,Baby,Baby toys,4,15,54547974
+38,68,North Europe,North Europe Store 63,2019-03-26,Electronics,Speakers,1,200,62340775
+39,35,North Europe,North Europe Store 63,2019-01-04,Electronics,Tablets,2,100,87925735
+40,73,North Europe,North Europe Store 63,2019-02-10,Baby,Car seats,4,30,40559265
+41,29,North Europe,North Europe Store 63,2019-03-05,Furniture,Indoor tables,5,100,34408757
+42,77,North Europe,North Europe Store 63,2019-02-12,Furniture,Pool furniture,4,40,26356760
+43,61,North Europe,North Europe Store 63,2019-04-15,Electronics,Headphones,2,100,59339544
+44,60,North Europe,North Europe Store 63,2019-07-03,Beauty/Health,Oral care,6,10,88229255
+45,54,North Europe,North Europe Store 63,2019-01-22,Beauty/Health,Fragrances,2,10,57138395
+46,46,North Europe,North Europe Store 63,2019-06-09,Beauty/Health,Bath,9,14,51656966
+47,46,North Europe,North Europe Store 63,2019-03-02,Electronics,Computers,1,100,35409566
+48,87,North Europe,North Europe Store 63,2019-03-25,Baby,Cribs,3,10,71000783
+49,96,North Europe,North Europe Store 63,2019-03-25,Beauty/Health,Feminine Products,1,15,50599788
+50,33,North Europe,North Europe Store 63,2019-03-05,Clothing,Baby,2,12,82518632
+51,52,North Europe,North Europe Store 63,2019-02-20,Electronics,Speakers,2,200,75348297
+52,1,North Europe,North Europe Store 63,2019-01-01,Baby,Diapers,1,30,61646417
+53,13,North Europe,North Europe Store 63,2019-05-12,Electronics,Cell Phones,2,200,32252813
+54,97,North Europe,North Europe Store 63,2019-04-09,Beauty/Health,Makeup,8,15,28289127
+55,14,North Europe,North Europe Store 63,2019-05-19,Electronics,Televisions,2,100,87179496
+56,94,North Europe,North Europe Store 63,2019-06-08,Clothing,Baby,6,25,60020134
+57,83,North Europe,North Europe Store 63,2019-05-27,Furniture,Indoor tables,5,75,72885367
+58,74,North Europe,North Europe Store 63,2019-03-14,Baby,Strollers,5,10,29698410
+59,56,North Europe,North Europe Store 63,2019-05-01,Furniture,Pool furniture,7,30,39686469
+60,33,North Europe,North Europe Store 63,2019-04-08,Beauty/Health,Feminine Products,1,10,74807992
+61,69,North Europe,North Europe Store 63,2019-03-07,Clothing,Womens,4,25,79545307
+62,69,North Europe,North Europe Store 63,2019-05-08,Furniture,Beds,10,75,92586764
+63,81,North Europe,North Europe Store 63,2019-05-15,Clothing,Womens,3,25,81940023
+64,100,North Europe,North Europe Store 63,2019-04-15,Furniture,Beds,5,75,49167176
+65,5,North Europe,North Europe Store 63,2019-03-21,Clothing,Kids,2,13,39102997
+66,92,North Europe,North Europe Store 63,2019-02-17,Beauty/Health,Haircare,1,10,97539008
+67,6,North Europe,North Europe Store 63,2019-02-18,Beauty/Health,Skincare,2,15,86048618
+68,24,North Europe,North Europe Store 63,2019-05-11,Furniture,Indoor seating,3,15,80870432
+69,92,North Europe,North Europe Store 63,2019-01-15,Electronics,Headphones,1,300,44683319
+70,99,North Europe,North Europe Store 63,2019-06-14,Electronics,Computers,2,100,77439378
+71,53,North Europe,North Europe Store 63,2019-06-23,Clothing,Swimwear,8,13,35885320
+72,23,North Europe,North Europe Store 63,2019-01-23,Clothing,Shoes,3,25,39606757
+73,74,North Europe,North Europe Store 63,2019-02-25,Beauty/Health,Makeup,1,10,68998681
+74,82,North Europe,North Europe Store 63,2019-04-06,Electronics,Televisions,2,50,31980526
+75,70,North Europe,North Europe Store 63,2019-06-23,Beauty/Health,Haircare,4,10,54514906
+76,36,North Europe,North Europe Store 63,2019-03-23,Furniture,Indoor tables,3,75,41820853
+77,25,North Europe,North Europe Store 63,2019-05-15,Furniture,Indoor seating,3,30,71701200
+78,32,North Europe,North Europe Store 63,2019-02-28,Beauty/Health,Makeup,4,15,36700540
+79,21,North Europe,North Europe Store 63,2019-02-07,Baby,Diapers,1,5,87249747
+80,88,North Europe,North Europe Store 63,2019-03-31,Clothing,Mens,1,12,20725938
+81,14,North Europe,North Europe Store 63,2019-02-26,Furniture,Beds,1,30,75849582
+82,56,North Europe,North Europe Store 63,2019-03-27,Clothing,Womens,3,12,34715661
+83,8,North Europe,North Europe Store 63,2019-01-05,Beauty/Health,Makeup,1,6,38404321
+84,65,North Europe,North Europe Store 63,2019-04-11,Baby,Car seats,4,15,40853795
+85,37,North Europe,North Europe Store 63,2019-02-27,Baby,Diaper bags,5,10,53015779
+86,29,North Europe,North Europe Store 63,2019-06-25,Electronics,Speakers,1,100,13534059
+87,65,North Europe,North Europe Store 63,2019-01-01,Electronics,Cell Phones,1,50,51472246
+88,68,North Europe,North Europe Store 63,2019-02-14,Baby,Cribs,3,10,81254445
+89,28,North Europe,North Europe Store 63,2019-05-20,Beauty/Health,Bath,10,14,16684984
+90,62,North Europe,North Europe Store 63,2019-05-27,Electronics,Speakers,1,100,20886813
+91,54,North Europe,North Europe Store 63,2019-02-27,Clothing,Swimwear,3,13,39195576
+92,64,North Europe,North Europe Store 63,2019-02-28,Baby,Car seats,1,30,82806366
+93,65,North Europe,North Europe Store 63,2019-06-08,Beauty/Health,Skincare,9,10,68663752
+94,14,North Europe,North Europe Store 63,2019-07-01,Beauty/Health,Bath,3,10,27450095
+95,91,North Europe,North Europe Store 63,2019-03-17,Baby,Baby toys,5,12,30515328
+96,55,North Europe,North Europe Store 63,2019-03-05,Clothing,Mens,3,25,66236242
+97,47,North Europe,North Europe Store 63,2019-02-19,Baby,Strollers,5,15,45642637
+98,74,North Europe,North Europe Store 63,2019-06-12,Beauty/Health,Skincare,7,15,23044387
+99,47,North Europe,North Europe Store 63,2019-06-09,Beauty/Health,Makeup,4,14,64702447
+100,22,North Europe,North Europe Store 63,2019-02-03,Beauty/Health,Haircare,2,14,42377795
+101,48,North Europe,North Europe Store 63,2019-03-12,Furniture,Indoor tables,2,40,76760298
+102,70,North Europe,North Europe Store 63,2019-01-08,Beauty/Health,Skincare,4,15,30212283
+103,56,North Europe,North Europe Store 63,2019-03-26,Baby,Diaper bags,2,12,45114252
+104,60,North Europe,North Europe Store 63,2019-04-11,Clothing,Baby,9,12,99909031
+105,16,North Europe,North Europe Store 63,2019-04-16,Electronics,Speakers,2,300,40100988
+106,27,North Europe,North Europe Store 63,2019-06-17,Electronics,Headphones,2,100,63006808
+107,62,North Europe,North Europe Store 63,2019-03-03,Baby,Diaper bags,4,30,15146085
+108,88,North Europe,North Europe Store 63,2019-02-08,Beauty/Health,Bath,4,10,27701829
+109,59,North Europe,North Europe Store 63,2019-03-27,Furniture,Pool furniture,4,40,25102513
+110,64,North Europe,North Europe Store 63,2019-03-15,Furniture,Patio furniture,2,75,43237331
+111,3,North Europe,North Europe Store 63,2019-05-30,Electronics,Speakers,1,200,83068368
+112,98,North Europe,North Europe Store 63,2019-01-16,Beauty/Health,Feminine Products,4,6,13979491
+113,33,North Europe,North Europe Store 63,2019-01-06,Furniture,Patio furniture,4,75,93220265
+114,81,North Europe,North Europe Store 63,2019-01-18,Clothing,Womens,4,10,75044428
+115,11,North Europe,North Europe Store 63,2019-01-26,Clothing,Womens,3,20,46732201
+116,17,North Europe,North Europe Store 63,2019-01-06,Electronics,Speakers,1,100,29731862
+117,90,North Europe,North Europe Store 63,2019-02-23,Clothing,Swimwear,4,20,96610169
+118,32,North Europe,North Europe Store 63,2019-01-31,Furniture,Pool furniture,5,100,35808510
+119,58,North Europe,North Europe Store 63,2019-05-14,Baby,Diapers,3,12,86492753
+120,32,North Europe,North Europe Store 63,2019-03-13,Furniture,Beds,2,100,29502006
+121,21,North Europe,North Europe Store 63,2019-03-29,Clothing,Womens,1,12,79766044
+122,40,North Europe,North Europe Store 63,2019-02-02,Clothing,Shoes,1,13,17037232
+123,2,North Europe,North Europe Store 63,2019-07-03,Baby,Baby toys,3,30,72837423
+124,55,North Europe,North Europe Store 63,2019-03-27,Clothing,Shoes,2,13,59296609
+125,17,North Europe,North Europe Store 63,2019-03-02,Furniture,Indoor tables,3,75,21890981
+126,80,North Europe,North Europe Store 63,2019-03-23,Baby,Car seats,1,15,69180700
+127,53,North Europe,North Europe Store 63,2019-07-16,Electronics,Cell Phones,1,300,83862021
+128,99,North Europe,North Europe Store 63,2019-04-02,Baby,Diapers,3,30,64647047
+129,92,North Europe,North Europe Store 63,2019-06-01,Furniture,Patio furniture,7,30,90389011
+130,43,North Europe,North Europe Store 63,2019-06-06,Electronics,Headphones,2,100,92949956
+131,86,North Europe,North Europe Store 63,2019-05-07,Beauty/Health,Fragrances,6,10,23142853
+132,39,North Europe,North Europe Store 63,2019-06-28,Electronics,Televisions,1,200,36234084
+133,47,North Europe,North Europe Store 63,2019-04-24,Electronics,Televisions,2,50,99941157
+134,8,North Europe,North Europe Store 63,2019-06-25,Electronics,Headphones,2,50,49304453
+135,42,North Europe,North Europe Store 63,2019-05-03,Beauty/Health,Skincare,9,10,44397852
+136,91,North Europe,North Europe Store 63,2019-03-04,Electronics,Televisions,2,50,58195320
+137,15,North Europe,North Europe Store 63,2019-03-16,Electronics,Cell Phones,1,100,15034780
+138,89,North Europe,North Europe Store 63,2019-01-10,Beauty/Health,Skincare,4,10,15994493
+139,30,North Europe,North Europe Store 63,2019-03-14,Baby,Strollers,5,15,56309769
+140,50,North Europe,North Europe Store 63,2019-05-17,Baby,Car seats,3,10,17874552
+141,21,North Europe,North Europe Store 63,2019-02-28,Furniture,Patio furniture,2,15,16879357
+142,13,North Europe,North Europe Store 63,2019-06-12,Clothing,Mens,8,13,28846725
+143,54,North Europe,North Europe Store 63,2019-02-18,Beauty/Health,Makeup,3,6,61343943
+144,69,North Europe,North Europe Store 63,2019-05-07,Clothing,Baby,9,13,38258823
+145,19,North Europe,North Europe Store 63,2019-07-08,Beauty/Health,Feminine Products,3,10,21763765
+146,68,North Europe,North Europe Store 63,2019-03-30,Beauty/Health,Skincare,2,6,36567898
+147,28,North Europe,North Europe Store 63,2019-01-19,Beauty/Health,Haircare,1,15,99671572
+148,71,North Europe,North Europe Store 63,2019-01-12,Clothing,Womens,2,12,61074249
+149,20,North Europe,North Europe Store 63,2019-01-05,Furniture,Pool furniture,2,30,73503299
+150,50,North Europe,North Europe Store 63,2019-02-02,Beauty/Health,Haircare,3,14,93999666
+151,84,North Europe,North Europe Store 63,2019-06-02,Furniture,Pool furniture,10,100,28914555
+152,72,North Europe,North Europe Store 63,2019-07-11,Clothing,Mens,7,13,27556566
+153,48,North Europe,North Europe Store 63,2019-03-04,Beauty/Health,Fragrances,5,10,33992684
+154,56,North Europe,North Europe Store 63,2019-02-18,Clothing,Womens,1,13,37628465
+155,49,North Europe,North Europe Store 63,2019-06-12,Baby,Cribs,5,12,46324145
+156,39,North Europe,North Europe Store 63,2019-06-22,Electronics,Headphones,2,200,66659048
+157,78,North Europe,North Europe Store 63,2019-07-11,Electronics,Cell Phones,1,300,70093665
+158,14,North Europe,North Europe Store 63,2019-05-25,Furniture,Beds,7,15,18874644
+159,52,North Europe,North Europe Store 63,2019-05-02,Clothing,Shoes,8,25,34251666
+160,36,North Europe,North Europe Store 63,2019-04-18,Electronics,Cell Phones,2,100,24038943
+161,50,North Europe,North Europe Store 63,2019-05-12,Beauty/Health,Oral care,4,15,17915957
+162,72,North Europe,North Europe Store 63,2019-07-12,Beauty/Health,Feminine Products,9,15,53257108
+163,96,North Europe,North Europe Store 63,2019-02-05,Clothing,Shoes,5,25,75072995
+164,100,North Europe,North Europe Store 63,2019-01-15,Furniture,Pool furniture,1,40,29674927
+165,14,North Europe,North Europe Store 63,2019-03-30,Baby,Baby toys,2,15,41812574
+166,22,North Europe,North Europe Store 63,2019-03-30,Clothing,Baby,5,13,57801678
+167,73,North Europe,North Europe Store 63,2019-01-10,Beauty/Health,Makeup,4,14,92907392
+168,72,North Europe,North Europe Store 63,2019-05-31,Clothing,Kids,4,25,27600774
+169,23,North Europe,North Europe Store 63,2019-03-14,Baby,Cribs,4,15,46840856
+170,11,North Europe,North Europe Store 63,2019-05-30,Beauty/Health,Haircare,10,10,41037239
+171,97,North Europe,North Europe Store 63,2019-04-21,Electronics,Headphones,1,100,31460969
+172,90,North Europe,North Europe Store 63,2019-03-31,Furniture,Indoor seating,2,75,72030155
+173,99,North Europe,North Europe Store 63,2019-01-18,Electronics,Computers,1,50,73608077
+174,3,North Europe,North Europe Store 63,2019-06-30,Furniture,Indoor tables,8,15,29115441
+175,24,North Europe,North Europe Store 63,2019-07-08,Baby,Strollers,9,30,26126830
+176,73,North Europe,North Europe Store 63,2019-03-25,Clothing,Womens,1,13,79681298
+177,88,North Europe,North Europe Store 63,2019-04-25,Electronics,Cell Phones,2,200,52549075
+178,63,North Europe,North Europe Store 63,2019-01-03,Clothing,Baby,3,25,89948840
+179,94,North Europe,North Europe Store 63,2019-03-03,Clothing,Kids,5,25,49874986
+180,31,North Europe,North Europe Store 63,2019-04-21,Baby,Strollers,3,5,17401780
+181,57,North Europe,North Europe Store 63,2019-04-10,Baby,Diapers,4,5,27162996
+182,96,North Europe,North Europe Store 63,2019-03-05,Electronics,Speakers,1,200,12789257
+183,81,North Europe,North Europe Store 63,2019-02-13,Beauty/Health,Fragrances,2,10,10677748
+184,68,North Europe,North Europe Store 63,2019-05-16,Electronics,Televisions,2,300,18123225
+185,88,North Europe,North Europe Store 63,2019-04-07,Furniture,Beds,1,40,98979598
+186,41,North Europe,North Europe Store 63,2019-03-15,Baby,Strollers,4,12,52155820
+187,22,North Europe,North Europe Store 63,2019-04-09,Clothing,Kids,7,10,69380245
+188,23,North Europe,North Europe Store 63,2019-02-10,Beauty/Health,Haircare,5,15,28955762
+189,101,North Europe,North Europe Store 63,2019-04-02,Electronics,Headphones,1,50,32511859
+190,23,North Europe,North Europe Store 63,2019-06-05,Baby,Diapers,4,5,23654958
+191,77,North Europe,North Europe Store 63,2019-07-08,Clothing,Shoes,9,25,23121836
+192,92,North Europe,North Europe Store 63,2019-03-08,Furniture,Indoor tables,1,100,31635533
+193,59,North Europe,North Europe Store 63,2019-06-22,Furniture,Indoor tables,6,15,70680305
+194,65,North Europe,North Europe Store 63,2019-01-29,Beauty/Health,Bath,1,10,50698283
+195,95,North Europe,North Europe Store 63,2019-01-12,Baby,Diaper bags,4,10,90556035
+196,65,North Europe,North Europe Store 63,2019-07-03,Electronics,Speakers,1,200,67564020
+197,100,North Europe,North Europe Store 63,2019-03-27,Clothing,Womens,1,13,21635032
+198,31,North Europe,North Europe Store 63,2019-06-04,Baby,Car seats,3,30,67747305
+199,67,North Europe,North Europe Store 63,2019-04-30,Furniture,Indoor seating,3,40,12892051
+200,2,North Europe,North Europe Store 63,2019-05-25,Electronics,Computers,2,100,93177187
+201,3,North Europe,North Europe Store 63,2019-07-03,Furniture,Beds,4,30,96348433
+202,92,North Europe,North Europe Store 63,2019-03-11,Baby,Cribs,2,10,72780512
+203,67,North Europe,North Europe Store 63,2019-01-10,Electronics,Computers,1,100,32232286
+204,10,North Europe,North Europe Store 63,2019-07-13,Beauty/Health,Makeup,3,15,16259642
+205,95,North Europe,North Europe Store 63,2019-05-23,Beauty/Health,Bath,6,6,61565843
+206,96,North Europe,North Europe Store 63,2019-06-14,Furniture,Indoor tables,8,15,30556154
+207,50,North Europe,North Europe Store 63,2019-06-08,Clothing,Mens,6,10,90312661
+208,81,North Europe,North Europe Store 63,2019-01-21,Furniture,Beds,5,100,86737731
+209,51,North Europe,North Europe Store 63,2019-06-06,Furniture,Indoor seating,9,75,99620344
+210,35,North Europe,North Europe Store 63,2019-01-07,Furniture,Patio furniture,1,75,78187972
+211,39,North Europe,North Europe Store 63,2019-02-03,Electronics,Televisions,1,100,79361286
+212,7,North Europe,North Europe Store 63,2019-03-24,Electronics,Speakers,2,50,94503005
+213,96,North Europe,North Europe Store 63,2019-03-11,Electronics,Speakers,1,100,76718886
+214,65,North Europe,North Europe Store 63,2019-04-20,Beauty/Health,Skincare,7,10,30157524
+215,67,North Europe,North Europe Store 63,2019-05-01,Electronics,Tablets,2,100,34577194
+216,31,North Europe,North Europe Store 63,2019-06-15,Furniture,Beds,4,75,51324235
+217,18,North Europe,North Europe Store 63,2019-06-23,Beauty/Health,Skincare,10,10,63499599
+218,32,North Europe,North Europe Store 63,2019-06-16,Furniture,Beds,4,15,92951812
+219,82,North Europe,North Europe Store 63,2019-03-25,Baby,Diapers,3,30,64874522
+220,87,North Europe,North Europe Store 63,2019-04-25,Furniture,Indoor tables,5,100,30579967
+221,98,North Europe,North Europe Store 63,2019-07-16,Clothing,Kids,3,25,42114067
+222,32,North Europe,North Europe Store 63,2019-01-04,Beauty/Health,Makeup,2,15,30677574
+223,86,North Europe,North Europe Store 63,2019-07-04,Electronics,Cell Phones,2,100,70151624
+224,38,North Europe,North Europe Store 63,2019-01-12,Baby,Strollers,4,5,45089220
+225,68,North Europe,North Europe Store 63,2019-06-18,Clothing,Shoes,9,20,88285169
+226,70,North Europe,North Europe Store 63,2019-01-19,Furniture,Indoor tables,4,100,46148913
+227,100,North Europe,North Europe Store 63,2019-03-04,Beauty/Health,Bath,1,10,30046847
+228,82,North Europe,North Europe Store 63,2019-02-17,Clothing,Shoes,2,10,91752324
+229,57,North Europe,North Europe Store 63,2019-07-07,Furniture,Indoor tables,7,75,38922338
+230,15,North Europe,North Europe Store 63,2019-05-31,Beauty/Health,Feminine Products,5,10,93443044
+231,94,North Europe,North Europe Store 63,2019-02-17,Baby,Diapers,1,30,85648860
+232,30,North Europe,North Europe Store 63,2019-01-22,Beauty/Health,Makeup,2,10,61027467
+233,20,North Europe,North Europe Store 63,2019-02-03,Baby,Car seats,4,30,42750707
+234,65,North Europe,North Europe Store 63,2019-02-23,Electronics,Speakers,2,200,40589666
+235,78,North Europe,North Europe Store 63,2019-03-25,Furniture,Patio furniture,5,40,81206545
+236,81,North Europe,North Europe Store 63,2019-01-29,Baby,Diapers,4,30,78086064
+237,57,North Europe,North Europe Store 63,2019-01-07,Baby,Baby toys,1,12,33702500
+238,99,North Europe,North Europe Store 63,2019-04-17,Furniture,Patio furniture,7,30,26510184
+239,73,North Europe,North Europe Store 63,2019-03-31,Beauty/Health,Bath,3,10,60775587
+240,68,North Europe,North Europe Store 63,2019-05-16,Baby,Baby toys,7,15,12980823
+241,7,North Europe,North Europe Store 63,2019-03-01,Baby,Car seats,3,30,12439503
+242,98,North Europe,North Europe Store 63,2019-01-28,Clothing,Swimwear,5,13,37274530
+243,32,North Europe,North Europe Store 63,2019-03-08,Furniture,Indoor tables,2,100,83845452
+244,85,North Europe,North Europe Store 63,2019-05-29,Clothing,Shoes,8,13,27487699
+245,98,North Europe,North Europe Store 63,2019-03-16,Furniture,Patio furniture,3,100,41849283
+246,29,North Europe,North Europe Store 63,2019-04-11,Beauty/Health,Oral care,3,14,59595366
+247,36,North Europe,North Europe Store 63,2019-07-10,Furniture,Pool furniture,8,15,73332190
+248,57,North Europe,North Europe Store 63,2019-03-22,Baby,Cribs,5,12,18857706
+249,61,North Europe,North Europe Store 63,2019-06-11,Beauty/Health,Fragrances,8,10,28499655
+250,92,North Europe,North Europe Store 63,2019-05-04,Clothing,Kids,7,25,75411416
+251,52,North Europe,North Europe Store 63,2019-01-04,Electronics,Computers,1,200,84313819
+252,48,North Europe,North Europe Store 63,2019-06-16,Beauty/Health,Makeup,10,10,32760530
+253,18,North Europe,North Europe Store 63,2019-07-08,Furniture,Indoor seating,3,15,20492707
+254,72,North Europe,North Europe Store 63,2019-06-01,Clothing,Womens,6,13,28238862
+255,89,North Europe,North Europe Store 63,2019-04-21,Furniture,Pool furniture,9,100,32927247
+256,88,North Europe,North Europe Store 63,2019-02-21,Baby,Baby toys,5,30,25011352
+257,101,North Europe,North Europe Store 63,2019-04-14,Beauty/Health,Feminine Products,9,6,79083885
+258,16,North Europe,North Europe Store 63,2019-01-02,Electronics,Computers,1,300,66450059
+259,16,North Europe,North Europe Store 63,2019-02-19,Electronics,Headphones,2,300,71659925
+260,10,North Europe,North Europe Store 63,2019-03-15,Clothing,Baby,1,25,81723754
+261,4,North Europe,North Europe Store 63,2019-07-14,Baby,Diaper bags,7,30,96353236
+262,87,North Europe,North Europe Store 63,2019-06-05,Clothing,Swimwear,10,25,62359417
+263,11,North Europe,North Europe Store 63,2019-05-30,Furniture,Patio furniture,4,40,33749548
+264,8,North Europe,North Europe Store 63,2019-03-26,Furniture,Indoor tables,2,100,75456916
+265,70,North Europe,North Europe Store 63,2019-07-15,Beauty/Health,Bath,6,10,64649664
+266,71,North Europe,North Europe Store 63,2019-05-13,Baby,Diapers,9,12,78351992
+267,16,North Europe,North Europe Store 63,2019-05-08,Electronics,Speakers,1,100,59024217
+268,32,North Europe,North Europe Store 63,2019-01-22,Beauty/Health,Fragrances,4,10,66067680
+269,75,North Europe,North Europe Store 63,2019-01-22,Furniture,Indoor seating,1,75,40564026
+270,28,North Europe,North Europe Store 63,2019-07-16,Furniture,Pool furniture,3,15,40868575
+271,92,North Europe,North Europe Store 63,2019-07-12,Baby,Cribs,7,12,80865976
+272,2,North Europe,North Europe Store 63,2019-03-20,Baby,Diaper bags,5,5,18444754
+273,16,North Europe,North Europe Store 63,2019-01-10,Beauty/Health,Oral care,3,10,15620850
+274,19,North Europe,North Europe Store 63,2019-04-07,Furniture,Patio furniture,2,15,35860067
+275,60,North Europe,North Europe Store 63,2019-03-22,Furniture,Pool furniture,2,30,39434577
+276,59,North Europe,North Europe Store 63,2019-04-08,Baby,Strollers,3,5,48360346
+277,77,North Europe,North Europe Store 63,2019-01-12,Beauty/Health,Bath,4,14,31547981
+278,72,North Europe,North Europe Store 63,2019-06-26,Furniture,Indoor tables,3,30,85901903
+279,91,North Europe,North Europe Store 63,2019-07-01,Clothing,Kids,7,25,55491095
+280,5,North Europe,North Europe Store 63,2019-06-06,Beauty/Health,Bath,7,15,99017622
+281,53,North Europe,North Europe Store 63,2019-04-01,Clothing,Kids,4,10,27653011
+282,43,North Europe,North Europe Store 63,2019-03-25,Beauty/Health,Fragrances,2,10,76487261
+283,3,North Europe,North Europe Store 63,2019-03-16,Baby,Car seats,3,30,25514112
+284,74,North Europe,North Europe Store 63,2019-03-23,Baby,Car seats,5,5,87273814
+285,57,North Europe,North Europe Store 63,2019-06-20,Furniture,Pool furniture,4,30,87313871
+286,97,North Europe,North Europe Store 63,2019-05-01,Beauty/Health,Skincare,4,10,90619806
+287,51,North Europe,North Europe Store 63,2019-02-28,Beauty/Health,Feminine Products,1,15,51256774
+288,73,North Europe,North Europe Store 63,2019-05-06,Baby,Car seats,8,10,91620221
+289,98,North Europe,North Europe Store 63,2019-07-06,Beauty/Health,Haircare,8,10,95910750
+290,83,North Europe,North Europe Store 63,2019-02-27,Electronics,Headphones,2,50,94725110
+291,96,North Europe,North Europe Store 63,2019-03-01,Furniture,Indoor seating,5,75,69964803
+292,93,North Europe,North Europe Store 63,2019-01-28,Electronics,Tablets,2,50,76834103
+293,57,North Europe,North Europe Store 63,2019-02-25,Baby,Diaper bags,3,12,16869349
+294,45,North Europe,North Europe Store 63,2019-01-09,Clothing,Swimwear,1,12,50429545
+295,21,North Europe,North Europe Store 63,2019-01-01,Baby,Strollers,1,12,79140180
+296,84,North Europe,North Europe Store 63,2019-04-05,Furniture,Beds,2,40,45431108
+297,76,North Europe,North Europe Store 63,2019-02-07,Furniture,Beds,2,15,95546540
+298,76,North Europe,North Europe Store 63,2019-04-08,Clothing,Shoes,5,12,13353519
+299,90,North Europe,North Europe Store 63,2019-02-11,Furniture,Indoor seating,4,100,91081121
+300,82,North Europe,North Europe Store 63,2019-06-28,Beauty/Health,Haircare,8,10,40964432
+301,61,North Europe,North Europe Store 63,2019-04-11,Furniture,Patio furniture,3,15,89855458
+302,23,North Europe,North Europe Store 63,2019-06-21,Electronics,Speakers,1,100,36748200
+303,36,North Europe,North Europe Store 63,2019-03-05,Beauty/Health,Haircare,4,6,51034600
+304,87,North Europe,North Europe Store 63,2019-06-02,Electronics,Cell Phones,2,200,36011082
+305,12,North Europe,North Europe Store 63,2019-06-22,Beauty/Health,Bath,10,15,59559960
+306,29,North Europe,North Europe Store 63,2019-03-03,Baby,Strollers,5,30,65488346
+307,11,North Europe,North Europe Store 63,2019-06-17,Baby,Baby toys,7,10,20335603
+308,45,North Europe,North Europe Store 63,2019-01-03,Clothing,Baby,4,20,71579174
+309,3,North Europe,North Europe Store 63,2019-05-22,Electronics,Computers,1,300,41667444
+310,87,North Europe,North Europe Store 63,2019-03-30,Furniture,Indoor tables,1,75,12210414
+311,64,North Europe,North Europe Store 63,2019-01-18,Beauty/Health,Feminine Products,2,14,11341431
+312,32,North Europe,North Europe Store 63,2019-05-18,Beauty/Health,Feminine Products,3,10,47409308
+313,37,North Europe,North Europe Store 63,2019-02-27,Beauty/Health,Feminine Products,5,10,14358620
+314,83,North Europe,North Europe Store 63,2019-03-24,Baby,Cribs,5,10,99112693
+315,78,North Europe,North Europe Store 63,2019-06-02,Electronics,Cell Phones,1,50,55725798
+316,50,North Europe,North Europe Store 63,2019-05-26,Furniture,Beds,8,15,24229735
+317,98,North Europe,North Europe Store 63,2019-01-30,Baby,Strollers,3,12,77946503
+318,28,North Europe,North Europe Store 63,2019-04-19,Electronics,Tablets,2,200,38174913
+319,62,North Europe,North Europe Store 63,2019-03-17,Baby,Diaper bags,2,30,84058326
+320,95,North Europe,North Europe Store 63,2019-06-20,Baby,Baby toys,4,10,84842067
+321,51,North Europe,North Europe Store 63,2019-01-04,Clothing,Baby,3,10,31363804
+322,58,North Europe,North Europe Store 63,2019-03-03,Furniture,Indoor tables,1,100,57767298
+323,12,North Europe,North Europe Store 63,2019-06-13,Beauty/Health,Fragrances,7,10,43517786
+324,21,North Europe,North Europe Store 63,2019-02-07,Baby,Strollers,5,12,60413861
+325,34,North Europe,North Europe Store 63,2019-04-22,Furniture,Pool furniture,5,40,71697180
+326,55,North Europe,North Europe Store 63,2019-05-04,Beauty/Health,Haircare,7,14,32371166
+327,81,North Europe,North Europe Store 63,2019-01-24,Electronics,Televisions,1,200,58598766
+328,58,North Europe,North Europe Store 63,2019-01-02,Electronics,Cell Phones,1,50,91112714
+329,10,North Europe,North Europe Store 63,2019-03-29,Baby,Diaper bags,2,5,72261236
+330,93,North Europe,North Europe Store 63,2019-05-06,Beauty/Health,Bath,5,6,45498413
+331,94,North Europe,North Europe Store 63,2019-06-08,Beauty/Health,Oral care,3,15,29574045
+332,56,North Europe,North Europe Store 63,2019-06-24,Beauty/Health,Oral care,9,10,63593995
+333,28,North Europe,North Europe Store 63,2019-04-19,Clothing,Mens,4,12,69648597
+334,54,North Europe,North Europe Store 63,2019-02-17,Clothing,Swimwear,3,12,96873919
+335,54,North Europe,North Europe Store 63,2019-01-05,Baby,Diaper bags,3,15,12651969
+336,29,North Europe,North Europe Store 63,2019-06-17,Furniture,Indoor tables,9,30,15343472
+337,85,North Europe,North Europe Store 63,2019-07-13,Electronics,Cell Phones,1,50,70083512
+338,87,North Europe,North Europe Store 63,2019-06-01,Clothing,Shoes,9,25,35719022
+339,58,North Europe,North Europe Store 63,2019-05-15,Clothing,Shoes,10,25,58314845
+340,29,North Europe,North Europe Store 63,2019-03-17,Beauty/Health,Makeup,5,15,23123573
+341,75,North Europe,North Europe Store 63,2019-03-01,Furniture,Beds,1,40,38108995
+342,32,North Europe,North Europe Store 63,2019-03-13,Baby,Diapers,4,12,91052983
+343,50,North Europe,North Europe Store 63,2019-07-04,Baby,Car seats,3,12,71448945
+344,97,North Europe,North Europe Store 63,2019-05-02,Clothing,Mens,5,25,56581722
+345,20,North Europe,North Europe Store 63,2019-07-02,Baby,Cribs,4,15,18268588
+346,78,North Europe,North Europe Store 63,2019-06-14,Baby,Strollers,3,12,90114905
+347,35,North Europe,North Europe Store 63,2019-05-18,Electronics,Speakers,2,50,18410112
+348,33,North Europe,North Europe Store 63,2019-02-21,Furniture,Patio furniture,5,75,25901105
+349,81,North Europe,North Europe Store 63,2019-04-01,Clothing,Kids,1,25,11236922
+350,86,North Europe,North Europe Store 63,2019-05-24,Baby,Diapers,5,10,39573491
+351,91,North Europe,North Europe Store 63,2019-04-29,Beauty/Health,Oral care,4,15,42524282
+352,101,North Europe,North Europe Store 63,2019-07-11,Baby,Strollers,3,15,58952733
+353,59,North Europe,North Europe Store 63,2019-06-22,Furniture,Indoor tables,7,75,58808533
+354,63,North Europe,North Europe Store 63,2019-02-02,Beauty/Health,Makeup,3,10,46858218
+355,83,North Europe,North Europe Store 63,2019-05-13,Clothing,Mens,10,25,55855154
+356,47,North Europe,North Europe Store 63,2019-03-18,Electronics,Tablets,2,50,73203362
+357,94,North Europe,North Europe Store 63,2019-05-11,Baby,Diaper bags,3,10,34170787
+358,47,North Europe,North Europe Store 63,2019-07-02,Furniture,Patio furniture,6,15,65345303
+359,85,North Europe,North Europe Store 63,2019-06-10,Clothing,Womens,4,25,89391342
+360,46,North Europe,North Europe Store 63,2019-06-06,Baby,Diaper bags,5,15,41584420
+361,23,North Europe,North Europe Store 63,2019-06-16,Electronics,Speakers,1,300,85265828
+362,80,North Europe,North Europe Store 63,2019-04-25,Baby,Car seats,3,30,28729238
+363,31,North Europe,North Europe Store 63,2019-04-10,Clothing,Swimwear,10,12,43283120
+364,58,North Europe,North Europe Store 63,2019-03-22,Beauty/Health,Haircare,3,10,46604187
+365,101,North Europe,North Europe Store 63,2019-07-02,Beauty/Health,Skincare,5,10,63257887
+366,89,North Europe,North Europe Store 63,2019-02-18,Clothing,Mens,4,13,30761102
+367,38,North Europe,North Europe Store 63,2019-07-04,Furniture,Beds,9,30,34991893
+368,31,North Europe,North Europe Store 63,2019-05-30,Baby,Car seats,9,30,37853500
+369,58,North Europe,North Europe Store 63,2019-06-27,Electronics,Tablets,2,50,45710746
+370,68,North Europe,North Europe Store 63,2019-04-19,Baby,Cribs,7,30,46534608
+371,25,North Europe,North Europe Store 63,2019-03-30,Clothing,Mens,1,25,64319711
+372,48,North Europe,North Europe Store 63,2019-02-10,Baby,Strollers,2,30,49168188
+373,62,North Europe,North Europe Store 63,2019-04-23,Beauty/Health,Haircare,6,14,20411589
+374,13,North Europe,North Europe Store 63,2019-05-14,Beauty/Health,Oral care,9,10,84718605
+375,98,North Europe,North Europe Store 63,2019-02-25,Furniture,Indoor seating,4,75,50361205
+376,17,North Europe,North Europe Store 63,2019-01-18,Beauty/Health,Oral care,2,6,66969482
+377,15,North Europe,North Europe Store 63,2019-03-15,Furniture,Indoor tables,3,75,45888052
+378,35,North Europe,North Europe Store 63,2019-01-30,Clothing,Baby,1,13,22498640
+379,89,North Europe,North Europe Store 63,2019-02-26,Baby,Car seats,4,10,82336756
+380,39,North Europe,North Europe Store 63,2019-01-11,Electronics,Computers,2,50,44772860
+381,79,North Europe,North Europe Store 63,2019-03-24,Furniture,Indoor seating,2,40,65850280
+382,16,North Europe,North Europe Store 63,2019-02-03,Beauty/Health,Makeup,5,10,72226771
+383,49,North Europe,North Europe Store 63,2019-01-03,Beauty/Health,Oral care,2,10,61599494
+384,53,North Europe,North Europe Store 63,2019-04-14,Beauty/Health,Oral care,7,15,86999941
+385,21,North Europe,North Europe Store 63,2019-03-16,Beauty/Health,Bath,3,10,37354096
+386,70,North Europe,North Europe Store 63,2019-05-29,Furniture,Beds,7,15,41631108
+387,25,North Europe,North Europe Store 63,2019-01-14,Baby,Strollers,5,5,59741733
+388,61,North Europe,North Europe Store 63,2019-05-19,Electronics,Tablets,1,50,58191414
+389,87,North Europe,North Europe Store 63,2019-06-03,Beauty/Health,Makeup,7,14,61304956
+390,37,North Europe,North Europe Store 63,2019-01-28,Clothing,Baby,3,10,54452683
+391,98,North Europe,North Europe Store 63,2019-03-17,Electronics,Cell Phones,1,100,58511268
+392,32,North Europe,North Europe Store 63,2019-02-04,Furniture,Beds,1,30,83159156
+393,92,North Europe,North Europe Store 63,2019-06-06,Baby,Baby toys,6,30,70236226
+394,45,North Europe,North Europe Store 63,2019-01-05,Electronics,Headphones,1,300,17701554
+395,2,North Europe,North Europe Store 63,2019-01-05,Baby,Diapers,2,5,47006909
+396,45,North Europe,North Europe Store 63,2019-06-30,Electronics,Computers,2,100,45676795
+397,50,North Europe,North Europe Store 63,2019-06-20,Furniture,Beds,3,100,12798349
+398,49,North Europe,North Europe Store 63,2019-04-04,Baby,Strollers,1,15,53122318
+399,62,North Europe,North Europe Store 63,2019-02-19,Electronics,Tablets,2,300,50085596
+400,82,North Europe,North Europe Store 63,2019-05-13,Furniture,Indoor tables,5,100,98379771
+401,4,North Europe,North Europe Store 63,2019-04-21,Baby,Diaper bags,4,10,32744106
+402,30,North Europe,North Europe Store 63,2019-02-24,Baby,Diaper bags,5,30,34642375
+403,70,North Europe,North Europe Store 63,2019-03-22,Baby,Diapers,4,30,15724327
+404,20,North Europe,North Europe Store 63,2019-06-05,Beauty/Health,Feminine Products,5,14,18033618
+405,65,North Europe,North Europe Store 63,2019-02-01,Clothing,Kids,3,20,60574431
+406,45,North Europe,North Europe Store 63,2019-02-09,Beauty/Health,Haircare,2,6,51256373
+407,43,North Europe,North Europe Store 63,2019-04-18,Electronics,Speakers,1,300,41937280
+408,18,North Europe,North Europe Store 63,2019-03-29,Clothing,Kids,3,25,62929417
+409,62,North Europe,North Europe Store 63,2019-02-17,Baby,Diapers,2,30,81970582
+410,9,North Europe,North Europe Store 63,2019-03-31,Baby,Diapers,3,30,60715441
+411,37,North Europe,North Europe Store 63,2019-07-05,Electronics,Televisions,2,200,47603713
+412,6,North Europe,North Europe Store 63,2019-03-18,Beauty/Health,Feminine Products,1,15,49747667
+413,10,North Europe,North Europe Store 63,2019-01-23,Clothing,Swimwear,1,25,31736387
+414,69,North Europe,North Europe Store 63,2019-01-25,Beauty/Health,Bath,5,14,37547303
+415,101,North Europe,North Europe Store 63,2019-01-31,Clothing,Swimwear,2,20,89356460
+416,12,North Europe,North Europe Store 63,2019-06-19,Electronics,Computers,2,200,80489707
+417,62,North Europe,North Europe Store 63,2019-04-24,Beauty/Health,Bath,7,10,55604547
+418,85,North Europe,North Europe Store 63,2019-04-01,Furniture,Indoor tables,4,100,22192150
+419,91,North Europe,North Europe Store 63,2019-05-26,Clothing,Kids,9,13,29262776
+420,80,North Europe,North Europe Store 63,2019-02-14,Baby,Baby toys,3,10,86102516
+421,60,North Europe,North Europe Store 63,2019-04-29,Electronics,Cell Phones,1,100,31429098
+422,80,North Europe,North Europe Store 63,2019-06-27,Beauty/Health,Makeup,4,14,71479853
+423,6,North Europe,North Europe Store 63,2019-06-17,Baby,Diapers,10,12,19715168
+424,16,North Europe,North Europe Store 63,2019-05-31,Electronics,Computers,1,300,18663280
+425,54,North Europe,North Europe Store 63,2019-02-26,Furniture,Indoor seating,3,40,80995324
+426,46,North Europe,North Europe Store 63,2019-06-05,Furniture,Pool furniture,3,30,17596410
+427,34,North Europe,North Europe Store 63,2019-05-27,Furniture,Patio furniture,8,100,95370811
+428,61,North Europe,North Europe Store 63,2019-02-03,Baby,Diapers,3,10,80415753
+429,52,North Europe,North Europe Store 63,2019-01-03,Beauty/Health,Oral care,3,10,55158671
+430,6,North Europe,North Europe Store 63,2019-06-20,Beauty/Health,Makeup,6,6,48207893
+431,58,North Europe,North Europe Store 63,2019-01-22,Baby,Car seats,3,12,80294819
+432,14,North Europe,North Europe Store 63,2019-04-02,Furniture,Indoor seating,4,15,60620922
+433,93,North Europe,North Europe Store 63,2019-05-03,Furniture,Pool furniture,7,30,58366833
+434,80,North Europe,North Europe Store 63,2019-02-26,Baby,Baby toys,1,30,27296419
+435,93,North Europe,North Europe Store 63,2019-06-13,Furniture,Pool furniture,3,30,20593041
+436,67,North Europe,North Europe Store 63,2019-03-04,Beauty/Health,Oral care,5,10,44687415
+437,84,North Europe,North Europe Store 63,2019-01-06,Clothing,Kids,5,25,62241960
+438,94,North Europe,North Europe Store 63,2019-07-06,Baby,Cribs,4,10,37604453
+439,7,North Europe,North Europe Store 63,2019-05-30,Beauty/Health,Fragrances,7,14,53317931
+440,47,North Europe,North Europe Store 63,2019-05-31,Clothing,Mens,4,12,75947610
+441,21,North Europe,North Europe Store 63,2019-05-01,Beauty/Health,Oral care,5,6,96295605
+442,50,North Europe,North Europe Store 63,2019-02-17,Furniture,Pool furniture,3,15,49738034
+443,44,North Europe,North Europe Store 63,2019-04-06,Clothing,Baby,5,25,82191593
+444,85,North Europe,North Europe Store 63,2019-01-31,Clothing,Swimwear,3,25,92121108
+445,11,North Europe,North Europe Store 63,2019-03-25,Beauty/Health,Skincare,1,10,44959913
+446,72,North Europe,North Europe Store 63,2019-03-05,Clothing,Shoes,3,10,87582404
+447,70,North Europe,North Europe Store 63,2019-05-22,Furniture,Pool furniture,3,75,92163857
+448,84,North Europe,North Europe Store 63,2019-03-21,Furniture,Patio furniture,3,15,57010763
+449,37,North Europe,North Europe Store 63,2019-01-24,Beauty/Health,Haircare,3,14,18068994
+450,17,North Europe,North Europe Store 63,2019-07-03,Furniture,Beds,10,100,26112406
+451,18,North Europe,North Europe Store 63,2019-04-17,Clothing,Kids,8,12,25685455
+452,85,North Europe,North Europe Store 63,2019-04-10,Clothing,Shoes,9,12,69798673
+453,98,North Europe,North Europe Store 63,2019-07-05,Beauty/Health,Oral care,7,14,25842858
+454,96,North Europe,North Europe Store 63,2019-01-03,Baby,Diaper bags,3,12,45445284
+455,68,North Europe,North Europe Store 63,2019-06-03,Beauty/Health,Bath,7,10,10687689
+456,99,North Europe,North Europe Store 63,2019-07-06,Baby,Car seats,10,30,39915255
+457,93,North Europe,North Europe Store 63,2019-06-13,Electronics,Speakers,1,300,99566972
+458,81,North Europe,North Europe Store 63,2019-01-30,Electronics,Televisions,1,50,46385778
+459,55,North Europe,North Europe Store 63,2019-02-03,Electronics,Cell Phones,1,200,40658769
+460,94,North Europe,North Europe Store 63,2019-06-14,Beauty/Health,Fragrances,4,10,13071320
+461,98,North Europe,North Europe Store 63,2019-02-21,Furniture,Patio furniture,5,30,73317523
+462,74,North Europe,North Europe Store 63,2019-01-09,Furniture,Indoor seating,2,15,31082381
+463,90,North Europe,North Europe Store 63,2019-07-06,Clothing,Womens,8,25,11343925
+464,60,North Europe,North Europe Store 63,2019-06-15,Clothing,Swimwear,5,20,74874941
+465,77,North Europe,North Europe Store 63,2019-06-28,Furniture,Patio furniture,5,30,98133731
+466,22,North Europe,North Europe Store 63,2019-07-16,Furniture,Beds,4,40,84919730
+467,97,North Europe,North Europe Store 63,2019-07-07,Clothing,Womens,7,12,25798556
+468,27,North Europe,North Europe Store 63,2019-02-22,Clothing,Shoes,1,25,66959481
+469,38,North Europe,North Europe Store 63,2019-06-14,Furniture,Pool furniture,9,100,61941137
+470,70,North Europe,North Europe Store 63,2019-05-29,Clothing,Baby,6,20,29204082
+471,51,North Europe,North Europe Store 63,2019-01-11,Clothing,Mens,2,13,66323669
+472,86,North Europe,North Europe Store 63,2019-05-21,Electronics,Headphones,1,100,41385099
+473,29,North Europe,North Europe Store 63,2019-06-01,Baby,Diaper bags,4,5,22982251
+474,6,North Europe,North Europe Store 63,2019-01-15,Baby,Car seats,1,10,51812085
+475,66,North Europe,North Europe Store 63,2019-04-10,Beauty/Health,Feminine Products,10,10,12431753
+476,29,North Europe,North Europe Store 63,2019-01-17,Clothing,Shoes,2,13,95467093
+477,68,North Europe,North Europe Store 63,2019-04-16,Beauty/Health,Oral care,10,10,61422758
+478,86,North Europe,North Europe Store 63,2019-06-19,Clothing,Baby,3,12,85489211
+479,24,North Europe,North Europe Store 63,2019-07-05,Electronics,Computers,2,50,50510964
+480,29,North Europe,North Europe Store 63,2019-02-17,Beauty/Health,Bath,2,6,26986780
+481,65,North Europe,North Europe Store 63,2019-04-12,Electronics,Speakers,2,100,72368873
+482,101,North Europe,North Europe Store 63,2019-04-28,Clothing,Kids,7,20,47614192
+483,66,North Europe,North Europe Store 63,2019-01-20,Beauty/Health,Bath,1,15,26544894
+484,41,North Europe,North Europe Store 63,2019-05-12,Beauty/Health,Oral care,3,10,59448628
+485,65,North Europe,North Europe Store 63,2019-01-23,Furniture,Patio furniture,4,15,20051451
+486,17,North Europe,North Europe Store 63,2019-04-27,Furniture,Beds,7,40,91347490
+487,67,North Europe,North Europe Store 63,2019-05-07,Clothing,Kids,4,25,79743898
+488,67,North Europe,North Europe Store 63,2019-02-13,Electronics,Televisions,2,50,95694602
+489,47,North Europe,North Europe Store 63,2019-02-17,Beauty/Health,Feminine Products,2,6,60566820
+490,64,North Europe,North Europe Store 63,2019-04-27,Electronics,Computers,2,100,74231909
+491,71,North Europe,North Europe Store 63,2019-05-22,Baby,Baby toys,4,30,73620348
+492,36,North Europe,North Europe Store 63,2019-06-16,Clothing,Womens,4,20,23737333
+493,81,North Europe,North Europe Store 63,2019-06-04,Clothing,Womens,9,25,28140960
+494,38,North Europe,North Europe Store 63,2019-04-24,Clothing,Swimwear,10,25,56765823
+495,3,North Europe,North Europe Store 63,2019-07-07,Furniture,Indoor seating,4,75,95785380
+496,23,North Europe,North Europe Store 63,2019-06-23,Baby,Baby toys,9,30,87507215
+497,34,North Europe,North Europe Store 63,2019-06-12,Baby,Car seats,8,15,43266674
+498,77,North Europe,North Europe Store 63,2019-06-22,Baby,Strollers,10,12,16477924
+499,48,North Europe,North Europe Store 63,2019-02-10,Beauty/Health,Feminine Products,3,15,15869624
+500,19,North Europe,North Europe Store 63,2019-05-20,Furniture,Patio furniture,6,15,71918502
+501,65,North Europe,North Europe Store 63,2019-05-14,Baby,Strollers,3,12,43940126
+502,84,North Europe,North Europe Store 63,2019-05-07,Electronics,Televisions,2,200,61117814
+503,18,North Europe,North Europe Store 63,2019-06-12,Baby,Strollers,10,15,83570132
+504,70,North Europe,North Europe Store 63,2019-06-16,Beauty/Health,Haircare,4,10,61765801
+505,36,North Europe,North Europe Store 63,2019-05-31,Clothing,Mens,5,13,97143004
+506,23,North Europe,North Europe Store 63,2019-01-07,Furniture,Pool furniture,1,30,66469255
+507,77,North Europe,North Europe Store 63,2019-03-12,Clothing,Baby,5,13,17024085
+508,42,North Europe,North Europe Store 63,2019-01-24,Clothing,Shoes,1,25,40498716
+509,90,North Europe,North Europe Store 63,2019-03-26,Electronics,Computers,1,300,34768536
+510,45,North Europe,North Europe Store 63,2019-01-14,Electronics,Tablets,2,50,98758991
+511,34,North Europe,North Europe Store 63,2019-03-18,Furniture,Indoor seating,5,40,36830581
+512,101,North Europe,North Europe Store 63,2019-05-02,Electronics,Tablets,2,50,50993308
+513,75,North Europe,North Europe Store 63,2019-05-14,Beauty/Health,Fragrances,6,15,49784171
+514,24,North Europe,North Europe Store 63,2019-07-15,Beauty/Health,Fragrances,7,10,71936761
+515,25,North Europe,North Europe Store 63,2019-03-16,Clothing,Swimwear,1,20,97145516
+516,1,North Europe,North Europe Store 63,2019-05-18,Furniture,Patio furniture,5,40,57288601
+517,13,North Europe,North Europe Store 63,2019-03-25,Electronics,Headphones,2,300,16950932
+518,35,North Europe,North Europe Store 63,2019-06-02,Electronics,Cell Phones,2,200,25422449
+519,92,North Europe,North Europe Store 63,2019-03-08,Baby,Cribs,2,10,55392484
+520,12,North Europe,North Europe Store 63,2019-03-03,Beauty/Health,Makeup,2,14,27101771
+521,10,North Europe,North Europe Store 63,2019-01-07,Clothing,Baby,4,10,31532304
+522,98,North Europe,North Europe Store 63,2019-02-01,Beauty/Health,Fragrances,3,10,14019095
+523,72,North Europe,North Europe Store 63,2019-04-09,Beauty/Health,Oral care,10,10,69091494
+524,8,North Europe,North Europe Store 63,2019-02-04,Beauty/Health,Bath,2,6,20986786
+525,69,North Europe,North Europe Store 63,2019-06-18,Electronics,Televisions,1,50,87074854
+526,15,North Europe,North Europe Store 63,2019-06-09,Furniture,Beds,6,15,25914577
+527,98,North Europe,North Europe Store 63,2019-07-04,Furniture,Patio furniture,5,15,10345121
+528,15,North Europe,North Europe Store 63,2019-02-17,Clothing,Womens,2,25,32224844
+529,101,North Europe,North Europe Store 63,2019-03-29,Beauty/Health,Bath,3,10,82188544
+530,75,North Europe,North Europe Store 63,2019-03-12,Electronics,Cell Phones,1,100,12246803
+531,85,North Europe,North Europe Store 63,2019-02-24,Furniture,Indoor seating,5,15,95969101
+532,41,North Europe,North Europe Store 63,2019-04-15,Baby,Strollers,6,30,14110863
+533,80,North Europe,North Europe Store 63,2019-04-25,Electronics,Speakers,1,200,99160472
+534,101,North Europe,North Europe Store 63,2019-01-05,Electronics,Cell Phones,1,200,86187139
+535,40,North Europe,North Europe Store 63,2019-02-19,Electronics,Speakers,1,100,85124948
+536,84,North Europe,North Europe Store 63,2019-06-05,Baby,Car seats,3,5,49832135
+537,6,North Europe,North Europe Store 63,2019-06-26,Furniture,Indoor seating,7,30,66366602
+538,33,North Europe,North Europe Store 63,2019-05-08,Beauty/Health,Bath,9,6,46749192
+539,81,North Europe,North Europe Store 63,2019-04-19,Beauty/Health,Oral care,6,10,76860413
+540,92,North Europe,North Europe Store 63,2019-01-05,Electronics,Tablets,2,300,48945583
+541,40,North Europe,North Europe Store 63,2019-03-23,Beauty/Health,Makeup,3,10,70612052
+542,57,North Europe,North Europe Store 63,2019-02-03,Baby,Diapers,4,15,35498125
+543,12,North Europe,North Europe Store 63,2019-05-09,Electronics,Speakers,2,300,34463396
+544,24,North Europe,North Europe Store 63,2019-01-20,Baby,Diaper bags,1,5,80904160
+545,19,North Europe,North Europe Store 63,2019-04-13,Baby,Car seats,4,10,94274025
+546,1,North Europe,North Europe Store 63,2019-05-03,Furniture,Indoor seating,9,30,86946156
+547,19,North Europe,North Europe Store 63,2019-01-08,Clothing,Mens,4,10,95125029
+548,45,North Europe,North Europe Store 63,2019-05-01,Clothing,Kids,6,10,79212793
+549,15,North Europe,North Europe Store 63,2019-01-13,Furniture,Pool furniture,2,30,79524535
+550,26,North Europe,North Europe Store 63,2019-03-15,Furniture,Indoor seating,2,40,68697742
+551,36,North Europe,North Europe Store 63,2019-02-05,Furniture,Indoor tables,3,100,65235391
+552,72,North Europe,North Europe Store 63,2019-06-26,Clothing,Shoes,4,25,79420471
+553,73,North Europe,North Europe Store 63,2019-04-29,Electronics,Televisions,2,100,52967713
+554,77,North Europe,North Europe Store 63,2019-03-07,Baby,Diapers,5,30,62679555
+555,20,North Europe,North Europe Store 63,2019-05-22,Furniture,Indoor tables,5,40,46012490
+556,75,North Europe,North Europe Store 63,2019-04-01,Clothing,Shoes,2,25,73215185
+557,9,North Europe,North Europe Store 63,2019-06-20,Electronics,Tablets,1,100,71935581
+558,12,North Europe,North Europe Store 63,2019-02-19,Clothing,Mens,1,25,98953151
+559,22,North Europe,North Europe Store 63,2019-05-17,Clothing,Shoes,4,13,24966604
+560,41,North Europe,North Europe Store 63,2019-06-01,Clothing,Baby,8,12,29663964
+561,90,North Europe,North Europe Store 63,2019-04-10,Clothing,Baby,10,20,54554932
+562,78,North Europe,North Europe Store 63,2019-04-22,Beauty/Health,Skincare,4,14,46925380
+563,93,North Europe,North Europe Store 63,2019-04-14,Electronics,Headphones,2,200,47691615
+564,60,North Europe,North Europe Store 63,2019-05-14,Beauty/Health,Bath,7,10,58036070
+565,76,North Europe,North Europe Store 63,2019-06-09,Clothing,Mens,9,25,93250508
+566,89,North Europe,North Europe Store 63,2019-02-16,Furniture,Indoor tables,5,30,75453359
+567,70,North Europe,North Europe Store 63,2019-06-08,Furniture,Indoor tables,3,100,69782418
+568,63,North Europe,North Europe Store 63,2019-04-10,Clothing,Swimwear,6,20,65671350
+569,37,North Europe,North Europe Store 63,2019-02-16,Beauty/Health,Haircare,3,14,45027655
+570,35,North Europe,North Europe Store 63,2019-02-19,Clothing,Kids,3,25,15193401
+571,34,North Europe,North Europe Store 63,2019-05-13,Clothing,Kids,3,20,68164010
+572,63,North Europe,North Europe Store 63,2019-02-16,Furniture,Indoor tables,5,40,55163995
+573,23,North Europe,North Europe Store 63,2019-07-04,Clothing,Baby,8,20,42019881
+574,1,North Europe,North Europe Store 63,2019-06-14,Baby,Car seats,4,30,55156204
+575,9,North Europe,North Europe Store 63,2019-01-11,Baby,Diapers,3,30,76285348
+576,79,North Europe,North Europe Store 63,2019-05-20,Baby,Car seats,6,10,52333495
+577,57,North Europe,North Europe Store 63,2019-05-29,Clothing,Baby,7,13,19929173
+578,25,North Europe,North Europe Store 63,2019-06-24,Electronics,Televisions,2,100,67337803
+579,101,North Europe,North Europe Store 63,2019-01-21,Beauty/Health,Fragrances,1,10,35620286
+580,90,North Europe,North Europe Store 63,2019-06-13,Baby,Diaper bags,6,30,87798093
+581,30,North Europe,North Europe Store 63,2019-04-01,Baby,Strollers,4,12,72053925
+582,63,North Europe,North Europe Store 63,2019-06-10,Clothing,Kids,8,10,89229644
+583,61,North Europe,North Europe Store 63,2019-05-12,Beauty/Health,Fragrances,8,10,49149341
+584,77,North Europe,North Europe Store 63,2019-04-06,Clothing,Baby,5,25,12554155
+585,98,North Europe,North Europe Store 63,2019-01-03,Clothing,Baby,3,10,48808532
+586,19,North Europe,North Europe Store 63,2019-03-10,Electronics,Cell Phones,2,50,25123015
+587,7,North Europe,North Europe Store 63,2019-02-05,Electronics,Speakers,1,50,60113332
+588,86,North Europe,North Europe Store 63,2019-06-27,Electronics,Cell Phones,2,100,23179619
+589,85,North Europe,North Europe Store 63,2019-05-08,Baby,Baby toys,4,15,99981548
+590,67,North Europe,North Europe Store 63,2019-07-04,Baby,Car seats,7,12,40751766
+591,45,North Europe,North Europe Store 63,2019-05-12,Furniture,Pool furniture,5,75,96806100
+592,7,North Europe,North Europe Store 63,2019-02-18,Baby,Baby toys,2,30,75546846
+593,50,North Europe,North Europe Store 63,2019-02-02,Furniture,Indoor seating,5,15,91689610
+594,11,North Europe,North Europe Store 63,2019-05-24,Furniture,Indoor seating,5,100,70425453
+595,66,North Europe,North Europe Store 63,2019-06-02,Baby,Car seats,7,5,46763703
+596,24,North Europe,North Europe Store 63,2019-05-19,Clothing,Kids,9,13,14896064
+597,92,North Europe,North Europe Store 63,2019-02-10,Beauty/Health,Haircare,4,10,81409613
+598,88,North Europe,North Europe Store 63,2019-04-10,Electronics,Televisions,2,50,98034735
+599,31,North Europe,North Europe Store 63,2019-04-20,Beauty/Health,Fragrances,8,10,88868284
+600,33,North Europe,North Europe Store 63,2019-01-29,Furniture,Indoor tables,5,15,62848740
+601,11,North Europe,North Europe Store 63,2019-06-01,Clothing,Womens,7,12,66448740
+602,90,North Europe,North Europe Store 63,2019-01-22,Clothing,Mens,2,10,22820242
+603,51,North Europe,North Europe Store 63,2019-06-15,Baby,Car seats,9,30,38037673
+604,49,North Europe,North Europe Store 63,2019-01-19,Clothing,Shoes,1,20,70578852
+605,45,North Europe,North Europe Store 63,2019-02-02,Clothing,Kids,5,25,62292657
+606,68,North Europe,North Europe Store 63,2019-02-19,Beauty/Health,Oral care,3,10,94746997
+607,66,North Europe,North Europe Store 63,2019-01-15,Baby,Cribs,3,15,35703717
+608,47,North Europe,North Europe Store 63,2019-03-16,Electronics,Computers,1,300,48946151
+609,18,North Europe,North Europe Store 63,2019-02-08,Baby,Baby toys,3,15,83183635
+610,7,North Europe,North Europe Store 63,2019-05-30,Beauty/Health,Haircare,3,14,99819909
+611,33,North Europe,North Europe Store 63,2019-04-24,Baby,Baby toys,10,5,70973501
+612,97,North Europe,North Europe Store 63,2019-02-27,Furniture,Pool furniture,5,100,57432103
+613,82,North Europe,North Europe Store 63,2019-05-28,Furniture,Pool furniture,8,75,59871195
+614,80,North Europe,North Europe Store 63,2019-05-19,Baby,Cribs,3,30,13237267
+615,35,North Europe,North Europe Store 63,2019-05-28,Baby,Strollers,5,30,28437226
+616,97,North Europe,North Europe Store 63,2019-04-05,Baby,Cribs,2,30,87403648
+617,12,North Europe,North Europe Store 63,2019-01-25,Clothing,Kids,2,20,33590185
+618,76,North Europe,North Europe Store 63,2019-02-13,Clothing,Kids,5,12,73719878
+619,4,North Europe,North Europe Store 63,2019-01-10,Clothing,Womens,4,25,84182656
+620,3,North Europe,North Europe Store 63,2019-04-22,Electronics,Speakers,2,300,66708413
+621,42,North Europe,North Europe Store 63,2019-06-28,Baby,Strollers,4,12,28426503
+622,70,North Europe,North Europe Store 63,2019-04-06,Clothing,Womens,2,25,84750815
+623,53,North Europe,North Europe Store 63,2019-04-28,Beauty/Health,Haircare,3,10,86245240
+624,79,North Europe,North Europe Store 63,2019-06-05,Electronics,Tablets,1,100,93746097
+625,21,North Europe,North Europe Store 63,2019-04-10,Clothing,Baby,10,10,77260626
+626,51,North Europe,North Europe Store 63,2019-02-22,Baby,Car seats,2,10,56986763
+627,21,North Europe,North Europe Store 63,2019-02-26,Electronics,Cell Phones,1,100,67398929
+628,84,North Europe,North Europe Store 63,2019-03-29,Electronics,Speakers,2,50,19263156
+629,52,North Europe,North Europe Store 63,2019-06-27,Baby,Diaper bags,8,15,65496397
+630,55,North Europe,North Europe Store 63,2019-04-29,Beauty/Health,Oral care,5,14,91681865
+631,41,North Europe,North Europe Store 63,2019-02-25,Clothing,Womens,1,25,26548120
+632,101,North Europe,North Europe Store 63,2019-03-12,Clothing,Kids,1,10,61158925
+633,2,North Europe,North Europe Store 63,2019-02-09,Beauty/Health,Feminine Products,3,10,28780763
+634,94,North Europe,North Europe Store 63,2019-03-16,Electronics,Headphones,1,200,15636718
+635,4,North Europe,North Europe Store 63,2019-01-20,Beauty/Health,Haircare,5,10,96578600
+636,94,North Europe,North Europe Store 63,2019-01-23,Baby,Diaper bags,1,30,18352968
+637,81,North Europe,North Europe Store 63,2019-02-21,Electronics,Speakers,1,50,40913323
+638,59,North Europe,North Europe Store 63,2019-06-24,Clothing,Baby,3,12,59633468
+639,54,North Europe,North Europe Store 63,2019-03-06,Beauty/Health,Bath,2,6,82234268
+640,26,North Europe,North Europe Store 63,2019-05-26,Beauty/Health,Skincare,6,10,33689058
+641,56,North Europe,North Europe Store 63,2019-04-28,Baby,Diaper bags,3,5,28397428
+642,70,North Europe,North Europe Store 63,2019-04-03,Baby,Car seats,5,30,19275688
+643,42,North Europe,North Europe Store 63,2019-03-17,Furniture,Indoor seating,5,100,43714213
+644,87,North Europe,North Europe Store 63,2019-03-05,Electronics,Tablets,2,300,68852239
+645,55,North Europe,North Europe Store 63,2019-01-21,Electronics,Speakers,2,300,17452385
+646,91,North Europe,North Europe Store 63,2019-05-23,Clothing,Womens,9,20,65356224
+647,71,North Europe,North Europe Store 63,2019-04-01,Electronics,Headphones,1,200,41421756
+648,57,North Europe,North Europe Store 63,2019-01-29,Furniture,Indoor tables,4,75,12213222
+649,52,North Europe,North Europe Store 63,2019-04-06,Beauty/Health,Haircare,1,10,38363498
+650,30,North Europe,North Europe Store 63,2019-03-07,Beauty/Health,Bath,5,10,54134500
+651,69,North Europe,North Europe Store 63,2019-03-21,Electronics,Cell Phones,1,300,95481812
+652,32,North Europe,North Europe Store 63,2019-02-09,Furniture,Patio furniture,3,100,78976971
+653,84,North Europe,North Europe Store 63,2019-06-19,Furniture,Indoor seating,7,15,28568003
+654,48,North Europe,North Europe Store 63,2019-03-13,Beauty/Health,Makeup,3,10,63134409
+655,69,North Europe,North Europe Store 63,2019-05-23,Clothing,Kids,4,20,19217556
+656,7,North Europe,North Europe Store 63,2019-03-07,Beauty/Health,Makeup,4,15,53268709
+657,41,North Europe,North Europe Store 63,2019-02-05,Beauty/Health,Haircare,3,6,54537262
+658,35,North Europe,North Europe Store 63,2019-04-12,Furniture,Patio furniture,8,100,34021514
+659,43,North Europe,North Europe Store 63,2019-04-01,Beauty/Health,Oral care,5,15,48715446
+660,55,North Europe,North Europe Store 63,2019-06-27,Beauty/Health,Feminine Products,8,14,43327834
+661,15,North Europe,North Europe Store 63,2019-04-13,Baby,Car seats,3,5,27324576
+662,68,North Europe,North Europe Store 63,2019-02-22,Furniture,Pool furniture,1,75,45972721
+663,33,North Europe,North Europe Store 63,2019-01-18,Beauty/Health,Bath,2,10,52093110
+664,10,North Europe,North Europe Store 63,2019-03-05,Baby,Car seats,1,15,74528019
+665,89,North Europe,North Europe Store 63,2019-05-16,Clothing,Swimwear,5,12,21341049
+666,33,North Europe,North Europe Store 63,2019-06-10,Furniture,Indoor tables,8,15,23119234
+667,73,North Europe,North Europe Store 63,2019-06-17,Clothing,Womens,10,20,54316982
+668,22,North Europe,North Europe Store 63,2019-03-22,Electronics,Speakers,2,300,22278122
+669,49,North Europe,North Europe Store 63,2019-04-28,Furniture,Indoor seating,6,75,87566934
+670,90,North Europe,North Europe Store 63,2019-04-08,Baby,Diapers,5,30,14693121
+671,69,North Europe,North Europe Store 63,2019-05-30,Baby,Diapers,4,15,35835018
+672,80,North Europe,North Europe Store 63,2019-05-17,Beauty/Health,Makeup,6,10,70597581
+673,10,North Europe,North Europe Store 63,2019-01-24,Furniture,Indoor tables,4,15,34848656
+674,40,North Europe,North Europe Store 63,2019-07-04,Furniture,Beds,7,75,75520178
+675,80,North Europe,North Europe Store 63,2019-03-02,Clothing,Womens,3,25,49534683
+676,1,North Europe,North Europe Store 63,2019-01-05,Furniture,Beds,1,40,30294681
+677,71,North Europe,North Europe Store 63,2019-07-05,Furniture,Beds,10,75,98125090
+678,73,North Europe,North Europe Store 63,2019-01-08,Electronics,Headphones,2,300,95273950
+679,4,North Europe,North Europe Store 63,2019-06-21,Clothing,Baby,5,20,13926189
+680,14,North Europe,North Europe Store 63,2019-03-23,Clothing,Womens,4,20,80364430
+681,59,North Europe,North Europe Store 63,2019-04-28,Furniture,Indoor tables,9,75,92148516
+682,1,North Europe,North Europe Store 63,2019-05-31,Furniture,Indoor tables,6,15,28216331
+683,85,North Europe,North Europe Store 63,2019-07-08,Beauty/Health,Feminine Products,8,14,59902268
+684,71,North Europe,North Europe Store 63,2019-01-19,Baby,Diapers,1,12,47900261
+685,33,North Europe,North Europe Store 63,2019-02-20,Clothing,Kids,5,13,13312453
+686,24,North Europe,North Europe Store 63,2019-03-27,Baby,Diaper bags,5,30,77217222
+687,57,North Europe,North Europe Store 63,2019-01-12,Electronics,Headphones,1,100,49705833
+688,101,North Europe,North Europe Store 63,2019-02-13,Baby,Car seats,2,10,23735617
+689,46,North Europe,North Europe Store 63,2019-05-20,Clothing,Swimwear,3,10,26899260
+690,49,North Europe,North Europe Store 63,2019-03-05,Beauty/Health,Feminine Products,2,14,34545696
+691,45,North Europe,North Europe Store 63,2019-05-14,Baby,Strollers,8,15,87234349
+692,35,North Europe,North Europe Store 63,2019-05-14,Clothing,Shoes,3,10,49470209
+693,48,North Europe,North Europe Store 63,2019-01-16,Clothing,Mens,1,25,13944903
+694,77,North Europe,North Europe Store 63,2019-05-18,Clothing,Kids,9,25,95409768
+695,1,North Europe,North Europe Store 63,2019-05-21,Beauty/Health,Oral care,3,10,32709452
+696,47,North Europe,North Europe Store 63,2019-07-06,Beauty/Health,Haircare,5,15,46142118
+697,58,North Europe,North Europe Store 63,2019-02-11,Clothing,Baby,3,13,67797058
+698,15,North Europe,North Europe Store 63,2019-01-11,Beauty/Health,Feminine Products,3,10,70567388
+699,46,North Europe,North Europe Store 63,2019-05-29,Furniture,Beds,10,100,90334693
+700,10,North Europe,North Europe Store 63,2019-06-06,Clothing,Mens,8,13,24195050
+701,60,North Europe,North Europe Store 63,2019-06-22,Clothing,Kids,3,25,13504247
+702,13,North Europe,North Europe Store 63,2019-07-14,Clothing,Baby,10,10,49679703
+703,48,North Europe,North Europe Store 63,2019-02-07,Electronics,Tablets,1,100,32362480
+704,90,North Europe,North Europe Store 63,2019-03-08,Beauty/Health,Makeup,4,10,45637819
+705,1,North Europe,North Europe Store 63,2019-03-29,Electronics,Computers,1,100,83130629
+706,39,North Europe,North Europe Store 63,2019-01-19,Beauty/Health,Haircare,1,14,16119438
+707,48,North Europe,North Europe Store 63,2019-07-09,Electronics,Speakers,2,300,73600140
+708,97,North Europe,North Europe Store 63,2019-01-10,Clothing,Baby,5,25,73196041
+709,74,North Europe,North Europe Store 63,2019-05-16,Beauty/Health,Oral care,3,6,76473689
+710,10,North Europe,North Europe Store 63,2019-01-20,Electronics,Cell Phones,2,100,17099174
+711,62,North Europe,North Europe Store 63,2019-04-20,Furniture,Beds,7,15,44099413
+712,67,North Europe,North Europe Store 63,2019-02-05,Furniture,Patio furniture,3,15,12635679
+713,16,North Europe,North Europe Store 63,2019-06-12,Clothing,Womens,7,25,92004637
+714,20,North Europe,North Europe Store 63,2019-06-12,Furniture,Indoor tables,8,40,73950512
+715,36,North Europe,North Europe Store 63,2019-05-29,Baby,Car seats,10,12,98021998
+716,69,North Europe,North Europe Store 63,2019-04-08,Beauty/Health,Bath,1,15,37063765
+717,12,North Europe,North Europe Store 63,2019-03-23,Furniture,Pool furniture,5,40,38725928
+718,1,North Europe,North Europe Store 63,2019-04-23,Baby,Diaper bags,6,12,35962130
+719,22,North Europe,North Europe Store 63,2019-04-13,Baby,Cribs,6,30,20061558
+720,81,North Europe,North Europe Store 63,2019-02-24,Electronics,Headphones,1,200,25910173
+721,51,North Europe,North Europe Store 63,2019-03-22,Beauty/Health,Feminine Products,2,6,34978706
+722,24,North Europe,North Europe Store 63,2019-04-21,Baby,Strollers,7,12,53916612
+723,53,North Europe,North Europe Store 63,2019-04-28,Electronics,Televisions,2,300,85474451
+724,55,North Europe,North Europe Store 63,2019-02-02,Baby,Car seats,2,12,64037933
+725,50,North Europe,North Europe Store 63,2019-03-03,Furniture,Beds,4,30,50804360
+726,95,North Europe,North Europe Store 63,2019-07-10,Baby,Baby toys,5,15,70777619
+727,51,North Europe,North Europe Store 63,2019-01-13,Furniture,Indoor tables,4,100,90444734
+728,74,North Europe,North Europe Store 63,2019-04-22,Beauty/Health,Haircare,4,15,30790925
+729,84,North Europe,North Europe Store 63,2019-05-20,Beauty/Health,Skincare,8,14,11708829
+730,46,North Europe,North Europe Store 63,2019-05-25,Beauty/Health,Skincare,8,10,84632925
+731,40,North Europe,North Europe Store 63,2019-04-09,Beauty/Health,Skincare,3,10,41468245
+732,14,North Europe,North Europe Store 63,2019-05-07,Clothing,Swimwear,9,12,19466026
+733,5,North Europe,North Europe Store 63,2019-02-10,Clothing,Baby,5,25,33259984
+734,36,North Europe,North Europe Store 63,2019-03-31,Baby,Baby toys,4,30,27503880
+735,6,North Europe,North Europe Store 63,2019-01-14,Baby,Baby toys,2,5,10924720
+736,10,North Europe,North Europe Store 63,2019-02-27,Furniture,Indoor seating,4,75,38822533
+737,10,North Europe,North Europe Store 63,2019-05-09,Beauty/Health,Feminine Products,6,14,89628441
+738,14,North Europe,North Europe Store 63,2019-02-11,Electronics,Televisions,1,100,27006225
+739,70,North Europe,North Europe Store 63,2019-04-15,Clothing,Baby,10,20,42029399
+740,90,North Europe,North Europe Store 63,2019-02-25,Furniture,Indoor seating,2,75,99431073
+741,70,North Europe,North Europe Store 63,2019-06-30,Electronics,Headphones,1,50,23422435
+742,51,North Europe,North Europe Store 63,2019-07-14,Beauty/Health,Fragrances,7,10,94735965
+743,10,North Europe,North Europe Store 63,2019-01-27,Beauty/Health,Bath,1,15,40074744
+744,1,North Europe,North Europe Store 63,2019-02-03,Electronics,Tablets,2,100,65440413
+745,94,North Europe,North Europe Store 63,2019-05-04,Electronics,Computers,2,50,61783149
+746,41,North Europe,North Europe Store 63,2019-01-03,Electronics,Speakers,2,100,85468813
+747,36,North Europe,North Europe Store 63,2019-06-28,Clothing,Baby,3,25,55916114
+748,15,North Europe,North Europe Store 63,2019-05-04,Clothing,Baby,9,20,56095932
+749,53,North Europe,North Europe Store 63,2019-03-26,Furniture,Patio furniture,4,40,38777155
+750,31,North Europe,North Europe Store 63,2019-03-09,Clothing,Kids,4,12,52708969
+751,83,North Europe,North Europe Store 63,2019-01-30,Beauty/Health,Fragrances,5,10,66137830
+752,64,North Europe,North Europe Store 63,2019-01-25,Baby,Baby toys,3,30,17335698
+753,77,North Europe,North Europe Store 63,2019-01-12,Electronics,Speakers,2,50,20033515
+754,78,North Europe,North Europe Store 63,2019-02-13,Baby,Cribs,4,30,25106792
+755,41,North Europe,North Europe Store 63,2019-01-29,Furniture,Beds,2,75,75293650
+756,13,North Europe,North Europe Store 63,2019-04-18,Electronics,Tablets,1,100,83922108
+757,78,North Europe,North Europe Store 63,2019-05-30,Clothing,Shoes,9,13,35051985
+758,57,North Europe,North Europe Store 63,2019-04-07,Baby,Cribs,1,12,22374421
+759,46,North Europe,North Europe Store 63,2019-06-01,Electronics,Cell Phones,2,100,14073111
+760,19,North Europe,North Europe Store 63,2019-06-06,Baby,Diaper bags,10,5,35450359
+761,19,North Europe,North Europe Store 63,2019-03-18,Clothing,Baby,3,12,24912122
+762,57,North Europe,North Europe Store 63,2019-04-17,Electronics,Cell Phones,2,300,91284438
+763,98,North Europe,North Europe Store 63,2019-05-07,Beauty/Health,Oral care,3,10,91016442
+764,100,North Europe,North Europe Store 63,2019-04-06,Furniture,Patio furniture,5,75,20426839
+765,76,North Europe,North Europe Store 63,2019-02-12,Furniture,Beds,1,30,57876566
+766,57,North Europe,North Europe Store 63,2019-06-18,Clothing,Mens,6,25,97581608
+767,80,North Europe,North Europe Store 63,2019-05-06,Baby,Diapers,3,30,63512842
+768,57,North Europe,North Europe Store 63,2019-04-11,Clothing,Baby,10,13,92477286
+769,13,North Europe,North Europe Store 63,2019-06-29,Beauty/Health,Oral care,10,10,64317907
+770,57,North Europe,North Europe Store 63,2019-03-01,Furniture,Patio furniture,3,15,87844243
+771,65,North Europe,North Europe Store 63,2019-02-26,Clothing,Kids,2,12,14779249
+772,19,North Europe,North Europe Store 63,2019-04-15,Baby,Baby toys,4,12,18217689
+773,58,North Europe,North Europe Store 63,2019-04-28,Clothing,Mens,3,10,27717697
+774,96,North Europe,North Europe Store 63,2019-02-26,Beauty/Health,Fragrances,2,14,23527400
+775,9,North Europe,North Europe Store 63,2019-06-27,Clothing,Shoes,3,10,26437192
+776,73,North Europe,North Europe Store 63,2019-01-10,Furniture,Indoor seating,3,15,24925226
+777,44,North Europe,North Europe Store 63,2019-07-08,Baby,Strollers,5,30,70785273
+778,6,North Europe,North Europe Store 63,2019-02-16,Furniture,Pool furniture,5,40,62537333
+779,38,North Europe,North Europe Store 63,2019-05-18,Furniture,Beds,5,30,16416787
+780,28,North Europe,North Europe Store 63,2019-05-11,Beauty/Health,Oral care,9,6,29982121
+781,100,North Europe,North Europe Store 63,2019-03-21,Beauty/Health,Haircare,5,10,56816439
+782,31,North Europe,North Europe Store 63,2019-05-13,Electronics,Computers,1,50,31088564
+783,75,North Europe,North Europe Store 63,2019-04-08,Baby,Diapers,5,5,18871502
+784,19,North Europe,North Europe Store 63,2019-05-17,Clothing,Shoes,9,12,64091751
+785,18,North Europe,North Europe Store 63,2019-06-28,Baby,Diaper bags,10,30,37300788
+786,31,North Europe,North Europe Store 63,2019-02-19,Furniture,Patio furniture,5,75,22824300
+787,1,North Europe,North Europe Store 63,2019-02-13,Clothing,Shoes,2,12,67223441
+788,91,North Europe,North Europe Store 63,2019-03-21,Furniture,Beds,1,100,93423376
+789,67,North Europe,North Europe Store 63,2019-01-29,Furniture,Patio furniture,5,75,40101166
+790,73,North Europe,North Europe Store 63,2019-06-11,Clothing,Womens,8,10,55431413
+791,49,North Europe,North Europe Store 63,2019-01-02,Baby,Baby toys,2,12,78142502
+792,28,North Europe,North Europe Store 63,2019-05-03,Electronics,Televisions,1,300,32533870
+793,33,North Europe,North Europe Store 63,2019-05-16,Furniture,Indoor tables,10,75,98035911
+794,80,North Europe,North Europe Store 63,2019-05-18,Electronics,Headphones,2,200,49311302
+795,75,North Europe,North Europe Store 63,2019-01-06,Furniture,Indoor tables,2,15,98355741
+796,38,North Europe,North Europe Store 63,2019-02-07,Beauty/Health,Feminine Products,1,10,68922239
+797,92,North Europe,North Europe Store 63,2019-02-20,Electronics,Cell Phones,2,50,11976914
+798,47,North Europe,North Europe Store 63,2019-04-21,Furniture,Indoor seating,4,15,12494969
+799,19,North Europe,North Europe Store 63,2019-06-25,Beauty/Health,Oral care,10,10,78873907
+800,33,North Europe,North Europe Store 63,2019-04-20,Beauty/Health,Makeup,9,10,78008302
+801,59,North Europe,North Europe Store 63,2019-05-20,Beauty/Health,Skincare,9,6,41652329
+802,3,North Europe,North Europe Store 63,2019-04-26,Beauty/Health,Fragrances,6,10,10891648
+803,27,North Europe,North Europe Store 63,2019-02-18,Electronics,Tablets,2,100,23045609
+804,11,North Europe,North Europe Store 63,2019-01-18,Beauty/Health,Haircare,2,10,96965201
+805,81,North Europe,North Europe Store 63,2019-03-12,Beauty/Health,Feminine Products,2,15,89359050
+806,15,North Europe,North Europe Store 63,2019-03-26,Baby,Car seats,5,30,49255438
+807,16,North Europe,North Europe Store 63,2019-06-11,Baby,Baby toys,3,30,26901004
+808,48,North Europe,North Europe Store 63,2019-06-24,Baby,Strollers,5,12,34526573
+809,1,North Europe,North Europe Store 63,2019-03-19,Electronics,Computers,1,100,29990872
+810,92,North Europe,North Europe Store 63,2019-03-23,Clothing,Kids,4,12,78952148
+811,71,North Europe,North Europe Store 63,2019-06-01,Electronics,Televisions,1,200,28351483
+812,20,North Europe,North Europe Store 63,2019-03-10,Baby,Cribs,4,30,11359137
+813,5,North Europe,North Europe Store 63,2019-05-30,Clothing,Shoes,9,25,70962954
+814,81,North Europe,North Europe Store 63,2019-05-29,Baby,Diapers,6,12,85488278
+815,100,North Europe,North Europe Store 63,2019-04-26,Baby,Car seats,4,5,19317963
+816,76,North Europe,North Europe Store 63,2019-05-12,Clothing,Mens,5,25,63100693
+817,67,North Europe,North Europe Store 63,2019-01-23,Furniture,Indoor tables,4,100,97950890
+818,14,North Europe,North Europe Store 63,2019-06-09,Clothing,Womens,4,20,37685608
+819,32,North Europe,North Europe Store 63,2019-04-01,Electronics,Televisions,2,200,80832208
+820,76,North Europe,North Europe Store 63,2019-02-05,Clothing,Womens,2,25,45241464
+821,52,North Europe,North Europe Store 63,2019-04-12,Baby,Car seats,5,10,40198236
+822,87,North Europe,North Europe Store 63,2019-01-21,Furniture,Indoor seating,1,30,98044694
+823,37,North Europe,North Europe Store 63,2019-06-22,Electronics,Televisions,2,300,83201128
+824,84,North Europe,North Europe Store 63,2019-03-24,Electronics,Speakers,2,100,42742531
+825,54,North Europe,North Europe Store 63,2019-04-24,Furniture,Patio furniture,7,15,46385042
+826,21,North Europe,North Europe Store 63,2019-05-11,Furniture,Patio furniture,10,75,52188839
+827,98,North Europe,North Europe Store 63,2019-01-19,Furniture,Patio furniture,2,75,29602236
+828,39,North Europe,North Europe Store 63,2019-06-16,Clothing,Womens,10,25,99339451
+829,74,North Europe,North Europe Store 63,2019-01-18,Electronics,Tablets,2,200,82190438
+830,52,North Europe,North Europe Store 63,2019-04-25,Furniture,Patio furniture,10,75,15320568
+831,32,North Europe,North Europe Store 63,2019-03-10,Furniture,Pool furniture,3,100,60038214
+832,53,North Europe,North Europe Store 63,2019-06-02,Baby,Strollers,10,15,31153110
+833,56,North Europe,North Europe Store 63,2019-02-16,Electronics,Cell Phones,2,200,87539725
+834,20,North Europe,North Europe Store 63,2019-04-08,Baby,Diapers,2,12,35529744
+835,68,North Europe,North Europe Store 63,2019-03-17,Beauty/Health,Makeup,3,14,16751006
+836,24,North Europe,North Europe Store 63,2019-03-04,Baby,Car seats,1,30,62839606
+837,17,North Europe,North Europe Store 63,2019-04-24,Furniture,Indoor tables,3,40,27230411
+838,17,North Europe,North Europe Store 63,2019-03-27,Furniture,Indoor tables,3,100,48171002
+839,68,North Europe,North Europe Store 63,2019-03-25,Baby,Cribs,2,12,66931381
+840,31,North Europe,North Europe Store 63,2019-07-01,Baby,Baby toys,8,5,17459516
+841,51,North Europe,North Europe Store 63,2019-03-06,Beauty/Health,Oral care,5,10,66612812
+842,79,North Europe,North Europe Store 63,2019-05-09,Furniture,Pool furniture,4,100,81882190
+843,37,North Europe,North Europe Store 63,2019-02-16,Baby,Diaper bags,1,10,46445892
+844,34,North Europe,North Europe Store 63,2019-04-23,Beauty/Health,Skincare,7,15,80632456
+845,51,North Europe,North Europe Store 63,2019-03-07,Baby,Cribs,2,10,81451748
+846,80,North Europe,North Europe Store 63,2019-05-25,Electronics,Tablets,1,300,69459913
+847,7,North Europe,North Europe Store 63,2019-05-08,Electronics,Speakers,1,200,62224059
+848,95,North Europe,North Europe Store 63,2019-01-26,Beauty/Health,Haircare,3,10,75920545
+849,44,North Europe,North Europe Store 63,2019-04-09,Beauty/Health,Makeup,10,15,67680616
+850,95,North Europe,North Europe Store 63,2019-02-05,Furniture,Beds,5,100,40277097
+851,62,North Europe,North Europe Store 63,2019-05-13,Furniture,Indoor tables,7,100,26677290
+852,45,North Europe,North Europe Store 63,2019-03-08,Beauty/Health,Fragrances,5,6,78635507
+853,82,North Europe,North Europe Store 63,2019-04-09,Beauty/Health,Feminine Products,6,14,25035607
+854,58,North Europe,North Europe Store 63,2019-06-24,Furniture,Patio furniture,9,75,60707887
+855,96,North Europe,North Europe Store 63,2019-04-21,Clothing,Mens,10,10,11924070
+856,21,North Europe,North Europe Store 63,2019-01-15,Electronics,Televisions,2,100,81415739
+857,63,North Europe,North Europe Store 63,2019-04-01,Beauty/Health,Makeup,4,10,39834552
+858,85,North Europe,North Europe Store 63,2019-05-03,Clothing,Baby,6,13,13944994
+859,62,North Europe,North Europe Store 63,2019-05-19,Electronics,Headphones,2,100,96875230
+860,45,North Europe,North Europe Store 63,2019-05-23,Clothing,Swimwear,3,13,54421072
+861,4,North Europe,North Europe Store 63,2019-06-10,Clothing,Baby,6,10,74907207
+862,38,North Europe,North Europe Store 63,2019-05-27,Clothing,Shoes,4,13,33876436
+863,43,North Europe,North Europe Store 63,2019-04-18,Furniture,Indoor tables,9,75,88127534
+864,12,North Europe,North Europe Store 63,2019-03-17,Electronics,Computers,2,100,58258637
+865,14,North Europe,North Europe Store 63,2019-03-17,Furniture,Patio furniture,5,40,89548491
+866,36,North Europe,North Europe Store 63,2019-01-12,Beauty/Health,Oral care,3,10,30869607
+867,31,North Europe,North Europe Store 63,2019-01-12,Electronics,Tablets,1,200,57901670
+868,19,North Europe,North Europe Store 63,2019-04-19,Electronics,Tablets,2,50,19602074
+869,13,North Europe,North Europe Store 63,2019-05-08,Electronics,Tablets,1,100,30650394
+870,32,North Europe,North Europe Store 63,2019-02-07,Furniture,Pool furniture,5,100,29376090
+871,3,North Europe,North Europe Store 63,2019-06-07,Baby,Diapers,9,5,59109406
+872,11,North Europe,North Europe Store 63,2019-05-17,Electronics,Tablets,1,100,78158277
+873,49,North Europe,North Europe Store 63,2019-05-06,Electronics,Headphones,2,200,34687003
+874,2,North Europe,North Europe Store 63,2019-02-16,Baby,Car seats,1,30,40367700
+875,89,North Europe,North Europe Store 63,2019-07-16,Beauty/Health,Makeup,9,10,72096472
+876,30,North Europe,North Europe Store 63,2019-06-14,Baby,Diaper bags,9,30,32656194
+877,99,North Europe,North Europe Store 63,2019-04-18,Clothing,Kids,4,12,35013217
+878,22,North Europe,North Europe Store 63,2019-05-29,Beauty/Health,Makeup,4,10,12166523
+879,89,North Europe,North Europe Store 63,2019-05-19,Electronics,Cell Phones,2,50,87297238
+880,73,North Europe,North Europe Store 63,2019-01-08,Electronics,Speakers,2,50,93159213
+881,10,North Europe,North Europe Store 63,2019-01-01,Furniture,Beds,5,30,89516267
+882,21,North Europe,North Europe Store 63,2019-04-04,Baby,Diapers,5,30,74195209
+883,3,North Europe,North Europe Store 63,2019-06-23,Beauty/Health,Oral care,8,10,11713075
+884,76,North Europe,North Europe Store 63,2019-04-01,Clothing,Baby,5,20,29186755
+885,94,North Europe,North Europe Store 63,2019-05-15,Clothing,Shoes,5,20,88623217
+886,9,North Europe,North Europe Store 63,2019-02-05,Beauty/Health,Bath,1,10,45890313
+887,87,North Europe,North Europe Store 63,2019-01-27,Baby,Strollers,2,30,81260140
+888,55,North Europe,North Europe Store 63,2019-05-26,Clothing,Mens,6,20,93847089
+889,93,North Europe,North Europe Store 63,2019-03-28,Furniture,Beds,5,40,85862306
+890,2,North Europe,North Europe Store 63,2019-05-20,Baby,Cribs,9,12,76181626
+891,46,North Europe,North Europe Store 63,2019-07-15,Beauty/Health,Skincare,7,15,30114829
+892,101,North Europe,North Europe Store 63,2019-05-22,Furniture,Patio furniture,9,30,40227174
+893,73,North Europe,North Europe Store 63,2019-01-05,Electronics,Tablets,1,100,76565155
+894,5,North Europe,North Europe Store 63,2019-04-21,Electronics,Computers,2,100,48745595
+895,44,North Europe,North Europe Store 63,2019-06-16,Furniture,Patio furniture,3,100,47872062
+896,50,North Europe,North Europe Store 63,2019-05-26,Beauty/Health,Oral care,10,14,63401630
+897,41,North Europe,North Europe Store 63,2019-05-25,Beauty/Health,Makeup,8,6,17544507
+898,20,North Europe,North Europe Store 63,2019-07-15,Furniture,Indoor seating,5,40,67442179
+899,94,North Europe,North Europe Store 63,2019-06-02,Beauty/Health,Oral care,9,10,87814691
+900,88,North Europe,North Europe Store 63,2019-05-29,Electronics,Headphones,1,300,95520499
+901,75,North Europe,North Europe Store 63,2019-02-27,Clothing,Baby,4,25,80121321
+902,3,North Europe,North Europe Store 63,2019-04-10,Baby,Diapers,3,10,64914091
+903,17,North Europe,North Europe Store 63,2019-04-14,Baby,Cribs,3,15,92621517
+904,66,North Europe,North Europe Store 63,2019-04-04,Baby,Diaper bags,3,5,58743983
+905,53,North Europe,North Europe Store 63,2019-06-25,Furniture,Beds,9,15,70903037
+906,3,North Europe,North Europe Store 63,2019-07-04,Baby,Cribs,6,5,29677834
+907,59,North Europe,North Europe Store 63,2019-01-03,Clothing,Baby,3,10,36030833
+908,59,North Europe,North Europe Store 63,2019-04-14,Electronics,Tablets,1,50,32538575
+909,71,North Europe,North Europe Store 63,2019-06-22,Furniture,Pool furniture,3,100,25540840
+910,69,North Europe,North Europe Store 63,2019-01-06,Clothing,Kids,5,12,95133450
+911,54,North Europe,North Europe Store 63,2019-04-11,Furniture,Beds,9,40,78806868
+912,38,North Europe,North Europe Store 63,2019-02-01,Clothing,Womens,5,20,83318258
+913,85,North Europe,North Europe Store 63,2019-01-26,Electronics,Tablets,1,300,87391889
+914,79,North Europe,North Europe Store 63,2019-03-05,Clothing,Mens,3,25,87703876
+915,27,North Europe,North Europe Store 63,2019-04-11,Furniture,Indoor tables,8,15,89996418
+916,16,North Europe,North Europe Store 63,2019-06-09,Furniture,Patio furniture,10,40,41962518
+917,4,North Europe,North Europe Store 63,2019-03-18,Clothing,Kids,1,13,92080345
+918,79,North Europe,North Europe Store 63,2019-02-24,Baby,Car seats,2,30,59576224
+919,100,North Europe,North Europe Store 63,2019-02-10,Electronics,Headphones,1,200,17685206
+920,6,North Europe,North Europe Store 63,2019-05-14,Clothing,Mens,3,12,63302585
+921,51,North Europe,North Europe Store 63,2019-03-18,Baby,Car seats,2,30,79512949
+922,28,North Europe,North Europe Store 63,2019-02-08,Furniture,Beds,4,100,52398168
+923,37,North Europe,North Europe Store 63,2019-05-20,Electronics,Computers,1,100,89293334
+924,12,North Europe,North Europe Store 63,2019-06-25,Electronics,Televisions,2,100,65378065
+925,86,North Europe,North Europe Store 63,2019-04-16,Beauty/Health,Fragrances,4,10,87585169
+926,75,North Europe,North Europe Store 63,2019-07-01,Clothing,Mens,3,12,37507478
+927,61,North Europe,North Europe Store 63,2019-05-15,Beauty/Health,Bath,8,6,72963637
+928,48,North Europe,North Europe Store 63,2019-03-27,Baby,Car seats,5,30,55488053
+929,99,North Europe,North Europe Store 63,2019-01-06,Baby,Car seats,3,5,16910200
+930,18,North Europe,North Europe Store 63,2019-01-13,Furniture,Beds,5,100,13967866
+931,88,North Europe,North Europe Store 63,2019-03-08,Electronics,Computers,1,200,90011824
+932,79,North Europe,North Europe Store 63,2019-03-23,Electronics,Televisions,2,100,62876346
+933,33,North Europe,North Europe Store 63,2019-02-09,Clothing,Kids,2,10,40650227
+934,55,North Europe,North Europe Store 63,2019-06-14,Clothing,Kids,6,25,64801859
+935,77,North Europe,North Europe Store 63,2019-04-24,Baby,Car seats,4,15,77659053
+936,31,North Europe,North Europe Store 63,2019-02-27,Beauty/Health,Bath,4,10,78845197
+937,98,North Europe,North Europe Store 63,2019-06-26,Baby,Car seats,5,15,46418592
+938,55,North Europe,North Europe Store 63,2019-01-29,Clothing,Womens,4,10,51415155
+939,53,North Europe,North Europe Store 63,2019-06-15,Baby,Diapers,5,30,96111448
+940,1,North Europe,North Europe Store 63,2019-04-30,Baby,Strollers,5,30,36892091
+941,56,North Europe,North Europe Store 63,2019-02-13,Baby,Baby toys,3,30,55763504
+942,86,North Europe,North Europe Store 63,2019-04-16,Baby,Baby toys,9,15,37510899
+943,45,North Europe,North Europe Store 63,2019-01-27,Furniture,Pool furniture,1,75,33964091
+944,72,North Europe,North Europe Store 63,2019-02-16,Clothing,Shoes,2,13,11497012
+945,32,North Europe,North Europe Store 63,2019-02-16,Beauty/Health,Oral care,4,10,48009818
+946,66,North Europe,North Europe Store 63,2019-06-19,Beauty/Health,Fragrances,10,15,96246324
+947,39,North Europe,North Europe Store 63,2019-01-05,Clothing,Mens,1,12,55663218
+948,22,North Europe,North Europe Store 63,2019-06-20,Furniture,Indoor tables,6,40,19732613
+949,69,North Europe,North Europe Store 63,2019-04-02,Baby,Strollers,3,30,91785181
+950,87,North Europe,North Europe Store 63,2019-02-25,Baby,Diapers,2,30,42420228
+951,62,North Europe,North Europe Store 63,2019-05-06,Clothing,Womens,5,13,92805828
+952,56,North Europe,North Europe Store 63,2019-07-02,Clothing,Baby,6,13,40870689
+953,70,North Europe,North Europe Store 63,2019-06-05,Baby,Strollers,5,10,19276027
+954,13,North Europe,North Europe Store 63,2019-02-08,Furniture,Indoor seating,1,30,87816722
+955,43,North Europe,North Europe Store 63,2019-02-05,Beauty/Health,Skincare,2,6,84353062
+956,12,North Europe,North Europe Store 63,2019-05-05,Furniture,Indoor seating,6,30,44844294
+957,55,North Europe,North Europe Store 63,2019-02-14,Electronics,Headphones,1,100,59995391
+958,8,North Europe,North Europe Store 63,2019-05-30,Furniture,Indoor seating,5,75,87572956
+959,10,North Europe,North Europe Store 63,2019-02-01,Clothing,Swimwear,4,10,31517648
+960,30,North Europe,North Europe Store 63,2019-05-20,Electronics,Computers,1,100,55397466
+961,16,North Europe,North Europe Store 63,2019-03-27,Baby,Car seats,3,30,85719310
+962,61,North Europe,North Europe Store 63,2019-01-31,Furniture,Pool furniture,4,40,44260388
+963,44,North Europe,North Europe Store 63,2019-05-28,Baby,Cribs,6,5,35860358
+964,101,North Europe,North Europe Store 63,2019-04-13,Beauty/Health,Skincare,4,10,78767381
+965,18,North Europe,North Europe Store 63,2019-07-07,Beauty/Health,Bath,6,6,25691240
+966,46,North Europe,North Europe Store 63,2019-05-13,Beauty/Health,Bath,10,10,11904410
+967,12,North Europe,North Europe Store 63,2019-06-29,Beauty/Health,Feminine Products,4,10,27728050
+968,98,North Europe,North Europe Store 63,2019-01-03,Baby,Baby toys,3,10,33593795
+969,3,North Europe,North Europe Store 63,2019-01-18,Furniture,Indoor tables,4,15,84118419
+970,84,North Europe,North Europe Store 63,2019-04-17,Baby,Diapers,9,30,30639010
+971,56,North Europe,North Europe Store 63,2019-03-14,Baby,Cribs,3,12,74561270
+972,82,North Europe,North Europe Store 63,2019-06-15,Baby,Diaper bags,4,15,90842829
+973,47,North Europe,North Europe Store 63,2019-01-19,Electronics,Cell Phones,2,200,28029523
+974,17,North Europe,North Europe Store 63,2019-01-23,Beauty/Health,Bath,3,10,50627279
+975,84,North Europe,North Europe Store 63,2019-02-07,Electronics,Headphones,1,50,51381116
+976,99,North Europe,North Europe Store 63,2019-04-07,Electronics,Speakers,2,100,54545311
+977,47,North Europe,North Europe Store 63,2019-07-06,Furniture,Indoor seating,5,100,88534486
+978,69,North Europe,North Europe Store 63,2019-04-06,Furniture,Beds,1,100,42254516
+979,10,North Europe,North Europe Store 63,2019-04-11,Clothing,Mens,7,20,52981945
+980,12,North Europe,North Europe Store 63,2019-01-29,Furniture,Indoor seating,2,30,31246719
+981,96,North Europe,North Europe Store 63,2019-04-12,Electronics,Tablets,1,200,68358121
+982,96,North Europe,North Europe Store 63,2019-07-13,Furniture,Patio furniture,7,40,18803571
+983,25,North Europe,North Europe Store 63,2019-04-21,Beauty/Health,Makeup,8,10,98176749
+984,94,North Europe,North Europe Store 63,2019-01-22,Beauty/Health,Makeup,4,10,83343406
+985,81,North Europe,North Europe Store 63,2019-05-03,Electronics,Cell Phones,2,300,18511048
+986,48,North Europe,North Europe Store 63,2019-01-10,Electronics,Headphones,2,50,13605663
+987,94,North Europe,North Europe Store 63,2019-04-17,Clothing,Kids,6,12,56112680
+988,55,North Europe,North Europe Store 63,2019-07-03,Electronics,Speakers,1,50,93419132
+989,98,North Europe,North Europe Store 63,2019-03-19,Furniture,Pool furniture,2,30,54645712
+990,93,North Europe,North Europe Store 63,2019-03-11,Beauty/Health,Oral care,5,15,61095641
+991,13,North Europe,North Europe Store 63,2019-01-12,Clothing,Kids,3,10,38693271
+992,48,North Europe,North Europe Store 63,2019-02-05,Clothing,Shoes,5,12,42501724
+993,4,North Europe,North Europe Store 63,2019-01-18,Furniture,Patio furniture,4,30,74080999
+994,31,North Europe,North Europe Store 63,2019-07-01,Electronics,Televisions,1,200,95687932
+995,83,North Europe,North Europe Store 63,2019-01-25,Baby,Diaper bags,5,30,15270250
+996,20,North Europe,North Europe Store 63,2019-05-25,Beauty/Health,Skincare,7,15,98358526
+997,73,North Europe,North Europe Store 63,2019-05-22,Electronics,Speakers,2,50,78660188
+998,59,North Europe,North Europe Store 63,2019-07-01,Baby,Diapers,8,10,72278021
+999,100,North Europe,North Europe Store 63,2019-03-06,Electronics,Speakers,2,300,74814477
+1000,24,North Europe,North Europe Store 63,2019-01-30,Baby,Car seats,5,30,66396292
+1001,75,North Europe,North Europe Store 63,2019-03-27,Beauty/Health,Makeup,5,10,83446804
+1002,28,North Europe,North Europe Store 63,2019-06-15,Baby,Strollers,6,30,54192112
+1003,87,North Europe,North Europe Store 63,2019-07-09,Furniture,Beds,9,100,20830750
+1004,14,North Europe,North Europe Store 63,2019-01-18,Furniture,Beds,3,100,62768523
+1005,89,North Europe,North Europe Store 63,2019-02-04,Beauty/Health,Haircare,3,10,86195636
+1006,87,North Europe,North Europe Store 63,2019-03-28,Furniture,Pool furniture,2,15,72148350
+1007,69,North Europe,North Europe Store 63,2019-01-12,Furniture,Patio furniture,5,15,17023445
+1008,11,North Europe,North Europe Store 63,2019-03-23,Baby,Baby toys,3,12,43338108
+1009,43,North Europe,North Europe Store 63,2019-01-26,Electronics,Computers,1,300,72401486
+1010,90,North Europe,North Europe Store 63,2019-04-23,Beauty/Health,Haircare,4,15,98218373
+1011,77,North Europe,North Europe Store 63,2019-01-25,Baby,Diapers,3,5,48836919
+1012,58,North Europe,North Europe Store 63,2019-03-28,Furniture,Beds,2,30,15555502
+1013,65,North Europe,North Europe Store 63,2019-04-17,Clothing,Shoes,7,13,84773662
+1014,64,North Europe,North Europe Store 63,2019-04-05,Beauty/Health,Skincare,3,10,34868259
+1015,11,North Europe,North Europe Store 63,2019-04-11,Clothing,Womens,4,20,27953046
+1016,36,North Europe,North Europe Store 63,2019-03-12,Clothing,Shoes,5,20,30339126
+1017,90,North Europe,North Europe Store 63,2019-03-09,Clothing,Baby,5,13,50333297
+1018,72,North Europe,North Europe Store 63,2019-04-03,Furniture,Indoor tables,4,15,76055559
+1019,16,North Europe,North Europe Store 63,2019-03-14,Furniture,Pool furniture,5,15,82390115
+1020,16,North Europe,North Europe Store 63,2019-05-25,Beauty/Health,Makeup,3,10,81527428
+1021,51,North Europe,North Europe Store 63,2019-05-25,Clothing,Mens,6,25,18783429
+1022,15,North Europe,North Europe Store 63,2019-05-30,Clothing,Shoes,5,10,99629564
+1023,91,North Europe,North Europe Store 63,2019-02-16,Clothing,Baby,4,25,84641428
+1024,89,North Europe,North Europe Store 63,2019-01-19,Clothing,Shoes,3,13,40114495
+1025,14,North Europe,North Europe Store 63,2019-06-06,Beauty/Health,Haircare,9,10,58480484
+1026,92,North Europe,North Europe Store 63,2019-02-03,Furniture,Indoor tables,5,30,20579219
+1027,28,North Europe,North Europe Store 63,2019-05-25,Clothing,Mens,8,12,61061204
+1028,3,North Europe,North Europe Store 63,2019-06-19,Baby,Diaper bags,5,10,37815293
+1029,74,North Europe,North Europe Store 63,2019-02-07,Clothing,Kids,3,12,98477666
+1030,88,North Europe,North Europe Store 63,2019-05-24,Baby,Cribs,3,30,49386273
+1031,98,North Europe,North Europe Store 63,2019-01-08,Baby,Baby toys,2,30,12440181
+1032,33,North Europe,North Europe Store 63,2019-03-12,Beauty/Health,Skincare,3,10,92809488
+1033,75,North Europe,North Europe Store 63,2019-07-03,Electronics,Speakers,1,100,85696139
+1034,50,North Europe,North Europe Store 63,2019-04-25,Furniture,Patio furniture,5,15,98932553
+1035,4,North Europe,North Europe Store 63,2019-04-05,Electronics,Speakers,2,50,20609867
+1036,39,North Europe,North Europe Store 63,2019-03-17,Clothing,Womens,5,12,28765884
+1037,98,North Europe,North Europe Store 63,2019-02-17,Clothing,Shoes,3,10,10586189
+1038,18,North Europe,North Europe Store 63,2019-07-06,Electronics,Cell Phones,2,200,22198553
+1039,98,North Europe,North Europe Store 63,2019-03-26,Baby,Diaper bags,5,5,94962405
+1040,45,North Europe,North Europe Store 63,2019-03-07,Beauty/Health,Bath,5,14,29458073
+1041,18,North Europe,North Europe Store 63,2019-02-25,Beauty/Health,Skincare,2,15,58383905
+1042,13,North Europe,North Europe Store 63,2019-02-15,Baby,Cribs,3,10,19467885
+1043,73,North Europe,North Europe Store 63,2019-02-08,Beauty/Health,Bath,5,10,25588258
+1044,2,North Europe,North Europe Store 63,2019-02-11,Beauty/Health,Skincare,3,6,85107044
+1045,46,North Europe,North Europe Store 63,2019-01-20,Furniture,Pool furniture,2,30,76577212
+1046,94,North Europe,North Europe Store 63,2019-01-11,Furniture,Indoor seating,4,40,13122397
+1047,30,North Europe,North Europe Store 63,2019-05-18,Clothing,Shoes,4,20,37567122
+1048,49,North Europe,North Europe Store 63,2019-01-10,Furniture,Indoor seating,1,15,69268154
+1049,49,North Europe,North Europe Store 63,2019-06-21,Clothing,Womens,9,20,96187741
+1050,85,North Europe,North Europe Store 63,2019-03-10,Electronics,Computers,2,100,33756533
+1051,94,North Europe,North Europe Store 63,2019-03-23,Beauty/Health,Feminine Products,4,14,44973376
+1052,19,North Europe,North Europe Store 63,2019-01-05,Beauty/Health,Bath,1,10,50735052
+1053,52,North Europe,North Europe Store 63,2019-03-05,Baby,Diapers,2,10,88284559
+1054,11,North Europe,North Europe Store 63,2019-07-14,Electronics,Speakers,1,300,44497353
+1055,59,North Europe,North Europe Store 63,2019-02-07,Baby,Strollers,1,15,29800677
+1056,45,North Europe,North Europe Store 63,2019-05-05,Electronics,Tablets,1,100,81879929
+1057,42,North Europe,North Europe Store 63,2019-03-21,Electronics,Tablets,2,50,93896912
+1058,3,North Europe,North Europe Store 63,2019-02-14,Furniture,Patio furniture,2,40,91293494
+1059,24,North Europe,North Europe Store 63,2019-03-16,Electronics,Computers,2,300,54319253
+1060,48,North Europe,North Europe Store 63,2019-02-16,Clothing,Baby,2,10,82584300
+1061,20,North Europe,North Europe Store 63,2019-02-21,Electronics,Computers,2,100,41279305
+1062,75,North Europe,North Europe Store 63,2019-02-25,Beauty/Health,Bath,2,10,27993500
+1063,14,North Europe,North Europe Store 63,2019-03-14,Electronics,Computers,1,100,85483786
+1064,61,North Europe,North Europe Store 63,2019-04-13,Furniture,Indoor seating,4,30,97358883
+1065,8,North Europe,North Europe Store 63,2019-06-02,Beauty/Health,Oral care,3,15,17910505
+1066,51,North Europe,North Europe Store 63,2019-03-16,Electronics,Speakers,1,50,65902045
+1067,101,North Europe,North Europe Store 63,2019-01-25,Beauty/Health,Makeup,1,10,67481201
+1068,16,North Europe,North Europe Store 63,2019-02-09,Beauty/Health,Feminine Products,3,6,87708325
+1069,42,North Europe,North Europe Store 63,2019-01-05,Electronics,Headphones,1,200,56369246
+1070,36,North Europe,North Europe Store 63,2019-01-14,Electronics,Speakers,2,200,26498286
+1071,22,North Europe,North Europe Store 63,2019-06-16,Baby,Diaper bags,3,15,33578201
+1072,41,North Europe,North Europe Store 63,2019-07-11,Beauty/Health,Bath,6,10,91927452
+1073,43,North Europe,North Europe Store 63,2019-03-07,Beauty/Health,Feminine Products,2,15,50522896
+1074,58,North Europe,North Europe Store 63,2019-05-19,Clothing,Baby,10,25,57182625
+1075,31,North Europe,North Europe Store 63,2019-01-11,Furniture,Pool furniture,5,75,94938337
+1076,32,North Europe,North Europe Store 63,2019-05-13,Baby,Diapers,8,15,32314331
+1077,30,North Europe,North Europe Store 63,2019-02-09,Clothing,Baby,4,20,46044685
+1078,26,North Europe,North Europe Store 63,2019-01-23,Furniture,Beds,2,40,12227365
+1079,38,North Europe,North Europe Store 63,2019-04-13,Beauty/Health,Makeup,4,10,50449594
+1080,7,North Europe,North Europe Store 63,2019-01-30,Clothing,Shoes,5,20,57360561
+1081,87,North Europe,North Europe Store 63,2019-06-03,Beauty/Health,Skincare,9,6,85452191
+1082,69,North Europe,North Europe Store 63,2019-06-17,Clothing,Swimwear,7,13,26067542
+1083,61,North Europe,North Europe Store 63,2019-01-31,Baby,Diaper bags,4,10,31315461
+1084,45,North Europe,North Europe Store 63,2019-01-23,Clothing,Mens,1,12,68337386
+1085,20,North Europe,North Europe Store 63,2019-03-30,Beauty/Health,Haircare,5,15,38838249
+1086,11,North Europe,North Europe Store 63,2019-02-21,Electronics,Televisions,2,200,37466824
+1087,46,North Europe,North Europe Store 63,2019-01-25,Furniture,Patio furniture,1,15,83435340
+1088,46,North Europe,North Europe Store 63,2019-04-16,Beauty/Health,Makeup,6,6,67662998
+1089,62,North Europe,North Europe Store 63,2019-06-03,Clothing,Swimwear,9,10,22737024
+1090,66,North Europe,North Europe Store 63,2019-03-09,Clothing,Shoes,1,25,95285572
+1091,12,North Europe,North Europe Store 63,2019-04-01,Clothing,Mens,5,12,19418459
+1092,74,North Europe,North Europe Store 63,2019-03-08,Clothing,Mens,4,10,90780195
+1093,90,North Europe,North Europe Store 63,2019-05-14,Beauty/Health,Skincare,7,14,29495967
+1094,23,North Europe,North Europe Store 63,2019-01-03,Clothing,Womens,1,13,92122805
+1095,91,North Europe,North Europe Store 63,2019-05-25,Furniture,Pool furniture,5,100,97006410
+1096,70,North Europe,North Europe Store 63,2019-01-23,Electronics,Tablets,2,300,97896743
+1097,44,North Europe,North Europe Store 63,2019-04-12,Furniture,Indoor tables,6,40,52393476
+1098,99,North Europe,North Europe Store 63,2019-02-28,Baby,Baby toys,3,10,89012925
+1099,13,North Europe,North Europe Store 63,2019-01-25,Beauty/Health,Bath,4,10,57833435
+1100,1,North Europe,North Europe Store 63,2019-05-06,Clothing,Womens,4,10,52629605
+1101,66,North Europe,North Europe Store 63,2019-04-04,Clothing,Swimwear,5,25,25905474
+1102,86,North Europe,North Europe Store 63,2019-02-18,Beauty/Health,Fragrances,2,6,70917863
+1103,17,North Europe,North Europe Store 63,2019-03-22,Furniture,Indoor tables,2,30,73472675
+1104,21,North Europe,North Europe Store 63,2019-05-11,Electronics,Cell Phones,2,50,59279522
+1105,6,North Europe,North Europe Store 63,2019-03-18,Beauty/Health,Haircare,3,15,37267004
+1106,92,North Europe,North Europe Store 63,2019-06-01,Beauty/Health,Haircare,3,10,62531754
+1107,20,North Europe,North Europe Store 63,2019-03-25,Clothing,Baby,1,25,27222433
+1108,86,North Europe,North Europe Store 63,2019-05-19,Beauty/Health,Feminine Products,3,15,23192629
+1109,90,North Europe,North Europe Store 63,2019-03-10,Furniture,Patio furniture,5,100,50124582
+1110,100,North Europe,North Europe Store 63,2019-06-11,Baby,Diapers,8,30,31712649
+1111,72,North Europe,North Europe Store 63,2019-01-13,Furniture,Beds,5,75,25957633
+1112,20,North Europe,North Europe Store 63,2019-01-19,Electronics,Televisions,1,100,53762744
+1113,35,North Europe,North Europe Store 63,2019-01-23,Electronics,Computers,1,50,73590692
+1114,69,North Europe,North Europe Store 63,2019-02-24,Baby,Cribs,1,5,39287964
+1115,85,North Europe,North Europe Store 63,2019-03-11,Furniture,Beds,5,75,70378442
+1116,81,North Europe,North Europe Store 63,2019-05-01,Baby,Baby toys,3,12,55110569
+1117,88,North Europe,North Europe Store 63,2019-04-16,Electronics,Tablets,2,50,55628327
+1118,51,North Europe,North Europe Store 63,2019-03-06,Baby,Cribs,4,30,43852318
+1119,92,North Europe,North Europe Store 63,2019-03-25,Baby,Baby toys,5,15,20607369
+1120,2,North Europe,North Europe Store 63,2019-04-02,Baby,Strollers,5,5,88338327
+1121,32,North Europe,North Europe Store 63,2019-02-02,Clothing,Mens,1,25,34115231
+1122,69,North Europe,North Europe Store 63,2019-06-14,Clothing,Baby,4,10,63354728
+1123,13,North Europe,North Europe Store 63,2019-07-05,Electronics,Computers,2,300,61672570
+1124,98,North Europe,North Europe Store 63,2019-04-30,Electronics,Headphones,1,100,69961563
+1125,22,North Europe,North Europe Store 63,2019-02-05,Electronics,Tablets,2,100,81139516
+1126,53,North Europe,North Europe Store 63,2019-03-15,Furniture,Indoor seating,5,40,58285013
+1127,16,North Europe,North Europe Store 63,2019-05-12,Baby,Diaper bags,9,10,54022332
+1128,35,North Europe,North Europe Store 63,2019-01-29,Electronics,Computers,2,100,32550332
+1129,59,North Europe,North Europe Store 63,2019-06-06,Baby,Cribs,7,12,80427242
+1130,14,North Europe,North Europe Store 63,2019-07-04,Furniture,Pool furniture,9,30,52175071
+1131,6,North Europe,North Europe Store 63,2019-06-25,Electronics,Cell Phones,1,100,86184992
+1132,99,North Europe,North Europe Store 63,2019-05-03,Clothing,Swimwear,9,12,78890487
+1133,58,North Europe,North Europe Store 63,2019-03-04,Clothing,Womens,1,25,17148662
+1134,92,North Europe,North Europe Store 63,2019-01-20,Furniture,Beds,3,30,76546796
+1135,57,North Europe,North Europe Store 63,2019-03-06,Beauty/Health,Makeup,1,15,17777693
+1136,53,North Europe,North Europe Store 63,2019-01-25,Furniture,Patio furniture,3,15,42189383
+1137,81,North Europe,North Europe Store 63,2019-06-30,Furniture,Beds,7,15,40187476
+1138,58,North Europe,North Europe Store 63,2019-04-09,Electronics,Cell Phones,1,100,49080547
+1139,12,North Europe,North Europe Store 63,2019-07-03,Clothing,Shoes,10,13,99555576
+1140,77,North Europe,North Europe Store 63,2019-03-10,Electronics,Headphones,2,50,20553381
+1141,55,North Europe,North Europe Store 63,2019-03-03,Beauty/Health,Feminine Products,4,6,37586860
+1142,42,North Europe,North Europe Store 63,2019-04-07,Electronics,Speakers,1,100,84546739
+1143,62,North Europe,North Europe Store 63,2019-07-06,Clothing,Mens,8,20,71629521
+1144,91,North Europe,North Europe Store 63,2019-05-01,Electronics,Televisions,2,200,25950612
+1145,61,North Europe,North Europe Store 63,2019-05-11,Beauty/Health,Oral care,8,15,35007517
+1146,24,North Europe,North Europe Store 63,2019-01-21,Clothing,Mens,1,25,39071514
+1147,87,North Europe,North Europe Store 63,2019-04-25,Beauty/Health,Haircare,9,14,43651221
+1148,48,North Europe,North Europe Store 63,2019-03-24,Baby,Diaper bags,4,12,43352868
+1149,4,North Europe,North Europe Store 63,2019-04-22,Beauty/Health,Fragrances,8,10,78498841
+1150,99,North Europe,North Europe Store 63,2019-07-12,Beauty/Health,Makeup,3,10,14149507
+1151,70,North Europe,North Europe Store 63,2019-05-22,Electronics,Headphones,1,50,94073222
+1152,10,North Europe,North Europe Store 63,2019-03-25,Baby,Diapers,3,5,64303220
+1153,85,North Europe,North Europe Store 63,2019-05-17,Electronics,Headphones,1,100,72222540
+1154,39,North Europe,North Europe Store 63,2019-03-03,Baby,Diapers,2,10,77607176
+1155,26,North Europe,North Europe Store 63,2019-06-30,Baby,Diaper bags,7,12,29436513
+1156,44,North Europe,North Europe Store 63,2019-03-27,Baby,Diaper bags,3,15,55473434
+1157,62,North Europe,North Europe Store 63,2019-06-06,Beauty/Health,Bath,8,10,22444715
+1158,91,North Europe,North Europe Store 63,2019-04-16,Baby,Cribs,3,15,43327745
+1159,90,North Europe,North Europe Store 63,2019-05-01,Baby,Baby toys,8,15,52166822
+1160,72,North Europe,North Europe Store 63,2019-04-05,Furniture,Indoor tables,4,30,69841929
+1161,34,North Europe,North Europe Store 63,2019-01-24,Clothing,Kids,2,25,91522861
+1162,4,North Europe,North Europe Store 63,2019-04-05,Furniture,Indoor seating,4,100,86644697
+1163,1,North Europe,North Europe Store 63,2019-05-04,Clothing,Swimwear,7,13,93893357
+1164,15,North Europe,North Europe Store 63,2019-04-26,Baby,Cribs,8,12,18243146
+1165,61,North Europe,North Europe Store 63,2019-01-13,Baby,Diapers,5,30,95724623
+1166,13,North Europe,North Europe Store 63,2019-01-25,Beauty/Health,Feminine Products,2,6,46070224
+1167,25,North Europe,North Europe Store 63,2019-06-04,Electronics,Computers,2,200,39779037
+1168,23,North Europe,North Europe Store 63,2019-07-02,Beauty/Health,Oral care,8,6,82430249
+1169,24,North Europe,North Europe Store 63,2019-02-25,Electronics,Headphones,1,100,35962634
+1170,57,North Europe,North Europe Store 63,2019-03-30,Electronics,Tablets,1,50,26191107
+1171,70,North Europe,North Europe Store 63,2019-02-27,Furniture,Indoor seating,3,75,50085379
+1172,91,North Europe,North Europe Store 63,2019-07-10,Beauty/Health,Makeup,8,10,40582126
+1173,24,North Europe,North Europe Store 63,2019-04-02,Beauty/Health,Bath,2,10,95490809
+1174,63,North Europe,North Europe Store 63,2019-01-31,Baby,Baby toys,5,12,96041403
+1175,68,North Europe,North Europe Store 63,2019-05-08,Furniture,Pool furniture,6,30,84399494
+1176,60,North Europe,North Europe Store 63,2019-06-10,Electronics,Computers,2,300,95033575
+1177,2,North Europe,North Europe Store 63,2019-03-24,Baby,Baby toys,3,5,48163208
+1178,42,North Europe,North Europe Store 63,2019-03-28,Furniture,Indoor tables,5,30,63328644
+1179,12,North Europe,North Europe Store 63,2019-04-19,Baby,Strollers,6,30,73705619
+1180,54,North Europe,North Europe Store 63,2019-03-10,Clothing,Kids,2,25,72439726
+1181,90,North Europe,North Europe Store 63,2019-03-21,Furniture,Indoor tables,5,75,22979018
+1182,92,North Europe,North Europe Store 63,2019-02-18,Baby,Cribs,4,10,86639314
+1183,101,North Europe,North Europe Store 63,2019-06-22,Baby,Diapers,8,10,32648927
+1184,87,North Europe,North Europe Store 63,2019-05-05,Furniture,Indoor tables,3,75,15722982
+1185,53,North Europe,North Europe Store 63,2019-06-15,Furniture,Pool furniture,10,15,91977184
+1186,11,North Europe,North Europe Store 63,2019-07-11,Beauty/Health,Fragrances,3,10,30702374
+1187,101,North Europe,North Europe Store 63,2019-02-20,Clothing,Kids,4,10,48157930
+1188,80,North Europe,North Europe Store 63,2019-04-12,Furniture,Patio furniture,3,75,33567047
+1189,91,North Europe,North Europe Store 63,2019-05-03,Beauty/Health,Makeup,5,10,47934357
+1190,46,North Europe,North Europe Store 63,2019-01-22,Electronics,Cell Phones,2,50,52041520
+1191,3,North Europe,North Europe Store 63,2019-03-27,Clothing,Mens,1,12,47105660
+1192,82,North Europe,North Europe Store 63,2019-04-20,Clothing,Kids,8,25,64205522
+1193,17,North Europe,North Europe Store 63,2019-02-06,Baby,Strollers,2,12,63414113
+1194,35,North Europe,North Europe Store 63,2019-04-27,Baby,Baby toys,7,30,47746882
+1195,28,North Europe,North Europe Store 63,2019-05-23,Electronics,Headphones,2,50,74478282
+1196,69,North Europe,North Europe Store 63,2019-07-03,Baby,Baby toys,5,15,80113080
+1197,22,North Europe,North Europe Store 63,2019-03-07,Furniture,Beds,3,15,93382728
+1198,100,North Europe,North Europe Store 63,2019-04-18,Beauty/Health,Oral care,7,15,38980017
+1199,70,North Europe,North Europe Store 63,2019-06-02,Baby,Car seats,3,5,65936531
+1200,58,North Europe,North Europe Store 63,2019-04-11,Beauty/Health,Bath,4,14,75231715
+1201,95,North Europe,North Europe Store 63,2019-01-16,Beauty/Health,Fragrances,4,15,76039253
+1202,35,North Europe,North Europe Store 63,2019-03-12,Clothing,Mens,5,13,17527927
+1203,90,North Europe,North Europe Store 63,2019-07-11,Electronics,Computers,1,100,76904466
+1204,76,North Europe,North Europe Store 63,2019-04-07,Baby,Strollers,5,12,29616597
+1205,41,North Europe,North Europe Store 63,2019-06-23,Clothing,Swimwear,4,25,62433852
+1206,59,North Europe,North Europe Store 63,2019-06-18,Furniture,Pool furniture,5,40,58932245
+1207,54,North Europe,North Europe Store 63,2019-05-04,Beauty/Health,Oral care,6,6,98166807
+1208,99,North Europe,North Europe Store 63,2019-04-04,Baby,Car seats,3,30,87690256
+1209,46,North Europe,North Europe Store 63,2019-01-05,Electronics,Tablets,2,100,52638164
+1210,86,North Europe,North Europe Store 63,2019-05-17,Beauty/Health,Bath,3,14,39206994
+1211,66,North Europe,North Europe Store 63,2019-03-24,Baby,Strollers,2,10,38538025
+1212,72,North Europe,North Europe Store 63,2019-03-20,Furniture,Indoor seating,1,40,11348464
+1213,61,North Europe,North Europe Store 63,2019-01-06,Clothing,Shoes,2,20,91935574
+1214,41,North Europe,North Europe Store 63,2019-06-21,Clothing,Mens,3,25,54267766
+1215,83,North Europe,North Europe Store 63,2019-01-05,Electronics,Computers,1,100,50773742
+1216,4,North Europe,North Europe Store 63,2019-03-11,Electronics,Televisions,2,100,15280166
+1217,24,North Europe,North Europe Store 63,2019-01-09,Electronics,Headphones,2,300,64091912
+1218,10,North Europe,North Europe Store 63,2019-01-20,Beauty/Health,Feminine Products,2,6,10002342
+1219,6,North Europe,North Europe Store 63,2019-04-11,Baby,Baby toys,6,30,19315169
+1220,40,North Europe,North Europe Store 63,2019-02-20,Electronics,Cell Phones,1,100,93462022
+1221,89,North Europe,North Europe Store 63,2019-05-02,Baby,Car seats,6,30,96404051
+1222,98,North Europe,North Europe Store 63,2019-06-19,Beauty/Health,Bath,6,15,52591798
+1223,24,North Europe,North Europe Store 63,2019-04-17,Clothing,Womens,7,13,67654065
+1224,101,North Europe,North Europe Store 63,2019-03-29,Baby,Car seats,4,12,39608337
+1225,60,North Europe,North Europe Store 63,2019-06-29,Baby,Diaper bags,6,15,38087466
+1226,38,North Europe,North Europe Store 63,2019-06-10,Furniture,Indoor seating,3,75,20187841
+1227,76,North Europe,North Europe Store 63,2019-02-27,Clothing,Baby,1,25,67778512
+1228,73,North Europe,North Europe Store 63,2019-04-25,Furniture,Indoor seating,3,75,45445380
+1229,25,North Europe,North Europe Store 63,2019-06-19,Beauty/Health,Bath,8,10,75801887
+1230,92,North Europe,North Europe Store 63,2019-01-14,Furniture,Beds,3,100,84064853
+1231,72,North Europe,North Europe Store 63,2019-06-08,Electronics,Speakers,1,200,32238796
+1232,92,North Europe,North Europe Store 63,2019-04-13,Furniture,Indoor seating,8,30,18154263
+1233,45,North Europe,North Europe Store 63,2019-03-29,Electronics,Televisions,2,100,23773516
+1234,51,North Europe,North Europe Store 63,2019-06-19,Furniture,Indoor tables,9,30,39477017
+1235,7,North Europe,North Europe Store 63,2019-03-31,Clothing,Womens,5,13,47665628
+1236,22,North Europe,North Europe Store 63,2019-01-20,Baby,Strollers,4,30,84323703
+1237,60,North Europe,North Europe Store 63,2019-03-03,Clothing,Kids,3,12,55126611
+1238,2,North Europe,North Europe Store 63,2019-04-09,Baby,Cribs,9,30,66707828
+1239,2,North Europe,North Europe Store 63,2019-04-03,Beauty/Health,Fragrances,4,10,47717603
+1240,37,North Europe,North Europe Store 63,2019-07-11,Electronics,Tablets,2,100,35902352
+1241,92,North Europe,North Europe Store 63,2019-05-18,Electronics,Televisions,2,50,24229475
+1242,2,North Europe,North Europe Store 63,2019-04-04,Electronics,Cell Phones,1,50,31266257
+1243,28,North Europe,North Europe Store 63,2019-05-05,Baby,Diapers,5,30,59143199
+1244,45,North Europe,North Europe Store 63,2019-02-24,Beauty/Health,Feminine Products,2,10,36920944
+1245,83,North Europe,North Europe Store 63,2019-01-17,Baby,Car seats,2,12,38014630
+1246,75,North Europe,North Europe Store 63,2019-03-18,Clothing,Womens,5,13,27404944
+1247,42,North Europe,North Europe Store 63,2019-03-12,Clothing,Kids,5,25,17194245
+1248,7,North Europe,North Europe Store 63,2019-03-29,Baby,Diaper bags,1,30,80601003
+1249,72,North Europe,North Europe Store 63,2019-01-11,Furniture,Beds,5,75,56739185
+1250,52,North Europe,North Europe Store 63,2019-01-17,Electronics,Headphones,1,100,48805753
+1251,16,North Europe,North Europe Store 63,2019-06-11,Clothing,Kids,9,12,75689060
+1252,65,North Europe,North Europe Store 63,2019-03-28,Electronics,Speakers,2,200,52364815
+1253,20,North Europe,North Europe Store 63,2019-02-10,Baby,Diapers,4,10,90430995
+1254,5,North Europe,North Europe Store 63,2019-05-24,Electronics,Speakers,1,300,52020845
+1255,80,North Europe,North Europe Store 63,2019-05-11,Electronics,Computers,2,200,39889128
+1256,16,North Europe,North Europe Store 63,2019-05-14,Beauty/Health,Oral care,7,6,65331133
+1257,51,North Europe,North Europe Store 63,2019-02-22,Furniture,Indoor seating,5,75,22660205
+1258,75,North Europe,North Europe Store 63,2019-07-15,Electronics,Cell Phones,1,300,87839503
+1259,92,North Europe,North Europe Store 63,2019-02-22,Furniture,Indoor seating,1,75,57308767
+1260,27,North Europe,North Europe Store 63,2019-03-18,Electronics,Speakers,1,100,19265023
+1261,81,North Europe,North Europe Store 63,2019-01-20,Electronics,Computers,1,300,57928693
+1262,42,North Europe,North Europe Store 63,2019-01-27,Electronics,Cell Phones,1,100,86704361
+1263,66,North Europe,North Europe Store 63,2019-01-07,Clothing,Womens,5,13,83484124
+1264,53,North Europe,North Europe Store 63,2019-03-06,Beauty/Health,Fragrances,4,10,46219134
+1265,91,North Europe,North Europe Store 63,2019-03-14,Furniture,Patio furniture,3,15,39224496
+1266,22,North Europe,North Europe Store 63,2019-05-19,Clothing,Mens,8,20,64491683
+1267,88,North Europe,North Europe Store 63,2019-06-05,Furniture,Beds,5,40,54628916
+1268,16,North Europe,North Europe Store 63,2019-06-03,Beauty/Health,Bath,5,15,82836532
+1269,94,North Europe,North Europe Store 63,2019-03-26,Beauty/Health,Fragrances,3,14,53210598
+1270,86,North Europe,North Europe Store 63,2019-03-27,Beauty/Health,Oral care,4,15,82746413
+1271,88,North Europe,North Europe Store 63,2019-05-17,Beauty/Health,Fragrances,10,10,58520104
+1272,94,North Europe,North Europe Store 63,2019-04-24,Furniture,Pool furniture,8,75,18194946
+1273,43,North Europe,North Europe Store 63,2019-05-12,Beauty/Health,Oral care,9,10,24613214
+1274,56,North Europe,North Europe Store 63,2019-05-01,Furniture,Pool furniture,3,75,26692498
+1275,89,North Europe,North Europe Store 63,2019-06-03,Furniture,Beds,3,30,54298508
+1276,65,North Europe,North Europe Store 63,2019-07-10,Beauty/Health,Haircare,9,10,26717311
+1277,40,North Europe,North Europe Store 63,2019-02-11,Beauty/Health,Oral care,1,10,55757503
+1278,100,North Europe,North Europe Store 63,2019-05-19,Electronics,Speakers,1,50,36391186
+1279,18,North Europe,North Europe Store 63,2019-05-23,Electronics,Computers,1,200,12199340
+1280,71,North Europe,North Europe Store 63,2019-05-10,Furniture,Beds,7,100,77805879
+1281,85,North Europe,North Europe Store 63,2019-03-04,Furniture,Pool furniture,3,40,98520428
+1282,4,North Europe,North Europe Store 63,2019-06-09,Furniture,Indoor tables,3,15,93329477
+1283,20,North Europe,North Europe Store 63,2019-03-28,Clothing,Kids,1,25,95788506
+1284,27,North Europe,North Europe Store 63,2019-02-21,Clothing,Kids,4,25,25243599
+1285,78,North Europe,North Europe Store 63,2019-06-10,Clothing,Baby,4,25,16667500
+1286,38,North Europe,North Europe Store 63,2019-05-29,Baby,Diapers,5,30,73876208
+1287,99,North Europe,North Europe Store 63,2019-06-09,Clothing,Kids,5,25,82929816
+1288,85,North Europe,North Europe Store 63,2019-04-23,Clothing,Baby,7,25,61193701
+1289,55,North Europe,North Europe Store 63,2019-05-30,Electronics,Headphones,2,300,39280943
+1290,9,North Europe,North Europe Store 63,2019-01-10,Clothing,Baby,2,10,44628245
+1291,91,North Europe,North Europe Store 63,2019-07-01,Beauty/Health,Makeup,7,10,30324869
+1292,46,North Europe,North Europe Store 63,2019-06-16,Electronics,Cell Phones,1,200,82655386
+1293,77,North Europe,North Europe Store 63,2019-05-26,Furniture,Patio furniture,4,100,48414559
+1294,60,North Europe,North Europe Store 63,2019-03-11,Electronics,Tablets,1,100,16389286
+1295,87,North Europe,North Europe Store 63,2019-04-02,Electronics,Computers,1,200,43806842
+1296,56,North Europe,North Europe Store 63,2019-02-23,Baby,Car seats,2,12,43409087
+1297,29,North Europe,North Europe Store 63,2019-05-26,Furniture,Pool furniture,3,40,13943705
+1298,74,North Europe,North Europe Store 63,2019-01-20,Beauty/Health,Fragrances,5,10,41988247
+1299,95,North Europe,North Europe Store 63,2019-02-13,Furniture,Indoor tables,4,15,20048218
+1300,83,North Europe,North Europe Store 63,2019-03-30,Clothing,Mens,4,13,31863175
+1301,6,North Europe,North Europe Store 63,2019-04-09,Electronics,Speakers,1,100,10918103
+1302,57,North Europe,North Europe Store 63,2019-07-16,Electronics,Computers,2,100,72756118
+1303,45,North Europe,North Europe Store 63,2019-07-01,Baby,Baby toys,7,15,35549262
+1304,95,North Europe,North Europe Store 63,2019-05-13,Electronics,Speakers,1,200,66165590
+1305,61,North Europe,North Europe Store 63,2019-01-10,Furniture,Indoor seating,5,100,22912086
+1306,9,North Europe,North Europe Store 63,2019-02-26,Electronics,Headphones,2,50,45930671
+1307,87,North Europe,North Europe Store 63,2019-01-07,Electronics,Tablets,1,200,49540469
+1308,51,North Europe,North Europe Store 63,2019-04-02,Clothing,Swimwear,2,25,34838253
+1309,84,North Europe,North Europe Store 63,2019-05-01,Electronics,Tablets,1,100,76840891
+1310,29,North Europe,North Europe Store 63,2019-01-31,Electronics,Cell Phones,1,300,98514467
+1311,77,North Europe,North Europe Store 63,2019-02-19,Furniture,Indoor tables,4,75,80785547
+1312,41,North Europe,North Europe Store 63,2019-06-07,Beauty/Health,Haircare,9,10,43728598
+1313,34,North Europe,North Europe Store 63,2019-02-13,Baby,Baby toys,4,10,72800486
+1314,95,North Europe,North Europe Store 63,2019-02-24,Furniture,Pool furniture,4,100,58401713
+1315,90,North Europe,North Europe Store 63,2019-05-17,Electronics,Speakers,2,200,22473079
+1316,62,North Europe,North Europe Store 63,2019-05-17,Clothing,Shoes,5,13,23826472
+1317,82,North Europe,North Europe Store 63,2019-07-04,Beauty/Health,Fragrances,5,6,71463610
+1318,52,North Europe,North Europe Store 63,2019-04-11,Clothing,Womens,8,20,89849845
+1319,35,North Europe,North Europe Store 63,2019-07-11,Clothing,Swimwear,6,25,78802238
+1320,43,North Europe,North Europe Store 63,2019-02-20,Electronics,Speakers,1,300,42123839
+1321,10,North Europe,North Europe Store 63,2019-06-09,Furniture,Pool furniture,9,100,16099516
+1322,87,North Europe,North Europe Store 63,2019-01-26,Baby,Cribs,1,10,34189762
+1323,28,North Europe,North Europe Store 63,2019-05-18,Beauty/Health,Bath,9,10,63321436
+1324,101,North Europe,North Europe Store 63,2019-06-11,Furniture,Indoor seating,4,15,19818036
+1325,67,North Europe,North Europe Store 63,2019-06-13,Beauty/Health,Fragrances,4,10,49687180
+1326,1,North Europe,North Europe Store 63,2019-02-17,Furniture,Beds,5,30,31016549
+1327,94,North Europe,North Europe Store 63,2019-03-20,Furniture,Indoor tables,1,100,26215932
+1328,1,North Europe,North Europe Store 63,2019-03-20,Beauty/Health,Fragrances,3,14,70753957
+1329,92,North Europe,North Europe Store 63,2019-06-30,Beauty/Health,Fragrances,6,10,24713492
+1330,40,North Europe,North Europe Store 63,2019-02-17,Electronics,Headphones,1,100,26692276
+1331,27,North Europe,North Europe Store 63,2019-04-29,Furniture,Pool furniture,3,30,38999700
+1332,68,North Europe,North Europe Store 63,2019-07-07,Clothing,Baby,10,10,45982872
+1333,74,North Europe,North Europe Store 63,2019-02-12,Baby,Diapers,3,10,16716559
+1334,70,North Europe,North Europe Store 63,2019-04-26,Beauty/Health,Oral care,8,10,99185438
+1335,61,North Europe,North Europe Store 63,2019-03-24,Electronics,Computers,2,50,36890207
+1336,73,North Europe,North Europe Store 63,2019-02-26,Furniture,Indoor tables,5,40,61578209
+1337,78,North Europe,North Europe Store 63,2019-07-04,Beauty/Health,Oral care,10,10,17803548
+1338,29,North Europe,North Europe Store 63,2019-03-09,Baby,Strollers,1,5,57776095
+1339,101,North Europe,North Europe Store 63,2019-03-27,Furniture,Indoor tables,4,30,45582948
+1340,51,North Europe,North Europe Store 63,2019-05-15,Furniture,Indoor seating,7,100,84965481
+1341,58,North Europe,North Europe Store 63,2019-03-26,Clothing,Mens,5,10,93716993
+1342,61,North Europe,North Europe Store 63,2019-05-10,Electronics,Computers,1,200,10670950
+1343,70,North Europe,North Europe Store 63,2019-05-05,Clothing,Womens,3,13,62425925
+1344,6,North Europe,North Europe Store 63,2019-06-27,Baby,Diapers,4,30,50424476
+1345,81,North Europe,North Europe Store 63,2019-03-10,Baby,Cribs,5,10,21257626
+1346,29,North Europe,North Europe Store 63,2019-02-11,Furniture,Beds,5,75,70739422
+1347,26,North Europe,North Europe Store 63,2019-02-24,Electronics,Cell Phones,1,300,82094495
+1348,67,North Europe,North Europe Store 63,2019-01-09,Beauty/Health,Feminine Products,1,14,68180884
+1349,24,North Europe,North Europe Store 63,2019-02-28,Clothing,Baby,2,10,52098559
+1350,27,North Europe,North Europe Store 63,2019-06-07,Beauty/Health,Fragrances,9,6,68928404
+1351,6,North Europe,North Europe Store 63,2019-06-25,Electronics,Computers,1,100,57026965
+1352,95,North Europe,North Europe Store 63,2019-03-17,Beauty/Health,Skincare,2,10,99957224
+1353,21,North Europe,North Europe Store 63,2019-04-26,Baby,Cribs,7,10,19637318
+1354,73,North Europe,North Europe Store 63,2019-07-12,Electronics,Computers,1,200,41213364
+1355,76,North Europe,North Europe Store 63,2019-07-13,Baby,Strollers,9,5,98400574
+1356,72,North Europe,North Europe Store 63,2019-02-13,Baby,Diaper bags,1,10,97649107
+1357,1,North Europe,North Europe Store 63,2019-01-31,Beauty/Health,Oral care,4,10,39110031
+1358,1,North Europe,North Europe Store 63,2019-01-28,Electronics,Headphones,1,200,48826699
+1359,101,North Europe,North Europe Store 63,2019-03-13,Electronics,Headphones,1,100,34290117
+1360,49,North Europe,North Europe Store 63,2019-03-19,Beauty/Health,Makeup,3,10,65384815
+1361,8,North Europe,North Europe Store 63,2019-01-28,Electronics,Cell Phones,1,300,34854465
+1362,57,North Europe,North Europe Store 63,2019-05-08,Beauty/Health,Fragrances,3,15,29910994
+1363,34,North Europe,North Europe Store 63,2019-02-03,Beauty/Health,Oral care,3,6,17694016
+1364,27,North Europe,North Europe Store 63,2019-04-16,Furniture,Patio furniture,7,30,57918854
+1365,75,North Europe,North Europe Store 63,2019-03-17,Electronics,Televisions,2,100,85498362
+1366,85,North Europe,North Europe Store 63,2019-04-04,Furniture,Indoor seating,2,15,52744156
+1367,40,North Europe,North Europe Store 63,2019-03-02,Beauty/Health,Feminine Products,5,14,87338231
+1368,37,North Europe,North Europe Store 63,2019-04-22,Furniture,Patio furniture,8,15,76317670
+1369,83,North Europe,North Europe Store 63,2019-03-23,Electronics,Headphones,2,100,89340478
+1370,6,North Europe,North Europe Store 63,2019-06-24,Baby,Diaper bags,10,15,26161315
+1371,49,North Europe,North Europe Store 63,2019-04-21,Baby,Baby toys,6,10,47569062
+1372,94,North Europe,North Europe Store 63,2019-06-05,Baby,Baby toys,6,12,91157004
+1373,30,North Europe,North Europe Store 63,2019-07-01,Baby,Baby toys,6,5,46329632
+1374,26,North Europe,North Europe Store 63,2019-05-22,Clothing,Swimwear,8,10,27386747
+1375,99,North Europe,North Europe Store 63,2019-05-11,Beauty/Health,Fragrances,5,6,24470561
+1376,90,North Europe,North Europe Store 63,2019-03-01,Furniture,Beds,3,30,88689924
+1377,20,North Europe,North Europe Store 63,2019-07-14,Electronics,Cell Phones,2,200,53878944
+1378,3,North Europe,North Europe Store 63,2019-06-26,Electronics,Televisions,2,300,65108393
+1379,47,North Europe,North Europe Store 63,2019-03-30,Electronics,Headphones,1,300,70383174
+1380,70,North Europe,North Europe Store 63,2019-02-08,Clothing,Womens,2,10,18652811
+1381,3,North Europe,North Europe Store 63,2019-04-12,Beauty/Health,Haircare,4,14,49715545
+1382,28,North Europe,North Europe Store 63,2019-01-13,Beauty/Health,Oral care,4,10,86876210
+1383,5,North Europe,North Europe Store 63,2019-04-22,Baby,Cribs,4,12,64243711
+1384,95,North Europe,North Europe Store 63,2019-03-30,Clothing,Mens,4,25,71177380
+1385,18,North Europe,North Europe Store 63,2019-04-12,Beauty/Health,Oral care,8,10,77379719
+1386,12,North Europe,North Europe Store 63,2019-01-06,Furniture,Indoor seating,2,100,53470879
+1387,31,North Europe,North Europe Store 63,2019-03-14,Baby,Diaper bags,1,12,17096233
+1388,14,North Europe,North Europe Store 63,2019-02-04,Baby,Baby toys,2,30,72921700
+1389,51,North Europe,North Europe Store 63,2019-01-22,Beauty/Health,Skincare,2,10,33977647
+1390,82,North Europe,North Europe Store 63,2019-04-14,Baby,Strollers,6,10,19555746
+1391,53,North Europe,North Europe Store 63,2019-06-08,Beauty/Health,Oral care,7,10,99004866
+1392,75,North Europe,North Europe Store 63,2019-07-09,Clothing,Baby,9,25,63035771
+1393,15,North Europe,North Europe Store 63,2019-04-17,Beauty/Health,Feminine Products,3,10,40490400
+1394,97,North Europe,North Europe Store 63,2019-07-11,Baby,Cribs,9,10,91246442
+1395,90,North Europe,North Europe Store 63,2019-02-18,Baby,Baby toys,5,15,51547581
+1396,62,North Europe,North Europe Store 63,2019-05-14,Furniture,Patio furniture,7,75,42647304
+1397,76,North Europe,North Europe Store 63,2019-05-05,Electronics,Headphones,1,200,94266718
+1398,94,North Europe,North Europe Store 63,2019-01-22,Beauty/Health,Haircare,5,6,98258538
+1399,26,North Europe,North Europe Store 63,2019-06-06,Beauty/Health,Haircare,3,10,63790047
+1400,90,North Europe,North Europe Store 63,2019-04-15,Furniture,Pool furniture,7,40,89247727
+1401,17,North Europe,North Europe Store 63,2019-05-07,Baby,Baby toys,8,15,80129331
+1402,97,North Europe,North Europe Store 63,2019-01-02,Electronics,Speakers,2,200,50864069
+1403,21,North Europe,North Europe Store 63,2019-05-23,Beauty/Health,Oral care,4,10,33616223
+1404,13,North Europe,North Europe Store 63,2019-04-24,Furniture,Indoor seating,4,30,97928204
+1405,35,North Europe,North Europe Store 63,2019-03-29,Electronics,Speakers,1,100,25547094
+1406,22,North Europe,North Europe Store 63,2019-04-27,Beauty/Health,Skincare,3,10,13922928
+1407,96,North Europe,North Europe Store 63,2019-02-15,Electronics,Headphones,1,50,36407224
+1408,20,North Europe,North Europe Store 63,2019-06-11,Beauty/Health,Skincare,10,6,72386920
+1409,10,North Europe,North Europe Store 63,2019-04-30,Electronics,Tablets,2,100,16226409
+1410,71,North Europe,North Europe Store 63,2019-04-08,Beauty/Health,Oral care,3,10,15333188
+1411,53,North Europe,North Europe Store 63,2019-05-05,Furniture,Patio furniture,4,30,14480096
+1412,70,North Europe,North Europe Store 63,2019-03-07,Clothing,Swimwear,1,13,43431237
+1413,48,North Europe,North Europe Store 63,2019-02-06,Furniture,Indoor seating,3,30,73939332
+1414,92,North Europe,North Europe Store 63,2019-07-03,Clothing,Swimwear,5,13,10641306
+1415,97,North Europe,North Europe Store 63,2019-01-08,Electronics,Cell Phones,2,100,37315446
+1416,49,North Europe,North Europe Store 63,2019-06-26,Baby,Cribs,7,12,67772086
+1417,44,North Europe,North Europe Store 63,2019-01-05,Beauty/Health,Skincare,1,10,87934350
+1418,34,North Europe,North Europe Store 63,2019-01-26,Clothing,Swimwear,3,13,31994390
+1419,49,North Europe,North Europe Store 63,2019-03-08,Furniture,Beds,4,15,12621192
+1420,49,North Europe,North Europe Store 63,2019-06-24,Furniture,Indoor seating,4,75,67963220
+1421,30,North Europe,North Europe Store 63,2019-01-06,Clothing,Baby,2,25,54270305
+1422,72,North Europe,North Europe Store 63,2019-01-18,Furniture,Indoor seating,1,100,58048819
+1423,87,North Europe,North Europe Store 63,2019-07-08,Baby,Diaper bags,8,15,27996509
+1424,21,North Europe,North Europe Store 63,2019-02-04,Clothing,Swimwear,4,13,58562797
+1425,21,North Europe,North Europe Store 63,2019-01-08,Baby,Baby toys,3,12,82601870
+1426,92,North Europe,North Europe Store 63,2019-02-28,Beauty/Health,Haircare,3,10,24412118
+1427,80,North Europe,North Europe Store 63,2019-04-06,Furniture,Pool furniture,1,30,68562985
+1428,46,North Europe,North Europe Store 63,2019-03-08,Beauty/Health,Skincare,3,10,62079359
+1429,10,North Europe,North Europe Store 63,2019-02-18,Furniture,Pool furniture,2,100,73399350
+1430,23,North Europe,North Europe Store 63,2019-04-26,Electronics,Tablets,2,300,24888994
+1431,73,North Europe,North Europe Store 63,2019-01-24,Furniture,Patio furniture,2,75,29502938
+1432,25,North Europe,North Europe Store 63,2019-03-29,Furniture,Indoor seating,4,40,92100563
+1433,83,North Europe,North Europe Store 63,2019-06-16,Electronics,Televisions,1,100,37234816
+1434,17,North Europe,North Europe Store 63,2019-03-18,Clothing,Shoes,3,20,16312951
+1435,13,North Europe,North Europe Store 63,2019-01-07,Furniture,Beds,2,15,61529507
+1436,40,North Europe,North Europe Store 63,2019-06-05,Furniture,Beds,4,40,49956236
+1437,48,North Europe,North Europe Store 63,2019-04-02,Clothing,Womens,1,25,25409498
+1438,47,North Europe,North Europe Store 63,2019-05-09,Furniture,Patio furniture,9,100,68018458
+1439,44,North Europe,North Europe Store 63,2019-06-07,Baby,Cribs,6,30,98896893
+1440,34,North Europe,North Europe Store 63,2019-01-29,Furniture,Indoor tables,5,15,15003017
+1441,18,North Europe,North Europe Store 63,2019-06-21,Furniture,Indoor tables,9,75,67827148
+1442,15,North Europe,North Europe Store 63,2019-04-23,Furniture,Indoor tables,9,30,81560472
+1443,73,North Europe,North Europe Store 63,2019-04-12,Clothing,Womens,9,25,77524228
+1444,86,North Europe,North Europe Store 63,2019-06-24,Baby,Strollers,3,5,95608835
+1445,50,North Europe,North Europe Store 63,2019-02-25,Baby,Cribs,4,12,29409891
+1446,98,North Europe,North Europe Store 63,2019-06-12,Baby,Diapers,9,10,19304978
+1447,51,North Europe,North Europe Store 63,2019-05-28,Furniture,Pool furniture,7,100,50682867
+1448,99,North Europe,North Europe Store 63,2019-05-12,Beauty/Health,Makeup,6,10,98981548
+1449,55,North Europe,North Europe Store 63,2019-04-23,Baby,Diapers,10,5,78455867
+1450,66,North Europe,North Europe Store 63,2019-05-13,Furniture,Indoor tables,8,100,78493237
+1451,30,North Europe,North Europe Store 63,2019-03-06,Electronics,Cell Phones,1,100,72462103
+1452,58,North Europe,North Europe Store 63,2019-02-16,Baby,Diapers,3,10,52971910
+1453,26,North Europe,North Europe Store 63,2019-04-26,Clothing,Kids,6,25,90036671
+1454,80,North Europe,North Europe Store 63,2019-02-20,Furniture,Patio furniture,1,75,71473140
+1455,55,North Europe,North Europe Store 63,2019-02-01,Furniture,Indoor seating,2,15,88077120
+1456,9,North Europe,North Europe Store 63,2019-01-04,Baby,Baby toys,3,30,50971800
+1457,42,North Europe,North Europe Store 63,2019-03-11,Beauty/Health,Skincare,1,6,79246113
+1458,23,North Europe,North Europe Store 63,2019-03-12,Clothing,Mens,3,20,20580216
+1459,4,North Europe,North Europe Store 63,2019-05-21,Electronics,Computers,2,200,14493669
+1460,97,North Europe,North Europe Store 63,2019-02-02,Beauty/Health,Skincare,2,15,24802167
+1461,29,North Europe,North Europe Store 63,2019-02-04,Baby,Car seats,2,10,65226342
+1462,41,North Europe,North Europe Store 63,2019-04-15,Clothing,Baby,3,10,46333109
+1463,7,North Europe,North Europe Store 63,2019-02-04,Beauty/Health,Bath,1,6,89535031
+1464,36,North Europe,North Europe Store 63,2019-02-06,Furniture,Indoor seating,4,100,85936157
+1465,4,North Europe,North Europe Store 63,2019-05-30,Clothing,Mens,3,13,69020912
+1466,41,North Europe,North Europe Store 63,2019-02-08,Clothing,Kids,3,25,96812024
+1467,42,North Europe,North Europe Store 63,2019-03-12,Furniture,Beds,3,100,51630167
+1468,70,North Europe,North Europe Store 63,2019-02-20,Baby,Cribs,5,10,97090734
+1469,93,North Europe,North Europe Store 63,2019-01-13,Baby,Strollers,1,5,12390455
+1470,19,North Europe,North Europe Store 63,2019-04-01,Clothing,Baby,1,20,23272473
+1471,94,North Europe,North Europe Store 63,2019-07-07,Baby,Cribs,6,10,23434470
+1472,98,North Europe,North Europe Store 63,2019-01-13,Furniture,Indoor seating,5,100,48879050
+1473,70,North Europe,North Europe Store 63,2019-02-04,Baby,Diapers,4,10,83988796
+1474,88,North Europe,North Europe Store 63,2019-04-20,Electronics,Speakers,1,50,66924130
+1475,89,North Europe,North Europe Store 63,2019-04-05,Electronics,Tablets,2,200,34749684
+1476,50,North Europe,North Europe Store 63,2019-06-26,Beauty/Health,Skincare,3,10,16880263
+1477,22,North Europe,North Europe Store 63,2019-07-08,Beauty/Health,Fragrances,10,15,46195422
+1478,65,North Europe,North Europe Store 63,2019-07-03,Clothing,Mens,4,10,34466508
+1479,39,North Europe,North Europe Store 63,2019-01-20,Electronics,Tablets,2,200,51996800
+1480,83,North Europe,North Europe Store 63,2019-01-22,Furniture,Pool furniture,1,40,26507646
+1481,51,North Europe,North Europe Store 63,2019-06-30,Clothing,Swimwear,9,12,43956331
+1482,21,North Europe,North Europe Store 63,2019-05-09,Electronics,Computers,2,50,52138421
+1483,72,North Europe,North Europe Store 63,2019-04-14,Furniture,Beds,8,40,60939893
+1484,83,North Europe,North Europe Store 63,2019-01-10,Baby,Cribs,4,15,66988984
+1485,70,North Europe,North Europe Store 63,2019-05-03,Furniture,Beds,9,75,52652812
+1486,59,North Europe,North Europe Store 63,2019-03-18,Clothing,Kids,1,25,77041094
+1487,69,North Europe,North Europe Store 63,2019-03-08,Electronics,Cell Phones,2,200,60388455
+1488,91,North Europe,North Europe Store 63,2019-01-26,Beauty/Health,Skincare,5,10,63498092
+1489,65,North Europe,North Europe Store 63,2019-04-13,Clothing,Shoes,4,13,18122052
+1490,69,North Europe,North Europe Store 63,2019-03-22,Baby,Diapers,1,12,68768200
+1491,40,North Europe,North Europe Store 63,2019-02-21,Beauty/Health,Fragrances,2,10,83250949
+1492,45,North Europe,North Europe Store 63,2019-03-04,Beauty/Health,Bath,3,14,88099974
+1493,34,North Europe,North Europe Store 63,2019-05-17,Baby,Diapers,7,10,17291984
+1494,59,North Europe,North Europe Store 63,2019-03-17,Electronics,Computers,1,200,36987515
+1495,38,North Europe,North Europe Store 63,2019-04-24,Beauty/Health,Oral care,9,10,11111166
+1496,15,North Europe,North Europe Store 63,2019-04-28,Furniture,Indoor seating,4,100,55836028
+1497,70,North Europe,North Europe Store 63,2019-01-13,Electronics,Cell Phones,1,100,99454113
+1498,54,North Europe,North Europe Store 63,2019-03-10,Electronics,Televisions,2,100,52544249
+1499,62,North Europe,North Europe Store 63,2019-07-05,Electronics,Computers,1,100,63703889
+1500,85,North Europe,North Europe Store 63,2019-04-13,Baby,Diaper bags,3,30,82342124
+1501,36,North Europe,North Europe Store 63,2019-04-04,Beauty/Health,Bath,1,10,46289179
+1502,52,North Europe,North Europe Store 63,2019-05-12,Baby,Strollers,3,15,57257826
+1503,4,North Europe,North Europe Store 63,2019-04-29,Beauty/Health,Fragrances,4,10,93497647
+1504,17,North Europe,North Europe Store 63,2019-02-01,Baby,Diapers,1,5,12116787
+1505,29,North Europe,North Europe Store 63,2019-05-28,Beauty/Health,Fragrances,8,10,53060520
+1506,66,North Europe,North Europe Store 63,2019-05-17,Beauty/Health,Haircare,5,10,26354004
+1507,56,North Europe,North Europe Store 63,2019-06-25,Electronics,Computers,2,100,18736853
+1508,60,North Europe,North Europe Store 63,2019-05-27,Baby,Car seats,5,30,90608017
+1509,62,North Europe,North Europe Store 63,2019-04-09,Baby,Diapers,3,5,55916227
+1510,10,North Europe,North Europe Store 63,2019-04-27,Clothing,Kids,4,25,81403206
+1511,48,North Europe,North Europe Store 63,2019-05-18,Baby,Cribs,5,15,98017056
+1512,52,North Europe,North Europe Store 63,2019-03-19,Furniture,Patio furniture,2,100,35656972
+1513,20,North Europe,North Europe Store 63,2019-05-04,Furniture,Pool furniture,7,100,77835984
+1514,34,North Europe,North Europe Store 63,2019-02-19,Clothing,Kids,1,25,65377151
+1515,10,North Europe,North Europe Store 63,2019-03-14,Electronics,Televisions,2,200,62957950
+1516,72,North Europe,North Europe Store 63,2019-06-04,Baby,Cribs,3,30,49479441
+1517,22,North Europe,North Europe Store 63,2019-02-13,Beauty/Health,Feminine Products,5,10,46761386
+1518,41,North Europe,North Europe Store 63,2019-07-11,Baby,Diaper bags,3,10,36382150
+1519,76,North Europe,North Europe Store 63,2019-06-21,Baby,Baby toys,7,10,58881015
+1520,14,North Europe,North Europe Store 63,2019-01-26,Furniture,Pool furniture,2,100,56310529
+1521,1,North Europe,North Europe Store 63,2019-02-24,Clothing,Womens,3,25,31382096
+1522,22,North Europe,North Europe Store 63,2019-02-06,Electronics,Televisions,1,100,98949577
+1523,43,North Europe,North Europe Store 63,2019-04-15,Furniture,Indoor seating,6,75,19421114
+1524,61,North Europe,North Europe Store 63,2019-03-15,Furniture,Beds,3,30,91227774
+1525,91,North Europe,North Europe Store 63,2019-04-27,Electronics,Televisions,2,100,20926065
+1526,25,North Europe,North Europe Store 63,2019-03-14,Electronics,Cell Phones,1,100,28501449
+1527,10,North Europe,North Europe Store 63,2019-03-20,Furniture,Indoor tables,5,100,97753422
+1528,41,North Europe,North Europe Store 63,2019-04-09,Beauty/Health,Bath,5,10,49971096
+1529,22,North Europe,North Europe Store 63,2019-02-14,Beauty/Health,Fragrances,2,10,85369409
+1530,91,North Europe,North Europe Store 63,2019-05-30,Baby,Baby toys,4,30,15209311
+1531,4,North Europe,North Europe Store 63,2019-05-05,Baby,Cribs,4,30,60034644
+1532,23,North Europe,North Europe Store 63,2019-06-08,Beauty/Health,Makeup,3,10,34286659
+1533,36,North Europe,North Europe Store 63,2019-07-08,Furniture,Indoor tables,7,75,16844265
+1534,101,North Europe,North Europe Store 63,2019-06-19,Baby,Diaper bags,7,12,12206128
+1535,51,North Europe,North Europe Store 63,2019-02-09,Electronics,Headphones,2,200,55494534
+1536,6,North Europe,North Europe Store 63,2019-06-08,Furniture,Indoor seating,5,100,73284554
+1537,66,North Europe,North Europe Store 63,2019-01-18,Baby,Baby toys,2,30,27732326
+1538,53,North Europe,North Europe Store 63,2019-03-29,Clothing,Swimwear,3,25,76415108
+1539,95,North Europe,North Europe Store 63,2019-06-29,Electronics,Computers,1,100,77183624
+1540,3,North Europe,North Europe Store 63,2019-05-21,Furniture,Indoor seating,10,30,82378579
+1541,48,North Europe,North Europe Store 63,2019-04-24,Baby,Baby toys,8,30,60699660
+1542,12,North Europe,North Europe Store 63,2019-06-12,Clothing,Mens,7,10,99012498
+1543,80,North Europe,North Europe Store 63,2019-04-26,Furniture,Indoor tables,3,15,10883729
+1544,19,North Europe,North Europe Store 63,2019-05-18,Baby,Baby toys,3,12,53462153
+1545,81,North Europe,North Europe Store 63,2019-05-15,Furniture,Patio furniture,8,15,28598446
+1546,41,North Europe,North Europe Store 63,2019-05-15,Electronics,Televisions,2,50,22614770
+1547,84,North Europe,North Europe Store 63,2019-04-27,Beauty/Health,Feminine Products,9,10,22332047
+1548,66,North Europe,North Europe Store 63,2019-04-20,Clothing,Swimwear,6,12,33277304
+1549,62,North Europe,North Europe Store 63,2019-07-08,Electronics,Televisions,1,100,21013871
+1550,22,North Europe,North Europe Store 63,2019-03-27,Clothing,Mens,2,10,58087751
+1551,40,North Europe,North Europe Store 63,2019-04-25,Clothing,Swimwear,8,13,86203293
+1552,28,North Europe,North Europe Store 63,2019-05-17,Electronics,Speakers,1,100,84384922
+1553,66,North Europe,North Europe Store 63,2019-07-03,Clothing,Mens,3,20,31722498
+1554,25,North Europe,North Europe Store 63,2019-01-20,Clothing,Kids,3,25,58331347
+1555,55,North Europe,North Europe Store 63,2019-05-10,Beauty/Health,Feminine Products,5,6,46648515
+1556,97,North Europe,North Europe Store 63,2019-01-12,Electronics,Cell Phones,1,300,96094454
+1557,20,North Europe,North Europe Store 63,2019-01-24,Electronics,Cell Phones,2,300,36957050
+1558,19,North Europe,North Europe Store 63,2019-06-24,Baby,Strollers,10,30,28042654
+1559,76,North Europe,North Europe Store 63,2019-03-19,Electronics,Tablets,1,200,18467388
+1560,16,North Europe,North Europe Store 63,2019-03-19,Furniture,Pool furniture,3,75,64349810
+1561,94,North Europe,North Europe Store 63,2019-07-09,Baby,Car seats,6,30,27645643
+1562,27,North Europe,North Europe Store 63,2019-02-07,Clothing,Mens,1,13,23551803
+1563,16,North Europe,North Europe Store 63,2019-05-29,Clothing,Kids,10,25,10885198
+1564,17,North Europe,North Europe Store 63,2019-02-10,Clothing,Kids,2,20,12410747
+1565,83,North Europe,North Europe Store 63,2019-07-03,Clothing,Kids,6,12,23505078
+1566,87,North Europe,North Europe Store 63,2019-03-13,Beauty/Health,Skincare,1,14,99260669
+1567,93,North Europe,North Europe Store 63,2019-04-14,Clothing,Baby,5,25,92312837
+1568,9,North Europe,North Europe Store 63,2019-01-19,Beauty/Health,Skincare,1,6,81533646
+1569,59,North Europe,North Europe Store 63,2019-04-29,Furniture,Indoor seating,9,15,58900558
+1570,19,North Europe,North Europe Store 63,2019-03-12,Beauty/Health,Haircare,2,10,69708096
+1571,90,North Europe,North Europe Store 63,2019-01-04,Electronics,Computers,2,50,61604973
+1572,2,North Europe,North Europe Store 63,2019-05-16,Furniture,Indoor tables,9,40,87818362
+1573,91,North Europe,North Europe Store 63,2019-03-19,Beauty/Health,Feminine Products,3,14,12291650
+1574,32,North Europe,North Europe Store 63,2019-04-30,Electronics,Speakers,1,100,22699418
+1575,9,North Europe,North Europe Store 63,2019-06-01,Clothing,Shoes,4,25,64134245
+1576,89,North Europe,North Europe Store 63,2019-03-18,Clothing,Swimwear,4,20,62469409
+1577,41,North Europe,North Europe Store 63,2019-06-16,Electronics,Computers,1,200,63668407
+1578,24,North Europe,North Europe Store 63,2019-03-17,Baby,Diaper bags,5,10,45528679
+1579,31,North Europe,North Europe Store 63,2019-03-13,Furniture,Indoor tables,4,15,87596953
+1580,40,North Europe,North Europe Store 63,2019-03-23,Clothing,Mens,3,10,92737428
+1581,68,North Europe,North Europe Store 63,2019-04-01,Clothing,Shoes,5,12,37784073
+1582,49,North Europe,North Europe Store 63,2019-06-01,Furniture,Pool furniture,7,100,16838810
+1583,11,North Europe,North Europe Store 63,2019-05-07,Electronics,Cell Phones,2,100,68860216
+1584,2,North Europe,North Europe Store 63,2019-07-01,Baby,Cribs,5,15,79286876
+1585,92,North Europe,North Europe Store 63,2019-05-27,Beauty/Health,Bath,9,10,20194487
+1586,9,North Europe,North Europe Store 63,2019-01-16,Baby,Diapers,1,30,41463636
+1587,95,North Europe,North Europe Store 63,2019-06-14,Beauty/Health,Fragrances,9,10,28106485
+1588,62,North Europe,North Europe Store 63,2019-01-26,Furniture,Indoor seating,5,75,48461851
+1589,69,North Europe,North Europe Store 63,2019-03-18,Electronics,Computers,1,300,52748848
+1590,82,North Europe,North Europe Store 63,2019-06-15,Baby,Car seats,10,12,47686599
+1591,23,North Europe,North Europe Store 63,2019-06-23,Electronics,Cell Phones,1,50,21297979
+1592,85,North Europe,North Europe Store 63,2019-06-04,Electronics,Cell Phones,1,50,24615113
+1593,6,North Europe,North Europe Store 63,2019-05-21,Furniture,Beds,5,40,95367292
+1594,50,North Europe,North Europe Store 63,2019-01-02,Clothing,Kids,1,25,91531421
+1595,22,North Europe,North Europe Store 63,2019-07-08,Furniture,Indoor tables,6,30,11841326
+1596,29,North Europe,North Europe Store 63,2019-05-23,Clothing,Kids,8,12,71730075
+1597,93,North Europe,North Europe Store 63,2019-04-18,Furniture,Pool furniture,7,75,78494343
+1598,11,North Europe,North Europe Store 63,2019-01-08,Furniture,Patio furniture,5,75,85362388
+1599,58,North Europe,North Europe Store 63,2019-02-17,Beauty/Health,Skincare,2,10,17819911
+1600,75,North Europe,North Europe Store 63,2019-06-17,Electronics,Speakers,1,200,63675937
+1601,6,North Europe,North Europe Store 63,2019-04-01,Furniture,Beds,2,15,30712041
+1602,97,North Europe,North Europe Store 63,2019-02-20,Beauty/Health,Haircare,2,14,79273938
+1603,96,North Europe,North Europe Store 63,2019-06-15,Furniture,Indoor tables,5,30,68331075
+1604,5,North Europe,North Europe Store 63,2019-03-04,Clothing,Mens,2,12,28936149
+1605,76,North Europe,North Europe Store 63,2019-03-15,Beauty/Health,Bath,2,10,49249493
+1606,20,North Europe,North Europe Store 63,2019-06-25,Beauty/Health,Haircare,7,10,94921552
+1607,53,North Europe,North Europe Store 63,2019-03-30,Beauty/Health,Skincare,5,10,71954094
+1608,11,North Europe,North Europe Store 63,2019-05-06,Electronics,Televisions,2,100,51402234
+1609,40,North Europe,North Europe Store 63,2019-03-03,Clothing,Womens,4,10,68034191
+1610,27,North Europe,North Europe Store 63,2019-03-31,Clothing,Kids,5,20,28662007
+1611,8,North Europe,North Europe Store 63,2019-01-19,Electronics,Cell Phones,1,200,31453741
+1612,53,North Europe,North Europe Store 63,2019-07-15,Baby,Cribs,6,12,97618621
+1613,1,North Europe,North Europe Store 63,2019-02-07,Beauty/Health,Bath,1,10,50700227
+1614,42,North Europe,North Europe Store 63,2019-03-17,Beauty/Health,Fragrances,3,14,73560975
+1615,56,North Europe,North Europe Store 63,2019-03-22,Electronics,Televisions,2,50,98953505
+1616,62,North Europe,North Europe Store 63,2019-06-07,Clothing,Baby,5,12,42945243
+1617,21,North Europe,North Europe Store 63,2019-02-16,Electronics,Computers,2,200,91747992
+1618,32,North Europe,North Europe Store 63,2019-03-29,Baby,Baby toys,1,30,52948129
+1619,35,North Europe,North Europe Store 63,2019-03-06,Electronics,Cell Phones,2,50,64119035
+1620,5,North Europe,North Europe Store 63,2019-07-11,Electronics,Headphones,2,200,40908498
+1621,5,North Europe,North Europe Store 63,2019-02-07,Electronics,Cell Phones,1,100,86871143
+1622,11,North Europe,North Europe Store 63,2019-05-26,Electronics,Computers,2,100,24840507
+1623,55,North Europe,North Europe Store 63,2019-07-12,Electronics,Computers,2,100,12653893
+1624,33,North Europe,North Europe Store 63,2019-04-18,Electronics,Computers,1,300,94888929
+1625,59,North Europe,North Europe Store 63,2019-03-05,Electronics,Computers,2,200,34535974
+1626,47,North Europe,North Europe Store 63,2019-05-30,Furniture,Beds,8,100,32740674
+1627,36,North Europe,North Europe Store 63,2019-06-06,Beauty/Health,Feminine Products,3,10,35450973
+1628,48,North Europe,North Europe Store 63,2019-01-15,Electronics,Cell Phones,2,200,40467305
+1629,61,North Europe,North Europe Store 63,2019-05-09,Furniture,Pool furniture,6,30,78823705
+1630,78,North Europe,North Europe Store 63,2019-01-09,Beauty/Health,Makeup,1,15,68358809
+1631,20,North Europe,North Europe Store 63,2019-01-23,Clothing,Kids,4,20,50798084
+1632,73,North Europe,North Europe Store 63,2019-07-01,Baby,Cribs,7,10,93947759
+1633,45,North Europe,North Europe Store 63,2019-05-26,Clothing,Swimwear,7,12,35354612
+1634,33,North Europe,North Europe Store 63,2019-04-01,Beauty/Health,Fragrances,5,6,11025241
+1635,24,North Europe,North Europe Store 63,2019-01-16,Electronics,Speakers,1,50,95725583
+1636,97,North Europe,North Europe Store 63,2019-06-25,Electronics,Tablets,1,300,76136460
+1637,48,North Europe,North Europe Store 63,2019-02-13,Electronics,Televisions,2,100,44202781
+1638,34,North Europe,North Europe Store 63,2019-04-09,Beauty/Health,Bath,5,14,28542669
+1639,16,North Europe,North Europe Store 63,2019-03-02,Clothing,Swimwear,4,13,39465568
+1640,37,North Europe,North Europe Store 63,2019-02-19,Furniture,Indoor tables,5,30,98278410
+1641,91,North Europe,North Europe Store 63,2019-04-20,Clothing,Shoes,6,25,81560796
+1642,43,North Europe,North Europe Store 63,2019-07-10,Beauty/Health,Makeup,7,10,49410502
+1643,98,North Europe,North Europe Store 63,2019-04-29,Furniture,Indoor tables,4,100,69770371
+1644,12,North Europe,North Europe Store 63,2019-03-04,Electronics,Tablets,1,50,38526087
+1645,19,North Europe,North Europe Store 63,2019-03-16,Furniture,Patio furniture,5,15,50164050
+1646,82,North Europe,North Europe Store 63,2019-03-30,Beauty/Health,Haircare,2,6,46875717
+1647,65,North Europe,North Europe Store 63,2019-03-04,Electronics,Headphones,2,300,44652359
+1648,21,North Europe,North Europe Store 63,2019-05-15,Furniture,Pool furniture,7,30,32070841
+1649,66,North Europe,North Europe Store 63,2019-03-29,Clothing,Kids,3,25,74619025
+1650,91,North Europe,North Europe Store 63,2019-06-10,Baby,Diaper bags,5,12,55012910
+1651,99,North Europe,North Europe Store 63,2019-01-20,Clothing,Womens,3,10,73248637
+1652,50,North Europe,North Europe Store 63,2019-01-13,Furniture,Indoor tables,3,40,21155251
+1653,44,North Europe,North Europe Store 63,2019-05-23,Beauty/Health,Haircare,9,15,82082201
+1654,41,North Europe,North Europe Store 63,2019-02-07,Clothing,Mens,3,13,88162921
+1655,71,North Europe,North Europe Store 63,2019-04-28,Clothing,Mens,7,20,33152143
+1656,72,North Europe,North Europe Store 63,2019-06-21,Clothing,Womens,6,25,39134190
+1657,55,North Europe,North Europe Store 63,2019-05-10,Electronics,Televisions,2,50,30422363
+1658,70,North Europe,North Europe Store 63,2019-01-21,Beauty/Health,Haircare,2,14,94267660
+1659,61,North Europe,North Europe Store 63,2019-02-07,Electronics,Cell Phones,2,100,55944434
+1660,88,North Europe,North Europe Store 63,2019-06-14,Beauty/Health,Skincare,9,6,52554722
+1661,9,North Europe,North Europe Store 63,2019-05-29,Clothing,Womens,9,20,78765542
+1662,100,North Europe,North Europe Store 63,2019-05-11,Electronics,Tablets,1,50,44118051
+1663,48,North Europe,North Europe Store 63,2019-02-27,Furniture,Indoor tables,4,100,22334455
+1664,25,North Europe,North Europe Store 63,2019-06-25,Furniture,Beds,3,75,47028060
+1665,33,North Europe,North Europe Store 63,2019-05-20,Clothing,Kids,9,12,66468565
+1666,76,North Europe,North Europe Store 63,2019-03-18,Beauty/Health,Fragrances,5,10,37319923
+1667,85,North Europe,North Europe Store 63,2019-03-15,Baby,Cribs,5,30,19412598
+1668,96,North Europe,North Europe Store 63,2019-05-15,Furniture,Indoor seating,9,100,65706196
+1669,3,North Europe,North Europe Store 63,2019-06-11,Electronics,Cell Phones,1,300,12089470
+1670,85,North Europe,North Europe Store 63,2019-01-06,Furniture,Indoor seating,1,100,51838418
+1671,34,North Europe,North Europe Store 63,2019-01-17,Beauty/Health,Oral care,5,10,44761650
+1672,22,North Europe,North Europe Store 63,2019-02-15,Clothing,Shoes,3,12,24327294
+1673,29,North Europe,North Europe Store 63,2019-04-05,Beauty/Health,Fragrances,2,6,40483814
+1674,87,North Europe,North Europe Store 63,2019-01-27,Clothing,Womens,2,12,78425234
+1675,26,North Europe,North Europe Store 63,2019-03-31,Clothing,Baby,3,25,70500766
+1676,40,North Europe,North Europe Store 63,2019-03-13,Electronics,Headphones,1,100,97106997
+1677,15,North Europe,North Europe Store 63,2019-04-28,Baby,Diaper bags,10,30,46085512
+1678,27,North Europe,North Europe Store 63,2019-01-31,Furniture,Beds,3,75,69738244
+1679,5,North Europe,North Europe Store 63,2019-01-14,Baby,Diaper bags,2,5,29278781
+1680,94,North Europe,North Europe Store 63,2019-05-24,Baby,Baby toys,8,5,26119125
+1681,16,North Europe,North Europe Store 63,2019-06-21,Baby,Cribs,3,15,43904574
+1682,91,North Europe,North Europe Store 63,2019-05-12,Clothing,Kids,3,13,26185223
+1683,83,North Europe,North Europe Store 63,2019-04-06,Furniture,Beds,4,30,63643790
+1684,98,North Europe,North Europe Store 63,2019-02-26,Furniture,Patio furniture,4,100,30541331
+1685,53,North Europe,North Europe Store 63,2019-03-21,Electronics,Televisions,2,200,79217500
+1686,81,North Europe,North Europe Store 63,2019-06-26,Electronics,Televisions,2,200,15248165
+1687,93,North Europe,North Europe Store 63,2019-06-28,Furniture,Indoor seating,3,30,84127188
+1688,51,North Europe,North Europe Store 63,2019-06-11,Baby,Diaper bags,7,15,50395667
+1689,59,North Europe,North Europe Store 63,2019-06-09,Clothing,Shoes,5,25,13100907
+1690,98,North Europe,North Europe Store 63,2019-03-13,Baby,Diaper bags,3,10,21645837
+1691,50,North Europe,North Europe Store 63,2019-07-03,Electronics,Headphones,2,100,87717936
+1692,4,North Europe,North Europe Store 63,2019-02-11,Electronics,Computers,2,200,25724284
+1693,100,North Europe,North Europe Store 63,2019-02-28,Baby,Baby toys,4,30,10621857
+1694,64,North Europe,North Europe Store 63,2019-01-23,Electronics,Cell Phones,2,200,50669747
+1695,62,North Europe,North Europe Store 63,2019-05-18,Furniture,Pool furniture,4,40,79704906
+1696,73,North Europe,North Europe Store 63,2019-06-01,Electronics,Cell Phones,1,200,76613497
+1697,53,North Europe,North Europe Store 63,2019-06-22,Furniture,Patio furniture,5,100,27656179
+1698,18,North Europe,North Europe Store 63,2019-01-06,Baby,Car seats,3,30,87982196
+1699,19,North Europe,North Europe Store 63,2019-01-22,Beauty/Health,Bath,3,10,90615727
+1700,81,North Europe,North Europe Store 63,2019-04-04,Clothing,Womens,5,10,31545654
+1701,48,North Europe,North Europe Store 63,2019-03-20,Clothing,Womens,3,20,68615127
+1702,37,North Europe,North Europe Store 63,2019-06-30,Clothing,Shoes,3,12,50689172
+1703,75,North Europe,North Europe Store 63,2019-03-21,Beauty/Health,Makeup,2,10,38928379
+1704,81,North Europe,North Europe Store 63,2019-04-30,Clothing,Swimwear,7,25,67996887
+1705,43,North Europe,North Europe Store 63,2019-01-21,Baby,Baby toys,3,15,68642257
+1706,24,North Europe,North Europe Store 63,2019-06-23,Furniture,Indoor seating,9,100,40186296
+1707,21,North Europe,North Europe Store 63,2019-06-05,Beauty/Health,Haircare,3,6,25343388
+1708,34,North Europe,North Europe Store 63,2019-02-15,Beauty/Health,Bath,1,10,51814471
+1709,65,North Europe,North Europe Store 63,2019-02-08,Furniture,Beds,1,30,95758809
+1710,98,North Europe,North Europe Store 63,2019-01-30,Clothing,Swimwear,2,25,23509120
+1711,92,North Europe,North Europe Store 63,2019-04-20,Clothing,Womens,6,25,97469366
+1712,75,North Europe,North Europe Store 63,2019-05-23,Clothing,Baby,7,13,85065324
+1713,26,North Europe,North Europe Store 63,2019-06-20,Electronics,Cell Phones,2,100,32068206
+1714,39,North Europe,North Europe Store 63,2019-06-14,Clothing,Womens,6,10,70834657
+1715,54,North Europe,North Europe Store 63,2019-02-26,Baby,Diapers,4,15,86943751
+1716,96,North Europe,North Europe Store 63,2019-06-05,Clothing,Swimwear,3,12,95349636
+1717,4,North Europe,North Europe Store 63,2019-06-20,Baby,Strollers,4,12,53952708
+1718,43,North Europe,North Europe Store 63,2019-01-18,Electronics,Computers,1,100,33734946
+1719,16,North Europe,North Europe Store 63,2019-06-13,Clothing,Kids,10,20,62754961
+1720,56,North Europe,North Europe Store 63,2019-02-17,Furniture,Patio furniture,3,40,82218026
+1721,101,North Europe,North Europe Store 63,2019-02-16,Clothing,Baby,3,20,19409764
+1722,46,North Europe,North Europe Store 63,2019-06-06,Electronics,Televisions,2,50,10814739
+1723,69,North Europe,North Europe Store 63,2019-02-15,Clothing,Womens,2,25,16900402
+1724,94,North Europe,North Europe Store 63,2019-02-02,Electronics,Headphones,2,100,72353487
+1725,10,North Europe,North Europe Store 63,2019-03-02,Beauty/Health,Skincare,3,10,47161113
+1726,38,North Europe,North Europe Store 63,2019-01-16,Baby,Cribs,2,30,91237744
+1727,17,North Europe,North Europe Store 63,2019-05-18,Baby,Strollers,7,30,86924022
+1728,52,North Europe,North Europe Store 63,2019-07-03,Beauty/Health,Fragrances,3,6,87555982
+1729,33,North Europe,North Europe Store 63,2019-01-05,Baby,Diapers,3,10,94797745
+1730,24,North Europe,North Europe Store 63,2019-03-18,Baby,Diaper bags,1,30,92335887
+1731,24,North Europe,North Europe Store 63,2019-01-16,Beauty/Health,Haircare,5,10,32969890
+1732,26,North Europe,North Europe Store 63,2019-03-30,Furniture,Indoor tables,2,100,56716645
+1733,66,North Europe,North Europe Store 63,2019-02-28,Electronics,Cell Phones,1,200,15551687
+1734,23,North Europe,North Europe Store 63,2019-02-06,Clothing,Kids,4,25,78856258
+1735,15,North Europe,North Europe Store 63,2019-01-02,Furniture,Pool furniture,3,40,26816305
+1736,93,North Europe,North Europe Store 63,2019-02-01,Baby,Car seats,4,15,38635510
+1737,41,North Europe,North Europe Store 63,2019-03-10,Baby,Diapers,3,30,23768233
+1738,10,North Europe,North Europe Store 63,2019-01-05,Furniture,Indoor tables,1,75,73378117

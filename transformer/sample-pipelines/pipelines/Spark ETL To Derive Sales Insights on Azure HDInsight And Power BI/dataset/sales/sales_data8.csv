@@ -1,0 +1,1134 @@
+ordernum,quant,region,store,saledate,dep,item,unitsold,unitprice,employeeID
+0,55,East Europe,East Europe Store 8,2019-05-11,Baby,Diapers,3,12,98719227
+1,76,East Europe,East Europe Store 8,2019-04-24,Beauty/Health,Oral care,9,15,28146968
+2,89,East Europe,East Europe Store 8,2019-01-27,Electronics,Computers,1,100,11319282
+3,99,East Europe,East Europe Store 8,2019-05-23,Furniture,Beds,5,15,25744304
+4,53,East Europe,East Europe Store 8,2019-06-24,Beauty/Health,Fragrances,3,10,63132941
+5,16,East Europe,East Europe Store 8,2019-07-10,Electronics,Speakers,1,100,87754960
+6,43,East Europe,East Europe Store 8,2019-04-04,Clothing,Shoes,1,20,13698038
+7,18,East Europe,East Europe Store 8,2019-07-16,Electronics,Cell Phones,1,200,67012777
+8,63,East Europe,East Europe Store 8,2019-02-28,Furniture,Indoor tables,2,75,21499138
+9,72,East Europe,East Europe Store 8,2019-07-14,Clothing,Swimwear,4,12,76103577
+10,101,East Europe,East Europe Store 8,2019-07-16,Electronics,Televisions,2,100,75866330
+11,71,East Europe,East Europe Store 8,2019-05-21,Furniture,Patio furniture,6,40,61057728
+12,78,East Europe,East Europe Store 8,2019-02-01,Clothing,Shoes,2,25,19550668
+13,55,East Europe,East Europe Store 8,2019-02-15,Clothing,Swimwear,2,10,50213376
+14,37,East Europe,East Europe Store 8,2019-04-11,Clothing,Baby,4,13,42473317
+15,93,East Europe,East Europe Store 8,2019-03-24,Electronics,Computers,2,300,42749219
+16,36,East Europe,East Europe Store 8,2019-03-16,Clothing,Mens,2,25,75004315
+17,32,East Europe,East Europe Store 8,2019-02-20,Baby,Baby toys,4,30,12760588
+18,35,East Europe,East Europe Store 8,2019-05-19,Furniture,Patio furniture,7,100,45615189
+19,74,East Europe,East Europe Store 8,2019-06-13,Electronics,Headphones,1,200,40805735
+20,15,East Europe,East Europe Store 8,2019-01-22,Clothing,Womens,4,25,42847293
+21,85,East Europe,East Europe Store 8,2019-05-04,Clothing,Shoes,5,12,84291973
+22,22,East Europe,East Europe Store 8,2019-07-01,Clothing,Shoes,5,20,59793488
+23,58,East Europe,East Europe Store 8,2019-04-23,Clothing,Womens,4,20,89697859
+24,24,East Europe,East Europe Store 8,2019-05-22,Beauty/Health,Fragrances,4,15,16668577
+25,2,East Europe,East Europe Store 8,2019-05-15,Beauty/Health,Fragrances,5,10,98531178
+26,35,East Europe,East Europe Store 8,2019-07-12,Electronics,Cell Phones,2,100,84451547
+27,91,East Europe,East Europe Store 8,2019-01-31,Beauty/Health,Makeup,4,10,22771015
+28,45,East Europe,East Europe Store 8,2019-03-22,Clothing,Baby,4,12,65150320
+29,32,East Europe,East Europe Store 8,2019-04-14,Baby,Diapers,6,15,39733349
+30,81,East Europe,East Europe Store 8,2019-04-23,Baby,Cribs,9,30,40257646
+31,22,East Europe,East Europe Store 8,2019-06-07,Clothing,Womens,8,20,23446474
+32,32,East Europe,East Europe Store 8,2019-02-11,Electronics,Tablets,1,100,72878124
+33,72,East Europe,East Europe Store 8,2019-04-13,Furniture,Pool furniture,9,100,21024658
+34,97,East Europe,East Europe Store 8,2019-06-24,Clothing,Swimwear,6,25,30276980
+35,38,East Europe,East Europe Store 8,2019-05-23,Electronics,Headphones,2,200,36935399
+36,48,East Europe,East Europe Store 8,2019-04-15,Clothing,Womens,9,25,40716587
+37,5,East Europe,East Europe Store 8,2019-03-01,Baby,Diaper bags,4,12,76137419
+38,44,East Europe,East Europe Store 8,2019-03-05,Clothing,Baby,3,20,70683152
+39,51,East Europe,East Europe Store 8,2019-07-01,Beauty/Health,Feminine Products,4,10,58990578
+40,10,East Europe,East Europe Store 8,2019-03-02,Baby,Strollers,1,30,93358924
+41,67,East Europe,East Europe Store 8,2019-04-24,Baby,Cribs,10,15,76532982
+42,39,East Europe,East Europe Store 8,2019-02-23,Clothing,Swimwear,3,25,39557176
+43,82,East Europe,East Europe Store 8,2019-05-20,Baby,Baby toys,3,30,33835680
+44,60,East Europe,East Europe Store 8,2019-02-03,Electronics,Cell Phones,1,100,44469749
+45,94,East Europe,East Europe Store 8,2019-06-16,Beauty/Health,Skincare,6,10,86080848
+46,93,East Europe,East Europe Store 8,2019-05-15,Clothing,Kids,6,10,56966637
+47,8,East Europe,East Europe Store 8,2019-02-13,Beauty/Health,Fragrances,3,10,94292190
+48,66,East Europe,East Europe Store 8,2019-04-28,Electronics,Televisions,1,50,82467849
+49,79,East Europe,East Europe Store 8,2019-01-09,Beauty/Health,Bath,3,10,38438675
+50,7,East Europe,East Europe Store 8,2019-02-23,Furniture,Pool furniture,3,40,83296108
+51,61,East Europe,East Europe Store 8,2019-06-14,Beauty/Health,Skincare,5,10,70034602
+52,51,East Europe,East Europe Store 8,2019-06-03,Beauty/Health,Oral care,3,10,36667651
+53,89,East Europe,East Europe Store 8,2019-02-22,Furniture,Pool furniture,1,100,63273987
+54,27,East Europe,East Europe Store 8,2019-04-03,Baby,Diaper bags,1,15,15198284
+55,23,East Europe,East Europe Store 8,2019-01-07,Baby,Diaper bags,2,5,58080644
+56,18,East Europe,East Europe Store 8,2019-05-13,Clothing,Womens,3,10,76989705
+57,97,East Europe,East Europe Store 8,2019-05-26,Clothing,Womens,10,10,75879748
+58,91,East Europe,East Europe Store 8,2019-03-06,Beauty/Health,Skincare,3,10,36018577
+59,3,East Europe,East Europe Store 8,2019-03-11,Clothing,Shoes,2,10,63027252
+60,97,East Europe,East Europe Store 8,2019-01-12,Electronics,Televisions,1,50,16343320
+61,13,East Europe,East Europe Store 8,2019-01-21,Baby,Car seats,4,12,55918393
+62,58,East Europe,East Europe Store 8,2019-07-03,Furniture,Patio furniture,3,40,34740657
+63,70,East Europe,East Europe Store 8,2019-02-05,Baby,Cribs,4,30,45008793
+64,76,East Europe,East Europe Store 8,2019-02-20,Electronics,Tablets,2,200,71086419
+65,18,East Europe,East Europe Store 8,2019-07-16,Clothing,Shoes,3,25,21333801
+66,11,East Europe,East Europe Store 8,2019-01-26,Baby,Baby toys,5,5,21822425
+67,75,East Europe,East Europe Store 8,2019-06-16,Beauty/Health,Bath,8,15,23108754
+68,39,East Europe,East Europe Store 8,2019-01-15,Electronics,Speakers,1,300,54312684
+69,72,East Europe,East Europe Store 8,2019-02-13,Furniture,Indoor seating,3,15,16275433
+70,81,East Europe,East Europe Store 8,2019-01-04,Baby,Car seats,5,30,50273284
+71,18,East Europe,East Europe Store 8,2019-01-11,Beauty/Health,Oral care,4,10,27395153
+72,21,East Europe,East Europe Store 8,2019-06-07,Beauty/Health,Feminine Products,3,6,72367126
+73,29,East Europe,East Europe Store 8,2019-04-29,Clothing,Swimwear,5,13,28189764
+74,3,East Europe,East Europe Store 8,2019-07-06,Baby,Car seats,8,30,44232407
+75,30,East Europe,East Europe Store 8,2019-06-24,Beauty/Health,Makeup,10,10,46203965
+76,70,East Europe,East Europe Store 8,2019-03-24,Beauty/Health,Feminine Products,3,15,21700113
+77,81,East Europe,East Europe Store 8,2019-07-05,Furniture,Pool furniture,10,15,92649049
+78,52,East Europe,East Europe Store 8,2019-05-02,Furniture,Pool furniture,5,100,66461387
+79,37,East Europe,East Europe Store 8,2019-05-20,Clothing,Baby,6,12,45282018
+80,89,East Europe,East Europe Store 8,2019-05-26,Baby,Baby toys,10,30,52517524
+81,54,East Europe,East Europe Store 8,2019-07-03,Baby,Cribs,7,10,93420145
+82,4,East Europe,East Europe Store 8,2019-04-26,Beauty/Health,Makeup,10,15,92971420
+83,1,East Europe,East Europe Store 8,2019-05-03,Furniture,Beds,9,30,93328537
+84,98,East Europe,East Europe Store 8,2019-05-19,Beauty/Health,Makeup,7,6,62972592
+85,25,East Europe,East Europe Store 8,2019-02-27,Clothing,Swimwear,1,25,37514737
+86,2,East Europe,East Europe Store 8,2019-05-04,Beauty/Health,Fragrances,4,10,79225607
+87,77,East Europe,East Europe Store 8,2019-03-25,Electronics,Tablets,1,100,87738257
+88,8,East Europe,East Europe Store 8,2019-05-31,Furniture,Indoor seating,4,100,82364812
+89,26,East Europe,East Europe Store 8,2019-05-04,Baby,Strollers,6,10,11592607
+90,24,East Europe,East Europe Store 8,2019-05-04,Furniture,Indoor seating,7,100,10222937
+91,16,East Europe,East Europe Store 8,2019-03-21,Electronics,Headphones,1,50,52850158
+92,6,East Europe,East Europe Store 8,2019-02-15,Furniture,Indoor tables,4,40,95422286
+93,43,East Europe,East Europe Store 8,2019-07-15,Baby,Baby toys,5,30,26954789
+94,95,East Europe,East Europe Store 8,2019-05-04,Electronics,Computers,2,50,13292588
+95,40,East Europe,East Europe Store 8,2019-05-30,Furniture,Indoor tables,8,75,20439012
+96,12,East Europe,East Europe Store 8,2019-06-25,Baby,Strollers,4,5,20437111
+97,76,East Europe,East Europe Store 8,2019-05-01,Furniture,Indoor tables,5,100,61512737
+98,63,East Europe,East Europe Store 8,2019-07-02,Beauty/Health,Skincare,5,10,61554500
+99,68,East Europe,East Europe Store 8,2019-02-02,Beauty/Health,Feminine Products,2,14,52418271
+100,28,East Europe,East Europe Store 8,2019-03-20,Clothing,Womens,1,12,69517981
+101,26,East Europe,East Europe Store 8,2019-02-13,Beauty/Health,Makeup,3,10,56591869
+102,66,East Europe,East Europe Store 8,2019-04-22,Clothing,Swimwear,7,12,16395264
+103,63,East Europe,East Europe Store 8,2019-02-10,Electronics,Computers,2,100,44882956
+104,46,East Europe,East Europe Store 8,2019-02-23,Baby,Diaper bags,1,10,78486695
+105,75,East Europe,East Europe Store 8,2019-05-23,Clothing,Womens,9,25,36177626
+106,77,East Europe,East Europe Store 8,2019-03-23,Electronics,Tablets,1,300,43531042
+107,27,East Europe,East Europe Store 8,2019-03-16,Clothing,Kids,1,12,43822338
+108,22,East Europe,East Europe Store 8,2019-05-04,Furniture,Pool furniture,10,75,70568583
+109,86,East Europe,East Europe Store 8,2019-01-10,Clothing,Womens,5,10,69572281
+110,37,East Europe,East Europe Store 8,2019-04-11,Clothing,Womens,7,13,24742122
+111,20,East Europe,East Europe Store 8,2019-04-30,Beauty/Health,Haircare,6,15,88440585
+112,5,East Europe,East Europe Store 8,2019-01-19,Baby,Cribs,5,10,71298012
+113,38,East Europe,East Europe Store 8,2019-01-31,Furniture,Indoor tables,1,15,82832416
+114,69,East Europe,East Europe Store 8,2019-06-08,Furniture,Indoor seating,10,40,59103119
+115,101,East Europe,East Europe Store 8,2019-04-05,Electronics,Speakers,2,50,12880062
+116,79,East Europe,East Europe Store 8,2019-05-05,Baby,Car seats,8,15,59378075
+117,21,East Europe,East Europe Store 8,2019-01-28,Baby,Baby toys,1,30,24224909
+118,86,East Europe,East Europe Store 8,2019-03-20,Baby,Strollers,4,30,30030388
+119,24,East Europe,East Europe Store 8,2019-02-18,Furniture,Indoor tables,3,15,86248907
+120,17,East Europe,East Europe Store 8,2019-07-05,Baby,Strollers,8,15,43175119
+121,35,East Europe,East Europe Store 8,2019-04-02,Baby,Diapers,1,30,70651274
+122,53,East Europe,East Europe Store 8,2019-04-01,Electronics,Computers,2,200,13318934
+123,64,East Europe,East Europe Store 8,2019-07-03,Baby,Cribs,6,30,92419729
+124,101,East Europe,East Europe Store 8,2019-04-24,Clothing,Shoes,6,12,97459548
+125,60,East Europe,East Europe Store 8,2019-06-12,Clothing,Baby,3,20,10210588
+126,65,East Europe,East Europe Store 8,2019-02-19,Baby,Strollers,2,10,86594613
+127,54,East Europe,East Europe Store 8,2019-05-22,Baby,Diaper bags,6,30,83081942
+128,78,East Europe,East Europe Store 8,2019-03-03,Electronics,Cell Phones,2,200,56940427
+129,14,East Europe,East Europe Store 8,2019-02-19,Baby,Diaper bags,5,5,74358116
+130,79,East Europe,East Europe Store 8,2019-03-25,Baby,Diapers,2,15,74586526
+131,11,East Europe,East Europe Store 8,2019-03-06,Beauty/Health,Feminine Products,1,10,49967764
+132,81,East Europe,East Europe Store 8,2019-07-11,Beauty/Health,Fragrances,4,10,87991548
+133,12,East Europe,East Europe Store 8,2019-07-12,Clothing,Baby,7,12,19236541
+134,83,East Europe,East Europe Store 8,2019-02-04,Electronics,Computers,2,50,20433011
+135,48,East Europe,East Europe Store 8,2019-07-09,Clothing,Mens,4,13,88979411
+136,100,East Europe,East Europe Store 8,2019-07-03,Electronics,Headphones,1,100,76383313
+137,50,East Europe,East Europe Store 8,2019-05-05,Electronics,Computers,2,200,43901937
+138,38,East Europe,East Europe Store 8,2019-01-20,Baby,Baby toys,4,5,64290681
+139,100,East Europe,East Europe Store 8,2019-07-08,Furniture,Indoor tables,6,30,65266681
+140,85,East Europe,East Europe Store 8,2019-01-15,Furniture,Pool furniture,3,30,65202678
+141,39,East Europe,East Europe Store 8,2019-04-21,Clothing,Shoes,6,25,52878316
+142,72,East Europe,East Europe Store 8,2019-01-15,Baby,Cribs,4,30,17315813
+143,43,East Europe,East Europe Store 8,2019-07-15,Electronics,Tablets,2,200,78111346
+144,77,East Europe,East Europe Store 8,2019-03-23,Baby,Strollers,5,5,98211625
+145,38,East Europe,East Europe Store 8,2019-02-01,Baby,Strollers,5,30,18735635
+146,21,East Europe,East Europe Store 8,2019-04-16,Electronics,Computers,1,50,60923875
+147,38,East Europe,East Europe Store 8,2019-01-05,Electronics,Tablets,2,300,44530186
+148,16,East Europe,East Europe Store 8,2019-04-25,Baby,Car seats,7,10,44078595
+149,61,East Europe,East Europe Store 8,2019-02-14,Clothing,Shoes,1,25,85241700
+150,20,East Europe,East Europe Store 8,2019-02-26,Furniture,Beds,1,15,78189153
+151,99,East Europe,East Europe Store 8,2019-04-23,Electronics,Computers,1,100,22214339
+152,29,East Europe,East Europe Store 8,2019-06-06,Baby,Baby toys,6,30,87708259
+153,46,East Europe,East Europe Store 8,2019-07-11,Beauty/Health,Makeup,7,6,80257800
+154,7,East Europe,East Europe Store 8,2019-03-05,Furniture,Pool furniture,5,100,31727098
+155,86,East Europe,East Europe Store 8,2019-02-02,Baby,Baby toys,2,30,10895274
+156,77,East Europe,East Europe Store 8,2019-03-19,Electronics,Computers,2,50,54907660
+157,28,East Europe,East Europe Store 8,2019-05-29,Baby,Car seats,3,15,17963172
+158,23,East Europe,East Europe Store 8,2019-05-26,Electronics,Headphones,2,300,94464606
+159,84,East Europe,East Europe Store 8,2019-02-02,Baby,Strollers,5,12,15649277
+160,54,East Europe,East Europe Store 8,2019-03-23,Clothing,Kids,3,25,57568033
+161,20,East Europe,East Europe Store 8,2019-06-26,Electronics,Tablets,2,100,83397861
+162,82,East Europe,East Europe Store 8,2019-01-07,Electronics,Tablets,2,200,93881790
+163,52,East Europe,East Europe Store 8,2019-02-15,Beauty/Health,Haircare,5,10,94165893
+164,30,East Europe,East Europe Store 8,2019-03-06,Furniture,Indoor tables,2,75,65992087
+165,20,East Europe,East Europe Store 8,2019-05-02,Electronics,Headphones,2,300,88692348
+166,9,East Europe,East Europe Store 8,2019-01-08,Electronics,Cell Phones,1,200,85449885
+167,17,East Europe,East Europe Store 8,2019-04-06,Electronics,Headphones,2,50,82843457
+168,47,East Europe,East Europe Store 8,2019-06-09,Clothing,Womens,7,12,33723100
+169,45,East Europe,East Europe Store 8,2019-05-22,Beauty/Health,Oral care,7,10,42405497
+170,14,East Europe,East Europe Store 8,2019-04-22,Beauty/Health,Fragrances,6,15,19445107
+171,98,East Europe,East Europe Store 8,2019-04-08,Beauty/Health,Fragrances,5,10,16323505
+172,62,East Europe,East Europe Store 8,2019-03-04,Baby,Cribs,3,5,62639546
+173,62,East Europe,East Europe Store 8,2019-03-13,Furniture,Patio furniture,4,100,20412618
+174,30,East Europe,East Europe Store 8,2019-07-12,Baby,Baby toys,9,10,94355184
+175,57,East Europe,East Europe Store 8,2019-05-02,Furniture,Pool furniture,5,15,92131025
+176,7,East Europe,East Europe Store 8,2019-03-23,Electronics,Televisions,1,100,80601935
+177,33,East Europe,East Europe Store 8,2019-04-30,Furniture,Indoor tables,10,15,30264745
+178,69,East Europe,East Europe Store 8,2019-04-10,Electronics,Televisions,1,200,36066957
+179,97,East Europe,East Europe Store 8,2019-06-25,Baby,Diaper bags,8,12,30522903
+180,42,East Europe,East Europe Store 8,2019-02-23,Electronics,Cell Phones,2,300,91427519
+181,25,East Europe,East Europe Store 8,2019-06-06,Baby,Diapers,3,10,97312603
+182,8,East Europe,East Europe Store 8,2019-01-29,Baby,Diapers,1,15,43247213
+183,88,East Europe,East Europe Store 8,2019-06-20,Electronics,Tablets,2,200,48745448
+184,30,East Europe,East Europe Store 8,2019-05-20,Beauty/Health,Haircare,5,14,14081757
+185,41,East Europe,East Europe Store 8,2019-04-22,Baby,Baby toys,9,12,47001497
+186,97,East Europe,East Europe Store 8,2019-04-15,Electronics,Televisions,1,100,21222023
+187,48,East Europe,East Europe Store 8,2019-05-12,Baby,Strollers,3,30,95512196
+188,17,East Europe,East Europe Store 8,2019-03-22,Baby,Baby toys,1,10,69054672
+189,20,East Europe,East Europe Store 8,2019-06-19,Furniture,Pool furniture,6,100,42072480
+190,35,East Europe,East Europe Store 8,2019-06-11,Baby,Car seats,4,5,45335585
+191,66,East Europe,East Europe Store 8,2019-03-05,Clothing,Kids,4,12,88908280
+192,14,East Europe,East Europe Store 8,2019-04-12,Electronics,Computers,2,100,54452640
+193,28,East Europe,East Europe Store 8,2019-06-12,Baby,Cribs,4,12,41696291
+194,25,East Europe,East Europe Store 8,2019-04-28,Furniture,Indoor seating,10,75,56427651
+195,88,East Europe,East Europe Store 8,2019-04-11,Clothing,Baby,9,13,48181000
+196,93,East Europe,East Europe Store 8,2019-01-09,Clothing,Swimwear,3,25,28824150
+197,28,East Europe,East Europe Store 8,2019-06-08,Clothing,Baby,3,13,93754114
+198,97,East Europe,East Europe Store 8,2019-06-03,Baby,Diaper bags,6,15,18566281
+199,24,East Europe,East Europe Store 8,2019-03-22,Clothing,Shoes,3,25,67819078
+200,6,East Europe,East Europe Store 8,2019-07-10,Baby,Cribs,9,30,42303478
+201,75,East Europe,East Europe Store 8,2019-04-19,Electronics,Cell Phones,2,50,34931765
+202,52,East Europe,East Europe Store 8,2019-04-12,Beauty/Health,Bath,5,14,69790397
+203,24,East Europe,East Europe Store 8,2019-05-01,Clothing,Mens,6,20,37763009
+204,12,East Europe,East Europe Store 8,2019-04-28,Baby,Car seats,9,30,28946424
+205,3,East Europe,East Europe Store 8,2019-05-30,Furniture,Patio furniture,6,75,73455250
+206,87,East Europe,East Europe Store 8,2019-03-03,Furniture,Pool furniture,3,100,51922198
+207,9,East Europe,East Europe Store 8,2019-05-31,Baby,Cribs,5,30,59905492
+208,94,East Europe,East Europe Store 8,2019-01-07,Electronics,Cell Phones,2,100,44370784
+209,98,East Europe,East Europe Store 8,2019-03-06,Beauty/Health,Skincare,3,10,10159076
+210,23,East Europe,East Europe Store 8,2019-01-26,Baby,Cribs,1,10,16564460
+211,20,East Europe,East Europe Store 8,2019-04-30,Beauty/Health,Feminine Products,4,15,81934564
+212,53,East Europe,East Europe Store 8,2019-02-19,Baby,Baby toys,1,30,18289441
+213,44,East Europe,East Europe Store 8,2019-03-07,Furniture,Beds,2,75,98509838
+214,41,East Europe,East Europe Store 8,2019-03-12,Electronics,Televisions,2,100,66543022
+215,4,East Europe,East Europe Store 8,2019-04-17,Clothing,Mens,10,10,26446348
+216,85,East Europe,East Europe Store 8,2019-01-15,Clothing,Kids,3,12,71833289
+217,97,East Europe,East Europe Store 8,2019-03-03,Electronics,Cell Phones,2,50,91102848
+218,82,East Europe,East Europe Store 8,2019-05-16,Electronics,Cell Phones,2,200,81430488
+219,62,East Europe,East Europe Store 8,2019-07-14,Electronics,Tablets,2,200,79005623
+220,59,East Europe,East Europe Store 8,2019-04-03,Baby,Cribs,5,30,67338770
+221,87,East Europe,East Europe Store 8,2019-05-03,Furniture,Pool furniture,5,15,30155905
+222,57,East Europe,East Europe Store 8,2019-04-14,Baby,Car seats,7,30,26708603
+223,61,East Europe,East Europe Store 8,2019-01-17,Electronics,Tablets,2,200,62885438
+224,63,East Europe,East Europe Store 8,2019-02-16,Electronics,Speakers,1,100,77827682
+225,61,East Europe,East Europe Store 8,2019-06-18,Baby,Cribs,9,30,15700097
+226,87,East Europe,East Europe Store 8,2019-05-20,Furniture,Indoor seating,8,100,43346585
+227,22,East Europe,East Europe Store 8,2019-02-16,Electronics,Speakers,1,200,12306841
+228,57,East Europe,East Europe Store 8,2019-03-14,Electronics,Speakers,2,200,34484553
+229,88,East Europe,East Europe Store 8,2019-01-18,Furniture,Beds,3,15,97209984
+230,79,East Europe,East Europe Store 8,2019-07-09,Furniture,Indoor tables,10,75,88006646
+231,73,East Europe,East Europe Store 8,2019-01-01,Baby,Car seats,3,5,28111691
+232,79,East Europe,East Europe Store 8,2019-05-07,Clothing,Swimwear,4,13,16133123
+233,46,East Europe,East Europe Store 8,2019-01-08,Furniture,Beds,3,30,29545236
+234,83,East Europe,East Europe Store 8,2019-04-02,Electronics,Headphones,2,50,12550642
+235,85,East Europe,East Europe Store 8,2019-03-27,Electronics,Cell Phones,1,200,44516266
+236,33,East Europe,East Europe Store 8,2019-06-27,Electronics,Computers,2,200,56330871
+237,66,East Europe,East Europe Store 8,2019-01-06,Baby,Car seats,1,15,71560303
+238,1,East Europe,East Europe Store 8,2019-06-10,Beauty/Health,Bath,5,10,83856576
+239,96,East Europe,East Europe Store 8,2019-05-15,Furniture,Indoor tables,5,15,66324076
+240,39,East Europe,East Europe Store 8,2019-02-06,Clothing,Shoes,4,25,65913282
+241,82,East Europe,East Europe Store 8,2019-05-09,Baby,Diaper bags,10,15,79258352
+242,22,East Europe,East Europe Store 8,2019-07-05,Clothing,Baby,10,25,63900727
+243,50,East Europe,East Europe Store 8,2019-05-06,Clothing,Swimwear,4,10,15319401
+244,91,East Europe,East Europe Store 8,2019-02-26,Furniture,Patio furniture,5,75,81753698
+245,9,East Europe,East Europe Store 8,2019-01-01,Electronics,Televisions,2,200,86701028
+246,22,East Europe,East Europe Store 8,2019-07-09,Furniture,Indoor seating,10,75,75202397
+247,45,East Europe,East Europe Store 8,2019-04-22,Beauty/Health,Bath,7,10,36957214
+248,19,East Europe,East Europe Store 8,2019-04-15,Baby,Car seats,4,5,83588505
+249,93,East Europe,East Europe Store 8,2019-03-07,Clothing,Shoes,5,25,24121651
+250,50,East Europe,East Europe Store 8,2019-02-25,Electronics,Tablets,1,50,63086024
+251,13,East Europe,East Europe Store 8,2019-01-16,Baby,Diaper bags,2,5,40939191
+252,29,East Europe,East Europe Store 8,2019-01-03,Electronics,Tablets,1,100,72204761
+253,32,East Europe,East Europe Store 8,2019-04-07,Clothing,Womens,2,20,31017327
+254,82,East Europe,East Europe Store 8,2019-05-14,Furniture,Beds,4,15,48993616
+255,94,East Europe,East Europe Store 8,2019-06-18,Electronics,Headphones,2,200,28600876
+256,48,East Europe,East Europe Store 8,2019-04-19,Beauty/Health,Haircare,8,10,29054299
+257,63,East Europe,East Europe Store 8,2019-04-12,Clothing,Shoes,8,12,66859176
+258,95,East Europe,East Europe Store 8,2019-05-24,Furniture,Indoor seating,7,75,37967066
+259,71,East Europe,East Europe Store 8,2019-01-20,Baby,Car seats,3,12,72375025
+260,54,East Europe,East Europe Store 8,2019-07-10,Furniture,Pool furniture,9,15,74899848
+261,16,East Europe,East Europe Store 8,2019-05-20,Clothing,Mens,3,20,58503799
+262,22,East Europe,East Europe Store 8,2019-03-22,Clothing,Mens,5,25,34692522
+263,82,East Europe,East Europe Store 8,2019-02-24,Electronics,Headphones,1,100,39375689
+264,86,East Europe,East Europe Store 8,2019-04-30,Clothing,Kids,7,10,54145784
+265,11,East Europe,East Europe Store 8,2019-06-16,Clothing,Womens,3,13,24991522
+266,99,East Europe,East Europe Store 8,2019-03-22,Furniture,Patio furniture,1,15,97099158
+267,95,East Europe,East Europe Store 8,2019-04-21,Electronics,Headphones,1,100,36667258
+268,54,East Europe,East Europe Store 8,2019-01-31,Beauty/Health,Fragrances,2,10,52681200
+269,92,East Europe,East Europe Store 8,2019-07-07,Electronics,Cell Phones,1,300,74867897
+270,14,East Europe,East Europe Store 8,2019-06-02,Furniture,Indoor tables,6,40,36602883
+271,98,East Europe,East Europe Store 8,2019-01-22,Clothing,Swimwear,1,25,85308111
+272,92,East Europe,East Europe Store 8,2019-03-09,Beauty/Health,Feminine Products,5,10,21492895
+273,34,East Europe,East Europe Store 8,2019-01-09,Beauty/Health,Oral care,5,10,17507271
+274,96,East Europe,East Europe Store 8,2019-06-05,Furniture,Pool furniture,8,30,36172021
+275,80,East Europe,East Europe Store 8,2019-04-27,Beauty/Health,Haircare,10,10,86954526
+276,74,East Europe,East Europe Store 8,2019-07-05,Clothing,Womens,5,13,25553976
+277,12,East Europe,East Europe Store 8,2019-03-21,Baby,Strollers,1,12,44093824
+278,71,East Europe,East Europe Store 8,2019-01-24,Electronics,Speakers,1,300,96311614
+279,28,East Europe,East Europe Store 8,2019-03-18,Electronics,Headphones,1,200,44696674
+280,14,East Europe,East Europe Store 8,2019-03-23,Furniture,Patio furniture,3,40,82544430
+281,53,East Europe,East Europe Store 8,2019-05-28,Beauty/Health,Feminine Products,7,6,67421574
+282,13,East Europe,East Europe Store 8,2019-07-01,Clothing,Shoes,6,13,77852508
+283,59,East Europe,East Europe Store 8,2019-01-16,Furniture,Pool furniture,3,30,61357095
+284,12,East Europe,East Europe Store 8,2019-07-14,Electronics,Televisions,1,200,13188508
+285,67,East Europe,East Europe Store 8,2019-02-05,Electronics,Speakers,1,200,18882909
+286,84,East Europe,East Europe Store 8,2019-01-04,Electronics,Tablets,1,100,44892390
+287,58,East Europe,East Europe Store 8,2019-04-26,Electronics,Tablets,2,100,86700604
+288,8,East Europe,East Europe Store 8,2019-03-17,Beauty/Health,Haircare,4,6,22210497
+289,82,East Europe,East Europe Store 8,2019-07-09,Clothing,Womens,6,25,54443805
+290,74,East Europe,East Europe Store 8,2019-04-16,Baby,Diaper bags,3,30,75337412
+291,39,East Europe,East Europe Store 8,2019-03-22,Beauty/Health,Fragrances,1,14,72179804
+292,3,East Europe,East Europe Store 8,2019-06-10,Furniture,Beds,8,100,66987696
+293,90,East Europe,East Europe Store 8,2019-01-23,Clothing,Womens,1,25,84269216
+294,77,East Europe,East Europe Store 8,2019-05-22,Beauty/Health,Makeup,5,10,52427051
+295,64,East Europe,East Europe Store 8,2019-06-12,Furniture,Indoor seating,3,40,23614280
+296,66,East Europe,East Europe Store 8,2019-04-24,Electronics,Headphones,2,100,84623117
+297,18,East Europe,East Europe Store 8,2019-06-02,Electronics,Speakers,1,300,38818186
+298,44,East Europe,East Europe Store 8,2019-02-10,Furniture,Patio furniture,1,75,69688462
+299,32,East Europe,East Europe Store 8,2019-06-19,Baby,Diapers,3,12,81868981
+300,59,East Europe,East Europe Store 8,2019-04-01,Baby,Baby toys,3,12,62201860
+301,84,East Europe,East Europe Store 8,2019-05-27,Clothing,Baby,4,12,48262141
+302,15,East Europe,East Europe Store 8,2019-03-24,Beauty/Health,Bath,2,10,77645742
+303,74,East Europe,East Europe Store 8,2019-02-22,Beauty/Health,Skincare,3,15,55427368
+304,72,East Europe,East Europe Store 8,2019-03-07,Electronics,Headphones,1,100,98188154
+305,44,East Europe,East Europe Store 8,2019-04-29,Electronics,Tablets,1,100,32193194
+306,36,East Europe,East Europe Store 8,2019-07-07,Baby,Baby toys,4,10,44644975
+307,55,East Europe,East Europe Store 8,2019-05-25,Clothing,Baby,6,13,43874357
+308,46,East Europe,East Europe Store 8,2019-06-14,Baby,Cribs,3,5,22324432
+309,74,East Europe,East Europe Store 8,2019-06-17,Beauty/Health,Haircare,6,10,96272444
+310,60,East Europe,East Europe Store 8,2019-03-02,Clothing,Womens,2,13,78606813
+311,16,East Europe,East Europe Store 8,2019-05-03,Baby,Strollers,4,5,67015213
+312,58,East Europe,East Europe Store 8,2019-03-19,Baby,Baby toys,4,10,51282161
+313,67,East Europe,East Europe Store 8,2019-06-18,Clothing,Mens,7,25,35334279
+314,79,East Europe,East Europe Store 8,2019-01-22,Electronics,Tablets,2,100,77934130
+315,52,East Europe,East Europe Store 8,2019-06-27,Furniture,Patio furniture,4,15,35055903
+316,41,East Europe,East Europe Store 8,2019-04-26,Electronics,Tablets,2,50,47233753
+317,18,East Europe,East Europe Store 8,2019-06-26,Clothing,Mens,3,13,89950418
+318,46,East Europe,East Europe Store 8,2019-06-24,Beauty/Health,Oral care,4,6,57947626
+319,28,East Europe,East Europe Store 8,2019-03-26,Furniture,Indoor seating,3,30,77688561
+320,45,East Europe,East Europe Store 8,2019-06-30,Baby,Baby toys,8,30,19258148
+321,9,East Europe,East Europe Store 8,2019-05-04,Baby,Diaper bags,6,30,32674084
+322,31,East Europe,East Europe Store 8,2019-02-09,Baby,Diaper bags,1,30,10491962
+323,55,East Europe,East Europe Store 8,2019-06-11,Beauty/Health,Fragrances,9,10,84719422
+324,76,East Europe,East Europe Store 8,2019-06-05,Baby,Diaper bags,9,30,63124727
+325,16,East Europe,East Europe Store 8,2019-01-12,Electronics,Televisions,2,50,43650518
+326,94,East Europe,East Europe Store 8,2019-07-13,Electronics,Computers,2,200,28984589
+327,56,East Europe,East Europe Store 8,2019-05-28,Beauty/Health,Haircare,5,14,39064326
+328,93,East Europe,East Europe Store 8,2019-03-21,Clothing,Swimwear,4,12,72185967
+329,82,East Europe,East Europe Store 8,2019-04-21,Electronics,Cell Phones,1,300,84082668
+330,34,East Europe,East Europe Store 8,2019-04-30,Baby,Car seats,10,15,92024959
+331,34,East Europe,East Europe Store 8,2019-04-19,Baby,Strollers,8,5,91445552
+332,36,East Europe,East Europe Store 8,2019-06-23,Baby,Diapers,7,30,19349794
+333,82,East Europe,East Europe Store 8,2019-02-08,Baby,Strollers,2,5,14647225
+334,83,East Europe,East Europe Store 8,2019-05-18,Clothing,Swimwear,3,20,29704244
+335,53,East Europe,East Europe Store 8,2019-04-07,Clothing,Kids,3,25,40048343
+336,3,East Europe,East Europe Store 8,2019-04-12,Electronics,Computers,2,200,48437561
+337,12,East Europe,East Europe Store 8,2019-05-06,Electronics,Cell Phones,2,300,92968105
+338,95,East Europe,East Europe Store 8,2019-07-10,Clothing,Baby,7,25,66550686
+339,97,East Europe,East Europe Store 8,2019-04-20,Electronics,Tablets,1,200,12507561
+340,61,East Europe,East Europe Store 8,2019-01-01,Furniture,Pool furniture,1,75,83018784
+341,99,East Europe,East Europe Store 8,2019-06-22,Furniture,Patio furniture,10,15,17518114
+342,96,East Europe,East Europe Store 8,2019-02-24,Baby,Diapers,1,10,80558357
+343,33,East Europe,East Europe Store 8,2019-01-17,Clothing,Baby,3,12,60311777
+344,91,East Europe,East Europe Store 8,2019-03-29,Electronics,Tablets,2,300,48602078
+345,48,East Europe,East Europe Store 8,2019-06-20,Clothing,Mens,10,20,15714696
+346,80,East Europe,East Europe Store 8,2019-05-04,Electronics,Speakers,1,50,34857207
+347,101,East Europe,East Europe Store 8,2019-04-16,Electronics,Computers,2,200,55688478
+348,68,East Europe,East Europe Store 8,2019-03-11,Beauty/Health,Skincare,1,14,15081617
+349,76,East Europe,East Europe Store 8,2019-01-01,Beauty/Health,Makeup,2,6,66173033
+350,44,East Europe,East Europe Store 8,2019-04-15,Electronics,Televisions,1,300,82714172
+351,85,East Europe,East Europe Store 8,2019-01-24,Electronics,Speakers,2,100,50020927
+352,69,East Europe,East Europe Store 8,2019-05-14,Baby,Diaper bags,8,30,40420825
+353,43,East Europe,East Europe Store 8,2019-03-03,Electronics,Televisions,2,300,78634872
+354,6,East Europe,East Europe Store 8,2019-07-14,Beauty/Health,Oral care,7,10,88391480
+355,52,East Europe,East Europe Store 8,2019-05-20,Electronics,Televisions,1,200,44337132
+356,37,East Europe,East Europe Store 8,2019-04-01,Furniture,Indoor seating,5,100,30940969
+357,79,East Europe,East Europe Store 8,2019-02-05,Clothing,Shoes,1,13,88094701
+358,99,East Europe,East Europe Store 8,2019-04-12,Baby,Strollers,7,15,21671244
+359,94,East Europe,East Europe Store 8,2019-03-17,Furniture,Beds,3,30,72268015
+360,92,East Europe,East Europe Store 8,2019-01-08,Beauty/Health,Makeup,4,14,29373639
+361,93,East Europe,East Europe Store 8,2019-07-03,Electronics,Tablets,1,100,13189696
+362,77,East Europe,East Europe Store 8,2019-05-26,Clothing,Swimwear,4,10,48333434
+363,13,East Europe,East Europe Store 8,2019-05-06,Electronics,Cell Phones,2,300,53421979
+364,28,East Europe,East Europe Store 8,2019-03-25,Baby,Diapers,4,5,77553122
+365,35,East Europe,East Europe Store 8,2019-06-14,Clothing,Mens,7,20,94564918
+366,13,East Europe,East Europe Store 8,2019-01-06,Baby,Diaper bags,5,30,86567455
+367,75,East Europe,East Europe Store 8,2019-04-11,Beauty/Health,Feminine Products,9,10,36067915
+368,90,East Europe,East Europe Store 8,2019-03-28,Baby,Car seats,1,5,41479095
+369,61,East Europe,East Europe Store 8,2019-05-08,Furniture,Beds,5,40,37272970
+370,70,East Europe,East Europe Store 8,2019-06-28,Baby,Baby toys,6,15,58124698
+371,69,East Europe,East Europe Store 8,2019-05-04,Beauty/Health,Feminine Products,8,6,49476402
+372,50,East Europe,East Europe Store 8,2019-03-10,Baby,Strollers,3,5,79503103
+373,101,East Europe,East Europe Store 8,2019-01-03,Beauty/Health,Bath,1,10,52374662
+374,95,East Europe,East Europe Store 8,2019-07-11,Beauty/Health,Skincare,7,14,17970085
+375,98,East Europe,East Europe Store 8,2019-07-04,Clothing,Kids,10,20,24760228
+376,31,East Europe,East Europe Store 8,2019-06-06,Furniture,Beds,5,75,46016596
+377,35,East Europe,East Europe Store 8,2019-03-24,Beauty/Health,Oral care,3,15,86597862
+378,1,East Europe,East Europe Store 8,2019-05-02,Beauty/Health,Feminine Products,7,6,47588470
+379,56,East Europe,East Europe Store 8,2019-02-14,Electronics,Headphones,2,50,40060785
+380,31,East Europe,East Europe Store 8,2019-02-14,Baby,Car seats,1,5,54530660
+381,83,East Europe,East Europe Store 8,2019-05-28,Clothing,Shoes,10,12,92161753
+382,26,East Europe,East Europe Store 8,2019-07-10,Clothing,Mens,10,20,21463002
+383,52,East Europe,East Europe Store 8,2019-05-28,Beauty/Health,Feminine Products,4,10,82932737
+384,88,East Europe,East Europe Store 8,2019-05-06,Baby,Car seats,10,10,81067259
+385,20,East Europe,East Europe Store 8,2019-05-21,Beauty/Health,Feminine Products,10,10,51322789
+386,21,East Europe,East Europe Store 8,2019-01-10,Clothing,Mens,5,10,93083871
+387,62,East Europe,East Europe Store 8,2019-05-08,Baby,Car seats,8,30,39335337
+388,24,East Europe,East Europe Store 8,2019-04-22,Beauty/Health,Skincare,5,6,90005408
+389,59,East Europe,East Europe Store 8,2019-05-17,Furniture,Pool furniture,3,40,57657448
+390,98,East Europe,East Europe Store 8,2019-01-16,Electronics,Televisions,1,100,77743101
+391,35,East Europe,East Europe Store 8,2019-06-30,Furniture,Indoor tables,4,75,72397197
+392,79,East Europe,East Europe Store 8,2019-07-06,Clothing,Mens,3,12,69930209
+393,62,East Europe,East Europe Store 8,2019-05-04,Clothing,Mens,3,13,34212147
+394,22,East Europe,East Europe Store 8,2019-04-28,Electronics,Computers,1,300,41436164
+395,91,East Europe,East Europe Store 8,2019-06-25,Furniture,Indoor tables,3,30,88679820
+396,36,East Europe,East Europe Store 8,2019-01-13,Beauty/Health,Skincare,3,10,53326522
+397,93,East Europe,East Europe Store 8,2019-07-06,Furniture,Beds,7,40,21753908
+398,44,East Europe,East Europe Store 8,2019-06-04,Electronics,Speakers,1,100,76589489
+399,78,East Europe,East Europe Store 8,2019-04-19,Clothing,Mens,3,13,33750972
+400,54,East Europe,East Europe Store 8,2019-03-01,Electronics,Cell Phones,2,50,66467747
+401,79,East Europe,East Europe Store 8,2019-01-25,Furniture,Pool furniture,1,40,16640124
+402,10,East Europe,East Europe Store 8,2019-01-01,Baby,Strollers,1,12,30106321
+403,99,East Europe,East Europe Store 8,2019-02-08,Furniture,Pool furniture,5,100,57715544
+404,37,East Europe,East Europe Store 8,2019-06-18,Clothing,Womens,7,25,21972354
+405,22,East Europe,East Europe Store 8,2019-03-30,Clothing,Womens,4,10,91120560
+406,57,East Europe,East Europe Store 8,2019-06-24,Electronics,Cell Phones,2,200,10904603
+407,12,East Europe,East Europe Store 8,2019-07-14,Beauty/Health,Makeup,3,15,50998427
+408,17,East Europe,East Europe Store 8,2019-01-05,Baby,Cribs,2,30,77692826
+409,52,East Europe,East Europe Store 8,2019-04-25,Beauty/Health,Haircare,7,10,55159430
+410,89,East Europe,East Europe Store 8,2019-02-22,Baby,Diaper bags,1,5,68266120
+411,66,East Europe,East Europe Store 8,2019-06-26,Beauty/Health,Skincare,7,6,37242914
+412,59,East Europe,East Europe Store 8,2019-05-25,Beauty/Health,Feminine Products,6,10,60017497
+413,99,East Europe,East Europe Store 8,2019-03-14,Furniture,Patio furniture,5,40,52833830
+414,38,East Europe,East Europe Store 8,2019-01-18,Baby,Strollers,5,5,13810512
+415,31,East Europe,East Europe Store 8,2019-06-25,Electronics,Headphones,1,300,12453656
+416,92,East Europe,East Europe Store 8,2019-02-19,Beauty/Health,Feminine Products,2,10,76850209
+417,43,East Europe,East Europe Store 8,2019-01-02,Beauty/Health,Oral care,2,6,56623982
+418,45,East Europe,East Europe Store 8,2019-06-02,Clothing,Swimwear,8,10,99567056
+419,23,East Europe,East Europe Store 8,2019-06-30,Clothing,Kids,9,12,58477519
+420,40,East Europe,East Europe Store 8,2019-03-01,Clothing,Shoes,1,25,76514439
+421,31,East Europe,East Europe Store 8,2019-02-20,Electronics,Headphones,2,200,84343124
+422,51,East Europe,East Europe Store 8,2019-04-06,Baby,Baby toys,4,30,91849369
+423,46,East Europe,East Europe Store 8,2019-07-03,Baby,Baby toys,8,12,45367058
+424,73,East Europe,East Europe Store 8,2019-02-08,Beauty/Health,Haircare,1,15,39532190
+425,47,East Europe,East Europe Store 8,2019-02-26,Electronics,Televisions,1,200,73044564
+426,50,East Europe,East Europe Store 8,2019-03-03,Baby,Diaper bags,2,12,74270160
+427,23,East Europe,East Europe Store 8,2019-03-07,Clothing,Kids,4,25,89316337
+428,25,East Europe,East Europe Store 8,2019-07-08,Baby,Cribs,8,30,98603305
+429,27,East Europe,East Europe Store 8,2019-01-11,Baby,Strollers,5,12,88642340
+430,34,East Europe,East Europe Store 8,2019-04-05,Beauty/Health,Feminine Products,1,14,18182952
+431,49,East Europe,East Europe Store 8,2019-03-30,Baby,Baby toys,5,30,90557499
+432,79,East Europe,East Europe Store 8,2019-04-07,Furniture,Patio furniture,1,100,76165757
+433,13,East Europe,East Europe Store 8,2019-02-13,Baby,Diaper bags,2,10,52052491
+434,51,East Europe,East Europe Store 8,2019-03-12,Baby,Car seats,5,12,27550594
+435,92,East Europe,East Europe Store 8,2019-03-26,Beauty/Health,Haircare,1,6,24129738
+436,62,East Europe,East Europe Store 8,2019-03-19,Baby,Baby toys,3,10,81810869
+437,7,East Europe,East Europe Store 8,2019-07-02,Electronics,Tablets,1,100,56091508
+438,5,East Europe,East Europe Store 8,2019-05-05,Clothing,Kids,4,13,87468904
+439,38,East Europe,East Europe Store 8,2019-06-16,Electronics,Televisions,2,200,53944784
+440,82,East Europe,East Europe Store 8,2019-03-20,Clothing,Shoes,5,25,65122819
+441,8,East Europe,East Europe Store 8,2019-01-05,Electronics,Televisions,1,200,47366040
+442,92,East Europe,East Europe Store 8,2019-03-29,Baby,Cribs,3,15,64374247
+443,87,East Europe,East Europe Store 8,2019-02-04,Electronics,Speakers,1,200,26243583
+444,1,East Europe,East Europe Store 8,2019-03-22,Electronics,Speakers,2,100,15597063
+445,60,East Europe,East Europe Store 8,2019-05-07,Clothing,Shoes,4,25,13116248
+446,13,East Europe,East Europe Store 8,2019-07-08,Beauty/Health,Bath,9,14,62822128
+447,66,East Europe,East Europe Store 8,2019-04-24,Baby,Cribs,6,30,64033683
+448,32,East Europe,East Europe Store 8,2019-07-02,Beauty/Health,Feminine Products,7,10,39213311
+449,39,East Europe,East Europe Store 8,2019-03-26,Beauty/Health,Fragrances,5,10,69276229
+450,3,East Europe,East Europe Store 8,2019-02-18,Clothing,Mens,2,25,35209878
+451,67,East Europe,East Europe Store 8,2019-06-05,Baby,Car seats,10,10,54174497
+452,100,East Europe,East Europe Store 8,2019-05-09,Clothing,Womens,6,10,65711271
+453,7,East Europe,East Europe Store 8,2019-06-02,Beauty/Health,Bath,10,10,50728800
+454,13,East Europe,East Europe Store 8,2019-04-09,Electronics,Computers,1,200,59384895
+455,11,East Europe,East Europe Store 8,2019-07-02,Baby,Diaper bags,7,30,59936646
+456,29,East Europe,East Europe Store 8,2019-05-19,Furniture,Patio furniture,7,100,51563411
+457,54,East Europe,East Europe Store 8,2019-04-25,Beauty/Health,Oral care,5,6,45870397
+458,10,East Europe,East Europe Store 8,2019-04-18,Beauty/Health,Bath,4,14,98811630
+459,66,East Europe,East Europe Store 8,2019-04-24,Clothing,Kids,10,25,48653524
+460,66,East Europe,East Europe Store 8,2019-04-30,Furniture,Indoor tables,4,30,60921232
+461,46,East Europe,East Europe Store 8,2019-02-10,Electronics,Cell Phones,1,100,14108392
+462,88,East Europe,East Europe Store 8,2019-02-13,Electronics,Televisions,1,100,42955534
+463,72,East Europe,East Europe Store 8,2019-06-07,Clothing,Swimwear,6,12,91462807
+464,93,East Europe,East Europe Store 8,2019-01-31,Baby,Baby toys,5,30,33562406
+465,99,East Europe,East Europe Store 8,2019-06-09,Clothing,Swimwear,6,25,33353566
+466,64,East Europe,East Europe Store 8,2019-01-05,Electronics,Tablets,2,300,75078015
+467,47,East Europe,East Europe Store 8,2019-04-19,Baby,Baby toys,8,30,52624198
+468,55,East Europe,East Europe Store 8,2019-01-27,Baby,Car seats,2,30,73487699
+469,25,East Europe,East Europe Store 8,2019-07-15,Furniture,Beds,9,75,10369156
+470,36,East Europe,East Europe Store 8,2019-04-13,Beauty/Health,Feminine Products,3,15,24004743
+471,83,East Europe,East Europe Store 8,2019-04-06,Furniture,Indoor tables,3,75,54101808
+472,42,East Europe,East Europe Store 8,2019-05-08,Clothing,Mens,3,20,41640384
+473,90,East Europe,East Europe Store 8,2019-06-11,Baby,Strollers,7,30,77648789
+474,66,East Europe,East Europe Store 8,2019-03-12,Electronics,Tablets,1,200,89838536
+475,81,East Europe,East Europe Store 8,2019-05-26,Electronics,Televisions,1,300,64993254
+476,22,East Europe,East Europe Store 8,2019-02-01,Furniture,Indoor tables,5,75,92917904
+477,16,East Europe,East Europe Store 8,2019-02-06,Baby,Car seats,4,12,68799500
+478,80,East Europe,East Europe Store 8,2019-05-18,Baby,Diapers,8,30,18803795
+479,25,East Europe,East Europe Store 8,2019-05-30,Baby,Cribs,6,12,88052047
+480,82,East Europe,East Europe Store 8,2019-04-19,Electronics,Headphones,2,50,58052210
+481,86,East Europe,East Europe Store 8,2019-02-10,Beauty/Health,Makeup,1,10,36463798
+482,62,East Europe,East Europe Store 8,2019-06-20,Electronics,Cell Phones,1,200,87163721
+483,86,East Europe,East Europe Store 8,2019-06-27,Furniture,Indoor tables,10,15,57126122
+484,20,East Europe,East Europe Store 8,2019-02-25,Clothing,Kids,1,10,26797655
+485,13,East Europe,East Europe Store 8,2019-01-12,Clothing,Shoes,1,10,93424084
+486,80,East Europe,East Europe Store 8,2019-07-04,Clothing,Kids,6,13,63638797
+487,16,East Europe,East Europe Store 8,2019-05-21,Baby,Baby toys,3,15,67764886
+488,38,East Europe,East Europe Store 8,2019-05-16,Beauty/Health,Skincare,6,14,39853632
+489,85,East Europe,East Europe Store 8,2019-01-24,Clothing,Swimwear,1,12,41515684
+490,92,East Europe,East Europe Store 8,2019-05-22,Electronics,Televisions,1,300,53180171
+491,98,East Europe,East Europe Store 8,2019-01-07,Electronics,Headphones,2,50,53278182
+492,42,East Europe,East Europe Store 8,2019-04-14,Furniture,Pool furniture,4,75,46931449
+493,24,East Europe,East Europe Store 8,2019-02-14,Baby,Baby toys,1,10,17706612
+494,34,East Europe,East Europe Store 8,2019-06-14,Baby,Cribs,10,30,74219737
+495,22,East Europe,East Europe Store 8,2019-05-07,Baby,Diapers,6,30,85854801
+496,53,East Europe,East Europe Store 8,2019-06-09,Beauty/Health,Makeup,6,6,88639004
+497,87,East Europe,East Europe Store 8,2019-05-05,Furniture,Pool furniture,5,40,98096307
+498,9,East Europe,East Europe Store 8,2019-04-01,Clothing,Kids,3,10,29142160
+499,25,East Europe,East Europe Store 8,2019-01-06,Beauty/Health,Haircare,5,6,35099195
+500,18,East Europe,East Europe Store 8,2019-06-18,Furniture,Indoor tables,9,75,55196838
+501,40,East Europe,East Europe Store 8,2019-07-16,Baby,Strollers,9,15,76322236
+502,73,East Europe,East Europe Store 8,2019-03-01,Baby,Cribs,1,30,91106670
+503,78,East Europe,East Europe Store 8,2019-05-22,Electronics,Headphones,2,50,12582463
+504,97,East Europe,East Europe Store 8,2019-01-28,Clothing,Mens,1,12,60766098
+505,8,East Europe,East Europe Store 8,2019-01-04,Clothing,Swimwear,5,12,68982606
+506,65,East Europe,East Europe Store 8,2019-02-24,Electronics,Computers,2,50,93498880
+507,9,East Europe,East Europe Store 8,2019-01-02,Electronics,Speakers,1,100,88499796
+508,56,East Europe,East Europe Store 8,2019-02-07,Clothing,Baby,4,10,13367175
+509,90,East Europe,East Europe Store 8,2019-01-06,Baby,Baby toys,5,30,41989204
+510,4,East Europe,East Europe Store 8,2019-05-30,Clothing,Kids,7,20,88895634
+511,33,East Europe,East Europe Store 8,2019-01-20,Clothing,Mens,3,10,84859718
+512,14,East Europe,East Europe Store 8,2019-05-17,Electronics,Computers,2,100,78018474
+513,11,East Europe,East Europe Store 8,2019-01-17,Baby,Diapers,3,10,33291355
+514,13,East Europe,East Europe Store 8,2019-04-13,Beauty/Health,Makeup,10,10,15696516
+515,11,East Europe,East Europe Store 8,2019-01-07,Electronics,Headphones,1,300,15808088
+516,29,East Europe,East Europe Store 8,2019-04-29,Clothing,Swimwear,9,13,83022762
+517,100,East Europe,East Europe Store 8,2019-02-07,Furniture,Patio furniture,4,100,13201372
+518,15,East Europe,East Europe Store 8,2019-03-31,Clothing,Swimwear,2,25,88650393
+519,34,East Europe,East Europe Store 8,2019-03-22,Furniture,Indoor seating,5,15,27549325
+520,3,East Europe,East Europe Store 8,2019-04-22,Electronics,Cell Phones,2,100,79297043
+521,24,East Europe,East Europe Store 8,2019-01-03,Clothing,Baby,1,10,34581963
+522,4,East Europe,East Europe Store 8,2019-01-08,Clothing,Womens,4,13,52619438
+523,52,East Europe,East Europe Store 8,2019-05-29,Clothing,Womens,5,25,78979747
+524,69,East Europe,East Europe Store 8,2019-07-14,Beauty/Health,Haircare,10,10,55484910
+525,24,East Europe,East Europe Store 8,2019-01-06,Electronics,Tablets,2,200,54783971
+526,26,East Europe,East Europe Store 8,2019-01-29,Baby,Diapers,2,15,41556555
+527,43,East Europe,East Europe Store 8,2019-05-06,Baby,Car seats,9,30,43986896
+528,87,East Europe,East Europe Store 8,2019-01-02,Furniture,Patio furniture,3,30,70744331
+529,31,East Europe,East Europe Store 8,2019-06-24,Furniture,Patio furniture,7,75,84761755
+530,82,East Europe,East Europe Store 8,2019-05-20,Beauty/Health,Haircare,7,10,56283947
+531,40,East Europe,East Europe Store 8,2019-06-16,Electronics,Speakers,2,200,31910392
+532,48,East Europe,East Europe Store 8,2019-02-18,Electronics,Speakers,1,100,58114655
+533,77,East Europe,East Europe Store 8,2019-05-11,Baby,Car seats,8,30,63919227
+534,59,East Europe,East Europe Store 8,2019-06-07,Beauty/Health,Skincare,7,10,29635353
+535,31,East Europe,East Europe Store 8,2019-06-02,Baby,Baby toys,3,30,68610616
+536,48,East Europe,East Europe Store 8,2019-04-23,Baby,Diapers,3,30,90620379
+537,12,East Europe,East Europe Store 8,2019-02-27,Beauty/Health,Makeup,1,10,70017666
+538,61,East Europe,East Europe Store 8,2019-03-13,Beauty/Health,Oral care,3,10,50112510
+539,75,East Europe,East Europe Store 8,2019-01-20,Clothing,Shoes,2,25,66955697
+540,54,East Europe,East Europe Store 8,2019-01-15,Baby,Cribs,3,30,15417553
+541,7,East Europe,East Europe Store 8,2019-07-14,Beauty/Health,Fragrances,10,10,71963343
+542,89,East Europe,East Europe Store 8,2019-07-02,Baby,Baby toys,9,12,47565736
+543,30,East Europe,East Europe Store 8,2019-06-06,Furniture,Beds,4,100,99224443
+544,86,East Europe,East Europe Store 8,2019-03-25,Baby,Cribs,2,5,87194860
+545,75,East Europe,East Europe Store 8,2019-05-01,Electronics,Speakers,2,100,67187196
+546,23,East Europe,East Europe Store 8,2019-01-28,Baby,Diaper bags,3,5,74247737
+547,10,East Europe,East Europe Store 8,2019-05-05,Furniture,Beds,10,30,58735271
+548,65,East Europe,East Europe Store 8,2019-02-18,Beauty/Health,Fragrances,3,10,48272631
+549,93,East Europe,East Europe Store 8,2019-05-31,Beauty/Health,Skincare,8,10,88011414
+550,85,East Europe,East Europe Store 8,2019-01-31,Beauty/Health,Skincare,4,10,44543716
+551,44,East Europe,East Europe Store 8,2019-01-10,Beauty/Health,Oral care,4,10,13762129
+552,79,East Europe,East Europe Store 8,2019-06-20,Furniture,Patio furniture,6,15,68303245
+553,56,East Europe,East Europe Store 8,2019-03-24,Clothing,Kids,3,12,75584470
+554,24,East Europe,East Europe Store 8,2019-01-03,Furniture,Pool furniture,3,40,89621165
+555,94,East Europe,East Europe Store 8,2019-06-28,Baby,Strollers,8,5,74430045
+556,94,East Europe,East Europe Store 8,2019-07-10,Furniture,Pool furniture,4,30,24310669
+557,43,East Europe,East Europe Store 8,2019-03-20,Beauty/Health,Haircare,2,10,56540050
+558,97,East Europe,East Europe Store 8,2019-05-18,Beauty/Health,Bath,7,10,47324862
+559,88,East Europe,East Europe Store 8,2019-05-03,Baby,Cribs,6,30,66622430
+560,42,East Europe,East Europe Store 8,2019-03-25,Furniture,Patio furniture,5,30,84456203
+561,84,East Europe,East Europe Store 8,2019-02-11,Clothing,Shoes,5,25,36590615
+562,94,East Europe,East Europe Store 8,2019-01-30,Baby,Diapers,3,30,48274713
+563,53,East Europe,East Europe Store 8,2019-01-16,Beauty/Health,Makeup,3,14,42713253
+564,63,East Europe,East Europe Store 8,2019-06-10,Clothing,Swimwear,5,20,10722089
+565,92,East Europe,East Europe Store 8,2019-06-23,Beauty/Health,Bath,8,14,69820191
+566,36,East Europe,East Europe Store 8,2019-05-09,Baby,Car seats,4,30,12391365
+567,79,East Europe,East Europe Store 8,2019-05-13,Baby,Car seats,4,10,43417834
+568,37,East Europe,East Europe Store 8,2019-02-16,Beauty/Health,Fragrances,4,10,65445632
+569,67,East Europe,East Europe Store 8,2019-02-13,Electronics,Televisions,2,300,14029057
+570,13,East Europe,East Europe Store 8,2019-06-16,Clothing,Baby,4,25,81995767
+571,19,East Europe,East Europe Store 8,2019-01-08,Clothing,Womens,3,25,50210484
+572,74,East Europe,East Europe Store 8,2019-06-02,Baby,Baby toys,5,15,59765203
+573,95,East Europe,East Europe Store 8,2019-06-07,Beauty/Health,Oral care,7,10,85258330
+574,37,East Europe,East Europe Store 8,2019-04-26,Beauty/Health,Bath,7,10,43975387
+575,89,East Europe,East Europe Store 8,2019-07-10,Furniture,Indoor tables,5,75,96523643
+576,44,East Europe,East Europe Store 8,2019-05-26,Electronics,Cell Phones,1,200,35849974
+577,47,East Europe,East Europe Store 8,2019-04-24,Electronics,Speakers,2,200,13504362
+578,21,East Europe,East Europe Store 8,2019-07-11,Baby,Car seats,7,12,34053993
+579,51,East Europe,East Europe Store 8,2019-04-12,Baby,Cribs,3,30,56947561
+580,71,East Europe,East Europe Store 8,2019-01-27,Baby,Diapers,2,12,68888731
+581,37,East Europe,East Europe Store 8,2019-01-19,Beauty/Health,Fragrances,1,10,52730056
+582,17,East Europe,East Europe Store 8,2019-03-25,Baby,Car seats,4,30,62996130
+583,95,East Europe,East Europe Store 8,2019-01-02,Baby,Car seats,4,10,25791763
+584,38,East Europe,East Europe Store 8,2019-05-12,Baby,Cribs,7,15,71523054
+585,17,East Europe,East Europe Store 8,2019-06-15,Clothing,Baby,6,13,56090487
+586,19,East Europe,East Europe Store 8,2019-06-14,Beauty/Health,Feminine Products,5,10,37300998
+587,86,East Europe,East Europe Store 8,2019-01-23,Furniture,Indoor tables,1,15,13527482
+588,54,East Europe,East Europe Store 8,2019-04-17,Beauty/Health,Fragrances,4,6,95871759
+589,85,East Europe,East Europe Store 8,2019-06-23,Electronics,Headphones,1,100,45789862
+590,100,East Europe,East Europe Store 8,2019-03-06,Clothing,Womens,5,12,34519559
+591,77,East Europe,East Europe Store 8,2019-04-04,Clothing,Kids,3,25,79128319
+592,32,East Europe,East Europe Store 8,2019-03-14,Beauty/Health,Makeup,1,15,32118067
+593,35,East Europe,East Europe Store 8,2019-03-15,Clothing,Womens,4,25,75655366
+594,63,East Europe,East Europe Store 8,2019-01-14,Clothing,Womens,2,25,92519977
+595,33,East Europe,East Europe Store 8,2019-01-10,Baby,Diapers,4,30,33941638
+596,41,East Europe,East Europe Store 8,2019-04-09,Electronics,Computers,2,300,55717746
+597,18,East Europe,East Europe Store 8,2019-01-14,Electronics,Computers,2,200,67163301
+598,97,East Europe,East Europe Store 8,2019-01-09,Baby,Diapers,4,15,32060438
+599,67,East Europe,East Europe Store 8,2019-05-20,Clothing,Mens,3,20,69438495
+600,20,East Europe,East Europe Store 8,2019-01-26,Beauty/Health,Fragrances,5,10,94290992
+601,53,East Europe,East Europe Store 8,2019-07-07,Beauty/Health,Bath,5,15,25405807
+602,32,East Europe,East Europe Store 8,2019-05-28,Clothing,Womens,9,25,49657853
+603,4,East Europe,East Europe Store 8,2019-01-25,Beauty/Health,Fragrances,2,10,72264491
+604,45,East Europe,East Europe Store 8,2019-05-28,Clothing,Swimwear,8,10,82399032
+605,2,East Europe,East Europe Store 8,2019-01-31,Electronics,Computers,2,200,93290435
+606,34,East Europe,East Europe Store 8,2019-01-08,Clothing,Shoes,4,10,39214716
+607,44,East Europe,East Europe Store 8,2019-02-25,Clothing,Shoes,2,20,66983965
+608,93,East Europe,East Europe Store 8,2019-04-21,Clothing,Baby,5,13,46720179
+609,27,East Europe,East Europe Store 8,2019-03-05,Clothing,Kids,5,20,12515139
+610,50,East Europe,East Europe Store 8,2019-04-14,Electronics,Speakers,1,100,53722264
+611,97,East Europe,East Europe Store 8,2019-07-06,Beauty/Health,Bath,3,10,13911654
+612,74,East Europe,East Europe Store 8,2019-04-12,Clothing,Kids,3,25,74110130
+613,15,East Europe,East Europe Store 8,2019-03-09,Baby,Baby toys,5,30,76841493
+614,21,East Europe,East Europe Store 8,2019-01-29,Furniture,Indoor seating,1,30,45024019
+615,20,East Europe,East Europe Store 8,2019-06-19,Furniture,Pool furniture,5,100,80695450
+616,100,East Europe,East Europe Store 8,2019-04-22,Baby,Diaper bags,4,30,78425466
+617,23,East Europe,East Europe Store 8,2019-03-19,Baby,Diapers,5,10,57146255
+618,32,East Europe,East Europe Store 8,2019-04-26,Clothing,Womens,9,13,34848738
+619,77,East Europe,East Europe Store 8,2019-03-12,Baby,Diapers,4,12,94456384
+620,25,East Europe,East Europe Store 8,2019-06-07,Baby,Diapers,6,30,70190773
+621,86,East Europe,East Europe Store 8,2019-05-06,Electronics,Tablets,1,50,53754796
+622,61,East Europe,East Europe Store 8,2019-04-19,Beauty/Health,Haircare,7,10,55650267
+623,89,East Europe,East Europe Store 8,2019-03-03,Electronics,Tablets,2,200,73986920
+624,92,East Europe,East Europe Store 8,2019-01-20,Clothing,Swimwear,2,13,57791113
+625,21,East Europe,East Europe Store 8,2019-02-05,Electronics,Tablets,1,200,68748414
+626,40,East Europe,East Europe Store 8,2019-04-16,Furniture,Indoor seating,3,75,93341551
+627,67,East Europe,East Europe Store 8,2019-05-13,Beauty/Health,Skincare,7,10,13796461
+628,58,East Europe,East Europe Store 8,2019-07-02,Baby,Baby toys,3,5,84013323
+629,37,East Europe,East Europe Store 8,2019-05-31,Baby,Cribs,5,15,63501915
+630,66,East Europe,East Europe Store 8,2019-03-10,Clothing,Womens,2,12,34324036
+631,14,East Europe,East Europe Store 8,2019-01-09,Furniture,Beds,2,40,84011759
+632,23,East Europe,East Europe Store 8,2019-01-07,Electronics,Tablets,2,200,10085062
+633,53,East Europe,East Europe Store 8,2019-01-06,Furniture,Beds,1,100,11097836
+634,46,East Europe,East Europe Store 8,2019-05-14,Clothing,Mens,5,10,90032382
+635,29,East Europe,East Europe Store 8,2019-03-22,Baby,Cribs,2,30,13626490
+636,77,East Europe,East Europe Store 8,2019-01-17,Furniture,Patio furniture,4,30,20299432
+637,51,East Europe,East Europe Store 8,2019-04-05,Baby,Cribs,3,12,27589476
+638,31,East Europe,East Europe Store 8,2019-07-09,Beauty/Health,Haircare,9,10,10977919
+639,68,East Europe,East Europe Store 8,2019-03-01,Baby,Diaper bags,1,12,52615392
+640,19,East Europe,East Europe Store 8,2019-07-14,Furniture,Indoor seating,9,40,79843036
+641,25,East Europe,East Europe Store 8,2019-04-16,Clothing,Shoes,5,12,64615679
+642,19,East Europe,East Europe Store 8,2019-04-19,Electronics,Televisions,2,300,48591030
+643,51,East Europe,East Europe Store 8,2019-02-05,Beauty/Health,Skincare,1,10,25649451
+644,91,East Europe,East Europe Store 8,2019-06-06,Furniture,Indoor tables,3,75,55814960
+645,32,East Europe,East Europe Store 8,2019-02-01,Electronics,Headphones,2,200,57179108
+646,4,East Europe,East Europe Store 8,2019-05-15,Beauty/Health,Skincare,6,10,36177646
+647,95,East Europe,East Europe Store 8,2019-02-02,Clothing,Baby,5,25,36698192
+648,85,East Europe,East Europe Store 8,2019-02-02,Electronics,Headphones,2,100,41400888
+649,53,East Europe,East Europe Store 8,2019-04-26,Clothing,Womens,4,20,77478054
+650,9,East Europe,East Europe Store 8,2019-06-08,Beauty/Health,Makeup,8,10,32305677
+651,98,East Europe,East Europe Store 8,2019-04-26,Furniture,Indoor seating,5,15,13857143
+652,68,East Europe,East Europe Store 8,2019-02-27,Furniture,Pool furniture,4,40,11360126
+653,17,East Europe,East Europe Store 8,2019-06-15,Furniture,Pool furniture,10,30,95267188
+654,94,East Europe,East Europe Store 8,2019-02-25,Baby,Diapers,3,30,96409371
+655,87,East Europe,East Europe Store 8,2019-06-18,Furniture,Pool furniture,3,15,78967249
+656,89,East Europe,East Europe Store 8,2019-03-03,Baby,Diaper bags,1,15,21978733
+657,49,East Europe,East Europe Store 8,2019-02-06,Clothing,Kids,4,12,87291018
+658,11,East Europe,East Europe Store 8,2019-04-17,Beauty/Health,Skincare,9,15,70882967
+659,32,East Europe,East Europe Store 8,2019-06-02,Clothing,Kids,9,20,56669852
+660,97,East Europe,East Europe Store 8,2019-04-13,Baby,Diaper bags,7,30,36535640
+661,50,East Europe,East Europe Store 8,2019-05-12,Clothing,Baby,3,10,22819828
+662,82,East Europe,East Europe Store 8,2019-07-02,Electronics,Cell Phones,1,100,76597701
+663,21,East Europe,East Europe Store 8,2019-05-25,Furniture,Pool furniture,7,40,48730772
+664,77,East Europe,East Europe Store 8,2019-04-12,Electronics,Speakers,2,300,36985426
+665,14,East Europe,East Europe Store 8,2019-03-10,Baby,Car seats,2,5,29965922
+666,8,East Europe,East Europe Store 8,2019-05-22,Furniture,Indoor seating,5,75,37435917
+667,67,East Europe,East Europe Store 8,2019-07-04,Electronics,Computers,1,300,23360719
+668,72,East Europe,East Europe Store 8,2019-01-11,Electronics,Tablets,2,100,96794748
+669,58,East Europe,East Europe Store 8,2019-06-23,Baby,Car seats,8,30,77478851
+670,16,East Europe,East Europe Store 8,2019-01-29,Clothing,Shoes,5,25,22605775
+671,64,East Europe,East Europe Store 8,2019-06-05,Baby,Strollers,4,10,50210029
+672,15,East Europe,East Europe Store 8,2019-02-12,Baby,Car seats,2,12,22435340
+673,96,East Europe,East Europe Store 8,2019-02-07,Baby,Cribs,5,30,36959709
+674,24,East Europe,East Europe Store 8,2019-02-06,Clothing,Mens,2,20,48831917
+675,85,East Europe,East Europe Store 8,2019-06-30,Clothing,Mens,5,25,69302780
+676,52,East Europe,East Europe Store 8,2019-02-18,Beauty/Health,Oral care,3,10,39118914
+677,24,East Europe,East Europe Store 8,2019-01-05,Electronics,Televisions,2,200,98088944
+678,51,East Europe,East Europe Store 8,2019-02-19,Beauty/Health,Feminine Products,2,6,67832890
+679,69,East Europe,East Europe Store 8,2019-01-28,Baby,Diapers,1,30,49402396
+680,61,East Europe,East Europe Store 8,2019-02-12,Beauty/Health,Feminine Products,1,14,51385316
+681,76,East Europe,East Europe Store 8,2019-04-10,Electronics,Speakers,1,100,67029606
+682,75,East Europe,East Europe Store 8,2019-01-14,Clothing,Shoes,3,13,99068698
+683,3,East Europe,East Europe Store 8,2019-03-08,Beauty/Health,Makeup,3,10,58182214
+684,29,East Europe,East Europe Store 8,2019-06-26,Beauty/Health,Fragrances,5,10,76784569
+685,56,East Europe,East Europe Store 8,2019-05-07,Clothing,Shoes,6,20,35182690
+686,5,East Europe,East Europe Store 8,2019-05-05,Beauty/Health,Fragrances,4,6,42814655
+687,80,East Europe,East Europe Store 8,2019-06-09,Furniture,Beds,3,15,67033627
+688,91,East Europe,East Europe Store 8,2019-02-08,Electronics,Computers,2,200,89315735
+689,37,East Europe,East Europe Store 8,2019-06-08,Baby,Car seats,8,30,60336696
+690,21,East Europe,East Europe Store 8,2019-01-10,Electronics,Headphones,1,200,35749078
+691,43,East Europe,East Europe Store 8,2019-07-08,Electronics,Headphones,2,50,50706702
+692,32,East Europe,East Europe Store 8,2019-07-05,Furniture,Beds,7,15,85767353
+693,41,East Europe,East Europe Store 8,2019-05-05,Beauty/Health,Haircare,3,10,71366805
+694,43,East Europe,East Europe Store 8,2019-04-05,Baby,Strollers,3,30,34680767
+695,31,East Europe,East Europe Store 8,2019-05-29,Beauty/Health,Makeup,5,14,84490879
+696,71,East Europe,East Europe Store 8,2019-01-06,Electronics,Computers,2,100,43460006
+697,63,East Europe,East Europe Store 8,2019-07-15,Baby,Diaper bags,5,10,25355580
+698,53,East Europe,East Europe Store 8,2019-07-06,Electronics,Tablets,1,100,10025654
+699,17,East Europe,East Europe Store 8,2019-04-27,Baby,Baby toys,7,15,57528042
+700,77,East Europe,East Europe Store 8,2019-03-08,Electronics,Tablets,2,100,79190233
+701,92,East Europe,East Europe Store 8,2019-03-11,Furniture,Pool furniture,5,40,83554732
+702,80,East Europe,East Europe Store 8,2019-04-08,Furniture,Beds,5,75,20151291
+703,62,East Europe,East Europe Store 8,2019-01-14,Clothing,Swimwear,4,25,37142908
+704,58,East Europe,East Europe Store 8,2019-04-09,Electronics,Televisions,2,100,16059684
+705,18,East Europe,East Europe Store 8,2019-01-18,Beauty/Health,Haircare,2,6,60593278
+706,46,East Europe,East Europe Store 8,2019-05-25,Electronics,Tablets,2,100,74518985
+707,78,East Europe,East Europe Store 8,2019-02-04,Baby,Cribs,3,30,14581746
+708,42,East Europe,East Europe Store 8,2019-06-21,Clothing,Kids,6,20,93219087
+709,66,East Europe,East Europe Store 8,2019-03-07,Baby,Baby toys,4,5,55442653
+710,44,East Europe,East Europe Store 8,2019-06-07,Beauty/Health,Makeup,3,10,75277172
+711,18,East Europe,East Europe Store 8,2019-05-12,Furniture,Indoor tables,7,75,64845025
+712,22,East Europe,East Europe Store 8,2019-06-08,Clothing,Mens,3,12,31130220
+713,36,East Europe,East Europe Store 8,2019-02-09,Beauty/Health,Makeup,5,6,89014707
+714,37,East Europe,East Europe Store 8,2019-01-26,Furniture,Beds,1,15,27255773
+715,27,East Europe,East Europe Store 8,2019-01-27,Beauty/Health,Fragrances,3,10,36218402
+716,55,East Europe,East Europe Store 8,2019-03-24,Electronics,Headphones,1,200,22319193
+717,31,East Europe,East Europe Store 8,2019-02-04,Beauty/Health,Haircare,4,15,92887931
+718,88,East Europe,East Europe Store 8,2019-01-26,Beauty/Health,Haircare,5,10,56702640
+719,22,East Europe,East Europe Store 8,2019-01-18,Beauty/Health,Makeup,5,10,56262526
+720,70,East Europe,East Europe Store 8,2019-04-01,Furniture,Patio furniture,3,40,67569418
+721,96,East Europe,East Europe Store 8,2019-07-07,Baby,Diaper bags,7,30,74995656
+722,30,East Europe,East Europe Store 8,2019-06-27,Beauty/Health,Oral care,10,15,94465245
+723,76,East Europe,East Europe Store 8,2019-05-15,Electronics,Computers,2,200,39880502
+724,73,East Europe,East Europe Store 8,2019-01-24,Beauty/Health,Feminine Products,5,10,22707695
+725,92,East Europe,East Europe Store 8,2019-05-15,Electronics,Tablets,1,100,25333120
+726,41,East Europe,East Europe Store 8,2019-05-03,Baby,Diapers,7,10,83629541
+727,82,East Europe,East Europe Store 8,2019-01-29,Beauty/Health,Feminine Products,5,14,56159489
+728,28,East Europe,East Europe Store 8,2019-02-14,Electronics,Headphones,2,300,78733731
+729,92,East Europe,East Europe Store 8,2019-03-07,Baby,Car seats,2,30,17777948
+730,2,East Europe,East Europe Store 8,2019-06-13,Beauty/Health,Skincare,5,10,10572429
+731,22,East Europe,East Europe Store 8,2019-04-09,Furniture,Indoor seating,7,15,16751103
+732,36,East Europe,East Europe Store 8,2019-01-14,Electronics,Headphones,1,200,68259462
+733,36,East Europe,East Europe Store 8,2019-06-25,Beauty/Health,Bath,8,15,66006443
+734,32,East Europe,East Europe Store 8,2019-05-08,Electronics,Speakers,1,100,76203891
+735,74,East Europe,East Europe Store 8,2019-03-19,Electronics,Computers,1,200,85301734
+736,67,East Europe,East Europe Store 8,2019-07-05,Electronics,Headphones,1,200,14085578
+737,30,East Europe,East Europe Store 8,2019-01-01,Clothing,Baby,3,20,67834051
+738,71,East Europe,East Europe Store 8,2019-02-05,Furniture,Beds,4,100,89050983
+739,101,East Europe,East Europe Store 8,2019-06-04,Baby,Car seats,7,30,87926784
+740,30,East Europe,East Europe Store 8,2019-04-03,Baby,Car seats,2,5,61464326
+741,86,East Europe,East Europe Store 8,2019-05-07,Beauty/Health,Fragrances,4,15,92918561
+742,70,East Europe,East Europe Store 8,2019-06-20,Furniture,Patio furniture,6,30,54512936
+743,6,East Europe,East Europe Store 8,2019-02-26,Furniture,Patio furniture,3,75,41674399
+744,15,East Europe,East Europe Store 8,2019-07-07,Furniture,Pool furniture,3,75,16517510
+745,47,East Europe,East Europe Store 8,2019-06-18,Electronics,Headphones,2,50,57607272
+746,29,East Europe,East Europe Store 8,2019-04-06,Clothing,Womens,2,12,31890941
+747,4,East Europe,East Europe Store 8,2019-06-25,Electronics,Computers,2,100,41950327
+748,2,East Europe,East Europe Store 8,2019-06-11,Clothing,Kids,5,10,50015761
+749,75,East Europe,East Europe Store 8,2019-02-22,Furniture,Patio furniture,3,40,76062268
+750,98,East Europe,East Europe Store 8,2019-01-26,Electronics,Speakers,2,50,65795130
+751,77,East Europe,East Europe Store 8,2019-06-08,Electronics,Cell Phones,2,100,10284080
+752,11,East Europe,East Europe Store 8,2019-06-22,Electronics,Headphones,1,100,99383860
+753,88,East Europe,East Europe Store 8,2019-05-22,Electronics,Tablets,2,200,86274824
+754,81,East Europe,East Europe Store 8,2019-02-05,Clothing,Swimwear,4,20,84709489
+755,70,East Europe,East Europe Store 8,2019-03-01,Clothing,Swimwear,1,20,38791150
+756,67,East Europe,East Europe Store 8,2019-01-01,Clothing,Mens,1,20,56648435
+757,42,East Europe,East Europe Store 8,2019-01-18,Baby,Diaper bags,5,12,87474231
+758,39,East Europe,East Europe Store 8,2019-02-04,Beauty/Health,Haircare,1,10,38188980
+759,81,East Europe,East Europe Store 8,2019-02-08,Electronics,Televisions,2,100,30647053
+760,7,East Europe,East Europe Store 8,2019-04-09,Furniture,Patio furniture,8,15,79014615
+761,40,East Europe,East Europe Store 8,2019-01-08,Furniture,Pool furniture,3,15,93513000
+762,4,East Europe,East Europe Store 8,2019-02-16,Clothing,Swimwear,1,13,76745971
+763,10,East Europe,East Europe Store 8,2019-03-28,Furniture,Pool furniture,3,100,82245004
+764,35,East Europe,East Europe Store 8,2019-06-24,Furniture,Indoor tables,6,100,34645142
+765,57,East Europe,East Europe Store 8,2019-04-14,Beauty/Health,Skincare,4,6,72461505
+766,53,East Europe,East Europe Store 8,2019-02-09,Clothing,Baby,5,12,46872272
+767,97,East Europe,East Europe Store 8,2019-03-13,Clothing,Swimwear,2,25,87969156
+768,56,East Europe,East Europe Store 8,2019-02-15,Furniture,Patio furniture,5,40,76560245
+769,100,East Europe,East Europe Store 8,2019-06-17,Beauty/Health,Oral care,5,6,43840542
+770,71,East Europe,East Europe Store 8,2019-03-03,Furniture,Indoor tables,3,40,12010761
+771,10,East Europe,East Europe Store 8,2019-03-07,Baby,Diaper bags,5,10,50211447
+772,29,East Europe,East Europe Store 8,2019-06-21,Furniture,Pool furniture,9,40,36678233
+773,98,East Europe,East Europe Store 8,2019-07-14,Baby,Cribs,9,15,85581408
+774,43,East Europe,East Europe Store 8,2019-01-29,Furniture,Indoor seating,5,100,34051332
+775,24,East Europe,East Europe Store 8,2019-06-18,Electronics,Computers,2,300,97639578
+776,41,East Europe,East Europe Store 8,2019-06-02,Beauty/Health,Haircare,6,10,55307527
+777,48,East Europe,East Europe Store 8,2019-03-31,Furniture,Patio furniture,2,15,96216364
+778,60,East Europe,East Europe Store 8,2019-04-05,Beauty/Health,Haircare,2,10,74348510
+779,42,East Europe,East Europe Store 8,2019-04-30,Furniture,Indoor tables,8,100,97790298
+780,30,East Europe,East Europe Store 8,2019-04-23,Clothing,Mens,9,20,20084263
+781,95,East Europe,East Europe Store 8,2019-06-23,Beauty/Health,Skincare,10,10,49349888
+782,86,East Europe,East Europe Store 8,2019-01-18,Clothing,Baby,1,10,81982311
+783,36,East Europe,East Europe Store 8,2019-04-29,Furniture,Indoor tables,5,40,71695086
+784,11,East Europe,East Europe Store 8,2019-06-20,Furniture,Patio furniture,7,15,59544904
+785,61,East Europe,East Europe Store 8,2019-01-07,Electronics,Televisions,2,200,86456716
+786,46,East Europe,East Europe Store 8,2019-02-02,Baby,Baby toys,3,10,58256571
+787,1,East Europe,East Europe Store 8,2019-06-02,Electronics,Computers,2,300,77995262
+788,62,East Europe,East Europe Store 8,2019-03-02,Electronics,Televisions,1,200,44707278
+789,1,East Europe,East Europe Store 8,2019-01-29,Baby,Cribs,2,30,73790514
+790,43,East Europe,East Europe Store 8,2019-04-03,Baby,Cribs,2,30,15470977
+791,93,East Europe,East Europe Store 8,2019-01-08,Electronics,Televisions,1,200,79340270
+792,8,East Europe,East Europe Store 8,2019-06-25,Beauty/Health,Haircare,9,14,77115898
+793,71,East Europe,East Europe Store 8,2019-05-04,Baby,Diaper bags,10,30,23451399
+794,20,East Europe,East Europe Store 8,2019-01-22,Baby,Diapers,5,30,70323084
+795,35,East Europe,East Europe Store 8,2019-07-09,Beauty/Health,Feminine Products,10,14,12368192
+796,28,East Europe,East Europe Store 8,2019-02-02,Baby,Baby toys,4,12,24728403
+797,7,East Europe,East Europe Store 8,2019-04-08,Furniture,Indoor tables,1,100,92149196
+798,75,East Europe,East Europe Store 8,2019-07-03,Baby,Car seats,3,30,33536970
+799,100,East Europe,East Europe Store 8,2019-05-23,Clothing,Baby,7,25,21685753
+800,47,East Europe,East Europe Store 8,2019-01-01,Clothing,Baby,3,10,86367990
+801,72,East Europe,East Europe Store 8,2019-04-03,Beauty/Health,Makeup,1,15,37082908
+802,22,East Europe,East Europe Store 8,2019-01-23,Electronics,Headphones,2,50,90616385
+803,37,East Europe,East Europe Store 8,2019-03-28,Beauty/Health,Feminine Products,5,14,18334056
+804,39,East Europe,East Europe Store 8,2019-05-10,Baby,Diaper bags,8,15,55546957
+805,48,East Europe,East Europe Store 8,2019-02-18,Baby,Baby toys,2,30,23539998
+806,75,East Europe,East Europe Store 8,2019-02-06,Beauty/Health,Fragrances,2,10,86495638
+807,86,East Europe,East Europe Store 8,2019-03-10,Beauty/Health,Makeup,3,10,65887417
+808,34,East Europe,East Europe Store 8,2019-07-04,Clothing,Womens,6,10,78590576
+809,79,East Europe,East Europe Store 8,2019-05-18,Baby,Diaper bags,9,12,17929238
+810,59,East Europe,East Europe Store 8,2019-04-09,Clothing,Womens,7,13,36474233
+811,99,East Europe,East Europe Store 8,2019-07-12,Baby,Car seats,5,5,13281878
+812,47,East Europe,East Europe Store 8,2019-05-13,Beauty/Health,Haircare,5,10,41084230
+813,66,East Europe,East Europe Store 8,2019-03-23,Clothing,Kids,5,20,44669924
+814,28,East Europe,East Europe Store 8,2019-03-13,Beauty/Health,Skincare,1,15,68022042
+815,7,East Europe,East Europe Store 8,2019-06-06,Furniture,Patio furniture,9,100,54329770
+816,65,East Europe,East Europe Store 8,2019-07-05,Baby,Diaper bags,10,10,19715255
+817,3,East Europe,East Europe Store 8,2019-03-24,Clothing,Kids,3,13,45342919
+818,100,East Europe,East Europe Store 8,2019-01-07,Clothing,Kids,4,20,43835881
+819,74,East Europe,East Europe Store 8,2019-02-09,Beauty/Health,Bath,5,14,43033717
+820,14,East Europe,East Europe Store 8,2019-04-23,Clothing,Kids,7,20,40737087
+821,34,East Europe,East Europe Store 8,2019-04-03,Baby,Car seats,5,10,73130653
+822,50,East Europe,East Europe Store 8,2019-03-30,Furniture,Indoor seating,2,15,34224059
+823,67,East Europe,East Europe Store 8,2019-03-01,Baby,Car seats,1,10,28284724
+824,86,East Europe,East Europe Store 8,2019-02-22,Beauty/Health,Bath,1,14,15402382
+825,83,East Europe,East Europe Store 8,2019-04-14,Electronics,Televisions,2,100,76122868
+826,32,East Europe,East Europe Store 8,2019-04-19,Beauty/Health,Skincare,5,10,96805551
+827,72,East Europe,East Europe Store 8,2019-05-24,Electronics,Speakers,2,100,14213133
+828,20,East Europe,East Europe Store 8,2019-04-14,Beauty/Health,Makeup,10,10,77627193
+829,4,East Europe,East Europe Store 8,2019-05-31,Furniture,Indoor tables,3,100,13430513
+830,84,East Europe,East Europe Store 8,2019-04-22,Electronics,Tablets,1,100,65249086
+831,86,East Europe,East Europe Store 8,2019-07-05,Furniture,Pool furniture,7,30,93924125
+832,37,East Europe,East Europe Store 8,2019-04-21,Furniture,Indoor tables,8,100,76443766
+833,35,East Europe,East Europe Store 8,2019-02-18,Furniture,Pool furniture,2,40,97800610
+834,64,East Europe,East Europe Store 8,2019-06-27,Furniture,Indoor tables,3,40,24426037
+835,78,East Europe,East Europe Store 8,2019-03-07,Beauty/Health,Bath,1,10,68798178
+836,54,East Europe,East Europe Store 8,2019-05-03,Beauty/Health,Makeup,10,6,77664451
+837,53,East Europe,East Europe Store 8,2019-04-04,Electronics,Tablets,1,200,22101502
+838,55,East Europe,East Europe Store 8,2019-04-16,Electronics,Speakers,1,200,69301122
+839,72,East Europe,East Europe Store 8,2019-05-02,Baby,Strollers,4,30,98125022
+840,99,East Europe,East Europe Store 8,2019-05-08,Baby,Diaper bags,4,30,23629337
+841,101,East Europe,East Europe Store 8,2019-03-23,Clothing,Kids,5,12,65771889
+842,40,East Europe,East Europe Store 8,2019-04-25,Electronics,Computers,1,200,85280391
+843,48,East Europe,East Europe Store 8,2019-01-03,Beauty/Health,Bath,3,10,51339858
+844,77,East Europe,East Europe Store 8,2019-06-07,Baby,Strollers,7,5,68922611
+845,24,East Europe,East Europe Store 8,2019-05-12,Furniture,Patio furniture,9,75,81312642
+846,94,East Europe,East Europe Store 8,2019-06-15,Electronics,Tablets,2,50,68607189
+847,82,East Europe,East Europe Store 8,2019-05-27,Electronics,Televisions,2,200,47007798
+848,90,East Europe,East Europe Store 8,2019-02-28,Electronics,Speakers,2,300,19080131
+849,44,East Europe,East Europe Store 8,2019-07-14,Baby,Strollers,7,30,39128840
+850,52,East Europe,East Europe Store 8,2019-04-03,Electronics,Cell Phones,1,200,16922231
+851,27,East Europe,East Europe Store 8,2019-05-30,Furniture,Pool furniture,3,40,67667866
+852,32,East Europe,East Europe Store 8,2019-06-05,Electronics,Tablets,2,300,90717256
+853,64,East Europe,East Europe Store 8,2019-03-26,Beauty/Health,Fragrances,1,6,85414075
+854,57,East Europe,East Europe Store 8,2019-05-16,Furniture,Indoor tables,9,15,86428448
+855,23,East Europe,East Europe Store 8,2019-02-14,Beauty/Health,Haircare,1,10,88863462
+856,65,East Europe,East Europe Store 8,2019-04-04,Electronics,Cell Phones,2,50,16643676
+857,72,East Europe,East Europe Store 8,2019-02-05,Baby,Baby toys,1,5,39310785
+858,78,East Europe,East Europe Store 8,2019-01-19,Clothing,Kids,3,25,68697197
+859,78,East Europe,East Europe Store 8,2019-07-02,Beauty/Health,Skincare,5,6,74918571
+860,80,East Europe,East Europe Store 8,2019-01-02,Furniture,Beds,4,75,67860274
+861,58,East Europe,East Europe Store 8,2019-06-30,Baby,Cribs,6,30,40463940
+862,9,East Europe,East Europe Store 8,2019-03-07,Furniture,Patio furniture,3,30,38797133
+863,63,East Europe,East Europe Store 8,2019-05-02,Baby,Car seats,9,12,95024149
+864,64,East Europe,East Europe Store 8,2019-04-19,Furniture,Pool furniture,10,30,57007786
+865,60,East Europe,East Europe Store 8,2019-01-31,Baby,Strollers,5,30,91221643
+866,33,East Europe,East Europe Store 8,2019-01-22,Electronics,Televisions,1,200,90338000
+867,12,East Europe,East Europe Store 8,2019-06-03,Beauty/Health,Feminine Products,5,14,30703914
+868,69,East Europe,East Europe Store 8,2019-05-04,Baby,Strollers,10,10,18213981
+869,67,East Europe,East Europe Store 8,2019-04-30,Electronics,Headphones,1,200,10940001
+870,64,East Europe,East Europe Store 8,2019-06-15,Electronics,Televisions,2,100,29145515
+871,86,East Europe,East Europe Store 8,2019-01-06,Electronics,Cell Phones,1,50,78595878
+872,34,East Europe,East Europe Store 8,2019-01-07,Beauty/Health,Feminine Products,2,10,75115228
+873,75,East Europe,East Europe Store 8,2019-04-12,Baby,Baby toys,9,30,59844963
+874,101,East Europe,East Europe Store 8,2019-02-12,Baby,Diapers,2,30,67034185
+875,63,East Europe,East Europe Store 8,2019-02-27,Electronics,Headphones,1,200,47607496
+876,101,East Europe,East Europe Store 8,2019-03-17,Electronics,Headphones,1,100,77117319
+877,1,East Europe,East Europe Store 8,2019-06-26,Baby,Strollers,10,15,96623511
+878,13,East Europe,East Europe Store 8,2019-04-28,Clothing,Kids,6,25,81518621
+879,32,East Europe,East Europe Store 8,2019-06-02,Clothing,Mens,8,12,98803175
+880,60,East Europe,East Europe Store 8,2019-03-10,Furniture,Beds,4,100,91859441
+881,23,East Europe,East Europe Store 8,2019-03-23,Baby,Strollers,3,30,50021357
+882,17,East Europe,East Europe Store 8,2019-01-30,Clothing,Baby,4,20,14552780
+883,69,East Europe,East Europe Store 8,2019-04-03,Electronics,Computers,2,50,25699191
+884,12,East Europe,East Europe Store 8,2019-02-23,Furniture,Pool furniture,3,30,49137521
+885,23,East Europe,East Europe Store 8,2019-04-04,Electronics,Headphones,1,100,85626036
+886,38,East Europe,East Europe Store 8,2019-02-14,Furniture,Indoor seating,5,40,71501660
+887,70,East Europe,East Europe Store 8,2019-06-23,Beauty/Health,Makeup,8,14,67749107
+888,55,East Europe,East Europe Store 8,2019-03-18,Clothing,Shoes,4,12,91391380
+889,14,East Europe,East Europe Store 8,2019-05-18,Clothing,Baby,3,20,78386777
+890,55,East Europe,East Europe Store 8,2019-06-30,Beauty/Health,Skincare,6,14,69335515
+891,12,East Europe,East Europe Store 8,2019-05-27,Beauty/Health,Fragrances,7,14,98471743
+892,1,East Europe,East Europe Store 8,2019-06-26,Beauty/Health,Skincare,4,10,33839353
+893,77,East Europe,East Europe Store 8,2019-04-01,Baby,Diaper bags,2,30,18418491
+894,53,East Europe,East Europe Store 8,2019-01-14,Beauty/Health,Makeup,2,15,81672797
+895,91,East Europe,East Europe Store 8,2019-04-20,Furniture,Beds,3,100,41877320
+896,87,East Europe,East Europe Store 8,2019-03-05,Electronics,Computers,1,100,29497919
+897,86,East Europe,East Europe Store 8,2019-01-06,Baby,Diaper bags,2,10,48564201
+898,24,East Europe,East Europe Store 8,2019-07-08,Beauty/Health,Makeup,5,10,66429198
+899,80,East Europe,East Europe Store 8,2019-04-18,Electronics,Televisions,1,300,46040515
+900,33,East Europe,East Europe Store 8,2019-06-14,Beauty/Health,Makeup,8,10,49767918
+901,41,East Europe,East Europe Store 8,2019-05-13,Clothing,Mens,6,20,87715359
+902,71,East Europe,East Europe Store 8,2019-02-01,Beauty/Health,Oral care,1,10,99886455
+903,52,East Europe,East Europe Store 8,2019-05-05,Clothing,Swimwear,8,10,92264571
+904,97,East Europe,East Europe Store 8,2019-05-09,Beauty/Health,Fragrances,7,10,87301164
+905,21,East Europe,East Europe Store 8,2019-06-16,Baby,Strollers,6,10,65163034
+906,16,East Europe,East Europe Store 8,2019-03-19,Electronics,Speakers,1,50,40413982
+907,93,East Europe,East Europe Store 8,2019-04-30,Baby,Car seats,8,30,36480411
+908,39,East Europe,East Europe Store 8,2019-02-07,Clothing,Kids,5,13,99595787
+909,54,East Europe,East Europe Store 8,2019-03-16,Electronics,Televisions,2,200,55119652
+910,71,East Europe,East Europe Store 8,2019-02-27,Electronics,Cell Phones,2,300,53432136
+911,89,East Europe,East Europe Store 8,2019-05-18,Beauty/Health,Oral care,6,10,32419473
+912,13,East Europe,East Europe Store 8,2019-05-02,Furniture,Indoor tables,4,30,45370065
+913,96,East Europe,East Europe Store 8,2019-06-26,Electronics,Cell Phones,2,100,29446328
+914,83,East Europe,East Europe Store 8,2019-03-21,Baby,Diapers,2,10,65053429
+915,6,East Europe,East Europe Store 8,2019-05-28,Furniture,Pool furniture,9,40,95645991
+916,21,East Europe,East Europe Store 8,2019-01-24,Furniture,Pool furniture,1,15,10695166
+917,64,East Europe,East Europe Store 8,2019-06-28,Furniture,Patio furniture,8,15,27988497
+918,87,East Europe,East Europe Store 8,2019-04-14,Baby,Cribs,4,10,68848709
+919,63,East Europe,East Europe Store 8,2019-07-10,Baby,Diapers,5,30,64970572
+920,8,East Europe,East Europe Store 8,2019-01-13,Electronics,Computers,1,200,52742715
+921,7,East Europe,East Europe Store 8,2019-02-22,Beauty/Health,Skincare,5,10,31433436
+922,24,East Europe,East Europe Store 8,2019-01-25,Electronics,Televisions,2,200,42289583
+923,66,East Europe,East Europe Store 8,2019-01-22,Baby,Diapers,1,15,80648194
+924,74,East Europe,East Europe Store 8,2019-03-19,Clothing,Shoes,4,13,43077850
+925,82,East Europe,East Europe Store 8,2019-04-02,Electronics,Speakers,1,300,49956667
+926,86,East Europe,East Europe Store 8,2019-04-11,Furniture,Indoor seating,9,40,88136878
+927,78,East Europe,East Europe Store 8,2019-07-14,Clothing,Kids,5,13,59833337
+928,72,East Europe,East Europe Store 8,2019-03-23,Electronics,Headphones,1,200,40134100
+929,50,East Europe,East Europe Store 8,2019-05-17,Furniture,Indoor seating,7,30,50605068
+930,85,East Europe,East Europe Store 8,2019-05-21,Electronics,Cell Phones,2,200,10681542
+931,94,East Europe,East Europe Store 8,2019-03-22,Furniture,Indoor seating,3,30,61329502
+932,54,East Europe,East Europe Store 8,2019-06-06,Furniture,Beds,9,75,78392468
+933,57,East Europe,East Europe Store 8,2019-04-16,Furniture,Patio furniture,7,100,17198297
+934,23,East Europe,East Europe Store 8,2019-06-24,Furniture,Pool furniture,9,40,76199391
+935,92,East Europe,East Europe Store 8,2019-01-27,Furniture,Indoor tables,1,75,46797530
+936,7,East Europe,East Europe Store 8,2019-01-21,Beauty/Health,Bath,5,10,82857225
+937,85,East Europe,East Europe Store 8,2019-07-16,Furniture,Indoor tables,9,15,38309050
+938,19,East Europe,East Europe Store 8,2019-02-09,Furniture,Indoor tables,3,100,33459919
+939,64,East Europe,East Europe Store 8,2019-04-11,Electronics,Cell Phones,2,300,87383769
+940,16,East Europe,East Europe Store 8,2019-05-27,Clothing,Mens,5,10,86944791
+941,80,East Europe,East Europe Store 8,2019-01-31,Beauty/Health,Feminine Products,4,10,94544291
+942,82,East Europe,East Europe Store 8,2019-05-03,Clothing,Womens,5,12,22130456
+943,92,East Europe,East Europe Store 8,2019-03-23,Beauty/Health,Bath,3,10,54457328
+944,47,East Europe,East Europe Store 8,2019-02-14,Clothing,Womens,2,25,93074334
+945,10,East Europe,East Europe Store 8,2019-01-04,Beauty/Health,Makeup,1,10,16804724
+946,24,East Europe,East Europe Store 8,2019-06-27,Furniture,Patio furniture,7,40,95517940
+947,71,East Europe,East Europe Store 8,2019-03-30,Electronics,Tablets,1,100,12257345
+948,17,East Europe,East Europe Store 8,2019-05-23,Baby,Diaper bags,5,5,99478787
+949,20,East Europe,East Europe Store 8,2019-06-27,Beauty/Health,Bath,9,10,33053037
+950,59,East Europe,East Europe Store 8,2019-01-08,Beauty/Health,Fragrances,2,10,58288192
+951,79,East Europe,East Europe Store 8,2019-05-17,Electronics,Computers,2,200,45722075
+952,36,East Europe,East Europe Store 8,2019-02-27,Clothing,Baby,3,25,26874636
+953,70,East Europe,East Europe Store 8,2019-01-18,Clothing,Womens,2,12,55609041
+954,7,East Europe,East Europe Store 8,2019-03-18,Furniture,Pool furniture,5,30,83215829
+955,71,East Europe,East Europe Store 8,2019-04-12,Electronics,Computers,1,300,68048277
+956,46,East Europe,East Europe Store 8,2019-02-11,Electronics,Computers,1,200,21139911
+957,47,East Europe,East Europe Store 8,2019-03-11,Baby,Diaper bags,1,30,56513499
+958,34,East Europe,East Europe Store 8,2019-07-11,Furniture,Indoor tables,7,15,78167312
+959,13,East Europe,East Europe Store 8,2019-01-30,Furniture,Indoor seating,5,15,54077204
+960,71,East Europe,East Europe Store 8,2019-05-24,Clothing,Kids,10,20,27785481
+961,69,East Europe,East Europe Store 8,2019-01-02,Baby,Strollers,5,12,77963033
+962,18,East Europe,East Europe Store 8,2019-03-12,Clothing,Womens,5,10,33432655
+963,10,East Europe,East Europe Store 8,2019-05-09,Clothing,Womens,4,13,40941121
+964,29,East Europe,East Europe Store 8,2019-04-16,Beauty/Health,Oral care,8,10,49795301
+965,35,East Europe,East Europe Store 8,2019-03-03,Electronics,Headphones,1,100,21599576
+966,64,East Europe,East Europe Store 8,2019-03-07,Clothing,Womens,5,10,95930694
+967,26,East Europe,East Europe Store 8,2019-02-19,Furniture,Indoor seating,1,75,11017453
+968,3,East Europe,East Europe Store 8,2019-03-24,Beauty/Health,Skincare,5,10,45514699
+969,78,East Europe,East Europe Store 8,2019-02-14,Electronics,Speakers,2,50,40186123
+970,67,East Europe,East Europe Store 8,2019-04-18,Electronics,Headphones,1,50,73070989
+971,57,East Europe,East Europe Store 8,2019-01-15,Beauty/Health,Haircare,5,14,15355957
+972,42,East Europe,East Europe Store 8,2019-04-26,Electronics,Tablets,2,50,14734155
+973,91,East Europe,East Europe Store 8,2019-01-18,Beauty/Health,Bath,4,10,62924733
+974,91,East Europe,East Europe Store 8,2019-01-22,Baby,Diaper bags,3,5,89080571
+975,62,East Europe,East Europe Store 8,2019-07-07,Electronics,Computers,1,300,33527322
+976,38,East Europe,East Europe Store 8,2019-04-02,Furniture,Indoor tables,2,15,79016760
+977,83,East Europe,East Europe Store 8,2019-01-05,Furniture,Beds,2,100,71132171
+978,43,East Europe,East Europe Store 8,2019-07-07,Clothing,Shoes,7,13,33534619
+979,9,East Europe,East Europe Store 8,2019-05-24,Beauty/Health,Feminine Products,3,6,44253879
+980,13,East Europe,East Europe Store 8,2019-07-03,Furniture,Pool furniture,10,15,35693529
+981,59,East Europe,East Europe Store 8,2019-03-25,Furniture,Pool furniture,5,15,42743645
+982,23,East Europe,East Europe Store 8,2019-03-01,Baby,Diapers,3,12,40854081
+983,17,East Europe,East Europe Store 8,2019-03-12,Furniture,Pool furniture,1,30,29111448
+984,2,East Europe,East Europe Store 8,2019-05-30,Furniture,Beds,8,100,33543865
+985,88,East Europe,East Europe Store 8,2019-02-10,Electronics,Headphones,2,100,82649804
+986,13,East Europe,East Europe Store 8,2019-01-06,Beauty/Health,Bath,3,10,62734100
+987,61,East Europe,East Europe Store 8,2019-07-16,Furniture,Beds,4,75,91184501
+988,42,East Europe,East Europe Store 8,2019-05-24,Clothing,Womens,9,10,94496449
+989,24,East Europe,East Europe Store 8,2019-03-06,Beauty/Health,Feminine Products,4,10,96195609
+990,60,East Europe,East Europe Store 8,2019-03-25,Baby,Cribs,4,10,90832602
+991,12,East Europe,East Europe Store 8,2019-05-21,Electronics,Cell Phones,1,100,51998995
+992,23,East Europe,East Europe Store 8,2019-03-12,Furniture,Beds,1,75,62330585
+993,17,East Europe,East Europe Store 8,2019-06-06,Clothing,Womens,4,20,30091321
+994,39,East Europe,East Europe Store 8,2019-02-22,Furniture,Indoor seating,2,15,82555674
+995,95,East Europe,East Europe Store 8,2019-05-29,Baby,Diapers,7,12,95540674
+996,48,East Europe,East Europe Store 8,2019-04-02,Clothing,Kids,1,25,27109471
+997,63,East Europe,East Europe Store 8,2019-04-03,Baby,Diapers,1,10,41252507
+998,60,East Europe,East Europe Store 8,2019-06-25,Baby,Diaper bags,7,12,73893284
+999,42,East Europe,East Europe Store 8,2019-03-30,Baby,Car seats,3,15,45939062
+1000,71,East Europe,East Europe Store 8,2019-04-05,Clothing,Shoes,2,10,25672016
+1001,88,East Europe,East Europe Store 8,2019-06-03,Furniture,Indoor tables,5,40,57589300
+1002,83,East Europe,East Europe Store 8,2019-04-29,Baby,Diaper bags,9,30,54299033
+1003,74,East Europe,East Europe Store 8,2019-06-08,Baby,Baby toys,7,15,94877063
+1004,57,East Europe,East Europe Store 8,2019-05-27,Furniture,Pool furniture,10,100,59293658
+1005,46,East Europe,East Europe Store 8,2019-05-31,Beauty/Health,Makeup,3,10,94007207
+1006,45,East Europe,East Europe Store 8,2019-01-11,Furniture,Patio furniture,5,15,30120531
+1007,8,East Europe,East Europe Store 8,2019-03-13,Electronics,Headphones,1,200,15770136
+1008,26,East Europe,East Europe Store 8,2019-02-17,Clothing,Swimwear,5,12,58572592
+1009,16,East Europe,East Europe Store 8,2019-06-26,Beauty/Health,Bath,7,10,90286991
+1010,86,East Europe,East Europe Store 8,2019-01-16,Furniture,Patio furniture,2,15,49027326
+1011,15,East Europe,East Europe Store 8,2019-02-27,Baby,Diapers,2,10,93400823
+1012,10,East Europe,East Europe Store 8,2019-07-06,Clothing,Mens,7,25,70222784
+1013,92,East Europe,East Europe Store 8,2019-06-20,Clothing,Swimwear,5,20,68629999
+1014,59,East Europe,East Europe Store 8,2019-05-19,Furniture,Indoor tables,8,15,34962102
+1015,32,East Europe,East Europe Store 8,2019-05-11,Beauty/Health,Fragrances,10,6,28001189
+1016,49,East Europe,East Europe Store 8,2019-04-16,Furniture,Indoor tables,7,15,42512822
+1017,12,East Europe,East Europe Store 8,2019-05-25,Clothing,Baby,8,20,18028781
+1018,82,East Europe,East Europe Store 8,2019-03-05,Electronics,Televisions,2,100,45804810
+1019,1,East Europe,East Europe Store 8,2019-03-31,Furniture,Indoor seating,1,30,66975145
+1020,43,East Europe,East Europe Store 8,2019-05-02,Furniture,Indoor tables,5,30,58385172
+1021,99,East Europe,East Europe Store 8,2019-06-09,Baby,Diapers,6,15,13520156
+1022,15,East Europe,East Europe Store 8,2019-03-25,Baby,Strollers,4,12,78550837
+1023,10,East Europe,East Europe Store 8,2019-01-21,Beauty/Health,Haircare,2,10,31054651
+1024,41,East Europe,East Europe Store 8,2019-03-31,Beauty/Health,Oral care,2,10,65680653
+1025,8,East Europe,East Europe Store 8,2019-05-27,Beauty/Health,Fragrances,6,10,85226710
+1026,101,East Europe,East Europe Store 8,2019-05-14,Electronics,Computers,1,100,73046334
+1027,87,East Europe,East Europe Store 8,2019-04-09,Beauty/Health,Fragrances,9,10,71955112
+1028,21,East Europe,East Europe Store 8,2019-03-26,Clothing,Swimwear,5,20,43608894
+1029,9,East Europe,East Europe Store 8,2019-02-15,Beauty/Health,Makeup,3,10,36894055
+1030,69,East Europe,East Europe Store 8,2019-05-16,Baby,Baby toys,7,10,33300280
+1031,28,East Europe,East Europe Store 8,2019-05-06,Furniture,Pool furniture,8,15,97285591
+1032,41,East Europe,East Europe Store 8,2019-01-26,Beauty/Health,Oral care,5,10,21694791
+1033,31,East Europe,East Europe Store 8,2019-06-24,Clothing,Kids,6,25,86093607
+1034,2,East Europe,East Europe Store 8,2019-04-28,Baby,Strollers,7,5,34002418
+1035,6,East Europe,East Europe Store 8,2019-01-09,Electronics,Cell Phones,1,50,82105365
+1036,86,East Europe,East Europe Store 8,2019-06-09,Clothing,Kids,5,25,67737516
+1037,74,East Europe,East Europe Store 8,2019-05-16,Clothing,Mens,4,12,83133588
+1038,2,East Europe,East Europe Store 8,2019-07-02,Beauty/Health,Oral care,3,10,43339175
+1039,87,East Europe,East Europe Store 8,2019-01-31,Beauty/Health,Skincare,2,10,55158783
+1040,42,East Europe,East Europe Store 8,2019-03-10,Beauty/Health,Bath,5,10,61898678
+1041,85,East Europe,East Europe Store 8,2019-02-03,Electronics,Cell Phones,2,100,20782655
+1042,23,East Europe,East Europe Store 8,2019-02-26,Furniture,Pool furniture,1,100,97601779
+1043,93,East Europe,East Europe Store 8,2019-01-24,Baby,Car seats,2,30,41533510
+1044,14,East Europe,East Europe Store 8,2019-02-09,Furniture,Beds,2,40,74921944
+1045,14,East Europe,East Europe Store 8,2019-05-14,Electronics,Tablets,1,300,37225634
+1046,62,East Europe,East Europe Store 8,2019-03-01,Beauty/Health,Haircare,2,10,90253654
+1047,71,East Europe,East Europe Store 8,2019-04-12,Clothing,Shoes,6,12,64064337
+1048,31,East Europe,East Europe Store 8,2019-05-17,Clothing,Kids,9,10,16800700
+1049,7,East Europe,East Europe Store 8,2019-02-07,Beauty/Health,Haircare,1,6,40088322
+1050,63,East Europe,East Europe Store 8,2019-05-25,Beauty/Health,Bath,4,10,65490875
+1051,82,East Europe,East Europe Store 8,2019-06-06,Beauty/Health,Feminine Products,10,6,33540670
+1052,12,East Europe,East Europe Store 8,2019-07-10,Electronics,Headphones,1,200,82800782
+1053,72,East Europe,East Europe Store 8,2019-01-16,Baby,Cribs,2,30,49288488
+1054,7,East Europe,East Europe Store 8,2019-06-12,Electronics,Televisions,2,200,61933912
+1055,53,East Europe,East Europe Store 8,2019-04-09,Furniture,Beds,4,15,95064006
+1056,83,East Europe,East Europe Store 8,2019-05-22,Baby,Baby toys,10,30,15757577
+1057,40,East Europe,East Europe Store 8,2019-03-27,Clothing,Swimwear,3,20,59948431
+1058,49,East Europe,East Europe Store 8,2019-04-10,Clothing,Mens,6,25,83436862
+1059,62,East Europe,East Europe Store 8,2019-04-24,Electronics,Speakers,1,50,67722148
+1060,94,East Europe,East Europe Store 8,2019-06-17,Baby,Diaper bags,6,10,87886916
+1061,98,East Europe,East Europe Store 8,2019-04-24,Furniture,Indoor tables,10,75,47384613
+1062,34,East Europe,East Europe Store 8,2019-03-23,Furniture,Pool furniture,3,75,65370777
+1063,10,East Europe,East Europe Store 8,2019-05-02,Beauty/Health,Haircare,10,14,82629924
+1064,61,East Europe,East Europe Store 8,2019-04-09,Baby,Strollers,7,15,33286863
+1065,48,East Europe,East Europe Store 8,2019-05-12,Clothing,Womens,5,13,14790989
+1066,9,East Europe,East Europe Store 8,2019-06-14,Beauty/Health,Feminine Products,7,15,40366741
+1067,100,East Europe,East Europe Store 8,2019-01-21,Clothing,Baby,4,25,56322493
+1068,18,East Europe,East Europe Store 8,2019-02-21,Baby,Baby toys,3,15,15802622
+1069,93,East Europe,East Europe Store 8,2019-05-23,Electronics,Tablets,2,300,63671518
+1070,19,East Europe,East Europe Store 8,2019-04-10,Beauty/Health,Bath,5,10,92084684
+1071,46,East Europe,East Europe Store 8,2019-01-20,Baby,Cribs,3,12,35940667
+1072,91,East Europe,East Europe Store 8,2019-05-01,Electronics,Headphones,2,100,25554812
+1073,18,East Europe,East Europe Store 8,2019-01-21,Baby,Cribs,5,30,86639394
+1074,4,East Europe,East Europe Store 8,2019-03-12,Electronics,Televisions,1,200,13250491
+1075,18,East Europe,East Europe Store 8,2019-05-04,Clothing,Womens,3,12,57207587
+1076,40,East Europe,East Europe Store 8,2019-03-16,Furniture,Patio furniture,4,75,10646322
+1077,19,East Europe,East Europe Store 8,2019-05-25,Beauty/Health,Oral care,9,6,38483085
+1078,14,East Europe,East Europe Store 8,2019-04-21,Baby,Baby toys,7,30,47107726
+1079,60,East Europe,East Europe Store 8,2019-01-19,Baby,Diapers,2,5,57856347
+1080,62,East Europe,East Europe Store 8,2019-04-10,Furniture,Indoor seating,5,40,97998017
+1081,81,East Europe,East Europe Store 8,2019-05-28,Baby,Baby toys,5,10,77945371
+1082,23,East Europe,East Europe Store 8,2019-07-16,Electronics,Computers,1,200,24278134
+1083,46,East Europe,East Europe Store 8,2019-02-22,Baby,Strollers,3,30,65544167
+1084,68,East Europe,East Europe Store 8,2019-01-04,Electronics,Computers,1,50,20677961
+1085,76,East Europe,East Europe Store 8,2019-03-26,Electronics,Computers,1,100,19487284
+1086,62,East Europe,East Europe Store 8,2019-01-15,Furniture,Patio furniture,5,30,21558966
+1087,46,East Europe,East Europe Store 8,2019-06-06,Electronics,Televisions,2,300,97989085
+1088,11,East Europe,East Europe Store 8,2019-07-01,Electronics,Headphones,1,50,87436623
+1089,33,East Europe,East Europe Store 8,2019-01-25,Baby,Cribs,1,10,26455082
+1090,41,East Europe,East Europe Store 8,2019-04-26,Electronics,Cell Phones,2,200,57753723
+1091,101,East Europe,East Europe Store 8,2019-04-18,Beauty/Health,Haircare,5,6,82745356
+1092,60,East Europe,East Europe Store 8,2019-05-27,Furniture,Beds,9,30,24616472
+1093,39,East Europe,East Europe Store 8,2019-01-03,Furniture,Patio furniture,1,100,15275808
+1094,45,East Europe,East Europe Store 8,2019-06-13,Furniture,Pool furniture,7,75,99205354
+1095,38,East Europe,East Europe Store 8,2019-07-01,Electronics,Televisions,2,100,78767519
+1096,42,East Europe,East Europe Store 8,2019-07-03,Baby,Baby toys,6,30,15250212
+1097,8,East Europe,East Europe Store 8,2019-05-26,Baby,Cribs,8,30,39571980
+1098,1,East Europe,East Europe Store 8,2019-05-04,Beauty/Health,Haircare,9,10,44827956
+1099,20,East Europe,East Europe Store 8,2019-02-25,Baby,Baby toys,3,30,87241272
+1100,60,East Europe,East Europe Store 8,2019-02-13,Furniture,Indoor tables,2,30,20349998
+1101,54,East Europe,East Europe Store 8,2019-03-10,Baby,Car seats,1,10,50367542
+1102,9,East Europe,East Europe Store 8,2019-04-03,Beauty/Health,Fragrances,3,10,30492273
+1103,1,East Europe,East Europe Store 8,2019-07-05,Furniture,Indoor tables,5,40,69603784
+1104,83,East Europe,East Europe Store 8,2019-02-05,Clothing,Kids,2,10,96049883
+1105,23,East Europe,East Europe Store 8,2019-06-30,Furniture,Beds,6,40,85540765
+1106,19,East Europe,East Europe Store 8,2019-05-05,Clothing,Kids,3,13,82950531
+1107,1,East Europe,East Europe Store 8,2019-03-29,Electronics,Computers,2,200,53968350
+1108,10,East Europe,East Europe Store 8,2019-02-15,Beauty/Health,Skincare,3,15,40500877
+1109,64,East Europe,East Europe Store 8,2019-05-03,Furniture,Indoor tables,3,100,20673220
+1110,68,East Europe,East Europe Store 8,2019-06-08,Electronics,Computers,2,50,73322603
+1111,17,East Europe,East Europe Store 8,2019-06-18,Furniture,Pool furniture,6,40,84969237
+1112,42,East Europe,East Europe Store 8,2019-04-23,Beauty/Health,Skincare,8,10,62866655
+1113,28,East Europe,East Europe Store 8,2019-02-21,Clothing,Mens,2,13,71059429
+1114,42,East Europe,East Europe Store 8,2019-01-01,Electronics,Cell Phones,2,50,38516188
+1115,75,East Europe,East Europe Store 8,2019-01-09,Baby,Diapers,1,15,75659935
+1116,54,East Europe,East Europe Store 8,2019-06-25,Beauty/Health,Oral care,9,10,19722928
+1117,72,East Europe,East Europe Store 8,2019-01-31,Baby,Car seats,1,10,39548286
+1118,86,East Europe,East Europe Store 8,2019-02-05,Electronics,Cell Phones,2,200,59383139
+1119,52,East Europe,East Europe Store 8,2019-04-06,Electronics,Speakers,2,300,98502968
+1120,38,East Europe,East Europe Store 8,2019-03-11,Clothing,Mens,2,25,57080396
+1121,12,East Europe,East Europe Store 8,2019-06-30,Furniture,Patio furniture,10,75,54417536
+1122,62,East Europe,East Europe Store 8,2019-05-29,Beauty/Health,Haircare,8,10,88201825
+1123,96,East Europe,East Europe Store 8,2019-03-02,Clothing,Womens,5,20,47630304
+1124,39,East Europe,East Europe Store 8,2019-01-04,Baby,Diaper bags,1,15,69849486
+1125,86,East Europe,East Europe Store 8,2019-04-30,Electronics,Speakers,2,50,84276722
+1126,70,East Europe,East Europe Store 8,2019-04-10,Electronics,Tablets,1,100,46707664
+1127,12,East Europe,East Europe Store 8,2019-01-08,Electronics,Computers,1,100,49476305
+1128,42,East Europe,East Europe Store 8,2019-01-04,Clothing,Kids,5,25,67279244
+1129,91,East Europe,East Europe Store 8,2019-06-04,Furniture,Patio furniture,4,75,95498380
+1130,43,East Europe,East Europe Store 8,2019-06-11,Baby,Diapers,6,12,44446782
+1131,80,East Europe,East Europe Store 8,2019-06-03,Beauty/Health,Skincare,8,10,21903210
+1132,89,East Europe,East Europe Store 8,2019-05-08,Furniture,Pool furniture,8,30,88089531

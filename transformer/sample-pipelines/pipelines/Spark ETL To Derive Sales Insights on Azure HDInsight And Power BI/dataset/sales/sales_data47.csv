@@ -1,0 +1,1911 @@
+ordernum,quant,region,store,saledate,dep,item,unitsold,unitprice,employeeID
+0,74,Australia Southeast,Australia Southeast Store 47,2019-04-22,Furniture,Indoor tables,6,40,61038937
+1,4,Australia Southeast,Australia Southeast Store 47,2019-07-13,Beauty/Health,Fragrances,10,10,19237790
+2,72,Australia Southeast,Australia Southeast Store 47,2019-04-16,Electronics,Computers,1,100,55260095
+3,28,Australia Southeast,Australia Southeast Store 47,2019-06-02,Clothing,Mens,4,12,93253723
+4,92,Australia Southeast,Australia Southeast Store 47,2019-02-10,Electronics,Cell Phones,2,200,27371376
+5,73,Australia Southeast,Australia Southeast Store 47,2019-05-12,Electronics,Speakers,1,100,12701465
+6,62,Australia Southeast,Australia Southeast Store 47,2019-03-31,Baby,Cribs,2,30,59725967
+7,70,Australia Southeast,Australia Southeast Store 47,2019-03-06,Furniture,Patio furniture,5,75,59605934
+8,93,Australia Southeast,Australia Southeast Store 47,2019-05-02,Furniture,Pool furniture,3,75,29079881
+9,76,Australia Southeast,Australia Southeast Store 47,2019-04-18,Clothing,Shoes,9,10,13225149
+10,11,Australia Southeast,Australia Southeast Store 47,2019-01-17,Clothing,Baby,5,25,53619778
+11,4,Australia Southeast,Australia Southeast Store 47,2019-06-29,Furniture,Patio furniture,9,75,45282335
+12,60,Australia Southeast,Australia Southeast Store 47,2019-04-11,Furniture,Beds,3,75,82925104
+13,28,Australia Southeast,Australia Southeast Store 47,2019-05-29,Electronics,Headphones,2,100,68696871
+14,1,Australia Southeast,Australia Southeast Store 47,2019-03-28,Electronics,Tablets,2,50,62822478
+15,73,Australia Southeast,Australia Southeast Store 47,2019-05-18,Baby,Diaper bags,6,12,92783026
+16,39,Australia Southeast,Australia Southeast Store 47,2019-05-11,Baby,Car seats,5,30,90343627
+17,79,Australia Southeast,Australia Southeast Store 47,2019-02-02,Electronics,Computers,1,200,39761283
+18,75,Australia Southeast,Australia Southeast Store 47,2019-02-09,Electronics,Cell Phones,1,100,28388231
+19,86,Australia Southeast,Australia Southeast Store 47,2019-05-20,Clothing,Baby,10,10,58298651
+20,83,Australia Southeast,Australia Southeast Store 47,2019-03-27,Furniture,Beds,3,40,35193173
+21,5,Australia Southeast,Australia Southeast Store 47,2019-04-26,Clothing,Womens,5,10,21009770
+22,32,Australia Southeast,Australia Southeast Store 47,2019-03-09,Electronics,Televisions,1,100,67660137
+23,67,Australia Southeast,Australia Southeast Store 47,2019-02-17,Electronics,Speakers,2,100,84995302
+24,89,Australia Southeast,Australia Southeast Store 47,2019-03-10,Baby,Car seats,4,30,80631106
+25,47,Australia Southeast,Australia Southeast Store 47,2019-01-31,Furniture,Pool furniture,4,40,27297603
+26,63,Australia Southeast,Australia Southeast Store 47,2019-03-03,Baby,Car seats,2,12,48574475
+27,10,Australia Southeast,Australia Southeast Store 47,2019-06-30,Clothing,Baby,4,12,91911700
+28,58,Australia Southeast,Australia Southeast Store 47,2019-04-13,Furniture,Indoor seating,8,75,72607505
+29,25,Australia Southeast,Australia Southeast Store 47,2019-03-11,Clothing,Womens,5,13,35674132
+30,28,Australia Southeast,Australia Southeast Store 47,2019-01-09,Clothing,Kids,3,20,64531215
+31,26,Australia Southeast,Australia Southeast Store 47,2019-02-12,Electronics,Televisions,2,50,26920105
+32,85,Australia Southeast,Australia Southeast Store 47,2019-07-01,Electronics,Televisions,2,100,65014182
+33,90,Australia Southeast,Australia Southeast Store 47,2019-03-15,Clothing,Kids,1,25,68750311
+34,46,Australia Southeast,Australia Southeast Store 47,2019-03-11,Beauty/Health,Fragrances,4,6,42604701
+35,81,Australia Southeast,Australia Southeast Store 47,2019-03-21,Beauty/Health,Fragrances,3,15,80267935
+36,67,Australia Southeast,Australia Southeast Store 47,2019-04-09,Clothing,Kids,7,10,56998026
+37,63,Australia Southeast,Australia Southeast Store 47,2019-06-09,Baby,Car seats,8,12,17424921
+38,40,Australia Southeast,Australia Southeast Store 47,2019-04-05,Baby,Baby toys,4,30,94762061
+39,58,Australia Southeast,Australia Southeast Store 47,2019-07-05,Electronics,Computers,2,300,36511627
+40,18,Australia Southeast,Australia Southeast Store 47,2019-06-30,Beauty/Health,Skincare,6,10,77857096
+41,24,Australia Southeast,Australia Southeast Store 47,2019-01-17,Clothing,Shoes,4,12,70365831
+42,86,Australia Southeast,Australia Southeast Store 47,2019-07-06,Beauty/Health,Bath,3,10,92828939
+43,79,Australia Southeast,Australia Southeast Store 47,2019-05-11,Clothing,Mens,7,13,73187809
+44,71,Australia Southeast,Australia Southeast Store 47,2019-04-10,Baby,Car seats,7,30,73136411
+45,19,Australia Southeast,Australia Southeast Store 47,2019-04-03,Clothing,Shoes,1,10,93577475
+46,62,Australia Southeast,Australia Southeast Store 47,2019-01-18,Baby,Strollers,3,30,80646924
+47,52,Australia Southeast,Australia Southeast Store 47,2019-02-05,Clothing,Kids,5,12,94174913
+48,15,Australia Southeast,Australia Southeast Store 47,2019-07-14,Furniture,Indoor seating,8,75,42661024
+49,7,Australia Southeast,Australia Southeast Store 47,2019-01-23,Furniture,Patio furniture,2,100,78221494
+50,65,Australia Southeast,Australia Southeast Store 47,2019-02-05,Furniture,Pool furniture,1,30,37586217
+51,38,Australia Southeast,Australia Southeast Store 47,2019-04-09,Clothing,Mens,5,10,27857276
+52,25,Australia Southeast,Australia Southeast Store 47,2019-03-03,Furniture,Beds,4,40,50488156
+53,99,Australia Southeast,Australia Southeast Store 47,2019-07-14,Baby,Diaper bags,9,10,48209957
+54,47,Australia Southeast,Australia Southeast Store 47,2019-01-02,Beauty/Health,Feminine Products,5,15,17980073
+55,87,Australia Southeast,Australia Southeast Store 47,2019-02-09,Furniture,Indoor seating,3,15,14783425
+56,32,Australia Southeast,Australia Southeast Store 47,2019-04-21,Beauty/Health,Makeup,3,14,51113929
+57,73,Australia Southeast,Australia Southeast Store 47,2019-03-05,Electronics,Headphones,1,50,11920884
+58,49,Australia Southeast,Australia Southeast Store 47,2019-05-23,Clothing,Baby,3,12,81300166
+59,44,Australia Southeast,Australia Southeast Store 47,2019-02-12,Beauty/Health,Makeup,3,10,45619556
+60,7,Australia Southeast,Australia Southeast Store 47,2019-01-25,Electronics,Headphones,1,300,67837072
+61,11,Australia Southeast,Australia Southeast Store 47,2019-06-08,Furniture,Beds,3,100,85879878
+62,9,Australia Southeast,Australia Southeast Store 47,2019-02-28,Electronics,Headphones,2,200,62604425
+63,58,Australia Southeast,Australia Southeast Store 47,2019-01-15,Furniture,Pool furniture,1,40,55283067
+64,101,Australia Southeast,Australia Southeast Store 47,2019-04-04,Beauty/Health,Oral care,4,15,74044920
+65,76,Australia Southeast,Australia Southeast Store 47,2019-02-24,Baby,Car seats,5,30,16549233
+66,41,Australia Southeast,Australia Southeast Store 47,2019-06-25,Electronics,Cell Phones,2,200,61643495
+67,23,Australia Southeast,Australia Southeast Store 47,2019-05-06,Clothing,Swimwear,4,25,48468344
+68,96,Australia Southeast,Australia Southeast Store 47,2019-05-06,Clothing,Swimwear,8,12,99562656
+69,36,Australia Southeast,Australia Southeast Store 47,2019-04-28,Baby,Car seats,4,12,27056468
+70,60,Australia Southeast,Australia Southeast Store 47,2019-04-18,Beauty/Health,Feminine Products,4,10,45854860
+71,16,Australia Southeast,Australia Southeast Store 47,2019-02-26,Beauty/Health,Makeup,5,10,64136976
+72,16,Australia Southeast,Australia Southeast Store 47,2019-05-18,Beauty/Health,Fragrances,6,15,16460100
+73,4,Australia Southeast,Australia Southeast Store 47,2019-04-11,Electronics,Headphones,2,200,68033524
+74,43,Australia Southeast,Australia Southeast Store 47,2019-02-06,Furniture,Indoor seating,2,75,76056211
+75,64,Australia Southeast,Australia Southeast Store 47,2019-02-06,Beauty/Health,Bath,3,10,90157401
+76,34,Australia Southeast,Australia Southeast Store 47,2019-03-28,Clothing,Kids,4,25,39040428
+77,88,Australia Southeast,Australia Southeast Store 47,2019-05-03,Baby,Diapers,3,30,26559860
+78,19,Australia Southeast,Australia Southeast Store 47,2019-04-10,Clothing,Mens,4,25,78515211
+79,38,Australia Southeast,Australia Southeast Store 47,2019-02-07,Clothing,Baby,3,25,42542523
+80,3,Australia Southeast,Australia Southeast Store 47,2019-03-23,Beauty/Health,Haircare,4,10,75008253
+81,84,Australia Southeast,Australia Southeast Store 47,2019-02-01,Baby,Car seats,5,15,92589252
+82,40,Australia Southeast,Australia Southeast Store 47,2019-02-19,Clothing,Shoes,2,10,27637068
+83,46,Australia Southeast,Australia Southeast Store 47,2019-02-17,Baby,Strollers,2,5,58281166
+84,77,Australia Southeast,Australia Southeast Store 47,2019-01-11,Clothing,Womens,3,25,29749354
+85,73,Australia Southeast,Australia Southeast Store 47,2019-06-21,Furniture,Beds,10,100,16969360
+86,35,Australia Southeast,Australia Southeast Store 47,2019-02-25,Baby,Cribs,1,30,24632243
+87,3,Australia Southeast,Australia Southeast Store 47,2019-05-11,Beauty/Health,Haircare,9,10,85682090
+88,6,Australia Southeast,Australia Southeast Store 47,2019-05-13,Electronics,Televisions,1,50,36599819
+89,70,Australia Southeast,Australia Southeast Store 47,2019-06-24,Electronics,Computers,2,50,22228532
+90,68,Australia Southeast,Australia Southeast Store 47,2019-05-06,Electronics,Tablets,2,200,63572453
+91,10,Australia Southeast,Australia Southeast Store 47,2019-02-08,Baby,Car seats,2,5,73225833
+92,69,Australia Southeast,Australia Southeast Store 47,2019-04-27,Clothing,Womens,4,25,10666247
+93,24,Australia Southeast,Australia Southeast Store 47,2019-03-19,Clothing,Kids,3,20,84138795
+94,30,Australia Southeast,Australia Southeast Store 47,2019-06-18,Clothing,Mens,9,20,36025345
+95,84,Australia Southeast,Australia Southeast Store 47,2019-04-07,Baby,Strollers,2,15,92557283
+96,41,Australia Southeast,Australia Southeast Store 47,2019-01-03,Electronics,Speakers,2,300,84021891
+97,10,Australia Southeast,Australia Southeast Store 47,2019-03-30,Baby,Diaper bags,5,30,38709016
+98,85,Australia Southeast,Australia Southeast Store 47,2019-05-30,Electronics,Tablets,1,300,63959028
+99,76,Australia Southeast,Australia Southeast Store 47,2019-03-11,Furniture,Patio furniture,2,75,62689037
+100,19,Australia Southeast,Australia Southeast Store 47,2019-01-02,Beauty/Health,Oral care,3,15,10703267
+101,90,Australia Southeast,Australia Southeast Store 47,2019-03-15,Baby,Cribs,4,10,30588811
+102,78,Australia Southeast,Australia Southeast Store 47,2019-04-18,Furniture,Beds,10,100,49228918
+103,28,Australia Southeast,Australia Southeast Store 47,2019-06-22,Beauty/Health,Oral care,10,10,27746920
+104,83,Australia Southeast,Australia Southeast Store 47,2019-06-10,Electronics,Tablets,1,50,36494620
+105,99,Australia Southeast,Australia Southeast Store 47,2019-05-27,Clothing,Mens,8,13,66491931
+106,27,Australia Southeast,Australia Southeast Store 47,2019-07-13,Beauty/Health,Feminine Products,9,15,60602456
+107,84,Australia Southeast,Australia Southeast Store 47,2019-01-03,Beauty/Health,Oral care,2,10,90287790
+108,35,Australia Southeast,Australia Southeast Store 47,2019-02-04,Electronics,Cell Phones,1,50,20697169
+109,49,Australia Southeast,Australia Southeast Store 47,2019-05-15,Furniture,Indoor tables,5,40,93660811
+110,49,Australia Southeast,Australia Southeast Store 47,2019-07-11,Beauty/Health,Bath,6,14,93044573
+111,80,Australia Southeast,Australia Southeast Store 47,2019-02-26,Beauty/Health,Oral care,3,10,41362149
+112,26,Australia Southeast,Australia Southeast Store 47,2019-03-09,Beauty/Health,Fragrances,5,6,34687574
+113,30,Australia Southeast,Australia Southeast Store 47,2019-05-28,Electronics,Cell Phones,1,100,73319545
+114,53,Australia Southeast,Australia Southeast Store 47,2019-05-11,Clothing,Womens,8,10,92221876
+115,30,Australia Southeast,Australia Southeast Store 47,2019-04-13,Electronics,Televisions,2,100,92267307
+116,83,Australia Southeast,Australia Southeast Store 47,2019-03-26,Furniture,Pool furniture,3,30,33230879
+117,39,Australia Southeast,Australia Southeast Store 47,2019-07-05,Beauty/Health,Bath,5,14,99872906
+118,73,Australia Southeast,Australia Southeast Store 47,2019-04-25,Beauty/Health,Skincare,6,15,26777287
+119,17,Australia Southeast,Australia Southeast Store 47,2019-01-30,Clothing,Swimwear,3,10,94807674
+120,22,Australia Southeast,Australia Southeast Store 47,2019-01-08,Beauty/Health,Fragrances,4,10,48851840
+121,87,Australia Southeast,Australia Southeast Store 47,2019-06-02,Electronics,Tablets,1,50,12955329
+122,15,Australia Southeast,Australia Southeast Store 47,2019-05-06,Furniture,Indoor tables,8,100,79663380
+123,101,Australia Southeast,Australia Southeast Store 47,2019-06-26,Baby,Diapers,10,10,57160422
+124,91,Australia Southeast,Australia Southeast Store 47,2019-05-09,Clothing,Mens,9,25,22733222
+125,82,Australia Southeast,Australia Southeast Store 47,2019-02-11,Baby,Strollers,1,5,85787030
+126,71,Australia Southeast,Australia Southeast Store 47,2019-04-01,Furniture,Pool furniture,3,15,54589925
+127,51,Australia Southeast,Australia Southeast Store 47,2019-04-20,Furniture,Pool furniture,9,75,55255488
+128,8,Australia Southeast,Australia Southeast Store 47,2019-06-06,Clothing,Shoes,4,10,82697670
+129,28,Australia Southeast,Australia Southeast Store 47,2019-02-16,Electronics,Computers,1,100,28624549
+130,64,Australia Southeast,Australia Southeast Store 47,2019-03-20,Beauty/Health,Oral care,4,6,21430649
+131,46,Australia Southeast,Australia Southeast Store 47,2019-02-17,Furniture,Indoor seating,5,100,12122362
+132,81,Australia Southeast,Australia Southeast Store 47,2019-04-14,Baby,Diapers,9,30,95505803
+133,6,Australia Southeast,Australia Southeast Store 47,2019-05-30,Electronics,Cell Phones,1,50,41048596
+134,78,Australia Southeast,Australia Southeast Store 47,2019-04-01,Furniture,Pool furniture,5,40,65493301
+135,6,Australia Southeast,Australia Southeast Store 47,2019-06-21,Baby,Diaper bags,10,30,41046248
+136,89,Australia Southeast,Australia Southeast Store 47,2019-01-20,Furniture,Indoor tables,5,15,39722486
+137,43,Australia Southeast,Australia Southeast Store 47,2019-01-12,Furniture,Pool furniture,4,30,99246473
+138,40,Australia Southeast,Australia Southeast Store 47,2019-05-16,Furniture,Indoor tables,7,75,32027143
+139,97,Australia Southeast,Australia Southeast Store 47,2019-03-17,Baby,Car seats,2,10,88441800
+140,96,Australia Southeast,Australia Southeast Store 47,2019-07-13,Baby,Baby toys,3,10,28914661
+141,91,Australia Southeast,Australia Southeast Store 47,2019-03-19,Baby,Baby toys,4,30,26936803
+142,98,Australia Southeast,Australia Southeast Store 47,2019-01-12,Clothing,Shoes,3,10,33909355
+143,48,Australia Southeast,Australia Southeast Store 47,2019-02-07,Electronics,Headphones,2,200,24267127
+144,92,Australia Southeast,Australia Southeast Store 47,2019-04-09,Electronics,Computers,1,300,16667200
+145,64,Australia Southeast,Australia Southeast Store 47,2019-05-08,Beauty/Health,Fragrances,8,10,32311807
+146,23,Australia Southeast,Australia Southeast Store 47,2019-05-02,Beauty/Health,Skincare,9,10,49408068
+147,6,Australia Southeast,Australia Southeast Store 47,2019-03-05,Beauty/Health,Skincare,5,10,71309556
+148,73,Australia Southeast,Australia Southeast Store 47,2019-02-27,Furniture,Pool furniture,5,15,35153521
+149,72,Australia Southeast,Australia Southeast Store 47,2019-06-15,Furniture,Patio furniture,10,100,79852619
+150,98,Australia Southeast,Australia Southeast Store 47,2019-02-01,Furniture,Indoor seating,5,100,50366613
+151,82,Australia Southeast,Australia Southeast Store 47,2019-06-22,Beauty/Health,Fragrances,8,10,34752821
+152,95,Australia Southeast,Australia Southeast Store 47,2019-03-26,Baby,Strollers,4,5,92729748
+153,47,Australia Southeast,Australia Southeast Store 47,2019-07-12,Furniture,Indoor seating,10,100,80592753
+154,28,Australia Southeast,Australia Southeast Store 47,2019-05-07,Furniture,Beds,4,30,50492112
+155,25,Australia Southeast,Australia Southeast Store 47,2019-06-26,Clothing,Mens,5,12,53483566
+156,37,Australia Southeast,Australia Southeast Store 47,2019-03-26,Electronics,Tablets,1,100,92087590
+157,62,Australia Southeast,Australia Southeast Store 47,2019-01-02,Beauty/Health,Oral care,3,6,80729391
+158,16,Australia Southeast,Australia Southeast Store 47,2019-07-14,Clothing,Shoes,6,13,95825578
+159,46,Australia Southeast,Australia Southeast Store 47,2019-04-04,Baby,Cribs,3,10,33695297
+160,48,Australia Southeast,Australia Southeast Store 47,2019-06-29,Beauty/Health,Makeup,3,10,23111394
+161,90,Australia Southeast,Australia Southeast Store 47,2019-01-28,Beauty/Health,Haircare,3,10,96344571
+162,29,Australia Southeast,Australia Southeast Store 47,2019-04-01,Clothing,Swimwear,1,25,57846140
+163,56,Australia Southeast,Australia Southeast Store 47,2019-04-24,Electronics,Headphones,1,200,78241837
+164,96,Australia Southeast,Australia Southeast Store 47,2019-04-18,Beauty/Health,Bath,8,6,90880995
+165,40,Australia Southeast,Australia Southeast Store 47,2019-06-11,Beauty/Health,Makeup,8,10,21061736
+166,22,Australia Southeast,Australia Southeast Store 47,2019-05-25,Clothing,Womens,9,10,80159496
+167,101,Australia Southeast,Australia Southeast Store 47,2019-01-18,Baby,Strollers,5,15,97960325
+168,96,Australia Southeast,Australia Southeast Store 47,2019-07-11,Beauty/Health,Skincare,8,10,43830448
+169,66,Australia Southeast,Australia Southeast Store 47,2019-03-24,Clothing,Mens,4,20,32009388
+170,86,Australia Southeast,Australia Southeast Store 47,2019-04-29,Beauty/Health,Bath,9,10,95928583
+171,90,Australia Southeast,Australia Southeast Store 47,2019-05-14,Electronics,Televisions,2,100,90694853
+172,40,Australia Southeast,Australia Southeast Store 47,2019-07-02,Clothing,Kids,6,25,59241906
+173,86,Australia Southeast,Australia Southeast Store 47,2019-03-24,Electronics,Speakers,1,100,72933188
+174,22,Australia Southeast,Australia Southeast Store 47,2019-04-04,Clothing,Kids,4,20,62008116
+175,13,Australia Southeast,Australia Southeast Store 47,2019-01-23,Beauty/Health,Haircare,5,14,37404428
+176,14,Australia Southeast,Australia Southeast Store 47,2019-02-09,Beauty/Health,Feminine Products,1,6,95661321
+177,32,Australia Southeast,Australia Southeast Store 47,2019-07-03,Baby,Diaper bags,8,5,23938043
+178,32,Australia Southeast,Australia Southeast Store 47,2019-07-12,Electronics,Computers,1,200,62928304
+179,57,Australia Southeast,Australia Southeast Store 47,2019-06-18,Clothing,Kids,4,25,25077647
+180,78,Australia Southeast,Australia Southeast Store 47,2019-02-24,Electronics,Televisions,1,50,75325326
+181,82,Australia Southeast,Australia Southeast Store 47,2019-03-27,Baby,Diaper bags,1,12,28427082
+182,6,Australia Southeast,Australia Southeast Store 47,2019-06-17,Baby,Cribs,10,30,59970722
+183,99,Australia Southeast,Australia Southeast Store 47,2019-04-17,Clothing,Mens,10,13,74719556
+184,85,Australia Southeast,Australia Southeast Store 47,2019-06-15,Furniture,Beds,3,15,74714983
+185,21,Australia Southeast,Australia Southeast Store 47,2019-01-06,Clothing,Swimwear,5,20,57158575
+186,51,Australia Southeast,Australia Southeast Store 47,2019-06-29,Furniture,Indoor seating,7,15,28821719
+187,32,Australia Southeast,Australia Southeast Store 47,2019-01-20,Electronics,Cell Phones,2,300,12720922
+188,75,Australia Southeast,Australia Southeast Store 47,2019-03-12,Baby,Cribs,1,30,36701960
+189,93,Australia Southeast,Australia Southeast Store 47,2019-04-19,Electronics,Headphones,2,100,12272942
+190,76,Australia Southeast,Australia Southeast Store 47,2019-06-12,Furniture,Pool furniture,10,30,77127828
+191,48,Australia Southeast,Australia Southeast Store 47,2019-06-30,Electronics,Televisions,2,50,63037323
+192,29,Australia Southeast,Australia Southeast Store 47,2019-06-28,Furniture,Indoor seating,10,30,42775379
+193,30,Australia Southeast,Australia Southeast Store 47,2019-03-27,Electronics,Televisions,1,200,98847887
+194,32,Australia Southeast,Australia Southeast Store 47,2019-04-18,Electronics,Televisions,1,100,97884207
+195,95,Australia Southeast,Australia Southeast Store 47,2019-06-12,Clothing,Kids,4,20,68545972
+196,87,Australia Southeast,Australia Southeast Store 47,2019-02-27,Electronics,Tablets,2,200,65598210
+197,95,Australia Southeast,Australia Southeast Store 47,2019-07-09,Baby,Baby toys,4,15,49535066
+198,54,Australia Southeast,Australia Southeast Store 47,2019-04-10,Beauty/Health,Fragrances,8,15,98611299
+199,17,Australia Southeast,Australia Southeast Store 47,2019-01-22,Beauty/Health,Makeup,4,10,61632518
+200,8,Australia Southeast,Australia Southeast Store 47,2019-04-20,Clothing,Womens,10,25,55564478
+201,32,Australia Southeast,Australia Southeast Store 47,2019-05-14,Clothing,Baby,6,25,57870962
+202,68,Australia Southeast,Australia Southeast Store 47,2019-06-06,Beauty/Health,Bath,7,15,59847625
+203,26,Australia Southeast,Australia Southeast Store 47,2019-03-10,Beauty/Health,Oral care,4,14,97043544
+204,3,Australia Southeast,Australia Southeast Store 47,2019-06-25,Clothing,Womens,10,20,56694019
+205,1,Australia Southeast,Australia Southeast Store 47,2019-05-31,Electronics,Speakers,1,200,23062972
+206,11,Australia Southeast,Australia Southeast Store 47,2019-02-06,Electronics,Televisions,1,200,83645207
+207,91,Australia Southeast,Australia Southeast Store 47,2019-02-05,Furniture,Indoor tables,2,15,27241403
+208,76,Australia Southeast,Australia Southeast Store 47,2019-06-05,Furniture,Beds,10,75,12442921
+209,64,Australia Southeast,Australia Southeast Store 47,2019-06-05,Clothing,Womens,7,20,97237753
+210,21,Australia Southeast,Australia Southeast Store 47,2019-04-09,Clothing,Mens,9,25,70393448
+211,54,Australia Southeast,Australia Southeast Store 47,2019-02-15,Furniture,Indoor tables,3,100,86099111
+212,67,Australia Southeast,Australia Southeast Store 47,2019-06-21,Baby,Car seats,7,12,83827068
+213,100,Australia Southeast,Australia Southeast Store 47,2019-06-21,Clothing,Shoes,7,20,73586645
+214,16,Australia Southeast,Australia Southeast Store 47,2019-06-22,Beauty/Health,Fragrances,4,15,29923167
+215,69,Australia Southeast,Australia Southeast Store 47,2019-02-02,Clothing,Kids,1,25,63605345
+216,5,Australia Southeast,Australia Southeast Store 47,2019-01-25,Baby,Strollers,2,15,96202682
+217,26,Australia Southeast,Australia Southeast Store 47,2019-01-23,Beauty/Health,Bath,4,6,60972548
+218,15,Australia Southeast,Australia Southeast Store 47,2019-04-08,Furniture,Pool furniture,4,100,17228032
+219,37,Australia Southeast,Australia Southeast Store 47,2019-01-31,Beauty/Health,Skincare,4,10,27338551
+220,32,Australia Southeast,Australia Southeast Store 47,2019-02-26,Clothing,Womens,5,10,15038420
+221,58,Australia Southeast,Australia Southeast Store 47,2019-04-07,Furniture,Patio furniture,1,40,56590221
+222,98,Australia Southeast,Australia Southeast Store 47,2019-01-13,Furniture,Beds,1,100,98217300
+223,42,Australia Southeast,Australia Southeast Store 47,2019-07-10,Beauty/Health,Feminine Products,8,6,67741660
+224,32,Australia Southeast,Australia Southeast Store 47,2019-03-06,Furniture,Beds,4,40,71353215
+225,16,Australia Southeast,Australia Southeast Store 47,2019-04-18,Clothing,Swimwear,10,12,34159170
+226,2,Australia Southeast,Australia Southeast Store 47,2019-03-22,Baby,Cribs,2,30,77672823
+227,98,Australia Southeast,Australia Southeast Store 47,2019-05-05,Beauty/Health,Bath,3,6,67243536
+228,83,Australia Southeast,Australia Southeast Store 47,2019-01-03,Beauty/Health,Feminine Products,5,10,60299010
+229,55,Australia Southeast,Australia Southeast Store 47,2019-04-04,Beauty/Health,Skincare,4,6,55280630
+230,83,Australia Southeast,Australia Southeast Store 47,2019-05-23,Beauty/Health,Fragrances,7,10,88072105
+231,48,Australia Southeast,Australia Southeast Store 47,2019-02-25,Furniture,Indoor tables,5,75,54528142
+232,101,Australia Southeast,Australia Southeast Store 47,2019-01-14,Furniture,Pool furniture,3,75,22934474
+233,100,Australia Southeast,Australia Southeast Store 47,2019-02-25,Beauty/Health,Skincare,5,15,14706401
+234,77,Australia Southeast,Australia Southeast Store 47,2019-02-17,Beauty/Health,Skincare,3,10,25421738
+235,80,Australia Southeast,Australia Southeast Store 47,2019-03-25,Furniture,Pool furniture,4,15,19914911
+236,32,Australia Southeast,Australia Southeast Store 47,2019-03-26,Baby,Car seats,5,5,86001928
+237,101,Australia Southeast,Australia Southeast Store 47,2019-04-24,Clothing,Baby,10,25,20097016
+238,18,Australia Southeast,Australia Southeast Store 47,2019-01-20,Clothing,Baby,3,25,55133928
+239,89,Australia Southeast,Australia Southeast Store 47,2019-01-27,Electronics,Speakers,1,100,78283467
+240,81,Australia Southeast,Australia Southeast Store 47,2019-03-01,Clothing,Kids,1,12,88919362
+241,82,Australia Southeast,Australia Southeast Store 47,2019-07-07,Clothing,Shoes,9,10,46301299
+242,10,Australia Southeast,Australia Southeast Store 47,2019-03-26,Beauty/Health,Fragrances,4,15,86296379
+243,90,Australia Southeast,Australia Southeast Store 47,2019-05-26,Electronics,Headphones,2,100,28794344
+244,73,Australia Southeast,Australia Southeast Store 47,2019-06-10,Beauty/Health,Makeup,3,10,24216041
+245,61,Australia Southeast,Australia Southeast Store 47,2019-01-26,Clothing,Kids,3,25,45850720
+246,39,Australia Southeast,Australia Southeast Store 47,2019-06-28,Electronics,Computers,2,300,99192054
+247,63,Australia Southeast,Australia Southeast Store 47,2019-02-08,Baby,Diapers,2,5,53771686
+248,90,Australia Southeast,Australia Southeast Store 47,2019-03-14,Baby,Car seats,5,15,28668593
+249,94,Australia Southeast,Australia Southeast Store 47,2019-07-13,Beauty/Health,Bath,6,10,76624166
+250,59,Australia Southeast,Australia Southeast Store 47,2019-02-03,Clothing,Shoes,4,13,82155097
+251,92,Australia Southeast,Australia Southeast Store 47,2019-05-20,Electronics,Headphones,2,200,88316935
+252,51,Australia Southeast,Australia Southeast Store 47,2019-03-24,Beauty/Health,Fragrances,3,6,93683018
+253,93,Australia Southeast,Australia Southeast Store 47,2019-05-05,Baby,Strollers,9,12,77872691
+254,60,Australia Southeast,Australia Southeast Store 47,2019-05-11,Clothing,Swimwear,5,20,94841482
+255,71,Australia Southeast,Australia Southeast Store 47,2019-05-18,Clothing,Baby,6,25,93097446
+256,32,Australia Southeast,Australia Southeast Store 47,2019-04-06,Electronics,Cell Phones,1,300,18236810
+257,81,Australia Southeast,Australia Southeast Store 47,2019-02-19,Baby,Diapers,3,15,90554995
+258,97,Australia Southeast,Australia Southeast Store 47,2019-04-30,Electronics,Speakers,2,50,56917608
+259,76,Australia Southeast,Australia Southeast Store 47,2019-06-16,Baby,Baby toys,5,15,99422625
+260,19,Australia Southeast,Australia Southeast Store 47,2019-07-01,Furniture,Beds,4,40,60937919
+261,64,Australia Southeast,Australia Southeast Store 47,2019-06-30,Beauty/Health,Oral care,3,10,59867827
+262,20,Australia Southeast,Australia Southeast Store 47,2019-05-22,Baby,Baby toys,7,12,68727968
+263,54,Australia Southeast,Australia Southeast Store 47,2019-01-25,Clothing,Mens,2,12,97065902
+264,68,Australia Southeast,Australia Southeast Store 47,2019-04-03,Baby,Car seats,4,12,19305772
+265,68,Australia Southeast,Australia Southeast Store 47,2019-02-17,Furniture,Indoor tables,2,100,65023011
+266,30,Australia Southeast,Australia Southeast Store 47,2019-01-18,Electronics,Tablets,2,200,76615511
+267,100,Australia Southeast,Australia Southeast Store 47,2019-03-23,Electronics,Tablets,1,100,86894648
+268,95,Australia Southeast,Australia Southeast Store 47,2019-04-02,Clothing,Shoes,5,10,34295402
+269,60,Australia Southeast,Australia Southeast Store 47,2019-01-20,Clothing,Mens,1,10,25944482
+270,77,Australia Southeast,Australia Southeast Store 47,2019-05-14,Furniture,Patio furniture,10,100,89895171
+271,15,Australia Southeast,Australia Southeast Store 47,2019-04-29,Electronics,Tablets,1,50,82879283
+272,49,Australia Southeast,Australia Southeast Store 47,2019-04-15,Beauty/Health,Oral care,3,14,24728531
+273,82,Australia Southeast,Australia Southeast Store 47,2019-05-03,Clothing,Womens,4,12,30708834
+274,92,Australia Southeast,Australia Southeast Store 47,2019-04-06,Baby,Diaper bags,3,10,18680264
+275,22,Australia Southeast,Australia Southeast Store 47,2019-02-24,Beauty/Health,Haircare,5,15,50041412
+276,7,Australia Southeast,Australia Southeast Store 47,2019-06-24,Electronics,Headphones,2,50,59870205
+277,54,Australia Southeast,Australia Southeast Store 47,2019-01-04,Beauty/Health,Skincare,5,10,93798115
+278,51,Australia Southeast,Australia Southeast Store 47,2019-05-15,Beauty/Health,Fragrances,5,10,23548865
+279,33,Australia Southeast,Australia Southeast Store 47,2019-02-05,Electronics,Tablets,1,100,90157232
+280,92,Australia Southeast,Australia Southeast Store 47,2019-03-13,Beauty/Health,Feminine Products,5,14,90246622
+281,71,Australia Southeast,Australia Southeast Store 47,2019-06-24,Baby,Strollers,6,15,78527747
+282,39,Australia Southeast,Australia Southeast Store 47,2019-04-20,Clothing,Shoes,4,10,10262049
+283,45,Australia Southeast,Australia Southeast Store 47,2019-06-26,Baby,Baby toys,10,30,43522740
+284,69,Australia Southeast,Australia Southeast Store 47,2019-04-02,Beauty/Health,Haircare,1,10,29324999
+285,55,Australia Southeast,Australia Southeast Store 47,2019-02-10,Baby,Diapers,2,12,43213548
+286,95,Australia Southeast,Australia Southeast Store 47,2019-01-15,Beauty/Health,Fragrances,2,14,13821500
+287,16,Australia Southeast,Australia Southeast Store 47,2019-01-09,Clothing,Kids,1,20,80577010
+288,69,Australia Southeast,Australia Southeast Store 47,2019-04-10,Clothing,Baby,3,13,17677205
+289,91,Australia Southeast,Australia Southeast Store 47,2019-05-05,Baby,Diapers,3,5,49898519
+290,22,Australia Southeast,Australia Southeast Store 47,2019-05-07,Clothing,Mens,6,13,93422229
+291,92,Australia Southeast,Australia Southeast Store 47,2019-06-01,Clothing,Kids,10,10,98086457
+292,68,Australia Southeast,Australia Southeast Store 47,2019-04-16,Beauty/Health,Oral care,6,14,67704186
+293,96,Australia Southeast,Australia Southeast Store 47,2019-04-05,Clothing,Swimwear,3,25,76940216
+294,4,Australia Southeast,Australia Southeast Store 47,2019-01-19,Furniture,Indoor tables,3,100,78360604
+295,71,Australia Southeast,Australia Southeast Store 47,2019-03-13,Clothing,Shoes,1,13,81138141
+296,55,Australia Southeast,Australia Southeast Store 47,2019-03-22,Electronics,Computers,1,200,81850766
+297,89,Australia Southeast,Australia Southeast Store 47,2019-01-09,Furniture,Indoor tables,5,100,79172160
+298,53,Australia Southeast,Australia Southeast Store 47,2019-02-27,Electronics,Televisions,1,100,25049434
+299,66,Australia Southeast,Australia Southeast Store 47,2019-05-25,Clothing,Womens,10,25,49838180
+300,96,Australia Southeast,Australia Southeast Store 47,2019-04-23,Electronics,Televisions,2,50,36034389
+301,35,Australia Southeast,Australia Southeast Store 47,2019-07-15,Electronics,Speakers,2,200,10854294
+302,13,Australia Southeast,Australia Southeast Store 47,2019-04-17,Baby,Car seats,8,30,63628230
+303,15,Australia Southeast,Australia Southeast Store 47,2019-01-23,Clothing,Swimwear,4,25,89820724
+304,43,Australia Southeast,Australia Southeast Store 47,2019-05-18,Baby,Strollers,9,12,32521999
+305,81,Australia Southeast,Australia Southeast Store 47,2019-03-25,Baby,Diapers,4,12,52353378
+306,48,Australia Southeast,Australia Southeast Store 47,2019-03-16,Clothing,Mens,5,25,73030870
+307,31,Australia Southeast,Australia Southeast Store 47,2019-05-31,Clothing,Baby,6,12,99043903
+308,30,Australia Southeast,Australia Southeast Store 47,2019-02-07,Clothing,Swimwear,2,10,87846998
+309,6,Australia Southeast,Australia Southeast Store 47,2019-02-25,Electronics,Cell Phones,2,200,97969132
+310,13,Australia Southeast,Australia Southeast Store 47,2019-02-24,Electronics,Speakers,1,100,32939111
+311,3,Australia Southeast,Australia Southeast Store 47,2019-03-22,Electronics,Computers,1,50,98197261
+312,19,Australia Southeast,Australia Southeast Store 47,2019-03-04,Furniture,Indoor seating,1,15,24581745
+313,62,Australia Southeast,Australia Southeast Store 47,2019-03-06,Baby,Strollers,1,10,38973175
+314,89,Australia Southeast,Australia Southeast Store 47,2019-07-09,Electronics,Televisions,1,100,36585705
+315,11,Australia Southeast,Australia Southeast Store 47,2019-05-11,Furniture,Indoor tables,5,75,51922202
+316,90,Australia Southeast,Australia Southeast Store 47,2019-04-28,Baby,Baby toys,6,30,94419570
+317,61,Australia Southeast,Australia Southeast Store 47,2019-05-12,Clothing,Baby,4,10,72692787
+318,2,Australia Southeast,Australia Southeast Store 47,2019-04-12,Baby,Strollers,6,5,47699972
+319,51,Australia Southeast,Australia Southeast Store 47,2019-04-29,Electronics,Tablets,2,200,47082438
+320,77,Australia Southeast,Australia Southeast Store 47,2019-07-10,Beauty/Health,Fragrances,5,15,62970600
+321,70,Australia Southeast,Australia Southeast Store 47,2019-06-04,Beauty/Health,Feminine Products,4,10,53043279
+322,85,Australia Southeast,Australia Southeast Store 47,2019-07-15,Baby,Diaper bags,8,30,77949664
+323,96,Australia Southeast,Australia Southeast Store 47,2019-04-26,Baby,Strollers,4,5,24491881
+324,84,Australia Southeast,Australia Southeast Store 47,2019-01-27,Baby,Car seats,4,10,33968609
+325,69,Australia Southeast,Australia Southeast Store 47,2019-04-30,Electronics,Televisions,2,50,94594155
+326,33,Australia Southeast,Australia Southeast Store 47,2019-05-31,Furniture,Pool furniture,8,75,31849718
+327,51,Australia Southeast,Australia Southeast Store 47,2019-03-07,Clothing,Shoes,1,25,23863091
+328,33,Australia Southeast,Australia Southeast Store 47,2019-04-26,Electronics,Cell Phones,2,100,74614522
+329,6,Australia Southeast,Australia Southeast Store 47,2019-02-01,Clothing,Womens,4,20,52714580
+330,46,Australia Southeast,Australia Southeast Store 47,2019-05-15,Electronics,Cell Phones,1,100,62943738
+331,57,Australia Southeast,Australia Southeast Store 47,2019-07-14,Baby,Diaper bags,9,12,25441561
+332,96,Australia Southeast,Australia Southeast Store 47,2019-05-16,Baby,Strollers,6,15,81378769
+333,36,Australia Southeast,Australia Southeast Store 47,2019-05-29,Baby,Strollers,3,15,41562539
+334,18,Australia Southeast,Australia Southeast Store 47,2019-04-12,Electronics,Televisions,1,300,97781954
+335,90,Australia Southeast,Australia Southeast Store 47,2019-03-15,Beauty/Health,Fragrances,3,10,28785258
+336,84,Australia Southeast,Australia Southeast Store 47,2019-01-03,Clothing,Shoes,1,12,88172787
+337,36,Australia Southeast,Australia Southeast Store 47,2019-01-13,Electronics,Headphones,2,100,62663278
+338,49,Australia Southeast,Australia Southeast Store 47,2019-04-17,Clothing,Mens,4,10,31738244
+339,70,Australia Southeast,Australia Southeast Store 47,2019-05-22,Clothing,Kids,4,10,16704331
+340,9,Australia Southeast,Australia Southeast Store 47,2019-05-05,Clothing,Shoes,7,13,93840210
+341,68,Australia Southeast,Australia Southeast Store 47,2019-03-22,Electronics,Speakers,1,200,72724379
+342,33,Australia Southeast,Australia Southeast Store 47,2019-01-01,Baby,Cribs,1,5,76459130
+343,65,Australia Southeast,Australia Southeast Store 47,2019-01-06,Clothing,Baby,2,10,43887308
+344,55,Australia Southeast,Australia Southeast Store 47,2019-06-05,Beauty/Health,Oral care,3,10,52677731
+345,62,Australia Southeast,Australia Southeast Store 47,2019-03-30,Electronics,Headphones,1,200,46859257
+346,57,Australia Southeast,Australia Southeast Store 47,2019-03-13,Baby,Strollers,1,10,25616070
+347,70,Australia Southeast,Australia Southeast Store 47,2019-07-02,Beauty/Health,Fragrances,9,10,90552521
+348,89,Australia Southeast,Australia Southeast Store 47,2019-03-15,Furniture,Patio furniture,2,100,84329199
+349,64,Australia Southeast,Australia Southeast Store 47,2019-04-13,Baby,Strollers,7,30,29881150
+350,61,Australia Southeast,Australia Southeast Store 47,2019-03-20,Beauty/Health,Bath,1,14,45867299
+351,49,Australia Southeast,Australia Southeast Store 47,2019-06-12,Beauty/Health,Makeup,6,10,62106374
+352,25,Australia Southeast,Australia Southeast Store 47,2019-03-22,Beauty/Health,Skincare,5,6,98852948
+353,19,Australia Southeast,Australia Southeast Store 47,2019-07-13,Baby,Car seats,3,12,48829313
+354,81,Australia Southeast,Australia Southeast Store 47,2019-02-28,Clothing,Shoes,1,20,24130696
+355,87,Australia Southeast,Australia Southeast Store 47,2019-05-08,Electronics,Computers,2,50,81672549
+356,70,Australia Southeast,Australia Southeast Store 47,2019-07-13,Clothing,Baby,7,13,97109796
+357,101,Australia Southeast,Australia Southeast Store 47,2019-06-18,Furniture,Pool furniture,10,40,30045156
+358,77,Australia Southeast,Australia Southeast Store 47,2019-02-01,Beauty/Health,Haircare,5,14,99295410
+359,58,Australia Southeast,Australia Southeast Store 47,2019-02-07,Baby,Baby toys,2,12,52948386
+360,3,Australia Southeast,Australia Southeast Store 47,2019-01-04,Electronics,Televisions,1,50,44029592
+361,26,Australia Southeast,Australia Southeast Store 47,2019-04-13,Electronics,Speakers,2,100,81604684
+362,100,Australia Southeast,Australia Southeast Store 47,2019-05-05,Furniture,Beds,7,15,16709137
+363,42,Australia Southeast,Australia Southeast Store 47,2019-06-20,Clothing,Kids,6,25,74322558
+364,18,Australia Southeast,Australia Southeast Store 47,2019-03-13,Furniture,Pool furniture,2,30,70394015
+365,53,Australia Southeast,Australia Southeast Store 47,2019-07-14,Beauty/Health,Fragrances,8,10,48497736
+366,73,Australia Southeast,Australia Southeast Store 47,2019-01-21,Beauty/Health,Oral care,3,10,98892359
+367,61,Australia Southeast,Australia Southeast Store 47,2019-02-17,Clothing,Kids,5,25,67576647
+368,33,Australia Southeast,Australia Southeast Store 47,2019-03-23,Furniture,Patio furniture,3,15,54185349
+369,26,Australia Southeast,Australia Southeast Store 47,2019-02-07,Electronics,Speakers,2,50,11817184
+370,72,Australia Southeast,Australia Southeast Store 47,2019-03-22,Clothing,Swimwear,2,25,57721753
+371,79,Australia Southeast,Australia Southeast Store 47,2019-05-20,Beauty/Health,Haircare,4,10,36994433
+372,35,Australia Southeast,Australia Southeast Store 47,2019-04-18,Clothing,Kids,6,20,14841480
+373,52,Australia Southeast,Australia Southeast Store 47,2019-03-18,Electronics,Speakers,1,200,78724914
+374,69,Australia Southeast,Australia Southeast Store 47,2019-03-15,Electronics,Headphones,2,100,77565157
+375,54,Australia Southeast,Australia Southeast Store 47,2019-01-14,Electronics,Televisions,1,300,98418199
+376,60,Australia Southeast,Australia Southeast Store 47,2019-01-11,Beauty/Health,Feminine Products,2,10,24507986
+377,70,Australia Southeast,Australia Southeast Store 47,2019-01-20,Beauty/Health,Makeup,4,10,70578830
+378,2,Australia Southeast,Australia Southeast Store 47,2019-02-24,Electronics,Televisions,2,300,70164918
+379,60,Australia Southeast,Australia Southeast Store 47,2019-03-12,Beauty/Health,Oral care,2,14,96336962
+380,1,Australia Southeast,Australia Southeast Store 47,2019-03-17,Furniture,Beds,4,30,31405128
+381,44,Australia Southeast,Australia Southeast Store 47,2019-04-24,Beauty/Health,Haircare,8,15,14300579
+382,3,Australia Southeast,Australia Southeast Store 47,2019-07-04,Electronics,Speakers,2,300,64842637
+383,71,Australia Southeast,Australia Southeast Store 47,2019-04-07,Electronics,Cell Phones,1,50,51012058
+384,92,Australia Southeast,Australia Southeast Store 47,2019-02-01,Beauty/Health,Feminine Products,2,10,70136303
+385,80,Australia Southeast,Australia Southeast Store 47,2019-06-30,Beauty/Health,Haircare,7,10,85274863
+386,13,Australia Southeast,Australia Southeast Store 47,2019-05-09,Beauty/Health,Fragrances,10,10,91154962
+387,85,Australia Southeast,Australia Southeast Store 47,2019-06-19,Beauty/Health,Bath,3,14,54311990
+388,20,Australia Southeast,Australia Southeast Store 47,2019-04-23,Electronics,Tablets,1,300,43086850
+389,86,Australia Southeast,Australia Southeast Store 47,2019-01-19,Baby,Diapers,5,12,68160620
+390,10,Australia Southeast,Australia Southeast Store 47,2019-04-05,Beauty/Health,Bath,5,6,39888800
+391,15,Australia Southeast,Australia Southeast Store 47,2019-07-13,Baby,Diaper bags,9,10,72831550
+392,92,Australia Southeast,Australia Southeast Store 47,2019-06-10,Baby,Diapers,3,30,18604433
+393,30,Australia Southeast,Australia Southeast Store 47,2019-07-15,Furniture,Indoor tables,8,100,22728571
+394,18,Australia Southeast,Australia Southeast Store 47,2019-01-08,Baby,Cribs,1,15,35741557
+395,10,Australia Southeast,Australia Southeast Store 47,2019-05-12,Beauty/Health,Haircare,7,10,76476508
+396,30,Australia Southeast,Australia Southeast Store 47,2019-03-13,Baby,Cribs,1,15,88817134
+397,14,Australia Southeast,Australia Southeast Store 47,2019-01-30,Baby,Strollers,1,12,19449587
+398,4,Australia Southeast,Australia Southeast Store 47,2019-06-27,Beauty/Health,Feminine Products,4,15,53275463
+399,6,Australia Southeast,Australia Southeast Store 47,2019-01-07,Beauty/Health,Makeup,3,10,21686479
+400,63,Australia Southeast,Australia Southeast Store 47,2019-06-26,Baby,Car seats,5,12,42049444
+401,13,Australia Southeast,Australia Southeast Store 47,2019-06-22,Furniture,Beds,10,15,27543898
+402,7,Australia Southeast,Australia Southeast Store 47,2019-02-21,Furniture,Pool furniture,4,75,16789514
+403,95,Australia Southeast,Australia Southeast Store 47,2019-05-11,Electronics,Cell Phones,2,300,18738638
+404,23,Australia Southeast,Australia Southeast Store 47,2019-03-30,Clothing,Shoes,1,10,44599907
+405,16,Australia Southeast,Australia Southeast Store 47,2019-02-28,Clothing,Womens,3,20,71933281
+406,30,Australia Southeast,Australia Southeast Store 47,2019-06-21,Baby,Cribs,4,10,26196395
+407,6,Australia Southeast,Australia Southeast Store 47,2019-06-26,Electronics,Cell Phones,1,200,57806399
+408,15,Australia Southeast,Australia Southeast Store 47,2019-05-18,Electronics,Headphones,1,200,12724813
+409,84,Australia Southeast,Australia Southeast Store 47,2019-06-13,Furniture,Patio furniture,8,30,87674560
+410,10,Australia Southeast,Australia Southeast Store 47,2019-01-18,Electronics,Televisions,2,100,89925595
+411,94,Australia Southeast,Australia Southeast Store 47,2019-07-01,Baby,Diaper bags,3,5,25547994
+412,74,Australia Southeast,Australia Southeast Store 47,2019-03-29,Baby,Car seats,4,5,42663953
+413,101,Australia Southeast,Australia Southeast Store 47,2019-04-05,Beauty/Health,Fragrances,1,10,86730926
+414,46,Australia Southeast,Australia Southeast Store 47,2019-03-11,Clothing,Womens,5,10,64551407
+415,9,Australia Southeast,Australia Southeast Store 47,2019-06-24,Baby,Diaper bags,9,30,89378107
+416,72,Australia Southeast,Australia Southeast Store 47,2019-06-12,Beauty/Health,Bath,4,10,76486648
+417,88,Australia Southeast,Australia Southeast Store 47,2019-02-08,Electronics,Cell Phones,1,300,83665490
+418,26,Australia Southeast,Australia Southeast Store 47,2019-06-27,Furniture,Patio furniture,9,30,87413872
+419,65,Australia Southeast,Australia Southeast Store 47,2019-03-07,Electronics,Televisions,2,200,91681066
+420,56,Australia Southeast,Australia Southeast Store 47,2019-01-04,Clothing,Shoes,1,25,51412763
+421,20,Australia Southeast,Australia Southeast Store 47,2019-05-30,Clothing,Baby,3,12,89222903
+422,42,Australia Southeast,Australia Southeast Store 47,2019-03-16,Clothing,Womens,3,10,74460156
+423,43,Australia Southeast,Australia Southeast Store 47,2019-06-08,Clothing,Swimwear,9,25,89680835
+424,47,Australia Southeast,Australia Southeast Store 47,2019-01-10,Beauty/Health,Haircare,4,10,58153387
+425,30,Australia Southeast,Australia Southeast Store 47,2019-02-18,Furniture,Pool furniture,5,40,74337559
+426,20,Australia Southeast,Australia Southeast Store 47,2019-06-10,Clothing,Swimwear,4,10,17196698
+427,77,Australia Southeast,Australia Southeast Store 47,2019-06-02,Clothing,Shoes,9,12,68532200
+428,95,Australia Southeast,Australia Southeast Store 47,2019-02-03,Electronics,Tablets,2,200,56052723
+429,35,Australia Southeast,Australia Southeast Store 47,2019-05-22,Clothing,Baby,10,13,93847600
+430,92,Australia Southeast,Australia Southeast Store 47,2019-01-16,Beauty/Health,Haircare,3,15,27105780
+431,27,Australia Southeast,Australia Southeast Store 47,2019-06-28,Furniture,Patio furniture,4,30,69785349
+432,61,Australia Southeast,Australia Southeast Store 47,2019-05-21,Clothing,Shoes,8,13,83644077
+433,96,Australia Southeast,Australia Southeast Store 47,2019-01-08,Beauty/Health,Bath,2,10,47933649
+434,46,Australia Southeast,Australia Southeast Store 47,2019-05-17,Baby,Cribs,3,30,64772501
+435,40,Australia Southeast,Australia Southeast Store 47,2019-05-30,Beauty/Health,Skincare,8,10,96589198
+436,2,Australia Southeast,Australia Southeast Store 47,2019-05-30,Electronics,Tablets,1,100,58422929
+437,42,Australia Southeast,Australia Southeast Store 47,2019-04-30,Beauty/Health,Oral care,4,14,45410355
+438,11,Australia Southeast,Australia Southeast Store 47,2019-02-23,Electronics,Computers,2,100,74130410
+439,84,Australia Southeast,Australia Southeast Store 47,2019-02-02,Electronics,Cell Phones,1,100,20053000
+440,49,Australia Southeast,Australia Southeast Store 47,2019-01-30,Beauty/Health,Skincare,2,10,49971433
+441,20,Australia Southeast,Australia Southeast Store 47,2019-03-27,Electronics,Computers,1,100,19834901
+442,98,Australia Southeast,Australia Southeast Store 47,2019-03-21,Furniture,Beds,4,30,26056074
+443,72,Australia Southeast,Australia Southeast Store 47,2019-05-18,Baby,Strollers,5,10,42010777
+444,83,Australia Southeast,Australia Southeast Store 47,2019-05-04,Clothing,Kids,5,25,90088179
+445,99,Australia Southeast,Australia Southeast Store 47,2019-05-24,Furniture,Indoor seating,6,30,24299055
+446,64,Australia Southeast,Australia Southeast Store 47,2019-05-26,Clothing,Kids,5,12,41945140
+447,37,Australia Southeast,Australia Southeast Store 47,2019-06-24,Clothing,Mens,7,13,90442405
+448,90,Australia Southeast,Australia Southeast Store 47,2019-03-27,Baby,Diaper bags,1,30,63670318
+449,27,Australia Southeast,Australia Southeast Store 47,2019-04-11,Furniture,Beds,7,100,17390192
+450,38,Australia Southeast,Australia Southeast Store 47,2019-04-23,Furniture,Beds,3,15,91462963
+451,45,Australia Southeast,Australia Southeast Store 47,2019-07-09,Electronics,Speakers,1,300,68058778
+452,38,Australia Southeast,Australia Southeast Store 47,2019-01-31,Beauty/Health,Makeup,2,6,48505037
+453,48,Australia Southeast,Australia Southeast Store 47,2019-02-21,Clothing,Mens,1,20,69928163
+454,99,Australia Southeast,Australia Southeast Store 47,2019-05-31,Furniture,Indoor tables,3,40,26446343
+455,14,Australia Southeast,Australia Southeast Store 47,2019-04-06,Clothing,Mens,5,10,13260701
+456,12,Australia Southeast,Australia Southeast Store 47,2019-05-06,Furniture,Beds,3,75,16148260
+457,26,Australia Southeast,Australia Southeast Store 47,2019-07-06,Baby,Diaper bags,9,12,32815555
+458,17,Australia Southeast,Australia Southeast Store 47,2019-06-05,Baby,Baby toys,6,15,37091923
+459,20,Australia Southeast,Australia Southeast Store 47,2019-05-08,Baby,Diapers,8,15,58858207
+460,100,Australia Southeast,Australia Southeast Store 47,2019-04-21,Clothing,Shoes,7,20,44037716
+461,97,Australia Southeast,Australia Southeast Store 47,2019-01-08,Furniture,Indoor seating,2,75,83815253
+462,57,Australia Southeast,Australia Southeast Store 47,2019-01-29,Furniture,Indoor seating,5,40,81529285
+463,50,Australia Southeast,Australia Southeast Store 47,2019-01-28,Electronics,Tablets,1,200,22451922
+464,9,Australia Southeast,Australia Southeast Store 47,2019-02-21,Electronics,Speakers,2,200,93870751
+465,66,Australia Southeast,Australia Southeast Store 47,2019-02-24,Beauty/Health,Feminine Products,4,15,87747560
+466,101,Australia Southeast,Australia Southeast Store 47,2019-01-14,Beauty/Health,Haircare,4,15,12240513
+467,46,Australia Southeast,Australia Southeast Store 47,2019-02-05,Baby,Cribs,2,15,56993118
+468,25,Australia Southeast,Australia Southeast Store 47,2019-01-21,Baby,Strollers,2,30,72854266
+469,6,Australia Southeast,Australia Southeast Store 47,2019-01-26,Baby,Strollers,5,10,51627938
+470,18,Australia Southeast,Australia Southeast Store 47,2019-07-05,Electronics,Computers,2,200,36682374
+471,27,Australia Southeast,Australia Southeast Store 47,2019-07-05,Electronics,Computers,1,50,58586374
+472,42,Australia Southeast,Australia Southeast Store 47,2019-07-10,Electronics,Headphones,1,200,97402649
+473,35,Australia Southeast,Australia Southeast Store 47,2019-05-08,Furniture,Indoor seating,10,75,37220580
+474,24,Australia Southeast,Australia Southeast Store 47,2019-03-30,Furniture,Beds,1,15,27998753
+475,25,Australia Southeast,Australia Southeast Store 47,2019-01-08,Beauty/Health,Fragrances,4,10,93671262
+476,14,Australia Southeast,Australia Southeast Store 47,2019-05-20,Electronics,Computers,1,50,14508629
+477,99,Australia Southeast,Australia Southeast Store 47,2019-05-25,Electronics,Tablets,2,200,51678653
+478,7,Australia Southeast,Australia Southeast Store 47,2019-02-08,Electronics,Speakers,2,200,98936980
+479,13,Australia Southeast,Australia Southeast Store 47,2019-06-08,Baby,Strollers,7,12,21725610
+480,42,Australia Southeast,Australia Southeast Store 47,2019-06-18,Clothing,Kids,10,10,30153400
+481,77,Australia Southeast,Australia Southeast Store 47,2019-04-11,Electronics,Cell Phones,1,200,74388083
+482,101,Australia Southeast,Australia Southeast Store 47,2019-02-05,Electronics,Computers,2,50,43610445
+483,101,Australia Southeast,Australia Southeast Store 47,2019-03-14,Beauty/Health,Bath,1,14,69875570
+484,53,Australia Southeast,Australia Southeast Store 47,2019-02-15,Beauty/Health,Haircare,3,15,58541447
+485,5,Australia Southeast,Australia Southeast Store 47,2019-07-07,Electronics,Computers,1,200,31199921
+486,71,Australia Southeast,Australia Southeast Store 47,2019-06-21,Electronics,Computers,2,200,74587156
+487,8,Australia Southeast,Australia Southeast Store 47,2019-05-13,Electronics,Cell Phones,1,50,44783539
+488,79,Australia Southeast,Australia Southeast Store 47,2019-05-07,Beauty/Health,Fragrances,5,6,11916896
+489,84,Australia Southeast,Australia Southeast Store 47,2019-01-18,Electronics,Cell Phones,1,200,71564189
+490,4,Australia Southeast,Australia Southeast Store 47,2019-02-10,Electronics,Cell Phones,2,50,55771343
+491,26,Australia Southeast,Australia Southeast Store 47,2019-06-12,Electronics,Tablets,1,200,79365528
+492,84,Australia Southeast,Australia Southeast Store 47,2019-06-16,Clothing,Womens,9,10,30950170
+493,30,Australia Southeast,Australia Southeast Store 47,2019-02-24,Baby,Diaper bags,5,12,63604131
+494,91,Australia Southeast,Australia Southeast Store 47,2019-04-18,Electronics,Computers,2,100,13083326
+495,41,Australia Southeast,Australia Southeast Store 47,2019-05-08,Beauty/Health,Bath,4,10,92673943
+496,29,Australia Southeast,Australia Southeast Store 47,2019-04-03,Clothing,Swimwear,2,25,92967054
+497,98,Australia Southeast,Australia Southeast Store 47,2019-01-21,Electronics,Tablets,1,200,30441482
+498,39,Australia Southeast,Australia Southeast Store 47,2019-01-21,Furniture,Indoor tables,2,30,64026318
+499,53,Australia Southeast,Australia Southeast Store 47,2019-03-17,Clothing,Swimwear,3,25,30840553
+500,36,Australia Southeast,Australia Southeast Store 47,2019-06-20,Beauty/Health,Skincare,6,6,54759528
+501,99,Australia Southeast,Australia Southeast Store 47,2019-06-08,Furniture,Indoor tables,5,75,83821414
+502,52,Australia Southeast,Australia Southeast Store 47,2019-02-01,Electronics,Computers,2,200,62413170
+503,39,Australia Southeast,Australia Southeast Store 47,2019-05-10,Furniture,Indoor seating,3,40,92565183
+504,60,Australia Southeast,Australia Southeast Store 47,2019-01-01,Electronics,Cell Phones,1,50,44002577
+505,6,Australia Southeast,Australia Southeast Store 47,2019-04-01,Beauty/Health,Oral care,3,6,66461010
+506,98,Australia Southeast,Australia Southeast Store 47,2019-06-03,Beauty/Health,Haircare,3,10,27247126
+507,41,Australia Southeast,Australia Southeast Store 47,2019-05-15,Electronics,Speakers,1,100,20091434
+508,101,Australia Southeast,Australia Southeast Store 47,2019-01-21,Beauty/Health,Feminine Products,4,6,50287609
+509,17,Australia Southeast,Australia Southeast Store 47,2019-01-10,Beauty/Health,Feminine Products,5,14,83893051
+510,43,Australia Southeast,Australia Southeast Store 47,2019-02-28,Baby,Diapers,1,30,75752987
+511,94,Australia Southeast,Australia Southeast Store 47,2019-07-03,Furniture,Indoor tables,8,40,31692156
+512,88,Australia Southeast,Australia Southeast Store 47,2019-01-11,Baby,Diapers,2,5,46549684
+513,15,Australia Southeast,Australia Southeast Store 47,2019-01-28,Baby,Strollers,5,30,68213160
+514,101,Australia Southeast,Australia Southeast Store 47,2019-06-20,Clothing,Shoes,9,25,65169192
+515,61,Australia Southeast,Australia Southeast Store 47,2019-07-13,Furniture,Patio furniture,6,100,21891054
+516,78,Australia Southeast,Australia Southeast Store 47,2019-07-06,Furniture,Patio furniture,4,75,51817868
+517,29,Australia Southeast,Australia Southeast Store 47,2019-02-12,Clothing,Kids,5,25,30825666
+518,14,Australia Southeast,Australia Southeast Store 47,2019-01-19,Baby,Car seats,4,30,47958294
+519,30,Australia Southeast,Australia Southeast Store 47,2019-05-25,Beauty/Health,Makeup,6,10,43599875
+520,36,Australia Southeast,Australia Southeast Store 47,2019-05-04,Furniture,Indoor tables,3,100,75371084
+521,59,Australia Southeast,Australia Southeast Store 47,2019-02-22,Electronics,Televisions,1,100,79208378
+522,95,Australia Southeast,Australia Southeast Store 47,2019-02-04,Baby,Cribs,5,12,89577388
+523,38,Australia Southeast,Australia Southeast Store 47,2019-06-03,Clothing,Shoes,8,25,69913186
+524,97,Australia Southeast,Australia Southeast Store 47,2019-05-21,Furniture,Pool furniture,6,100,73306007
+525,4,Australia Southeast,Australia Southeast Store 47,2019-01-18,Beauty/Health,Haircare,2,10,58796354
+526,84,Australia Southeast,Australia Southeast Store 47,2019-02-16,Furniture,Beds,2,100,53333977
+527,49,Australia Southeast,Australia Southeast Store 47,2019-01-30,Furniture,Beds,1,40,79715356
+528,95,Australia Southeast,Australia Southeast Store 47,2019-05-17,Beauty/Health,Bath,5,15,41317482
+529,90,Australia Southeast,Australia Southeast Store 47,2019-04-12,Beauty/Health,Oral care,9,10,50770798
+530,45,Australia Southeast,Australia Southeast Store 47,2019-05-30,Baby,Baby toys,3,5,28942401
+531,4,Australia Southeast,Australia Southeast Store 47,2019-03-24,Furniture,Indoor tables,5,15,96620938
+532,29,Australia Southeast,Australia Southeast Store 47,2019-06-23,Clothing,Mens,4,13,39116212
+533,68,Australia Southeast,Australia Southeast Store 47,2019-04-24,Beauty/Health,Makeup,3,10,37353399
+534,57,Australia Southeast,Australia Southeast Store 47,2019-06-04,Clothing,Baby,8,20,32029197
+535,97,Australia Southeast,Australia Southeast Store 47,2019-03-28,Clothing,Shoes,1,10,51932636
+536,89,Australia Southeast,Australia Southeast Store 47,2019-05-29,Clothing,Shoes,7,13,44370106
+537,1,Australia Southeast,Australia Southeast Store 47,2019-02-26,Clothing,Shoes,4,20,97258196
+538,37,Australia Southeast,Australia Southeast Store 47,2019-01-04,Clothing,Mens,4,20,17014697
+539,56,Australia Southeast,Australia Southeast Store 47,2019-05-05,Baby,Strollers,6,10,76162663
+540,94,Australia Southeast,Australia Southeast Store 47,2019-07-06,Baby,Strollers,9,10,39480889
+541,9,Australia Southeast,Australia Southeast Store 47,2019-06-21,Electronics,Speakers,2,50,92391924
+542,56,Australia Southeast,Australia Southeast Store 47,2019-05-27,Electronics,Tablets,1,200,64537881
+543,101,Australia Southeast,Australia Southeast Store 47,2019-01-25,Electronics,Televisions,2,100,61315248
+544,82,Australia Southeast,Australia Southeast Store 47,2019-04-16,Beauty/Health,Makeup,10,10,21771763
+545,79,Australia Southeast,Australia Southeast Store 47,2019-03-05,Clothing,Baby,2,13,38562019
+546,29,Australia Southeast,Australia Southeast Store 47,2019-04-18,Furniture,Pool furniture,4,75,25710576
+547,50,Australia Southeast,Australia Southeast Store 47,2019-07-09,Clothing,Kids,7,20,48681303
+548,53,Australia Southeast,Australia Southeast Store 47,2019-03-22,Electronics,Televisions,2,200,54485089
+549,75,Australia Southeast,Australia Southeast Store 47,2019-06-03,Beauty/Health,Fragrances,9,10,45544225
+550,28,Australia Southeast,Australia Southeast Store 47,2019-05-08,Furniture,Beds,9,75,96094343
+551,14,Australia Southeast,Australia Southeast Store 47,2019-07-09,Clothing,Swimwear,10,25,54540434
+552,67,Australia Southeast,Australia Southeast Store 47,2019-04-28,Beauty/Health,Skincare,5,15,68297366
+553,90,Australia Southeast,Australia Southeast Store 47,2019-06-21,Beauty/Health,Oral care,4,10,69866018
+554,26,Australia Southeast,Australia Southeast Store 47,2019-03-05,Baby,Cribs,4,10,77378332
+555,69,Australia Southeast,Australia Southeast Store 47,2019-06-07,Baby,Baby toys,8,12,34627423
+556,63,Australia Southeast,Australia Southeast Store 47,2019-01-14,Electronics,Computers,2,100,75598008
+557,5,Australia Southeast,Australia Southeast Store 47,2019-06-02,Electronics,Tablets,1,300,94935165
+558,85,Australia Southeast,Australia Southeast Store 47,2019-05-19,Electronics,Headphones,1,50,79058356
+559,39,Australia Southeast,Australia Southeast Store 47,2019-04-25,Electronics,Speakers,2,300,16906733
+560,68,Australia Southeast,Australia Southeast Store 47,2019-02-26,Electronics,Cell Phones,1,200,72972151
+561,92,Australia Southeast,Australia Southeast Store 47,2019-04-01,Baby,Cribs,5,30,60738383
+562,93,Australia Southeast,Australia Southeast Store 47,2019-05-07,Beauty/Health,Oral care,9,10,31437212
+563,13,Australia Southeast,Australia Southeast Store 47,2019-04-10,Beauty/Health,Bath,5,14,26584473
+564,43,Australia Southeast,Australia Southeast Store 47,2019-01-18,Furniture,Pool furniture,5,30,62934156
+565,34,Australia Southeast,Australia Southeast Store 47,2019-05-16,Baby,Cribs,10,5,76300219
+566,93,Australia Southeast,Australia Southeast Store 47,2019-03-05,Baby,Cribs,5,10,34160673
+567,8,Australia Southeast,Australia Southeast Store 47,2019-01-03,Electronics,Speakers,1,200,20328044
+568,30,Australia Southeast,Australia Southeast Store 47,2019-03-28,Electronics,Computers,2,100,79760982
+569,91,Australia Southeast,Australia Southeast Store 47,2019-04-16,Electronics,Televisions,2,200,69511174
+570,6,Australia Southeast,Australia Southeast Store 47,2019-04-26,Baby,Diapers,6,30,14097311
+571,95,Australia Southeast,Australia Southeast Store 47,2019-07-04,Beauty/Health,Oral care,4,10,95563376
+572,24,Australia Southeast,Australia Southeast Store 47,2019-04-11,Baby,Cribs,3,10,10913714
+573,37,Australia Southeast,Australia Southeast Store 47,2019-04-17,Beauty/Health,Skincare,4,15,63809796
+574,26,Australia Southeast,Australia Southeast Store 47,2019-05-13,Electronics,Headphones,2,100,70616593
+575,20,Australia Southeast,Australia Southeast Store 47,2019-04-19,Baby,Diaper bags,8,5,54551097
+576,42,Australia Southeast,Australia Southeast Store 47,2019-07-03,Electronics,Televisions,2,200,41899342
+577,83,Australia Southeast,Australia Southeast Store 47,2019-06-18,Baby,Diapers,9,15,72806083
+578,49,Australia Southeast,Australia Southeast Store 47,2019-06-03,Electronics,Tablets,2,100,41564635
+579,95,Australia Southeast,Australia Southeast Store 47,2019-06-02,Baby,Baby toys,6,10,83381599
+580,45,Australia Southeast,Australia Southeast Store 47,2019-01-11,Baby,Strollers,3,5,38887913
+581,16,Australia Southeast,Australia Southeast Store 47,2019-06-28,Beauty/Health,Feminine Products,7,14,74997579
+582,9,Australia Southeast,Australia Southeast Store 47,2019-02-19,Beauty/Health,Makeup,5,10,17714315
+583,79,Australia Southeast,Australia Southeast Store 47,2019-05-01,Furniture,Patio furniture,8,15,78062249
+584,50,Australia Southeast,Australia Southeast Store 47,2019-05-03,Beauty/Health,Haircare,9,10,36459366
+585,3,Australia Southeast,Australia Southeast Store 47,2019-03-20,Electronics,Computers,2,100,78872845
+586,36,Australia Southeast,Australia Southeast Store 47,2019-06-16,Furniture,Patio furniture,3,30,44017471
+587,38,Australia Southeast,Australia Southeast Store 47,2019-01-13,Clothing,Kids,1,25,95274858
+588,58,Australia Southeast,Australia Southeast Store 47,2019-05-17,Furniture,Pool furniture,9,30,38751940
+589,11,Australia Southeast,Australia Southeast Store 47,2019-02-26,Electronics,Televisions,2,300,88697857
+590,64,Australia Southeast,Australia Southeast Store 47,2019-01-03,Baby,Diapers,2,10,84705296
+591,44,Australia Southeast,Australia Southeast Store 47,2019-06-28,Clothing,Swimwear,4,13,97118856
+592,74,Australia Southeast,Australia Southeast Store 47,2019-04-30,Beauty/Health,Makeup,5,14,47103737
+593,96,Australia Southeast,Australia Southeast Store 47,2019-06-09,Baby,Strollers,10,30,74313909
+594,33,Australia Southeast,Australia Southeast Store 47,2019-06-21,Clothing,Swimwear,5,10,72301313
+595,44,Australia Southeast,Australia Southeast Store 47,2019-06-17,Baby,Diaper bags,6,5,53156862
+596,42,Australia Southeast,Australia Southeast Store 47,2019-06-01,Beauty/Health,Fragrances,4,10,62558741
+597,75,Australia Southeast,Australia Southeast Store 47,2019-07-15,Baby,Baby toys,10,30,51219826
+598,7,Australia Southeast,Australia Southeast Store 47,2019-07-05,Baby,Diapers,4,30,61475705
+599,100,Australia Southeast,Australia Southeast Store 47,2019-02-05,Electronics,Televisions,1,300,83720633
+600,29,Australia Southeast,Australia Southeast Store 47,2019-02-21,Electronics,Tablets,1,100,79711998
+601,18,Australia Southeast,Australia Southeast Store 47,2019-02-23,Furniture,Indoor tables,1,100,54571715
+602,30,Australia Southeast,Australia Southeast Store 47,2019-01-04,Beauty/Health,Bath,2,10,25417811
+603,36,Australia Southeast,Australia Southeast Store 47,2019-06-09,Baby,Diaper bags,3,10,81907831
+604,59,Australia Southeast,Australia Southeast Store 47,2019-06-05,Electronics,Televisions,1,100,92539253
+605,81,Australia Southeast,Australia Southeast Store 47,2019-04-22,Electronics,Cell Phones,2,100,21014496
+606,36,Australia Southeast,Australia Southeast Store 47,2019-03-25,Furniture,Indoor seating,1,40,89887932
+607,21,Australia Southeast,Australia Southeast Store 47,2019-03-30,Beauty/Health,Skincare,4,14,96737019
+608,50,Australia Southeast,Australia Southeast Store 47,2019-01-20,Furniture,Indoor seating,3,30,66478611
+609,51,Australia Southeast,Australia Southeast Store 47,2019-04-24,Furniture,Patio furniture,4,40,31029961
+610,66,Australia Southeast,Australia Southeast Store 47,2019-02-10,Furniture,Indoor tables,1,40,70835167
+611,7,Australia Southeast,Australia Southeast Store 47,2019-07-11,Clothing,Womens,9,20,70925425
+612,56,Australia Southeast,Australia Southeast Store 47,2019-03-21,Baby,Diaper bags,4,5,87529973
+613,68,Australia Southeast,Australia Southeast Store 47,2019-05-29,Baby,Diaper bags,8,15,23692106
+614,86,Australia Southeast,Australia Southeast Store 47,2019-01-18,Baby,Strollers,3,12,98652325
+615,5,Australia Southeast,Australia Southeast Store 47,2019-06-17,Furniture,Beds,5,40,43921596
+616,82,Australia Southeast,Australia Southeast Store 47,2019-07-06,Baby,Diaper bags,10,12,89338745
+617,51,Australia Southeast,Australia Southeast Store 47,2019-01-26,Electronics,Speakers,2,100,38483598
+618,48,Australia Southeast,Australia Southeast Store 47,2019-01-13,Electronics,Televisions,1,200,86685369
+619,76,Australia Southeast,Australia Southeast Store 47,2019-05-11,Electronics,Computers,2,200,35277607
+620,46,Australia Southeast,Australia Southeast Store 47,2019-04-05,Electronics,Computers,2,100,54200664
+621,29,Australia Southeast,Australia Southeast Store 47,2019-04-01,Furniture,Indoor seating,5,15,19260141
+622,54,Australia Southeast,Australia Southeast Store 47,2019-06-21,Baby,Diaper bags,3,12,35453430
+623,60,Australia Southeast,Australia Southeast Store 47,2019-06-16,Clothing,Mens,5,25,86365540
+624,66,Australia Southeast,Australia Southeast Store 47,2019-03-07,Baby,Car seats,3,15,80609548
+625,92,Australia Southeast,Australia Southeast Store 47,2019-02-13,Baby,Strollers,1,15,20812256
+626,60,Australia Southeast,Australia Southeast Store 47,2019-02-02,Furniture,Beds,4,15,84249141
+627,19,Australia Southeast,Australia Southeast Store 47,2019-02-05,Electronics,Headphones,2,100,29008680
+628,48,Australia Southeast,Australia Southeast Store 47,2019-06-06,Clothing,Mens,10,13,44972768
+629,31,Australia Southeast,Australia Southeast Store 47,2019-02-22,Electronics,Tablets,1,300,75598754
+630,25,Australia Southeast,Australia Southeast Store 47,2019-05-30,Furniture,Indoor tables,3,100,25549060
+631,99,Australia Southeast,Australia Southeast Store 47,2019-07-10,Electronics,Computers,1,100,65101187
+632,35,Australia Southeast,Australia Southeast Store 47,2019-06-29,Clothing,Swimwear,3,25,81236868
+633,26,Australia Southeast,Australia Southeast Store 47,2019-05-29,Clothing,Shoes,8,13,91730804
+634,64,Australia Southeast,Australia Southeast Store 47,2019-03-06,Electronics,Speakers,2,100,40129953
+635,10,Australia Southeast,Australia Southeast Store 47,2019-03-26,Clothing,Baby,1,20,70669754
+636,70,Australia Southeast,Australia Southeast Store 47,2019-04-15,Clothing,Mens,9,25,79176443
+637,50,Australia Southeast,Australia Southeast Store 47,2019-06-30,Furniture,Beds,9,75,69124820
+638,97,Australia Southeast,Australia Southeast Store 47,2019-06-29,Furniture,Indoor tables,7,75,17344829
+639,31,Australia Southeast,Australia Southeast Store 47,2019-05-21,Baby,Diaper bags,3,15,91537441
+640,54,Australia Southeast,Australia Southeast Store 47,2019-03-14,Furniture,Beds,5,100,23761049
+641,89,Australia Southeast,Australia Southeast Store 47,2019-05-24,Electronics,Tablets,2,100,65890223
+642,16,Australia Southeast,Australia Southeast Store 47,2019-03-07,Furniture,Indoor tables,1,15,27949447
+643,47,Australia Southeast,Australia Southeast Store 47,2019-02-10,Baby,Baby toys,3,10,14905709
+644,94,Australia Southeast,Australia Southeast Store 47,2019-07-03,Furniture,Indoor seating,3,40,66199530
+645,101,Australia Southeast,Australia Southeast Store 47,2019-03-12,Baby,Baby toys,4,5,32441952
+646,96,Australia Southeast,Australia Southeast Store 47,2019-04-13,Furniture,Patio furniture,8,100,54768269
+647,68,Australia Southeast,Australia Southeast Store 47,2019-05-05,Clothing,Swimwear,10,10,78645677
+648,76,Australia Southeast,Australia Southeast Store 47,2019-01-01,Electronics,Computers,1,100,36340898
+649,17,Australia Southeast,Australia Southeast Store 47,2019-04-20,Furniture,Indoor tables,7,75,20865000
+650,65,Australia Southeast,Australia Southeast Store 47,2019-02-26,Clothing,Kids,4,25,98495038
+651,26,Australia Southeast,Australia Southeast Store 47,2019-05-13,Baby,Baby toys,3,12,91985643
+652,74,Australia Southeast,Australia Southeast Store 47,2019-03-23,Furniture,Indoor seating,4,40,45950054
+653,70,Australia Southeast,Australia Southeast Store 47,2019-03-31,Clothing,Swimwear,1,13,71845714
+654,4,Australia Southeast,Australia Southeast Store 47,2019-02-21,Electronics,Computers,1,200,41557328
+655,8,Australia Southeast,Australia Southeast Store 47,2019-05-28,Beauty/Health,Bath,5,10,51707882
+656,49,Australia Southeast,Australia Southeast Store 47,2019-02-15,Beauty/Health,Oral care,4,10,77576054
+657,36,Australia Southeast,Australia Southeast Store 47,2019-06-09,Electronics,Cell Phones,1,200,32059950
+658,16,Australia Southeast,Australia Southeast Store 47,2019-05-30,Baby,Diaper bags,4,15,21416226
+659,91,Australia Southeast,Australia Southeast Store 47,2019-05-28,Baby,Cribs,7,10,33156520
+660,23,Australia Southeast,Australia Southeast Store 47,2019-03-08,Beauty/Health,Skincare,2,10,98078629
+661,45,Australia Southeast,Australia Southeast Store 47,2019-01-08,Baby,Strollers,3,30,75323428
+662,27,Australia Southeast,Australia Southeast Store 47,2019-03-18,Beauty/Health,Makeup,1,6,16386998
+663,83,Australia Southeast,Australia Southeast Store 47,2019-07-06,Furniture,Patio furniture,8,100,61337846
+664,64,Australia Southeast,Australia Southeast Store 47,2019-05-27,Electronics,Cell Phones,2,100,54525464
+665,21,Australia Southeast,Australia Southeast Store 47,2019-04-01,Electronics,Headphones,2,300,41355236
+666,24,Australia Southeast,Australia Southeast Store 47,2019-01-19,Electronics,Speakers,2,100,96374617
+667,22,Australia Southeast,Australia Southeast Store 47,2019-02-24,Furniture,Pool furniture,5,75,29110765
+668,80,Australia Southeast,Australia Southeast Store 47,2019-04-10,Electronics,Cell Phones,1,50,91047721
+669,81,Australia Southeast,Australia Southeast Store 47,2019-01-17,Clothing,Mens,4,12,99392503
+670,13,Australia Southeast,Australia Southeast Store 47,2019-01-08,Baby,Baby toys,4,10,15305609
+671,51,Australia Southeast,Australia Southeast Store 47,2019-01-10,Furniture,Indoor tables,1,100,54497111
+672,50,Australia Southeast,Australia Southeast Store 47,2019-03-08,Clothing,Shoes,4,25,34828631
+673,48,Australia Southeast,Australia Southeast Store 47,2019-01-24,Baby,Baby toys,5,10,60696202
+674,26,Australia Southeast,Australia Southeast Store 47,2019-02-12,Electronics,Headphones,2,100,41830467
+675,28,Australia Southeast,Australia Southeast Store 47,2019-07-12,Furniture,Pool furniture,9,100,78691553
+676,35,Australia Southeast,Australia Southeast Store 47,2019-06-18,Furniture,Indoor tables,4,30,14314560
+677,19,Australia Southeast,Australia Southeast Store 47,2019-02-05,Furniture,Pool furniture,3,40,78808653
+678,64,Australia Southeast,Australia Southeast Store 47,2019-03-01,Furniture,Indoor seating,3,30,75465992
+679,26,Australia Southeast,Australia Southeast Store 47,2019-02-16,Clothing,Mens,3,13,48715469
+680,60,Australia Southeast,Australia Southeast Store 47,2019-03-09,Beauty/Health,Makeup,3,10,56365683
+681,62,Australia Southeast,Australia Southeast Store 47,2019-03-11,Electronics,Speakers,2,100,29840940
+682,1,Australia Southeast,Australia Southeast Store 47,2019-01-11,Beauty/Health,Bath,3,10,62058250
+683,23,Australia Southeast,Australia Southeast Store 47,2019-06-07,Electronics,Speakers,1,200,49051299
+684,13,Australia Southeast,Australia Southeast Store 47,2019-05-20,Furniture,Pool furniture,4,15,62620816
+685,33,Australia Southeast,Australia Southeast Store 47,2019-01-27,Baby,Diaper bags,2,30,11537377
+686,79,Australia Southeast,Australia Southeast Store 47,2019-03-06,Furniture,Indoor tables,4,40,64573018
+687,98,Australia Southeast,Australia Southeast Store 47,2019-04-11,Baby,Strollers,10,12,87765993
+688,81,Australia Southeast,Australia Southeast Store 47,2019-06-19,Baby,Car seats,5,12,54801008
+689,64,Australia Southeast,Australia Southeast Store 47,2019-03-31,Baby,Cribs,2,30,66538548
+690,40,Australia Southeast,Australia Southeast Store 47,2019-01-26,Electronics,Speakers,2,100,61305460
+691,41,Australia Southeast,Australia Southeast Store 47,2019-05-20,Baby,Diapers,4,10,79031941
+692,99,Australia Southeast,Australia Southeast Store 47,2019-01-22,Clothing,Swimwear,1,10,39937010
+693,92,Australia Southeast,Australia Southeast Store 47,2019-04-29,Electronics,Tablets,1,100,76711206
+694,25,Australia Southeast,Australia Southeast Store 47,2019-05-10,Baby,Car seats,10,10,68041029
+695,18,Australia Southeast,Australia Southeast Store 47,2019-06-15,Furniture,Patio furniture,9,40,64727566
+696,98,Australia Southeast,Australia Southeast Store 47,2019-04-02,Electronics,Televisions,2,100,34282141
+697,6,Australia Southeast,Australia Southeast Store 47,2019-06-07,Beauty/Health,Skincare,10,10,94106522
+698,42,Australia Southeast,Australia Southeast Store 47,2019-06-08,Furniture,Beds,8,30,19868507
+699,77,Australia Southeast,Australia Southeast Store 47,2019-02-26,Clothing,Womens,2,25,84469305
+700,101,Australia Southeast,Australia Southeast Store 47,2019-06-03,Baby,Diapers,7,15,57794092
+701,66,Australia Southeast,Australia Southeast Store 47,2019-01-20,Furniture,Indoor seating,4,100,20882227
+702,17,Australia Southeast,Australia Southeast Store 47,2019-02-14,Furniture,Beds,5,100,23465069
+703,69,Australia Southeast,Australia Southeast Store 47,2019-06-25,Beauty/Health,Fragrances,8,10,56324708
+704,29,Australia Southeast,Australia Southeast Store 47,2019-04-13,Clothing,Kids,10,10,64952972
+705,98,Australia Southeast,Australia Southeast Store 47,2019-01-10,Furniture,Patio furniture,5,100,58338083
+706,26,Australia Southeast,Australia Southeast Store 47,2019-05-01,Furniture,Pool furniture,3,40,96798210
+707,84,Australia Southeast,Australia Southeast Store 47,2019-06-04,Furniture,Beds,9,75,95775721
+708,20,Australia Southeast,Australia Southeast Store 47,2019-01-29,Baby,Diaper bags,4,30,57843667
+709,83,Australia Southeast,Australia Southeast Store 47,2019-03-04,Furniture,Indoor tables,4,15,66254632
+710,59,Australia Southeast,Australia Southeast Store 47,2019-03-16,Electronics,Headphones,2,300,26493463
+711,57,Australia Southeast,Australia Southeast Store 47,2019-07-10,Clothing,Swimwear,9,13,62455003
+712,100,Australia Southeast,Australia Southeast Store 47,2019-06-05,Furniture,Indoor seating,3,15,47914527
+713,47,Australia Southeast,Australia Southeast Store 47,2019-02-10,Baby,Cribs,5,5,73197565
+714,91,Australia Southeast,Australia Southeast Store 47,2019-01-08,Beauty/Health,Makeup,4,10,44324936
+715,36,Australia Southeast,Australia Southeast Store 47,2019-04-30,Beauty/Health,Feminine Products,6,6,50115482
+716,48,Australia Southeast,Australia Southeast Store 47,2019-03-12,Beauty/Health,Fragrances,4,10,34645996
+717,6,Australia Southeast,Australia Southeast Store 47,2019-02-20,Baby,Cribs,1,12,78514979
+718,1,Australia Southeast,Australia Southeast Store 47,2019-05-08,Furniture,Pool furniture,8,75,61802766
+719,19,Australia Southeast,Australia Southeast Store 47,2019-06-19,Furniture,Indoor tables,5,40,54998173
+720,27,Australia Southeast,Australia Southeast Store 47,2019-01-03,Clothing,Shoes,3,25,24949133
+721,72,Australia Southeast,Australia Southeast Store 47,2019-01-16,Clothing,Baby,2,20,26971368
+722,62,Australia Southeast,Australia Southeast Store 47,2019-03-06,Beauty/Health,Makeup,2,14,68347747
+723,11,Australia Southeast,Australia Southeast Store 47,2019-06-06,Baby,Strollers,10,12,17920905
+724,7,Australia Southeast,Australia Southeast Store 47,2019-04-05,Clothing,Baby,4,13,21514912
+725,76,Australia Southeast,Australia Southeast Store 47,2019-02-15,Electronics,Computers,2,200,39009459
+726,19,Australia Southeast,Australia Southeast Store 47,2019-05-10,Clothing,Shoes,10,12,12264929
+727,89,Australia Southeast,Australia Southeast Store 47,2019-07-04,Beauty/Health,Feminine Products,4,14,63994261
+728,59,Australia Southeast,Australia Southeast Store 47,2019-05-14,Beauty/Health,Feminine Products,4,10,92671152
+729,5,Australia Southeast,Australia Southeast Store 47,2019-02-05,Clothing,Baby,5,25,77464616
+730,53,Australia Southeast,Australia Southeast Store 47,2019-02-15,Clothing,Shoes,1,20,97818001
+731,68,Australia Southeast,Australia Southeast Store 47,2019-03-16,Furniture,Indoor tables,5,15,64904920
+732,85,Australia Southeast,Australia Southeast Store 47,2019-05-21,Furniture,Beds,9,100,52216072
+733,51,Australia Southeast,Australia Southeast Store 47,2019-04-30,Furniture,Indoor seating,10,30,21707322
+734,53,Australia Southeast,Australia Southeast Store 47,2019-03-15,Clothing,Mens,4,25,13529639
+735,90,Australia Southeast,Australia Southeast Store 47,2019-03-14,Clothing,Mens,2,12,74984608
+736,91,Australia Southeast,Australia Southeast Store 47,2019-06-28,Electronics,Computers,1,50,79750566
+737,32,Australia Southeast,Australia Southeast Store 47,2019-03-03,Electronics,Cell Phones,2,200,22449160
+738,88,Australia Southeast,Australia Southeast Store 47,2019-02-03,Clothing,Shoes,3,10,34599090
+739,88,Australia Southeast,Australia Southeast Store 47,2019-03-19,Furniture,Patio furniture,3,40,94943307
+740,83,Australia Southeast,Australia Southeast Store 47,2019-06-29,Furniture,Beds,6,40,16303947
+741,9,Australia Southeast,Australia Southeast Store 47,2019-05-26,Baby,Diapers,5,5,66839797
+742,45,Australia Southeast,Australia Southeast Store 47,2019-07-10,Furniture,Indoor tables,7,40,27105820
+743,86,Australia Southeast,Australia Southeast Store 47,2019-03-02,Clothing,Swimwear,5,25,92135113
+744,3,Australia Southeast,Australia Southeast Store 47,2019-05-09,Electronics,Speakers,1,300,72316585
+745,98,Australia Southeast,Australia Southeast Store 47,2019-04-13,Baby,Diaper bags,7,15,36363121
+746,79,Australia Southeast,Australia Southeast Store 47,2019-04-23,Baby,Car seats,7,10,53209548
+747,74,Australia Southeast,Australia Southeast Store 47,2019-01-23,Beauty/Health,Makeup,4,6,58448539
+748,90,Australia Southeast,Australia Southeast Store 47,2019-02-01,Furniture,Beds,1,75,42315160
+749,32,Australia Southeast,Australia Southeast Store 47,2019-03-14,Furniture,Pool furniture,4,15,10209846
+750,39,Australia Southeast,Australia Southeast Store 47,2019-06-26,Beauty/Health,Oral care,7,14,23978049
+751,81,Australia Southeast,Australia Southeast Store 47,2019-06-13,Electronics,Speakers,1,100,95329358
+752,95,Australia Southeast,Australia Southeast Store 47,2019-06-09,Clothing,Mens,7,25,23195518
+753,57,Australia Southeast,Australia Southeast Store 47,2019-05-16,Beauty/Health,Feminine Products,6,14,67737990
+754,40,Australia Southeast,Australia Southeast Store 47,2019-04-06,Clothing,Womens,5,12,53334421
+755,16,Australia Southeast,Australia Southeast Store 47,2019-03-17,Furniture,Pool furniture,3,30,22284757
+756,2,Australia Southeast,Australia Southeast Store 47,2019-04-03,Electronics,Televisions,1,200,96659722
+757,37,Australia Southeast,Australia Southeast Store 47,2019-06-24,Electronics,Televisions,1,50,45963785
+758,37,Australia Southeast,Australia Southeast Store 47,2019-04-24,Beauty/Health,Skincare,3,6,16584501
+759,43,Australia Southeast,Australia Southeast Store 47,2019-01-23,Clothing,Swimwear,2,25,87225324
+760,81,Australia Southeast,Australia Southeast Store 47,2019-03-25,Baby,Car seats,3,15,36361619
+761,77,Australia Southeast,Australia Southeast Store 47,2019-05-24,Electronics,Cell Phones,1,100,81947785
+762,57,Australia Southeast,Australia Southeast Store 47,2019-02-06,Baby,Diapers,2,5,17717933
+763,93,Australia Southeast,Australia Southeast Store 47,2019-01-08,Beauty/Health,Bath,2,10,66785742
+764,54,Australia Southeast,Australia Southeast Store 47,2019-02-22,Baby,Diapers,4,30,77834494
+765,60,Australia Southeast,Australia Southeast Store 47,2019-01-19,Clothing,Kids,1,20,21175322
+766,42,Australia Southeast,Australia Southeast Store 47,2019-07-04,Clothing,Baby,3,12,19958295
+767,96,Australia Southeast,Australia Southeast Store 47,2019-05-13,Beauty/Health,Makeup,4,10,89588140
+768,73,Australia Southeast,Australia Southeast Store 47,2019-01-11,Furniture,Pool furniture,1,75,72539956
+769,12,Australia Southeast,Australia Southeast Store 47,2019-06-30,Clothing,Kids,7,12,98461202
+770,4,Australia Southeast,Australia Southeast Store 47,2019-04-18,Clothing,Womens,3,20,16199510
+771,5,Australia Southeast,Australia Southeast Store 47,2019-01-06,Beauty/Health,Oral care,5,10,88857712
+772,22,Australia Southeast,Australia Southeast Store 47,2019-03-10,Beauty/Health,Fragrances,5,10,66705824
+773,55,Australia Southeast,Australia Southeast Store 47,2019-02-05,Electronics,Computers,2,100,81032164
+774,78,Australia Southeast,Australia Southeast Store 47,2019-05-31,Beauty/Health,Haircare,4,10,34351051
+775,49,Australia Southeast,Australia Southeast Store 47,2019-04-06,Electronics,Speakers,2,100,90032914
+776,64,Australia Southeast,Australia Southeast Store 47,2019-05-14,Beauty/Health,Feminine Products,10,10,24673605
+777,20,Australia Southeast,Australia Southeast Store 47,2019-04-08,Clothing,Swimwear,5,10,42810278
+778,12,Australia Southeast,Australia Southeast Store 47,2019-04-17,Clothing,Baby,8,20,73499788
+779,27,Australia Southeast,Australia Southeast Store 47,2019-04-30,Beauty/Health,Haircare,9,15,10864236
+780,86,Australia Southeast,Australia Southeast Store 47,2019-04-11,Furniture,Patio furniture,6,15,86549724
+781,16,Australia Southeast,Australia Southeast Store 47,2019-01-06,Clothing,Shoes,2,25,23811226
+782,69,Australia Southeast,Australia Southeast Store 47,2019-05-20,Electronics,Televisions,1,50,31761012
+783,10,Australia Southeast,Australia Southeast Store 47,2019-05-09,Baby,Cribs,10,30,19496096
+784,97,Australia Southeast,Australia Southeast Store 47,2019-02-10,Beauty/Health,Haircare,4,10,55840798
+785,52,Australia Southeast,Australia Southeast Store 47,2019-05-21,Electronics,Tablets,2,200,51425747
+786,3,Australia Southeast,Australia Southeast Store 47,2019-05-02,Clothing,Mens,4,10,67603347
+787,55,Australia Southeast,Australia Southeast Store 47,2019-03-27,Beauty/Health,Feminine Products,2,10,30050353
+788,93,Australia Southeast,Australia Southeast Store 47,2019-05-24,Beauty/Health,Oral care,8,14,26408842
+789,95,Australia Southeast,Australia Southeast Store 47,2019-02-22,Baby,Diaper bags,3,30,17738918
+790,11,Australia Southeast,Australia Southeast Store 47,2019-07-15,Furniture,Indoor seating,6,100,45083834
+791,9,Australia Southeast,Australia Southeast Store 47,2019-01-06,Furniture,Indoor tables,1,100,58342842
+792,4,Australia Southeast,Australia Southeast Store 47,2019-01-24,Electronics,Tablets,2,300,73610576
+793,14,Australia Southeast,Australia Southeast Store 47,2019-02-12,Baby,Baby toys,2,30,44896959
+794,58,Australia Southeast,Australia Southeast Store 47,2019-05-07,Furniture,Pool furniture,4,40,51504610
+795,42,Australia Southeast,Australia Southeast Store 47,2019-06-14,Furniture,Patio furniture,10,40,44848895
+796,49,Australia Southeast,Australia Southeast Store 47,2019-06-09,Electronics,Headphones,2,100,34943579
+797,86,Australia Southeast,Australia Southeast Store 47,2019-05-29,Beauty/Health,Feminine Products,4,10,70635715
+798,68,Australia Southeast,Australia Southeast Store 47,2019-07-05,Furniture,Indoor tables,7,75,66930835
+799,98,Australia Southeast,Australia Southeast Store 47,2019-05-02,Furniture,Patio furniture,9,15,46142279
+800,90,Australia Southeast,Australia Southeast Store 47,2019-01-13,Clothing,Womens,2,13,93078504
+801,47,Australia Southeast,Australia Southeast Store 47,2019-05-30,Beauty/Health,Bath,4,10,20081880
+802,23,Australia Southeast,Australia Southeast Store 47,2019-01-06,Beauty/Health,Fragrances,4,15,89830554
+803,21,Australia Southeast,Australia Southeast Store 47,2019-02-07,Electronics,Computers,2,50,35930411
+804,18,Australia Southeast,Australia Southeast Store 47,2019-05-10,Baby,Diaper bags,8,5,53000340
+805,15,Australia Southeast,Australia Southeast Store 47,2019-04-17,Furniture,Beds,8,100,36687723
+806,20,Australia Southeast,Australia Southeast Store 47,2019-02-04,Electronics,Headphones,2,200,30217825
+807,53,Australia Southeast,Australia Southeast Store 47,2019-07-01,Electronics,Cell Phones,1,50,17521704
+808,67,Australia Southeast,Australia Southeast Store 47,2019-01-10,Furniture,Beds,5,40,26579211
+809,77,Australia Southeast,Australia Southeast Store 47,2019-01-18,Clothing,Shoes,3,25,95889628
+810,77,Australia Southeast,Australia Southeast Store 47,2019-01-18,Clothing,Womens,2,10,79063044
+811,50,Australia Southeast,Australia Southeast Store 47,2019-02-20,Clothing,Baby,2,10,10849044
+812,18,Australia Southeast,Australia Southeast Store 47,2019-01-04,Furniture,Pool furniture,2,30,46431368
+813,48,Australia Southeast,Australia Southeast Store 47,2019-05-21,Baby,Baby toys,6,30,86613529
+814,40,Australia Southeast,Australia Southeast Store 47,2019-02-05,Beauty/Health,Oral care,4,10,34451661
+815,5,Australia Southeast,Australia Southeast Store 47,2019-05-19,Clothing,Swimwear,3,13,90844534
+816,63,Australia Southeast,Australia Southeast Store 47,2019-03-29,Furniture,Indoor seating,1,100,68882710
+817,45,Australia Southeast,Australia Southeast Store 47,2019-06-08,Baby,Cribs,8,30,88197806
+818,52,Australia Southeast,Australia Southeast Store 47,2019-06-09,Furniture,Patio furniture,10,40,88575557
+819,19,Australia Southeast,Australia Southeast Store 47,2019-01-03,Electronics,Computers,1,200,16545055
+820,51,Australia Southeast,Australia Southeast Store 47,2019-07-11,Furniture,Pool furniture,4,30,83053117
+821,2,Australia Southeast,Australia Southeast Store 47,2019-01-10,Baby,Diapers,3,15,26381720
+822,68,Australia Southeast,Australia Southeast Store 47,2019-05-17,Clothing,Baby,6,20,16211172
+823,47,Australia Southeast,Australia Southeast Store 47,2019-07-13,Beauty/Health,Bath,5,10,70776446
+824,37,Australia Southeast,Australia Southeast Store 47,2019-03-18,Baby,Diaper bags,3,30,57925950
+825,22,Australia Southeast,Australia Southeast Store 47,2019-02-01,Beauty/Health,Haircare,1,15,31276686
+826,16,Australia Southeast,Australia Southeast Store 47,2019-03-15,Beauty/Health,Fragrances,1,6,33525189
+827,98,Australia Southeast,Australia Southeast Store 47,2019-02-22,Beauty/Health,Fragrances,1,10,98314608
+828,68,Australia Southeast,Australia Southeast Store 47,2019-06-02,Furniture,Patio furniture,4,15,25515492
+829,7,Australia Southeast,Australia Southeast Store 47,2019-03-17,Clothing,Shoes,4,20,74929041
+830,26,Australia Southeast,Australia Southeast Store 47,2019-05-29,Clothing,Swimwear,6,10,15026893
+831,44,Australia Southeast,Australia Southeast Store 47,2019-04-02,Baby,Cribs,3,30,82550451
+832,11,Australia Southeast,Australia Southeast Store 47,2019-05-10,Furniture,Patio furniture,10,75,65728390
+833,14,Australia Southeast,Australia Southeast Store 47,2019-05-24,Baby,Baby toys,4,10,83315642
+834,29,Australia Southeast,Australia Southeast Store 47,2019-06-09,Electronics,Televisions,1,100,18589185
+835,7,Australia Southeast,Australia Southeast Store 47,2019-05-04,Baby,Diaper bags,4,15,14149327
+836,72,Australia Southeast,Australia Southeast Store 47,2019-06-18,Furniture,Pool furniture,7,40,52205735
+837,21,Australia Southeast,Australia Southeast Store 47,2019-02-10,Beauty/Health,Feminine Products,4,10,20715099
+838,93,Australia Southeast,Australia Southeast Store 47,2019-06-08,Beauty/Health,Skincare,6,6,79778027
+839,85,Australia Southeast,Australia Southeast Store 47,2019-05-29,Clothing,Baby,6,12,68321638
+840,19,Australia Southeast,Australia Southeast Store 47,2019-02-12,Electronics,Computers,1,50,51923927
+841,73,Australia Southeast,Australia Southeast Store 47,2019-04-24,Furniture,Patio furniture,9,100,15497199
+842,98,Australia Southeast,Australia Southeast Store 47,2019-04-27,Clothing,Mens,7,12,29987510
+843,2,Australia Southeast,Australia Southeast Store 47,2019-05-30,Furniture,Beds,3,30,28002528
+844,68,Australia Southeast,Australia Southeast Store 47,2019-05-21,Electronics,Tablets,2,50,47787567
+845,43,Australia Southeast,Australia Southeast Store 47,2019-04-02,Clothing,Shoes,4,20,16126201
+846,69,Australia Southeast,Australia Southeast Store 47,2019-02-09,Furniture,Pool furniture,5,30,85492795
+847,2,Australia Southeast,Australia Southeast Store 47,2019-05-26,Furniture,Patio furniture,6,100,39468188
+848,66,Australia Southeast,Australia Southeast Store 47,2019-04-04,Clothing,Womens,3,25,43663328
+849,78,Australia Southeast,Australia Southeast Store 47,2019-07-02,Clothing,Kids,3,25,60885434
+850,60,Australia Southeast,Australia Southeast Store 47,2019-06-02,Furniture,Patio furniture,10,30,43671915
+851,15,Australia Southeast,Australia Southeast Store 47,2019-06-15,Furniture,Patio furniture,6,100,79305877
+852,88,Australia Southeast,Australia Southeast Store 47,2019-05-23,Clothing,Kids,5,25,88108036
+853,36,Australia Southeast,Australia Southeast Store 47,2019-02-09,Clothing,Shoes,1,20,77107361
+854,91,Australia Southeast,Australia Southeast Store 47,2019-04-10,Electronics,Speakers,2,200,36829574
+855,97,Australia Southeast,Australia Southeast Store 47,2019-06-18,Clothing,Baby,5,25,77488776
+856,41,Australia Southeast,Australia Southeast Store 47,2019-03-14,Electronics,Headphones,1,200,29856025
+857,48,Australia Southeast,Australia Southeast Store 47,2019-05-01,Clothing,Swimwear,7,20,47879348
+858,26,Australia Southeast,Australia Southeast Store 47,2019-05-19,Electronics,Televisions,1,200,99942904
+859,47,Australia Southeast,Australia Southeast Store 47,2019-07-07,Baby,Cribs,5,15,75697066
+860,16,Australia Southeast,Australia Southeast Store 47,2019-04-22,Clothing,Swimwear,4,12,99458891
+861,36,Australia Southeast,Australia Southeast Store 47,2019-06-26,Clothing,Baby,10,25,18055052
+862,35,Australia Southeast,Australia Southeast Store 47,2019-02-05,Furniture,Beds,4,30,91208745
+863,60,Australia Southeast,Australia Southeast Store 47,2019-04-23,Clothing,Shoes,3,10,43655432
+864,3,Australia Southeast,Australia Southeast Store 47,2019-04-11,Furniture,Indoor tables,5,30,25436242
+865,90,Australia Southeast,Australia Southeast Store 47,2019-06-15,Electronics,Computers,2,200,59804849
+866,67,Australia Southeast,Australia Southeast Store 47,2019-03-31,Baby,Diapers,2,10,46573224
+867,18,Australia Southeast,Australia Southeast Store 47,2019-05-27,Electronics,Tablets,1,50,77755379
+868,27,Australia Southeast,Australia Southeast Store 47,2019-07-06,Electronics,Headphones,1,100,93365614
+869,30,Australia Southeast,Australia Southeast Store 47,2019-03-11,Baby,Diapers,3,30,30636908
+870,51,Australia Southeast,Australia Southeast Store 47,2019-05-26,Clothing,Womens,9,12,42701679
+871,96,Australia Southeast,Australia Southeast Store 47,2019-07-14,Beauty/Health,Feminine Products,4,10,77890112
+872,66,Australia Southeast,Australia Southeast Store 47,2019-01-31,Electronics,Televisions,1,100,52130918
+873,95,Australia Southeast,Australia Southeast Store 47,2019-03-25,Beauty/Health,Makeup,2,10,54658503
+874,94,Australia Southeast,Australia Southeast Store 47,2019-03-23,Beauty/Health,Oral care,4,10,21503400
+875,74,Australia Southeast,Australia Southeast Store 47,2019-03-12,Furniture,Beds,3,40,44869204
+876,93,Australia Southeast,Australia Southeast Store 47,2019-04-21,Furniture,Pool furniture,5,30,10221409
+877,17,Australia Southeast,Australia Southeast Store 47,2019-05-18,Baby,Diapers,8,30,71139963
+878,16,Australia Southeast,Australia Southeast Store 47,2019-05-06,Furniture,Pool furniture,10,100,96768856
+879,90,Australia Southeast,Australia Southeast Store 47,2019-05-29,Furniture,Indoor seating,3,40,79300055
+880,56,Australia Southeast,Australia Southeast Store 47,2019-01-12,Baby,Diapers,1,12,80659639
+881,71,Australia Southeast,Australia Southeast Store 47,2019-02-02,Clothing,Mens,1,10,62406804
+882,49,Australia Southeast,Australia Southeast Store 47,2019-05-18,Baby,Diapers,5,15,43953359
+883,90,Australia Southeast,Australia Southeast Store 47,2019-01-01,Clothing,Mens,3,12,15639449
+884,28,Australia Southeast,Australia Southeast Store 47,2019-04-14,Clothing,Baby,4,10,38019129
+885,87,Australia Southeast,Australia Southeast Store 47,2019-05-20,Beauty/Health,Fragrances,6,10,44889213
+886,71,Australia Southeast,Australia Southeast Store 47,2019-01-17,Baby,Baby toys,2,12,90531778
+887,49,Australia Southeast,Australia Southeast Store 47,2019-05-16,Beauty/Health,Bath,5,15,62162701
+888,85,Australia Southeast,Australia Southeast Store 47,2019-05-18,Furniture,Beds,10,30,64322286
+889,100,Australia Southeast,Australia Southeast Store 47,2019-05-22,Furniture,Pool furniture,8,30,32439559
+890,91,Australia Southeast,Australia Southeast Store 47,2019-05-02,Baby,Baby toys,3,12,11975265
+891,38,Australia Southeast,Australia Southeast Store 47,2019-01-29,Furniture,Beds,4,40,95058818
+892,54,Australia Southeast,Australia Southeast Store 47,2019-01-31,Furniture,Indoor seating,5,75,78916809
+893,90,Australia Southeast,Australia Southeast Store 47,2019-05-08,Furniture,Beds,4,15,48376759
+894,21,Australia Southeast,Australia Southeast Store 47,2019-02-02,Clothing,Mens,3,13,59018627
+895,82,Australia Southeast,Australia Southeast Store 47,2019-04-03,Electronics,Cell Phones,2,100,56807488
+896,84,Australia Southeast,Australia Southeast Store 47,2019-06-30,Furniture,Pool furniture,8,100,72826692
+897,83,Australia Southeast,Australia Southeast Store 47,2019-05-07,Beauty/Health,Bath,3,10,61205479
+898,32,Australia Southeast,Australia Southeast Store 47,2019-06-24,Clothing,Swimwear,10,25,53964808
+899,64,Australia Southeast,Australia Southeast Store 47,2019-03-31,Furniture,Pool furniture,2,15,58422741
+900,97,Australia Southeast,Australia Southeast Store 47,2019-02-03,Furniture,Beds,5,30,45935426
+901,56,Australia Southeast,Australia Southeast Store 47,2019-06-26,Electronics,Tablets,2,200,23336722
+902,101,Australia Southeast,Australia Southeast Store 47,2019-05-07,Baby,Diapers,3,30,32023815
+903,28,Australia Southeast,Australia Southeast Store 47,2019-06-17,Electronics,Televisions,1,100,35574336
+904,80,Australia Southeast,Australia Southeast Store 47,2019-05-23,Beauty/Health,Fragrances,7,15,40782143
+905,6,Australia Southeast,Australia Southeast Store 47,2019-01-20,Furniture,Beds,3,75,74148600
+906,85,Australia Southeast,Australia Southeast Store 47,2019-05-27,Electronics,Headphones,2,50,35790904
+907,39,Australia Southeast,Australia Southeast Store 47,2019-04-24,Clothing,Mens,9,20,82619936
+908,37,Australia Southeast,Australia Southeast Store 47,2019-01-04,Baby,Diapers,4,15,79023597
+909,91,Australia Southeast,Australia Southeast Store 47,2019-01-08,Furniture,Patio furniture,3,30,12924094
+910,60,Australia Southeast,Australia Southeast Store 47,2019-03-16,Electronics,Tablets,2,200,37819426
+911,68,Australia Southeast,Australia Southeast Store 47,2019-05-19,Clothing,Kids,4,12,95486823
+912,77,Australia Southeast,Australia Southeast Store 47,2019-05-20,Clothing,Womens,7,12,71332260
+913,60,Australia Southeast,Australia Southeast Store 47,2019-04-03,Clothing,Swimwear,4,13,63033628
+914,2,Australia Southeast,Australia Southeast Store 47,2019-03-26,Clothing,Baby,1,20,48524243
+915,23,Australia Southeast,Australia Southeast Store 47,2019-06-16,Clothing,Kids,3,13,69145214
+916,70,Australia Southeast,Australia Southeast Store 47,2019-06-26,Furniture,Indoor seating,4,30,55432172
+917,42,Australia Southeast,Australia Southeast Store 47,2019-01-29,Electronics,Televisions,2,200,67647494
+918,62,Australia Southeast,Australia Southeast Store 47,2019-05-15,Electronics,Computers,2,300,84416430
+919,99,Australia Southeast,Australia Southeast Store 47,2019-06-21,Baby,Diaper bags,9,12,36725614
+920,62,Australia Southeast,Australia Southeast Store 47,2019-07-03,Electronics,Cell Phones,2,50,60911258
+921,54,Australia Southeast,Australia Southeast Store 47,2019-01-07,Beauty/Health,Haircare,3,10,24066216
+922,22,Australia Southeast,Australia Southeast Store 47,2019-04-06,Beauty/Health,Bath,1,6,55513002
+923,6,Australia Southeast,Australia Southeast Store 47,2019-04-27,Baby,Strollers,3,15,93390921
+924,64,Australia Southeast,Australia Southeast Store 47,2019-04-21,Electronics,Speakers,2,50,18985896
+925,29,Australia Southeast,Australia Southeast Store 47,2019-02-14,Furniture,Pool furniture,1,40,51323955
+926,68,Australia Southeast,Australia Southeast Store 47,2019-01-15,Clothing,Womens,3,25,66933981
+927,56,Australia Southeast,Australia Southeast Store 47,2019-04-06,Electronics,Headphones,1,50,10245363
+928,54,Australia Southeast,Australia Southeast Store 47,2019-03-24,Beauty/Health,Bath,2,10,39604180
+929,86,Australia Southeast,Australia Southeast Store 47,2019-05-01,Furniture,Pool furniture,7,30,30730248
+930,66,Australia Southeast,Australia Southeast Store 47,2019-07-04,Baby,Car seats,3,10,13002872
+931,4,Australia Southeast,Australia Southeast Store 47,2019-01-15,Clothing,Kids,3,10,15117803
+932,41,Australia Southeast,Australia Southeast Store 47,2019-03-21,Clothing,Womens,4,12,91712546
+933,89,Australia Southeast,Australia Southeast Store 47,2019-05-30,Electronics,Headphones,2,100,87711995
+934,20,Australia Southeast,Australia Southeast Store 47,2019-01-11,Electronics,Headphones,1,100,67008327
+935,99,Australia Southeast,Australia Southeast Store 47,2019-01-06,Beauty/Health,Skincare,3,10,31963122
+936,48,Australia Southeast,Australia Southeast Store 47,2019-06-20,Electronics,Tablets,1,200,88491754
+937,101,Australia Southeast,Australia Southeast Store 47,2019-06-21,Furniture,Beds,4,75,12467719
+938,65,Australia Southeast,Australia Southeast Store 47,2019-06-08,Electronics,Cell Phones,1,100,91378370
+939,27,Australia Southeast,Australia Southeast Store 47,2019-05-28,Beauty/Health,Makeup,10,10,27957097
+940,22,Australia Southeast,Australia Southeast Store 47,2019-03-04,Baby,Car seats,5,15,25621353
+941,45,Australia Southeast,Australia Southeast Store 47,2019-03-12,Baby,Strollers,1,30,65518279
+942,23,Australia Southeast,Australia Southeast Store 47,2019-02-25,Beauty/Health,Makeup,5,15,10477072
+943,75,Australia Southeast,Australia Southeast Store 47,2019-05-12,Furniture,Indoor tables,8,75,90080592
+944,76,Australia Southeast,Australia Southeast Store 47,2019-03-09,Electronics,Cell Phones,1,100,79562249
+945,86,Australia Southeast,Australia Southeast Store 47,2019-01-27,Clothing,Womens,4,20,77975778
+946,67,Australia Southeast,Australia Southeast Store 47,2019-02-11,Furniture,Beds,3,40,88534890
+947,59,Australia Southeast,Australia Southeast Store 47,2019-01-24,Clothing,Shoes,4,20,15413123
+948,13,Australia Southeast,Australia Southeast Store 47,2019-06-23,Furniture,Beds,7,15,93754744
+949,74,Australia Southeast,Australia Southeast Store 47,2019-02-20,Electronics,Speakers,1,300,19404557
+950,1,Australia Southeast,Australia Southeast Store 47,2019-07-04,Baby,Diapers,9,30,20600035
+951,20,Australia Southeast,Australia Southeast Store 47,2019-01-22,Electronics,Speakers,2,200,57447893
+952,28,Australia Southeast,Australia Southeast Store 47,2019-03-05,Baby,Cribs,5,5,96506701
+953,27,Australia Southeast,Australia Southeast Store 47,2019-07-16,Furniture,Indoor tables,10,100,54952152
+954,46,Australia Southeast,Australia Southeast Store 47,2019-04-24,Clothing,Kids,9,25,19317109
+955,81,Australia Southeast,Australia Southeast Store 47,2019-03-28,Beauty/Health,Haircare,1,6,28418542
+956,57,Australia Southeast,Australia Southeast Store 47,2019-07-07,Baby,Diapers,8,10,82589085
+957,42,Australia Southeast,Australia Southeast Store 47,2019-05-24,Furniture,Pool furniture,7,100,74366351
+958,81,Australia Southeast,Australia Southeast Store 47,2019-01-07,Baby,Diaper bags,1,10,12002138
+959,65,Australia Southeast,Australia Southeast Store 47,2019-04-03,Beauty/Health,Skincare,3,6,62044426
+960,37,Australia Southeast,Australia Southeast Store 47,2019-06-01,Electronics,Headphones,2,100,41302608
+961,23,Australia Southeast,Australia Southeast Store 47,2019-03-25,Furniture,Pool furniture,1,30,64926227
+962,75,Australia Southeast,Australia Southeast Store 47,2019-06-15,Furniture,Indoor tables,9,30,35719465
+963,73,Australia Southeast,Australia Southeast Store 47,2019-05-16,Clothing,Kids,6,25,73504035
+964,99,Australia Southeast,Australia Southeast Store 47,2019-07-09,Furniture,Indoor tables,4,30,70172260
+965,39,Australia Southeast,Australia Southeast Store 47,2019-04-03,Furniture,Patio furniture,4,30,65315608
+966,80,Australia Southeast,Australia Southeast Store 47,2019-07-16,Furniture,Beds,5,75,40130468
+967,75,Australia Southeast,Australia Southeast Store 47,2019-05-12,Baby,Strollers,10,10,76181982
+968,78,Australia Southeast,Australia Southeast Store 47,2019-05-10,Clothing,Womens,8,13,88213873
+969,15,Australia Southeast,Australia Southeast Store 47,2019-03-21,Electronics,Cell Phones,1,100,60515868
+970,86,Australia Southeast,Australia Southeast Store 47,2019-06-18,Beauty/Health,Haircare,8,10,55325187
+971,91,Australia Southeast,Australia Southeast Store 47,2019-02-12,Clothing,Swimwear,5,20,18112657
+972,78,Australia Southeast,Australia Southeast Store 47,2019-05-24,Furniture,Beds,4,30,62560172
+973,22,Australia Southeast,Australia Southeast Store 47,2019-03-13,Furniture,Indoor tables,1,100,76443931
+974,33,Australia Southeast,Australia Southeast Store 47,2019-05-06,Clothing,Kids,9,20,57320830
+975,74,Australia Southeast,Australia Southeast Store 47,2019-04-04,Clothing,Womens,3,20,65517254
+976,35,Australia Southeast,Australia Southeast Store 47,2019-01-16,Furniture,Pool furniture,1,100,28880472
+977,87,Australia Southeast,Australia Southeast Store 47,2019-01-01,Furniture,Beds,5,15,63807746
+978,81,Australia Southeast,Australia Southeast Store 47,2019-03-11,Baby,Baby toys,2,15,53193132
+979,28,Australia Southeast,Australia Southeast Store 47,2019-07-01,Beauty/Health,Bath,5,10,32172157
+980,8,Australia Southeast,Australia Southeast Store 47,2019-02-11,Beauty/Health,Fragrances,5,10,46518218
+981,61,Australia Southeast,Australia Southeast Store 47,2019-05-24,Furniture,Indoor tables,5,30,46561633
+982,76,Australia Southeast,Australia Southeast Store 47,2019-02-28,Furniture,Pool furniture,3,30,84915121
+983,54,Australia Southeast,Australia Southeast Store 47,2019-03-30,Furniture,Beds,2,100,99509516
+984,60,Australia Southeast,Australia Southeast Store 47,2019-03-14,Electronics,Tablets,1,200,84955262
+985,15,Australia Southeast,Australia Southeast Store 47,2019-05-02,Clothing,Shoes,5,20,84256830
+986,89,Australia Southeast,Australia Southeast Store 47,2019-06-04,Beauty/Health,Makeup,10,10,43984670
+987,4,Australia Southeast,Australia Southeast Store 47,2019-05-30,Electronics,Computers,1,50,21738875
+988,91,Australia Southeast,Australia Southeast Store 47,2019-04-30,Furniture,Pool furniture,5,100,53174480
+989,19,Australia Southeast,Australia Southeast Store 47,2019-01-30,Baby,Diaper bags,2,15,57534397
+990,51,Australia Southeast,Australia Southeast Store 47,2019-04-18,Clothing,Mens,8,20,97953963
+991,14,Australia Southeast,Australia Southeast Store 47,2019-05-08,Beauty/Health,Skincare,10,15,20338349
+992,50,Australia Southeast,Australia Southeast Store 47,2019-02-08,Clothing,Mens,1,13,58808626
+993,89,Australia Southeast,Australia Southeast Store 47,2019-06-18,Baby,Diaper bags,4,12,54857701
+994,16,Australia Southeast,Australia Southeast Store 47,2019-03-11,Beauty/Health,Haircare,2,6,24636795
+995,84,Australia Southeast,Australia Southeast Store 47,2019-05-30,Furniture,Indoor seating,8,15,37180928
+996,38,Australia Southeast,Australia Southeast Store 47,2019-04-16,Electronics,Headphones,1,200,89754071
+997,19,Australia Southeast,Australia Southeast Store 47,2019-05-09,Furniture,Patio furniture,3,40,54696674
+998,80,Australia Southeast,Australia Southeast Store 47,2019-06-16,Beauty/Health,Haircare,5,10,98767617
+999,70,Australia Southeast,Australia Southeast Store 47,2019-01-20,Baby,Diaper bags,4,15,69738624
+1000,39,Australia Southeast,Australia Southeast Store 47,2019-05-28,Clothing,Shoes,7,25,99186552
+1001,62,Australia Southeast,Australia Southeast Store 47,2019-01-23,Beauty/Health,Fragrances,3,10,27099107
+1002,72,Australia Southeast,Australia Southeast Store 47,2019-07-08,Electronics,Speakers,2,200,86205363
+1003,46,Australia Southeast,Australia Southeast Store 47,2019-04-03,Beauty/Health,Skincare,5,10,57520890
+1004,74,Australia Southeast,Australia Southeast Store 47,2019-04-30,Electronics,Cell Phones,2,50,21304506
+1005,49,Australia Southeast,Australia Southeast Store 47,2019-04-14,Baby,Cribs,10,30,78032868
+1006,68,Australia Southeast,Australia Southeast Store 47,2019-02-02,Baby,Diapers,3,30,78533691
+1007,8,Australia Southeast,Australia Southeast Store 47,2019-02-18,Electronics,Cell Phones,2,300,82840312
+1008,99,Australia Southeast,Australia Southeast Store 47,2019-05-02,Clothing,Baby,9,20,53208688
+1009,76,Australia Southeast,Australia Southeast Store 47,2019-01-04,Furniture,Beds,3,15,32342335
+1010,24,Australia Southeast,Australia Southeast Store 47,2019-04-05,Clothing,Swimwear,1,20,51195094
+1011,49,Australia Southeast,Australia Southeast Store 47,2019-04-19,Clothing,Womens,7,10,45485456
+1012,54,Australia Southeast,Australia Southeast Store 47,2019-07-13,Baby,Diaper bags,8,30,87444125
+1013,62,Australia Southeast,Australia Southeast Store 47,2019-01-20,Furniture,Beds,5,30,77746037
+1014,49,Australia Southeast,Australia Southeast Store 47,2019-04-29,Clothing,Swimwear,10,10,63442243
+1015,44,Australia Southeast,Australia Southeast Store 47,2019-01-25,Furniture,Indoor seating,5,40,47871777
+1016,98,Australia Southeast,Australia Southeast Store 47,2019-06-15,Furniture,Indoor tables,3,15,10373542
+1017,82,Australia Southeast,Australia Southeast Store 47,2019-06-02,Clothing,Baby,5,10,49206707
+1018,67,Australia Southeast,Australia Southeast Store 47,2019-06-04,Beauty/Health,Oral care,6,10,43922622
+1019,1,Australia Southeast,Australia Southeast Store 47,2019-04-26,Furniture,Pool furniture,8,30,68616904
+1020,75,Australia Southeast,Australia Southeast Store 47,2019-01-28,Clothing,Baby,1,10,93629824
+1021,46,Australia Southeast,Australia Southeast Store 47,2019-06-07,Clothing,Womens,8,12,93146746
+1022,57,Australia Southeast,Australia Southeast Store 47,2019-03-18,Furniture,Beds,4,75,82667554
+1023,54,Australia Southeast,Australia Southeast Store 47,2019-03-18,Clothing,Mens,4,13,59727978
+1024,27,Australia Southeast,Australia Southeast Store 47,2019-06-12,Beauty/Health,Bath,6,10,60805383
+1025,76,Australia Southeast,Australia Southeast Store 47,2019-01-16,Beauty/Health,Oral care,5,14,88816568
+1026,75,Australia Southeast,Australia Southeast Store 47,2019-04-13,Furniture,Indoor tables,9,75,44865150
+1027,72,Australia Southeast,Australia Southeast Store 47,2019-02-19,Baby,Diapers,2,12,54283533
+1028,80,Australia Southeast,Australia Southeast Store 47,2019-03-07,Electronics,Speakers,2,200,83436772
+1029,62,Australia Southeast,Australia Southeast Store 47,2019-06-07,Baby,Cribs,3,30,17194875
+1030,41,Australia Southeast,Australia Southeast Store 47,2019-05-01,Clothing,Baby,10,25,45094192
+1031,63,Australia Southeast,Australia Southeast Store 47,2019-03-15,Beauty/Health,Fragrances,3,10,42182866
+1032,33,Australia Southeast,Australia Southeast Store 47,2019-02-21,Beauty/Health,Skincare,2,10,89527909
+1033,74,Australia Southeast,Australia Southeast Store 47,2019-05-31,Beauty/Health,Feminine Products,3,10,73031796
+1034,10,Australia Southeast,Australia Southeast Store 47,2019-05-22,Baby,Car seats,8,30,46784124
+1035,58,Australia Southeast,Australia Southeast Store 47,2019-06-19,Clothing,Kids,6,10,42128851
+1036,35,Australia Southeast,Australia Southeast Store 47,2019-05-22,Electronics,Speakers,1,100,82189012
+1037,13,Australia Southeast,Australia Southeast Store 47,2019-07-12,Furniture,Patio furniture,6,75,38179472
+1038,54,Australia Southeast,Australia Southeast Store 47,2019-05-21,Furniture,Patio furniture,7,15,63233323
+1039,27,Australia Southeast,Australia Southeast Store 47,2019-01-23,Clothing,Womens,1,13,92865999
+1040,2,Australia Southeast,Australia Southeast Store 47,2019-02-08,Furniture,Beds,3,75,30377123
+1041,42,Australia Southeast,Australia Southeast Store 47,2019-06-22,Electronics,Cell Phones,2,200,34501068
+1042,98,Australia Southeast,Australia Southeast Store 47,2019-07-10,Clothing,Baby,4,25,27250301
+1043,91,Australia Southeast,Australia Southeast Store 47,2019-04-24,Furniture,Indoor tables,3,15,76914266
+1044,1,Australia Southeast,Australia Southeast Store 47,2019-07-10,Electronics,Tablets,2,300,39885770
+1045,19,Australia Southeast,Australia Southeast Store 47,2019-01-28,Electronics,Cell Phones,1,100,38594512
+1046,33,Australia Southeast,Australia Southeast Store 47,2019-03-20,Furniture,Beds,5,40,10636395
+1047,10,Australia Southeast,Australia Southeast Store 47,2019-02-14,Beauty/Health,Oral care,2,10,77147241
+1048,80,Australia Southeast,Australia Southeast Store 47,2019-04-16,Baby,Baby toys,5,30,10909950
+1049,74,Australia Southeast,Australia Southeast Store 47,2019-02-21,Beauty/Health,Oral care,4,15,89759316
+1050,1,Australia Southeast,Australia Southeast Store 47,2019-02-15,Electronics,Speakers,2,300,43510581
+1051,5,Australia Southeast,Australia Southeast Store 47,2019-03-10,Electronics,Headphones,2,300,61359438
+1052,82,Australia Southeast,Australia Southeast Store 47,2019-02-05,Clothing,Mens,5,13,80689684
+1053,18,Australia Southeast,Australia Southeast Store 47,2019-01-30,Clothing,Shoes,4,25,67172721
+1054,96,Australia Southeast,Australia Southeast Store 47,2019-05-25,Beauty/Health,Haircare,7,10,89173832
+1055,44,Australia Southeast,Australia Southeast Store 47,2019-03-26,Clothing,Swimwear,2,25,69558588
+1056,81,Australia Southeast,Australia Southeast Store 47,2019-02-15,Clothing,Baby,4,25,64319533
+1057,83,Australia Southeast,Australia Southeast Store 47,2019-03-12,Clothing,Baby,5,20,94849629
+1058,10,Australia Southeast,Australia Southeast Store 47,2019-06-07,Furniture,Beds,4,75,22730603
+1059,12,Australia Southeast,Australia Southeast Store 47,2019-05-29,Beauty/Health,Makeup,9,10,45608491
+1060,36,Australia Southeast,Australia Southeast Store 47,2019-05-03,Clothing,Baby,5,20,69051111
+1061,62,Australia Southeast,Australia Southeast Store 47,2019-07-06,Clothing,Baby,8,25,73387780
+1062,18,Australia Southeast,Australia Southeast Store 47,2019-01-26,Beauty/Health,Haircare,4,10,20523566
+1063,98,Australia Southeast,Australia Southeast Store 47,2019-01-23,Beauty/Health,Oral care,4,6,45756544
+1064,44,Australia Southeast,Australia Southeast Store 47,2019-05-18,Beauty/Health,Feminine Products,9,14,44666453
+1065,18,Australia Southeast,Australia Southeast Store 47,2019-01-15,Baby,Car seats,3,12,28114259
+1066,7,Australia Southeast,Australia Southeast Store 47,2019-05-15,Baby,Diapers,10,30,33385774
+1067,36,Australia Southeast,Australia Southeast Store 47,2019-01-19,Baby,Cribs,1,10,47002850
+1068,30,Australia Southeast,Australia Southeast Store 47,2019-03-09,Clothing,Mens,4,20,14154614
+1069,27,Australia Southeast,Australia Southeast Store 47,2019-03-07,Baby,Strollers,1,30,85910104
+1070,12,Australia Southeast,Australia Southeast Store 47,2019-05-23,Clothing,Womens,6,12,85577437
+1071,82,Australia Southeast,Australia Southeast Store 47,2019-07-01,Clothing,Womens,10,13,70637631
+1072,33,Australia Southeast,Australia Southeast Store 47,2019-06-11,Beauty/Health,Makeup,5,10,32846881
+1073,54,Australia Southeast,Australia Southeast Store 47,2019-03-23,Baby,Diaper bags,5,10,63973884
+1074,49,Australia Southeast,Australia Southeast Store 47,2019-04-03,Beauty/Health,Bath,5,10,17988180
+1075,98,Australia Southeast,Australia Southeast Store 47,2019-03-28,Clothing,Baby,5,25,22035009
+1076,90,Australia Southeast,Australia Southeast Store 47,2019-06-15,Clothing,Swimwear,3,20,26036244
+1077,44,Australia Southeast,Australia Southeast Store 47,2019-04-21,Furniture,Indoor seating,6,30,19994395
+1078,83,Australia Southeast,Australia Southeast Store 47,2019-03-12,Baby,Cribs,5,30,86363059
+1079,81,Australia Southeast,Australia Southeast Store 47,2019-01-30,Beauty/Health,Skincare,4,15,20558896
+1080,64,Australia Southeast,Australia Southeast Store 47,2019-06-01,Electronics,Cell Phones,1,50,91835157
+1081,17,Australia Southeast,Australia Southeast Store 47,2019-03-07,Furniture,Patio furniture,1,75,74956267
+1082,97,Australia Southeast,Australia Southeast Store 47,2019-02-18,Furniture,Pool furniture,1,75,84997373
+1083,38,Australia Southeast,Australia Southeast Store 47,2019-03-06,Furniture,Beds,3,30,91713540
+1084,46,Australia Southeast,Australia Southeast Store 47,2019-06-11,Furniture,Patio furniture,8,75,79032702
+1085,13,Australia Southeast,Australia Southeast Store 47,2019-02-22,Baby,Strollers,3,15,53510207
+1086,8,Australia Southeast,Australia Southeast Store 47,2019-02-10,Clothing,Kids,5,13,26126906
+1087,43,Australia Southeast,Australia Southeast Store 47,2019-07-06,Baby,Baby toys,6,10,81933503
+1088,85,Australia Southeast,Australia Southeast Store 47,2019-03-25,Furniture,Indoor seating,3,40,62906200
+1089,62,Australia Southeast,Australia Southeast Store 47,2019-01-18,Electronics,Computers,1,50,88308764
+1090,53,Australia Southeast,Australia Southeast Store 47,2019-04-02,Electronics,Headphones,2,100,81070312
+1091,98,Australia Southeast,Australia Southeast Store 47,2019-01-08,Clothing,Shoes,1,25,30171430
+1092,46,Australia Southeast,Australia Southeast Store 47,2019-05-08,Electronics,Headphones,2,300,40095669
+1093,72,Australia Southeast,Australia Southeast Store 47,2019-06-25,Baby,Car seats,9,15,39727863
+1094,26,Australia Southeast,Australia Southeast Store 47,2019-07-08,Clothing,Baby,5,12,29710235
+1095,22,Australia Southeast,Australia Southeast Store 47,2019-03-07,Clothing,Shoes,1,13,86729789
+1096,18,Australia Southeast,Australia Southeast Store 47,2019-06-23,Furniture,Indoor seating,3,75,61225778
+1097,4,Australia Southeast,Australia Southeast Store 47,2019-04-24,Baby,Diaper bags,6,10,39753714
+1098,76,Australia Southeast,Australia Southeast Store 47,2019-06-09,Electronics,Tablets,2,50,28256512
+1099,62,Australia Southeast,Australia Southeast Store 47,2019-05-17,Electronics,Speakers,2,300,64752411
+1100,88,Australia Southeast,Australia Southeast Store 47,2019-03-29,Furniture,Indoor tables,1,75,37437298
+1101,96,Australia Southeast,Australia Southeast Store 47,2019-03-28,Clothing,Mens,4,20,48694611
+1102,82,Australia Southeast,Australia Southeast Store 47,2019-03-24,Baby,Baby toys,1,15,14289378
+1103,4,Australia Southeast,Australia Southeast Store 47,2019-01-06,Beauty/Health,Fragrances,4,10,10932512
+1104,56,Australia Southeast,Australia Southeast Store 47,2019-06-23,Furniture,Indoor seating,3,40,65883807
+1105,69,Australia Southeast,Australia Southeast Store 47,2019-03-22,Electronics,Headphones,2,300,35251413
+1106,95,Australia Southeast,Australia Southeast Store 47,2019-01-21,Electronics,Computers,2,50,88690843
+1107,21,Australia Southeast,Australia Southeast Store 47,2019-06-23,Electronics,Computers,1,100,72375038
+1108,75,Australia Southeast,Australia Southeast Store 47,2019-01-17,Furniture,Patio furniture,5,75,80259181
+1109,45,Australia Southeast,Australia Southeast Store 47,2019-05-13,Furniture,Patio furniture,9,15,95513349
+1110,56,Australia Southeast,Australia Southeast Store 47,2019-01-13,Beauty/Health,Oral care,3,10,70286478
+1111,29,Australia Southeast,Australia Southeast Store 47,2019-02-07,Electronics,Speakers,2,300,70091645
+1112,68,Australia Southeast,Australia Southeast Store 47,2019-05-11,Electronics,Tablets,1,200,67778435
+1113,59,Australia Southeast,Australia Southeast Store 47,2019-01-18,Baby,Cribs,1,30,55243529
+1114,41,Australia Southeast,Australia Southeast Store 47,2019-02-11,Electronics,Cell Phones,2,200,67427499
+1115,35,Australia Southeast,Australia Southeast Store 47,2019-03-23,Baby,Strollers,4,15,15132726
+1116,94,Australia Southeast,Australia Southeast Store 47,2019-05-23,Beauty/Health,Bath,4,6,44453428
+1117,45,Australia Southeast,Australia Southeast Store 47,2019-07-15,Electronics,Cell Phones,2,200,62706040
+1118,35,Australia Southeast,Australia Southeast Store 47,2019-03-30,Beauty/Health,Bath,4,10,43775750
+1119,19,Australia Southeast,Australia Southeast Store 47,2019-05-16,Furniture,Patio furniture,6,15,22555698
+1120,3,Australia Southeast,Australia Southeast Store 47,2019-06-08,Beauty/Health,Bath,4,14,20013779
+1121,85,Australia Southeast,Australia Southeast Store 47,2019-04-04,Electronics,Speakers,1,300,15616826
+1122,68,Australia Southeast,Australia Southeast Store 47,2019-02-18,Baby,Baby toys,3,30,47437410
+1123,74,Australia Southeast,Australia Southeast Store 47,2019-02-05,Furniture,Indoor tables,5,75,96587502
+1124,101,Australia Southeast,Australia Southeast Store 47,2019-04-25,Furniture,Pool furniture,10,40,28418091
+1125,99,Australia Southeast,Australia Southeast Store 47,2019-04-29,Electronics,Tablets,2,100,62583261
+1126,88,Australia Southeast,Australia Southeast Store 47,2019-01-13,Clothing,Womens,2,25,39327334
+1127,100,Australia Southeast,Australia Southeast Store 47,2019-05-21,Clothing,Swimwear,5,10,39636200
+1128,82,Australia Southeast,Australia Southeast Store 47,2019-01-10,Electronics,Tablets,2,300,86817656
+1129,3,Australia Southeast,Australia Southeast Store 47,2019-05-04,Baby,Strollers,8,30,38079770
+1130,60,Australia Southeast,Australia Southeast Store 47,2019-06-24,Electronics,Computers,1,200,50842960
+1131,81,Australia Southeast,Australia Southeast Store 47,2019-05-14,Furniture,Beds,10,30,11342210
+1132,91,Australia Southeast,Australia Southeast Store 47,2019-05-24,Furniture,Indoor seating,8,15,74331961
+1133,90,Australia Southeast,Australia Southeast Store 47,2019-01-16,Electronics,Tablets,2,200,26075648
+1134,71,Australia Southeast,Australia Southeast Store 47,2019-03-07,Clothing,Swimwear,4,12,48991195
+1135,68,Australia Southeast,Australia Southeast Store 47,2019-03-13,Baby,Diapers,2,10,28554602
+1136,91,Australia Southeast,Australia Southeast Store 47,2019-02-13,Beauty/Health,Makeup,3,10,83373029
+1137,72,Australia Southeast,Australia Southeast Store 47,2019-04-18,Clothing,Swimwear,6,25,39312951
+1138,28,Australia Southeast,Australia Southeast Store 47,2019-01-07,Clothing,Womens,2,10,81564986
+1139,87,Australia Southeast,Australia Southeast Store 47,2019-03-04,Furniture,Indoor seating,4,15,22196260
+1140,5,Australia Southeast,Australia Southeast Store 47,2019-06-25,Clothing,Shoes,8,20,90022502
+1141,68,Australia Southeast,Australia Southeast Store 47,2019-02-10,Furniture,Indoor tables,4,75,83674506
+1142,8,Australia Southeast,Australia Southeast Store 47,2019-02-14,Beauty/Health,Makeup,1,6,49367770
+1143,57,Australia Southeast,Australia Southeast Store 47,2019-02-28,Furniture,Pool furniture,2,100,84893662
+1144,14,Australia Southeast,Australia Southeast Store 47,2019-06-18,Beauty/Health,Makeup,8,6,52365602
+1145,29,Australia Southeast,Australia Southeast Store 47,2019-01-12,Electronics,Tablets,1,100,81745112
+1146,3,Australia Southeast,Australia Southeast Store 47,2019-02-16,Electronics,Headphones,1,200,56594584
+1147,24,Australia Southeast,Australia Southeast Store 47,2019-01-26,Furniture,Pool furniture,4,15,48370522
+1148,15,Australia Southeast,Australia Southeast Store 47,2019-06-27,Electronics,Tablets,1,300,82313136
+1149,4,Australia Southeast,Australia Southeast Store 47,2019-04-10,Beauty/Health,Bath,3,15,69935897
+1150,6,Australia Southeast,Australia Southeast Store 47,2019-04-22,Furniture,Indoor seating,9,75,17195405
+1151,1,Australia Southeast,Australia Southeast Store 47,2019-04-15,Clothing,Womens,8,25,48714783
+1152,88,Australia Southeast,Australia Southeast Store 47,2019-02-28,Electronics,Televisions,1,200,51239483
+1153,99,Australia Southeast,Australia Southeast Store 47,2019-03-24,Furniture,Patio furniture,3,75,97262933
+1154,17,Australia Southeast,Australia Southeast Store 47,2019-03-13,Beauty/Health,Haircare,5,15,83360351
+1155,15,Australia Southeast,Australia Southeast Store 47,2019-06-15,Baby,Baby toys,10,5,22039403
+1156,55,Australia Southeast,Australia Southeast Store 47,2019-03-11,Electronics,Cell Phones,2,200,46803084
+1157,78,Australia Southeast,Australia Southeast Store 47,2019-05-03,Electronics,Televisions,1,200,92759249
+1158,43,Australia Southeast,Australia Southeast Store 47,2019-07-02,Furniture,Indoor tables,3,75,66989157
+1159,50,Australia Southeast,Australia Southeast Store 47,2019-06-20,Electronics,Cell Phones,2,200,92890011
+1160,91,Australia Southeast,Australia Southeast Store 47,2019-02-11,Baby,Car seats,2,15,88489655
+1161,74,Australia Southeast,Australia Southeast Store 47,2019-02-09,Electronics,Headphones,2,200,32010255
+1162,92,Australia Southeast,Australia Southeast Store 47,2019-05-20,Beauty/Health,Feminine Products,9,10,36002762
+1163,5,Australia Southeast,Australia Southeast Store 47,2019-02-15,Baby,Strollers,2,15,72459196
+1164,61,Australia Southeast,Australia Southeast Store 47,2019-07-14,Baby,Strollers,5,30,52896635
+1165,13,Australia Southeast,Australia Southeast Store 47,2019-06-15,Beauty/Health,Bath,7,10,62397654
+1166,17,Australia Southeast,Australia Southeast Store 47,2019-05-08,Furniture,Indoor seating,8,40,74062841
+1167,52,Australia Southeast,Australia Southeast Store 47,2019-02-21,Furniture,Patio furniture,5,40,35418561
+1168,26,Australia Southeast,Australia Southeast Store 47,2019-02-06,Furniture,Indoor tables,5,30,87534158
+1169,67,Australia Southeast,Australia Southeast Store 47,2019-02-28,Beauty/Health,Oral care,5,15,73191676
+1170,59,Australia Southeast,Australia Southeast Store 47,2019-04-18,Electronics,Cell Phones,2,300,35012396
+1171,44,Australia Southeast,Australia Southeast Store 47,2019-01-25,Clothing,Womens,1,20,48868114
+1172,26,Australia Southeast,Australia Southeast Store 47,2019-04-23,Electronics,Headphones,1,300,67634600
+1173,50,Australia Southeast,Australia Southeast Store 47,2019-03-28,Baby,Strollers,3,15,32959158
+1174,45,Australia Southeast,Australia Southeast Store 47,2019-01-31,Beauty/Health,Skincare,2,10,41036409
+1175,91,Australia Southeast,Australia Southeast Store 47,2019-01-03,Electronics,Cell Phones,2,50,18371937
+1176,86,Australia Southeast,Australia Southeast Store 47,2019-05-11,Baby,Cribs,6,5,80444395
+1177,2,Australia Southeast,Australia Southeast Store 47,2019-01-04,Beauty/Health,Oral care,3,10,13262200
+1178,95,Australia Southeast,Australia Southeast Store 47,2019-01-03,Furniture,Indoor tables,3,40,50522664
+1179,97,Australia Southeast,Australia Southeast Store 47,2019-03-21,Beauty/Health,Oral care,5,15,37103393
+1180,46,Australia Southeast,Australia Southeast Store 47,2019-01-29,Clothing,Kids,5,12,96366188
+1181,48,Australia Southeast,Australia Southeast Store 47,2019-04-13,Clothing,Swimwear,8,20,91813389
+1182,50,Australia Southeast,Australia Southeast Store 47,2019-07-10,Beauty/Health,Skincare,6,14,31841909
+1183,34,Australia Southeast,Australia Southeast Store 47,2019-01-30,Furniture,Beds,3,30,44553256
+1184,31,Australia Southeast,Australia Southeast Store 47,2019-04-10,Furniture,Indoor seating,8,15,95010338
+1185,8,Australia Southeast,Australia Southeast Store 47,2019-04-30,Clothing,Baby,6,12,50349234
+1186,98,Australia Southeast,Australia Southeast Store 47,2019-07-07,Clothing,Baby,10,25,10029698
+1187,76,Australia Southeast,Australia Southeast Store 47,2019-06-09,Clothing,Baby,8,12,42102768
+1188,74,Australia Southeast,Australia Southeast Store 47,2019-05-08,Electronics,Speakers,1,200,52292108
+1189,21,Australia Southeast,Australia Southeast Store 47,2019-06-01,Clothing,Kids,8,13,76785601
+1190,26,Australia Southeast,Australia Southeast Store 47,2019-04-08,Electronics,Headphones,2,50,52714747
+1191,35,Australia Southeast,Australia Southeast Store 47,2019-02-22,Electronics,Tablets,1,200,55975580
+1192,28,Australia Southeast,Australia Southeast Store 47,2019-01-07,Clothing,Baby,4,13,69239464
+1193,45,Australia Southeast,Australia Southeast Store 47,2019-03-01,Furniture,Beds,1,75,49602892
+1194,10,Australia Southeast,Australia Southeast Store 47,2019-02-09,Beauty/Health,Haircare,2,10,52226265
+1195,23,Australia Southeast,Australia Southeast Store 47,2019-05-17,Electronics,Televisions,1,300,13210582
+1196,12,Australia Southeast,Australia Southeast Store 47,2019-06-14,Clothing,Shoes,6,12,37178984
+1197,61,Australia Southeast,Australia Southeast Store 47,2019-07-05,Furniture,Patio furniture,9,30,20643074
+1198,17,Australia Southeast,Australia Southeast Store 47,2019-05-04,Electronics,Headphones,2,100,56329665
+1199,33,Australia Southeast,Australia Southeast Store 47,2019-03-14,Baby,Diaper bags,2,30,45557391
+1200,76,Australia Southeast,Australia Southeast Store 47,2019-02-12,Clothing,Shoes,2,20,23018390
+1201,87,Australia Southeast,Australia Southeast Store 47,2019-05-15,Baby,Diaper bags,7,12,25931277
+1202,67,Australia Southeast,Australia Southeast Store 47,2019-03-16,Electronics,Speakers,2,100,98634832
+1203,6,Australia Southeast,Australia Southeast Store 47,2019-03-29,Furniture,Beds,1,75,92100570
+1204,63,Australia Southeast,Australia Southeast Store 47,2019-03-05,Beauty/Health,Skincare,1,10,61474116
+1205,4,Australia Southeast,Australia Southeast Store 47,2019-02-25,Clothing,Baby,4,13,75468671
+1206,84,Australia Southeast,Australia Southeast Store 47,2019-01-23,Furniture,Pool furniture,5,15,55410889
+1207,72,Australia Southeast,Australia Southeast Store 47,2019-03-27,Clothing,Mens,4,10,82461304
+1208,73,Australia Southeast,Australia Southeast Store 47,2019-01-18,Electronics,Computers,2,100,49088540
+1209,37,Australia Southeast,Australia Southeast Store 47,2019-05-26,Beauty/Health,Makeup,6,10,87191928
+1210,34,Australia Southeast,Australia Southeast Store 47,2019-07-15,Electronics,Headphones,1,50,22859416
+1211,28,Australia Southeast,Australia Southeast Store 47,2019-03-09,Baby,Car seats,1,15,17707476
+1212,2,Australia Southeast,Australia Southeast Store 47,2019-06-30,Beauty/Health,Oral care,9,10,47956124
+1213,54,Australia Southeast,Australia Southeast Store 47,2019-03-09,Electronics,Speakers,1,100,18957285
+1214,37,Australia Southeast,Australia Southeast Store 47,2019-02-06,Clothing,Baby,1,12,18112046
+1215,58,Australia Southeast,Australia Southeast Store 47,2019-06-28,Electronics,Speakers,2,300,96155057
+1216,4,Australia Southeast,Australia Southeast Store 47,2019-05-05,Electronics,Headphones,1,200,10879459
+1217,61,Australia Southeast,Australia Southeast Store 47,2019-01-04,Clothing,Shoes,5,20,54378291
+1218,46,Australia Southeast,Australia Southeast Store 47,2019-01-24,Baby,Diaper bags,1,12,97307980
+1219,19,Australia Southeast,Australia Southeast Store 47,2019-01-07,Electronics,Speakers,1,200,63618785
+1220,16,Australia Southeast,Australia Southeast Store 47,2019-03-21,Electronics,Televisions,1,100,20567543
+1221,81,Australia Southeast,Australia Southeast Store 47,2019-06-07,Beauty/Health,Feminine Products,3,10,98710952
+1222,58,Australia Southeast,Australia Southeast Store 47,2019-05-20,Electronics,Cell Phones,2,300,47011099
+1223,80,Australia Southeast,Australia Southeast Store 47,2019-06-19,Beauty/Health,Makeup,6,6,56167051
+1224,34,Australia Southeast,Australia Southeast Store 47,2019-01-14,Furniture,Indoor tables,1,40,72270787
+1225,73,Australia Southeast,Australia Southeast Store 47,2019-04-20,Baby,Diapers,7,30,85433072
+1226,87,Australia Southeast,Australia Southeast Store 47,2019-06-21,Furniture,Indoor seating,9,100,72366923
+1227,9,Australia Southeast,Australia Southeast Store 47,2019-06-06,Baby,Strollers,5,5,77361249
+1228,1,Australia Southeast,Australia Southeast Store 47,2019-01-18,Baby,Diapers,3,15,42730751
+1229,14,Australia Southeast,Australia Southeast Store 47,2019-03-27,Baby,Cribs,3,10,48030352
+1230,23,Australia Southeast,Australia Southeast Store 47,2019-01-27,Clothing,Baby,5,25,44388449
+1231,52,Australia Southeast,Australia Southeast Store 47,2019-04-15,Furniture,Indoor tables,7,40,87505711
+1232,15,Australia Southeast,Australia Southeast Store 47,2019-05-20,Clothing,Shoes,8,20,55445211
+1233,86,Australia Southeast,Australia Southeast Store 47,2019-01-16,Beauty/Health,Fragrances,2,6,78631601
+1234,76,Australia Southeast,Australia Southeast Store 47,2019-06-25,Electronics,Computers,1,50,55862638
+1235,36,Australia Southeast,Australia Southeast Store 47,2019-04-24,Electronics,Televisions,2,200,86203365
+1236,27,Australia Southeast,Australia Southeast Store 47,2019-02-15,Electronics,Televisions,1,300,31842595
+1237,14,Australia Southeast,Australia Southeast Store 47,2019-02-06,Furniture,Patio furniture,1,100,89312122
+1238,8,Australia Southeast,Australia Southeast Store 47,2019-06-28,Electronics,Headphones,1,100,98189350
+1239,36,Australia Southeast,Australia Southeast Store 47,2019-02-22,Clothing,Shoes,1,25,93964754
+1240,91,Australia Southeast,Australia Southeast Store 47,2019-07-03,Electronics,Televisions,1,200,45453652
+1241,28,Australia Southeast,Australia Southeast Store 47,2019-05-09,Beauty/Health,Haircare,7,10,85290157
+1242,94,Australia Southeast,Australia Southeast Store 47,2019-02-09,Electronics,Cell Phones,2,50,17120273
+1243,75,Australia Southeast,Australia Southeast Store 47,2019-02-08,Baby,Cribs,3,10,33104940
+1244,36,Australia Southeast,Australia Southeast Store 47,2019-01-08,Baby,Diaper bags,3,30,57635967
+1245,28,Australia Southeast,Australia Southeast Store 47,2019-03-14,Beauty/Health,Feminine Products,1,14,95686120
+1246,29,Australia Southeast,Australia Southeast Store 47,2019-04-19,Beauty/Health,Fragrances,5,10,48235361
+1247,81,Australia Southeast,Australia Southeast Store 47,2019-03-18,Beauty/Health,Bath,3,14,62831123
+1248,54,Australia Southeast,Australia Southeast Store 47,2019-02-23,Baby,Strollers,4,5,52070752
+1249,29,Australia Southeast,Australia Southeast Store 47,2019-07-11,Furniture,Beds,9,100,79243637
+1250,4,Australia Southeast,Australia Southeast Store 47,2019-01-08,Electronics,Tablets,2,300,60193206
+1251,41,Australia Southeast,Australia Southeast Store 47,2019-01-12,Furniture,Patio furniture,4,100,30975183
+1252,35,Australia Southeast,Australia Southeast Store 47,2019-01-08,Beauty/Health,Bath,1,10,31953738
+1253,79,Australia Southeast,Australia Southeast Store 47,2019-07-12,Clothing,Baby,5,25,53771086
+1254,80,Australia Southeast,Australia Southeast Store 47,2019-02-19,Baby,Cribs,1,10,33416936
+1255,73,Australia Southeast,Australia Southeast Store 47,2019-02-19,Clothing,Baby,5,13,71013269
+1256,18,Australia Southeast,Australia Southeast Store 47,2019-06-16,Clothing,Kids,6,25,93289066
+1257,2,Australia Southeast,Australia Southeast Store 47,2019-04-07,Furniture,Beds,4,100,74958213
+1258,56,Australia Southeast,Australia Southeast Store 47,2019-07-12,Electronics,Tablets,2,300,20693077
+1259,54,Australia Southeast,Australia Southeast Store 47,2019-01-27,Clothing,Swimwear,5,20,86634674
+1260,29,Australia Southeast,Australia Southeast Store 47,2019-02-05,Electronics,Speakers,1,200,64055445
+1261,69,Australia Southeast,Australia Southeast Store 47,2019-04-03,Clothing,Shoes,3,20,90748033
+1262,32,Australia Southeast,Australia Southeast Store 47,2019-04-16,Beauty/Health,Feminine Products,3,15,90958398
+1263,46,Australia Southeast,Australia Southeast Store 47,2019-03-08,Furniture,Patio furniture,5,15,18351324
+1264,59,Australia Southeast,Australia Southeast Store 47,2019-03-04,Electronics,Headphones,1,300,60505306
+1265,35,Australia Southeast,Australia Southeast Store 47,2019-04-01,Furniture,Indoor seating,3,15,29503084
+1266,47,Australia Southeast,Australia Southeast Store 47,2019-02-26,Clothing,Kids,1,12,90331528
+1267,101,Australia Southeast,Australia Southeast Store 47,2019-04-08,Beauty/Health,Bath,5,14,94209879
+1268,87,Australia Southeast,Australia Southeast Store 47,2019-02-05,Beauty/Health,Feminine Products,2,14,15268093
+1269,83,Australia Southeast,Australia Southeast Store 47,2019-06-22,Clothing,Kids,7,25,97128964
+1270,2,Australia Southeast,Australia Southeast Store 47,2019-06-24,Beauty/Health,Bath,3,6,45187966
+1271,83,Australia Southeast,Australia Southeast Store 47,2019-01-16,Electronics,Speakers,1,200,93114900
+1272,95,Australia Southeast,Australia Southeast Store 47,2019-01-03,Baby,Cribs,2,30,55202487
+1273,9,Australia Southeast,Australia Southeast Store 47,2019-01-03,Clothing,Swimwear,1,12,87451834
+1274,48,Australia Southeast,Australia Southeast Store 47,2019-03-03,Beauty/Health,Fragrances,1,10,34158747
+1275,49,Australia Southeast,Australia Southeast Store 47,2019-02-08,Baby,Diaper bags,3,30,30660545
+1276,93,Australia Southeast,Australia Southeast Store 47,2019-07-15,Furniture,Patio furniture,5,40,49187298
+1277,40,Australia Southeast,Australia Southeast Store 47,2019-02-03,Electronics,Headphones,1,50,67519963
+1278,93,Australia Southeast,Australia Southeast Store 47,2019-04-15,Electronics,Computers,1,50,79443016
+1279,28,Australia Southeast,Australia Southeast Store 47,2019-03-18,Beauty/Health,Haircare,5,10,60077247
+1280,99,Australia Southeast,Australia Southeast Store 47,2019-04-13,Beauty/Health,Fragrances,10,10,67304046
+1281,12,Australia Southeast,Australia Southeast Store 47,2019-01-22,Beauty/Health,Bath,2,14,71927083
+1282,97,Australia Southeast,Australia Southeast Store 47,2019-06-21,Furniture,Indoor tables,5,100,39227902
+1283,55,Australia Southeast,Australia Southeast Store 47,2019-07-06,Baby,Baby toys,7,5,28828081
+1284,7,Australia Southeast,Australia Southeast Store 47,2019-06-22,Beauty/Health,Feminine Products,8,10,87808593
+1285,56,Australia Southeast,Australia Southeast Store 47,2019-02-10,Clothing,Womens,3,20,27189860
+1286,84,Australia Southeast,Australia Southeast Store 47,2019-06-20,Clothing,Shoes,10,20,86065867
+1287,96,Australia Southeast,Australia Southeast Store 47,2019-01-01,Furniture,Pool furniture,3,15,18556912
+1288,96,Australia Southeast,Australia Southeast Store 47,2019-03-07,Furniture,Indoor tables,4,75,51795979
+1289,48,Australia Southeast,Australia Southeast Store 47,2019-07-01,Electronics,Speakers,1,100,81798186
+1290,9,Australia Southeast,Australia Southeast Store 47,2019-03-21,Clothing,Womens,3,25,33111632
+1291,51,Australia Southeast,Australia Southeast Store 47,2019-05-31,Electronics,Headphones,1,50,51657986
+1292,43,Australia Southeast,Australia Southeast Store 47,2019-04-28,Baby,Diapers,9,30,18203994
+1293,11,Australia Southeast,Australia Southeast Store 47,2019-06-23,Furniture,Indoor seating,5,100,80207001
+1294,88,Australia Southeast,Australia Southeast Store 47,2019-03-03,Clothing,Swimwear,2,12,34493084
+1295,100,Australia Southeast,Australia Southeast Store 47,2019-01-30,Furniture,Pool furniture,4,40,54466562
+1296,31,Australia Southeast,Australia Southeast Store 47,2019-01-06,Baby,Cribs,5,15,13510047
+1297,84,Australia Southeast,Australia Southeast Store 47,2019-06-17,Beauty/Health,Skincare,3,10,12152892
+1298,29,Australia Southeast,Australia Southeast Store 47,2019-07-07,Electronics,Computers,2,100,94437501
+1299,50,Australia Southeast,Australia Southeast Store 47,2019-03-31,Beauty/Health,Bath,4,10,59946444
+1300,55,Australia Southeast,Australia Southeast Store 47,2019-03-24,Electronics,Computers,1,200,61134650
+1301,52,Australia Southeast,Australia Southeast Store 47,2019-01-02,Beauty/Health,Skincare,1,6,21402616
+1302,72,Australia Southeast,Australia Southeast Store 47,2019-06-16,Beauty/Health,Haircare,3,10,92407878
+1303,96,Australia Southeast,Australia Southeast Store 47,2019-01-17,Baby,Cribs,2,12,96771423
+1304,40,Australia Southeast,Australia Southeast Store 47,2019-04-10,Electronics,Tablets,2,200,36619511
+1305,77,Australia Southeast,Australia Southeast Store 47,2019-03-12,Clothing,Swimwear,2,20,60581612
+1306,49,Australia Southeast,Australia Southeast Store 47,2019-01-24,Furniture,Pool furniture,1,40,71209496
+1307,35,Australia Southeast,Australia Southeast Store 47,2019-03-23,Beauty/Health,Oral care,5,10,82848294
+1308,54,Australia Southeast,Australia Southeast Store 47,2019-05-31,Baby,Cribs,5,12,47543435
+1309,64,Australia Southeast,Australia Southeast Store 47,2019-03-19,Furniture,Patio furniture,1,75,85860882
+1310,65,Australia Southeast,Australia Southeast Store 47,2019-05-16,Electronics,Tablets,2,300,31393691
+1311,92,Australia Southeast,Australia Southeast Store 47,2019-05-21,Electronics,Headphones,2,200,53497742
+1312,10,Australia Southeast,Australia Southeast Store 47,2019-06-04,Furniture,Indoor tables,3,75,86986977
+1313,69,Australia Southeast,Australia Southeast Store 47,2019-01-28,Electronics,Televisions,1,100,54295295
+1314,32,Australia Southeast,Australia Southeast Store 47,2019-06-16,Baby,Cribs,8,30,82442962
+1315,20,Australia Southeast,Australia Southeast Store 47,2019-03-13,Clothing,Womens,2,10,50917152
+1316,77,Australia Southeast,Australia Southeast Store 47,2019-02-21,Baby,Baby toys,4,12,89303370
+1317,58,Australia Southeast,Australia Southeast Store 47,2019-05-15,Electronics,Tablets,1,200,31945559
+1318,13,Australia Southeast,Australia Southeast Store 47,2019-05-07,Clothing,Baby,6,20,65698420
+1319,82,Australia Southeast,Australia Southeast Store 47,2019-02-02,Electronics,Televisions,1,300,73561899
+1320,93,Australia Southeast,Australia Southeast Store 47,2019-03-01,Electronics,Tablets,1,100,55270750
+1321,44,Australia Southeast,Australia Southeast Store 47,2019-05-31,Beauty/Health,Bath,10,10,57651950
+1322,13,Australia Southeast,Australia Southeast Store 47,2019-04-14,Baby,Car seats,6,10,72160950
+1323,28,Australia Southeast,Australia Southeast Store 47,2019-07-05,Beauty/Health,Haircare,10,10,25848551
+1324,6,Australia Southeast,Australia Southeast Store 47,2019-03-11,Clothing,Kids,3,12,13260244
+1325,31,Australia Southeast,Australia Southeast Store 47,2019-02-14,Baby,Baby toys,1,12,37829844
+1326,40,Australia Southeast,Australia Southeast Store 47,2019-05-17,Beauty/Health,Fragrances,4,15,22733794
+1327,41,Australia Southeast,Australia Southeast Store 47,2019-02-17,Baby,Cribs,1,12,31917162
+1328,77,Australia Southeast,Australia Southeast Store 47,2019-01-12,Baby,Diapers,3,10,77183497
+1329,24,Australia Southeast,Australia Southeast Store 47,2019-01-05,Beauty/Health,Skincare,3,10,56854968
+1330,28,Australia Southeast,Australia Southeast Store 47,2019-02-12,Furniture,Patio furniture,1,40,30664150
+1331,12,Australia Southeast,Australia Southeast Store 47,2019-02-04,Beauty/Health,Skincare,1,10,59040800
+1332,3,Australia Southeast,Australia Southeast Store 47,2019-04-26,Beauty/Health,Fragrances,3,14,45412037
+1333,11,Australia Southeast,Australia Southeast Store 47,2019-03-05,Clothing,Shoes,5,12,25438961
+1334,10,Australia Southeast,Australia Southeast Store 47,2019-06-27,Baby,Car seats,8,15,36167667
+1335,61,Australia Southeast,Australia Southeast Store 47,2019-04-20,Electronics,Headphones,1,300,95704454
+1336,5,Australia Southeast,Australia Southeast Store 47,2019-05-18,Electronics,Tablets,2,200,15726037
+1337,29,Australia Southeast,Australia Southeast Store 47,2019-06-18,Beauty/Health,Haircare,10,10,56474601
+1338,76,Australia Southeast,Australia Southeast Store 47,2019-06-25,Electronics,Tablets,2,50,51651579
+1339,10,Australia Southeast,Australia Southeast Store 47,2019-04-20,Baby,Strollers,10,30,22903973
+1340,11,Australia Southeast,Australia Southeast Store 47,2019-02-01,Electronics,Cell Phones,2,100,47822276
+1341,69,Australia Southeast,Australia Southeast Store 47,2019-05-23,Baby,Car seats,4,5,23084402
+1342,40,Australia Southeast,Australia Southeast Store 47,2019-03-22,Clothing,Shoes,2,12,30024502
+1343,85,Australia Southeast,Australia Southeast Store 47,2019-06-18,Electronics,Tablets,2,300,57539877
+1344,61,Australia Southeast,Australia Southeast Store 47,2019-01-19,Beauty/Health,Bath,3,10,57212425
+1345,79,Australia Southeast,Australia Southeast Store 47,2019-03-24,Beauty/Health,Fragrances,5,6,23561691
+1346,77,Australia Southeast,Australia Southeast Store 47,2019-06-24,Furniture,Patio furniture,10,30,72387418
+1347,68,Australia Southeast,Australia Southeast Store 47,2019-01-16,Beauty/Health,Skincare,3,14,73356951
+1348,3,Australia Southeast,Australia Southeast Store 47,2019-03-07,Baby,Baby toys,4,5,88282512
+1349,10,Australia Southeast,Australia Southeast Store 47,2019-05-21,Baby,Baby toys,8,30,33359854
+1350,2,Australia Southeast,Australia Southeast Store 47,2019-03-06,Beauty/Health,Fragrances,1,6,95439468
+1351,20,Australia Southeast,Australia Southeast Store 47,2019-01-31,Beauty/Health,Feminine Products,5,14,59232461
+1352,28,Australia Southeast,Australia Southeast Store 47,2019-06-28,Baby,Diaper bags,3,30,86867896
+1353,97,Australia Southeast,Australia Southeast Store 47,2019-01-04,Clothing,Kids,4,25,18885973
+1354,58,Australia Southeast,Australia Southeast Store 47,2019-04-06,Furniture,Indoor seating,5,40,43463804
+1355,65,Australia Southeast,Australia Southeast Store 47,2019-04-26,Baby,Cribs,10,30,77985589
+1356,39,Australia Southeast,Australia Southeast Store 47,2019-05-27,Electronics,Speakers,1,300,40883485
+1357,50,Australia Southeast,Australia Southeast Store 47,2019-03-18,Furniture,Pool furniture,3,40,34661766
+1358,70,Australia Southeast,Australia Southeast Store 47,2019-02-22,Furniture,Pool furniture,2,30,86593003
+1359,80,Australia Southeast,Australia Southeast Store 47,2019-07-14,Furniture,Beds,3,100,57841959
+1360,85,Australia Southeast,Australia Southeast Store 47,2019-03-27,Furniture,Pool furniture,2,30,83891772
+1361,22,Australia Southeast,Australia Southeast Store 47,2019-04-14,Clothing,Mens,7,20,90217739
+1362,47,Australia Southeast,Australia Southeast Store 47,2019-06-20,Beauty/Health,Fragrances,10,10,25222138
+1363,76,Australia Southeast,Australia Southeast Store 47,2019-03-08,Furniture,Patio furniture,1,30,96301921
+1364,68,Australia Southeast,Australia Southeast Store 47,2019-03-28,Clothing,Swimwear,3,12,58187824
+1365,58,Australia Southeast,Australia Southeast Store 47,2019-01-19,Beauty/Health,Fragrances,5,10,97973297
+1366,35,Australia Southeast,Australia Southeast Store 47,2019-03-09,Furniture,Indoor tables,4,30,74944782
+1367,80,Australia Southeast,Australia Southeast Store 47,2019-04-04,Electronics,Computers,1,200,35621881
+1368,99,Australia Southeast,Australia Southeast Store 47,2019-02-15,Beauty/Health,Skincare,3,14,70284390
+1369,82,Australia Southeast,Australia Southeast Store 47,2019-07-14,Furniture,Pool furniture,3,75,78304279
+1370,97,Australia Southeast,Australia Southeast Store 47,2019-01-12,Electronics,Televisions,2,100,76185497
+1371,77,Australia Southeast,Australia Southeast Store 47,2019-01-02,Beauty/Health,Feminine Products,1,6,63952459
+1372,72,Australia Southeast,Australia Southeast Store 47,2019-02-21,Baby,Baby toys,2,5,32545340
+1373,81,Australia Southeast,Australia Southeast Store 47,2019-07-06,Baby,Car seats,5,30,77332086
+1374,76,Australia Southeast,Australia Southeast Store 47,2019-05-22,Clothing,Mens,7,20,26453523
+1375,8,Australia Southeast,Australia Southeast Store 47,2019-07-10,Beauty/Health,Skincare,3,15,48706039
+1376,85,Australia Southeast,Australia Southeast Store 47,2019-04-30,Electronics,Televisions,1,300,38276201
+1377,49,Australia Southeast,Australia Southeast Store 47,2019-04-29,Clothing,Swimwear,7,20,42933334
+1378,88,Australia Southeast,Australia Southeast Store 47,2019-03-15,Baby,Baby toys,5,30,52177529
+1379,99,Australia Southeast,Australia Southeast Store 47,2019-04-07,Furniture,Indoor tables,3,75,34955690
+1380,38,Australia Southeast,Australia Southeast Store 47,2019-07-06,Furniture,Indoor seating,6,30,18093688
+1381,91,Australia Southeast,Australia Southeast Store 47,2019-01-17,Baby,Diapers,2,12,90943081
+1382,5,Australia Southeast,Australia Southeast Store 47,2019-07-09,Electronics,Computers,2,300,56585653
+1383,38,Australia Southeast,Australia Southeast Store 47,2019-04-13,Furniture,Pool furniture,5,15,99374856
+1384,23,Australia Southeast,Australia Southeast Store 47,2019-01-07,Furniture,Indoor seating,1,30,31880137
+1385,37,Australia Southeast,Australia Southeast Store 47,2019-02-14,Clothing,Swimwear,3,20,73920839
+1386,61,Australia Southeast,Australia Southeast Store 47,2019-06-28,Clothing,Mens,3,12,72101207
+1387,25,Australia Southeast,Australia Southeast Store 47,2019-05-30,Clothing,Kids,7,12,80560979
+1388,59,Australia Southeast,Australia Southeast Store 47,2019-04-20,Clothing,Swimwear,3,20,95029320
+1389,61,Australia Southeast,Australia Southeast Store 47,2019-02-28,Electronics,Headphones,1,200,43262158
+1390,13,Australia Southeast,Australia Southeast Store 47,2019-01-28,Clothing,Baby,1,10,42454095
+1391,62,Australia Southeast,Australia Southeast Store 47,2019-04-03,Baby,Diaper bags,4,15,83058875
+1392,71,Australia Southeast,Australia Southeast Store 47,2019-06-24,Beauty/Health,Makeup,5,10,50755819
+1393,29,Australia Southeast,Australia Southeast Store 47,2019-04-23,Beauty/Health,Makeup,4,15,43143717
+1394,34,Australia Southeast,Australia Southeast Store 47,2019-04-17,Baby,Car seats,4,10,19024067
+1395,35,Australia Southeast,Australia Southeast Store 47,2019-05-18,Electronics,Tablets,1,50,28596899
+1396,26,Australia Southeast,Australia Southeast Store 47,2019-03-01,Baby,Car seats,2,12,55776880
+1397,53,Australia Southeast,Australia Southeast Store 47,2019-03-20,Beauty/Health,Bath,3,15,47241831
+1398,86,Australia Southeast,Australia Southeast Store 47,2019-05-28,Baby,Diaper bags,4,15,64640452
+1399,85,Australia Southeast,Australia Southeast Store 47,2019-01-17,Beauty/Health,Bath,5,10,66014438
+1400,11,Australia Southeast,Australia Southeast Store 47,2019-02-09,Electronics,Speakers,2,50,85667780
+1401,72,Australia Southeast,Australia Southeast Store 47,2019-04-21,Electronics,Televisions,1,300,73123067
+1402,62,Australia Southeast,Australia Southeast Store 47,2019-04-27,Baby,Diapers,4,10,85217387
+1403,7,Australia Southeast,Australia Southeast Store 47,2019-04-19,Electronics,Tablets,2,300,73871183
+1404,71,Australia Southeast,Australia Southeast Store 47,2019-04-04,Beauty/Health,Haircare,5,10,70201295
+1405,19,Australia Southeast,Australia Southeast Store 47,2019-02-07,Electronics,Tablets,2,100,66840688
+1406,2,Australia Southeast,Australia Southeast Store 47,2019-01-15,Furniture,Indoor tables,5,100,27684089
+1407,86,Australia Southeast,Australia Southeast Store 47,2019-02-18,Furniture,Patio furniture,5,15,48109044
+1408,49,Australia Southeast,Australia Southeast Store 47,2019-05-24,Furniture,Beds,3,30,93250795
+1409,47,Australia Southeast,Australia Southeast Store 47,2019-02-09,Furniture,Pool furniture,5,15,20470070
+1410,32,Australia Southeast,Australia Southeast Store 47,2019-07-07,Clothing,Shoes,7,13,70454105
+1411,34,Australia Southeast,Australia Southeast Store 47,2019-03-25,Beauty/Health,Makeup,4,10,23497869
+1412,53,Australia Southeast,Australia Southeast Store 47,2019-04-04,Beauty/Health,Feminine Products,1,15,78081109
+1413,91,Australia Southeast,Australia Southeast Store 47,2019-04-01,Electronics,Cell Phones,1,200,81346732
+1414,70,Australia Southeast,Australia Southeast Store 47,2019-05-29,Furniture,Indoor seating,3,100,49409769
+1415,58,Australia Southeast,Australia Southeast Store 47,2019-03-15,Electronics,Headphones,1,50,86249168
+1416,95,Australia Southeast,Australia Southeast Store 47,2019-07-16,Electronics,Tablets,2,100,61031275
+1417,62,Australia Southeast,Australia Southeast Store 47,2019-03-26,Clothing,Mens,2,25,42797898
+1418,48,Australia Southeast,Australia Southeast Store 47,2019-05-18,Electronics,Cell Phones,1,200,28580928
+1419,31,Australia Southeast,Australia Southeast Store 47,2019-05-27,Electronics,Headphones,1,200,26983618
+1420,32,Australia Southeast,Australia Southeast Store 47,2019-03-23,Baby,Baby toys,1,15,78130986
+1421,43,Australia Southeast,Australia Southeast Store 47,2019-01-21,Baby,Diapers,3,15,38082752
+1422,81,Australia Southeast,Australia Southeast Store 47,2019-03-19,Electronics,Televisions,2,300,23817226
+1423,87,Australia Southeast,Australia Southeast Store 47,2019-03-03,Furniture,Indoor tables,2,40,73888417
+1424,65,Australia Southeast,Australia Southeast Store 47,2019-02-24,Furniture,Indoor seating,1,100,79840541
+1425,19,Australia Southeast,Australia Southeast Store 47,2019-02-16,Furniture,Indoor tables,4,75,46173901
+1426,86,Australia Southeast,Australia Southeast Store 47,2019-06-12,Beauty/Health,Haircare,5,6,62897611
+1427,91,Australia Southeast,Australia Southeast Store 47,2019-05-18,Furniture,Pool furniture,10,15,98927653
+1428,54,Australia Southeast,Australia Southeast Store 47,2019-07-16,Baby,Baby toys,4,5,28908122
+1429,99,Australia Southeast,Australia Southeast Store 47,2019-02-15,Beauty/Health,Makeup,5,10,69507042
+1430,52,Australia Southeast,Australia Southeast Store 47,2019-01-23,Furniture,Beds,2,30,88175405
+1431,73,Australia Southeast,Australia Southeast Store 47,2019-05-02,Clothing,Baby,8,10,83765332
+1432,58,Australia Southeast,Australia Southeast Store 47,2019-04-23,Furniture,Indoor tables,8,75,72731812
+1433,84,Australia Southeast,Australia Southeast Store 47,2019-06-12,Electronics,Tablets,2,200,14508226
+1434,46,Australia Southeast,Australia Southeast Store 47,2019-02-17,Baby,Cribs,2,15,54832925
+1435,69,Australia Southeast,Australia Southeast Store 47,2019-04-26,Beauty/Health,Haircare,4,10,11502712
+1436,91,Australia Southeast,Australia Southeast Store 47,2019-01-14,Beauty/Health,Makeup,5,15,62605679
+1437,18,Australia Southeast,Australia Southeast Store 47,2019-06-27,Furniture,Beds,4,15,43866908
+1438,34,Australia Southeast,Australia Southeast Store 47,2019-04-22,Furniture,Indoor seating,6,100,29078745
+1439,19,Australia Southeast,Australia Southeast Store 47,2019-01-17,Baby,Strollers,3,10,93409023
+1440,41,Australia Southeast,Australia Southeast Store 47,2019-01-31,Electronics,Televisions,1,50,61806869
+1441,9,Australia Southeast,Australia Southeast Store 47,2019-03-08,Baby,Baby toys,4,12,41027761
+1442,71,Australia Southeast,Australia Southeast Store 47,2019-06-24,Clothing,Swimwear,9,25,18652135
+1443,37,Australia Southeast,Australia Southeast Store 47,2019-05-21,Electronics,Headphones,1,300,96840209
+1444,60,Australia Southeast,Australia Southeast Store 47,2019-06-26,Electronics,Cell Phones,2,100,42279422
+1445,27,Australia Southeast,Australia Southeast Store 47,2019-03-03,Electronics,Computers,1,100,84882914
+1446,65,Australia Southeast,Australia Southeast Store 47,2019-04-27,Clothing,Kids,9,25,97822758
+1447,15,Australia Southeast,Australia Southeast Store 47,2019-06-10,Baby,Cribs,9,5,11010411
+1448,74,Australia Southeast,Australia Southeast Store 47,2019-01-04,Furniture,Pool furniture,4,15,90233565
+1449,33,Australia Southeast,Australia Southeast Store 47,2019-05-12,Clothing,Mens,6,20,61817189
+1450,15,Australia Southeast,Australia Southeast Store 47,2019-05-10,Furniture,Pool furniture,5,40,75029212
+1451,30,Australia Southeast,Australia Southeast Store 47,2019-05-26,Furniture,Indoor seating,10,75,38613029
+1452,55,Australia Southeast,Australia Southeast Store 47,2019-05-05,Clothing,Shoes,4,13,22160249
+1453,90,Australia Southeast,Australia Southeast Store 47,2019-03-17,Baby,Car seats,2,15,65255070
+1454,42,Australia Southeast,Australia Southeast Store 47,2019-06-07,Baby,Car seats,9,30,78627194
+1455,76,Australia Southeast,Australia Southeast Store 47,2019-01-01,Baby,Baby toys,4,5,64189917
+1456,39,Australia Southeast,Australia Southeast Store 47,2019-02-16,Baby,Diaper bags,5,10,76386210
+1457,100,Australia Southeast,Australia Southeast Store 47,2019-06-09,Furniture,Indoor tables,5,15,40658307
+1458,23,Australia Southeast,Australia Southeast Store 47,2019-06-25,Electronics,Cell Phones,2,200,41260005
+1459,79,Australia Southeast,Australia Southeast Store 47,2019-07-02,Clothing,Baby,5,20,42086587
+1460,24,Australia Southeast,Australia Southeast Store 47,2019-01-17,Furniture,Patio furniture,1,40,24858218
+1461,46,Australia Southeast,Australia Southeast Store 47,2019-06-26,Furniture,Pool furniture,5,75,40033893
+1462,82,Australia Southeast,Australia Southeast Store 47,2019-04-14,Baby,Diaper bags,10,12,67246143
+1463,4,Australia Southeast,Australia Southeast Store 47,2019-06-23,Electronics,Speakers,2,100,24185510
+1464,7,Australia Southeast,Australia Southeast Store 47,2019-03-31,Clothing,Swimwear,4,25,66913319
+1465,37,Australia Southeast,Australia Southeast Store 47,2019-01-01,Clothing,Shoes,4,25,92461070
+1466,2,Australia Southeast,Australia Southeast Store 47,2019-02-10,Furniture,Indoor tables,1,75,28955996
+1467,82,Australia Southeast,Australia Southeast Store 47,2019-03-18,Clothing,Shoes,4,10,90404592
+1468,17,Australia Southeast,Australia Southeast Store 47,2019-05-11,Baby,Diaper bags,6,30,95029551
+1469,80,Australia Southeast,Australia Southeast Store 47,2019-03-21,Furniture,Indoor seating,3,100,47752652
+1470,18,Australia Southeast,Australia Southeast Store 47,2019-03-26,Furniture,Pool furniture,5,30,69517663
+1471,44,Australia Southeast,Australia Southeast Store 47,2019-07-06,Clothing,Mens,7,12,60984076
+1472,42,Australia Southeast,Australia Southeast Store 47,2019-02-01,Furniture,Indoor tables,5,30,86103247
+1473,47,Australia Southeast,Australia Southeast Store 47,2019-05-08,Electronics,Televisions,1,50,12902695
+1474,24,Australia Southeast,Australia Southeast Store 47,2019-07-04,Baby,Cribs,4,15,94512005
+1475,6,Australia Southeast,Australia Southeast Store 47,2019-03-07,Furniture,Patio furniture,4,40,47764964
+1476,30,Australia Southeast,Australia Southeast Store 47,2019-03-08,Clothing,Shoes,4,12,72587839
+1477,82,Australia Southeast,Australia Southeast Store 47,2019-04-17,Furniture,Indoor seating,6,15,14760607
+1478,30,Australia Southeast,Australia Southeast Store 47,2019-04-20,Beauty/Health,Skincare,7,14,58422834
+1479,75,Australia Southeast,Australia Southeast Store 47,2019-01-16,Electronics,Computers,1,100,58050826
+1480,88,Australia Southeast,Australia Southeast Store 47,2019-03-20,Beauty/Health,Fragrances,4,6,11659217
+1481,25,Australia Southeast,Australia Southeast Store 47,2019-06-03,Clothing,Kids,5,20,35957085
+1482,99,Australia Southeast,Australia Southeast Store 47,2019-02-28,Clothing,Mens,4,25,28530334
+1483,43,Australia Southeast,Australia Southeast Store 47,2019-02-25,Furniture,Indoor seating,3,30,16432147
+1484,100,Australia Southeast,Australia Southeast Store 47,2019-04-28,Baby,Cribs,7,10,52619205
+1485,83,Australia Southeast,Australia Southeast Store 47,2019-01-06,Electronics,Computers,2,100,84897540
+1486,98,Australia Southeast,Australia Southeast Store 47,2019-02-17,Baby,Strollers,1,30,13118031
+1487,77,Australia Southeast,Australia Southeast Store 47,2019-06-19,Beauty/Health,Skincare,9,10,99185446
+1488,91,Australia Southeast,Australia Southeast Store 47,2019-04-24,Beauty/Health,Makeup,10,14,68531490
+1489,45,Australia Southeast,Australia Southeast Store 47,2019-06-03,Electronics,Televisions,2,50,28699620
+1490,39,Australia Southeast,Australia Southeast Store 47,2019-05-18,Baby,Car seats,7,12,82769906
+1491,86,Australia Southeast,Australia Southeast Store 47,2019-05-06,Furniture,Patio furniture,6,100,87290354
+1492,28,Australia Southeast,Australia Southeast Store 47,2019-03-17,Furniture,Indoor seating,2,15,72187371
+1493,18,Australia Southeast,Australia Southeast Store 47,2019-01-19,Electronics,Tablets,1,300,20193704
+1494,60,Australia Southeast,Australia Southeast Store 47,2019-02-24,Electronics,Speakers,2,100,83828545
+1495,64,Australia Southeast,Australia Southeast Store 47,2019-06-14,Beauty/Health,Haircare,5,10,26889732
+1496,6,Australia Southeast,Australia Southeast Store 47,2019-02-11,Electronics,Tablets,1,50,77321832
+1497,52,Australia Southeast,Australia Southeast Store 47,2019-05-17,Baby,Diaper bags,6,30,65799223
+1498,75,Australia Southeast,Australia Southeast Store 47,2019-04-18,Electronics,Cell Phones,1,100,25020856
+1499,76,Australia Southeast,Australia Southeast Store 47,2019-03-01,Baby,Strollers,4,30,37692258
+1500,84,Australia Southeast,Australia Southeast Store 47,2019-06-23,Beauty/Health,Fragrances,10,10,99927530
+1501,5,Australia Southeast,Australia Southeast Store 47,2019-01-15,Clothing,Womens,1,12,22717006
+1502,42,Australia Southeast,Australia Southeast Store 47,2019-03-27,Clothing,Swimwear,1,25,59411563
+1503,16,Australia Southeast,Australia Southeast Store 47,2019-06-01,Baby,Car seats,9,10,29429058
+1504,11,Australia Southeast,Australia Southeast Store 47,2019-03-01,Baby,Car seats,4,30,24027022
+1505,90,Australia Southeast,Australia Southeast Store 47,2019-01-17,Furniture,Beds,2,75,52770081
+1506,51,Australia Southeast,Australia Southeast Store 47,2019-01-30,Baby,Diapers,4,30,43468368
+1507,76,Australia Southeast,Australia Southeast Store 47,2019-01-07,Electronics,Computers,2,200,42714143
+1508,85,Australia Southeast,Australia Southeast Store 47,2019-02-08,Electronics,Tablets,2,100,58582263
+1509,43,Australia Southeast,Australia Southeast Store 47,2019-06-28,Furniture,Patio furniture,7,40,13055056
+1510,34,Australia Southeast,Australia Southeast Store 47,2019-01-01,Beauty/Health,Makeup,3,15,50016593
+1511,86,Australia Southeast,Australia Southeast Store 47,2019-07-05,Beauty/Health,Oral care,3,10,20608059
+1512,69,Australia Southeast,Australia Southeast Store 47,2019-01-16,Furniture,Indoor seating,1,100,59427755
+1513,49,Australia Southeast,Australia Southeast Store 47,2019-04-10,Electronics,Computers,2,200,72482471
+1514,32,Australia Southeast,Australia Southeast Store 47,2019-04-11,Baby,Diapers,8,10,96218627
+1515,77,Australia Southeast,Australia Southeast Store 47,2019-06-18,Beauty/Health,Bath,5,10,54446093
+1516,5,Australia Southeast,Australia Southeast Store 47,2019-05-12,Furniture,Indoor seating,8,100,61164169
+1517,94,Australia Southeast,Australia Southeast Store 47,2019-05-03,Electronics,Headphones,1,100,44216568
+1518,84,Australia Southeast,Australia Southeast Store 47,2019-03-14,Baby,Diaper bags,4,15,71478839
+1519,47,Australia Southeast,Australia Southeast Store 47,2019-02-06,Furniture,Beds,3,30,36412232
+1520,72,Australia Southeast,Australia Southeast Store 47,2019-02-17,Beauty/Health,Makeup,3,6,51649559
+1521,64,Australia Southeast,Australia Southeast Store 47,2019-03-15,Electronics,Tablets,2,200,65257229
+1522,78,Australia Southeast,Australia Southeast Store 47,2019-04-23,Electronics,Televisions,1,100,70012906
+1523,84,Australia Southeast,Australia Southeast Store 47,2019-02-23,Baby,Baby toys,2,12,95517459
+1524,43,Australia Southeast,Australia Southeast Store 47,2019-03-10,Furniture,Indoor seating,2,30,57725228
+1525,73,Australia Southeast,Australia Southeast Store 47,2019-02-14,Beauty/Health,Oral care,5,10,62941914
+1526,22,Australia Southeast,Australia Southeast Store 47,2019-07-12,Clothing,Shoes,9,10,60965532
+1527,75,Australia Southeast,Australia Southeast Store 47,2019-04-28,Beauty/Health,Haircare,9,10,66745285
+1528,29,Australia Southeast,Australia Southeast Store 47,2019-03-18,Clothing,Baby,2,25,59106936
+1529,22,Australia Southeast,Australia Southeast Store 47,2019-03-15,Furniture,Pool furniture,1,15,81102958
+1530,87,Australia Southeast,Australia Southeast Store 47,2019-06-29,Baby,Diaper bags,8,15,74883754
+1531,22,Australia Southeast,Australia Southeast Store 47,2019-06-07,Furniture,Indoor seating,8,75,61499892
+1532,21,Australia Southeast,Australia Southeast Store 47,2019-04-08,Furniture,Indoor tables,5,40,27737778
+1533,76,Australia Southeast,Australia Southeast Store 47,2019-02-18,Electronics,Speakers,1,50,81281272
+1534,11,Australia Southeast,Australia Southeast Store 47,2019-03-14,Furniture,Indoor tables,1,100,95219947
+1535,87,Australia Southeast,Australia Southeast Store 47,2019-07-03,Clothing,Womens,6,12,31617753
+1536,85,Australia Southeast,Australia Southeast Store 47,2019-06-03,Baby,Baby toys,10,30,47145381
+1537,89,Australia Southeast,Australia Southeast Store 47,2019-02-08,Baby,Diapers,4,30,33648123
+1538,73,Australia Southeast,Australia Southeast Store 47,2019-06-10,Furniture,Indoor tables,3,30,39873778
+1539,57,Australia Southeast,Australia Southeast Store 47,2019-03-21,Clothing,Swimwear,1,12,48616057
+1540,5,Australia Southeast,Australia Southeast Store 47,2019-06-22,Beauty/Health,Skincare,5,10,55262070
+1541,12,Australia Southeast,Australia Southeast Store 47,2019-03-12,Furniture,Beds,5,30,16218588
+1542,2,Australia Southeast,Australia Southeast Store 47,2019-04-19,Clothing,Kids,3,25,60064392
+1543,100,Australia Southeast,Australia Southeast Store 47,2019-06-12,Furniture,Indoor seating,8,15,19304518
+1544,66,Australia Southeast,Australia Southeast Store 47,2019-07-16,Clothing,Baby,3,25,85271480
+1545,52,Australia Southeast,Australia Southeast Store 47,2019-04-21,Beauty/Health,Skincare,6,10,44149184
+1546,89,Australia Southeast,Australia Southeast Store 47,2019-03-17,Clothing,Shoes,2,25,25029521
+1547,40,Australia Southeast,Australia Southeast Store 47,2019-06-25,Clothing,Swimwear,3,20,13946900
+1548,49,Australia Southeast,Australia Southeast Store 47,2019-01-26,Baby,Baby toys,4,12,20255928
+1549,1,Australia Southeast,Australia Southeast Store 47,2019-02-21,Beauty/Health,Fragrances,4,14,95956582
+1550,94,Australia Southeast,Australia Southeast Store 47,2019-05-30,Beauty/Health,Bath,9,10,23048471
+1551,31,Australia Southeast,Australia Southeast Store 47,2019-03-17,Clothing,Womens,3,20,80861203
+1552,33,Australia Southeast,Australia Southeast Store 47,2019-01-01,Furniture,Pool furniture,3,15,27858901
+1553,81,Australia Southeast,Australia Southeast Store 47,2019-06-02,Electronics,Computers,1,100,38286583
+1554,42,Australia Southeast,Australia Southeast Store 47,2019-03-27,Baby,Diapers,1,10,97929632
+1555,20,Australia Southeast,Australia Southeast Store 47,2019-02-20,Electronics,Tablets,1,100,54345851
+1556,16,Australia Southeast,Australia Southeast Store 47,2019-02-11,Baby,Cribs,1,10,62960055
+1557,87,Australia Southeast,Australia Southeast Store 47,2019-02-23,Beauty/Health,Oral care,1,10,76357852
+1558,26,Australia Southeast,Australia Southeast Store 47,2019-02-17,Beauty/Health,Oral care,5,6,25350906
+1559,51,Australia Southeast,Australia Southeast Store 47,2019-03-24,Furniture,Patio furniture,2,30,47625435
+1560,15,Australia Southeast,Australia Southeast Store 47,2019-01-19,Electronics,Speakers,1,100,73621239
+1561,64,Australia Southeast,Australia Southeast Store 47,2019-06-21,Furniture,Indoor seating,4,30,86659716
+1562,65,Australia Southeast,Australia Southeast Store 47,2019-06-21,Furniture,Patio furniture,9,75,27928198
+1563,38,Australia Southeast,Australia Southeast Store 47,2019-04-14,Electronics,Tablets,1,50,85302776
+1564,60,Australia Southeast,Australia Southeast Store 47,2019-02-21,Furniture,Pool furniture,5,40,93120753
+1565,23,Australia Southeast,Australia Southeast Store 47,2019-06-07,Electronics,Headphones,2,100,13554179
+1566,48,Australia Southeast,Australia Southeast Store 47,2019-03-05,Furniture,Patio furniture,2,75,76132313
+1567,40,Australia Southeast,Australia Southeast Store 47,2019-05-09,Clothing,Swimwear,9,25,57463569
+1568,90,Australia Southeast,Australia Southeast Store 47,2019-02-15,Clothing,Baby,2,10,26753750
+1569,71,Australia Southeast,Australia Southeast Store 47,2019-07-07,Furniture,Pool furniture,9,75,35089199
+1570,22,Australia Southeast,Australia Southeast Store 47,2019-02-16,Furniture,Indoor seating,2,15,78449908
+1571,52,Australia Southeast,Australia Southeast Store 47,2019-04-24,Furniture,Patio furniture,3,100,73109859
+1572,98,Australia Southeast,Australia Southeast Store 47,2019-01-27,Electronics,Tablets,2,100,56095974
+1573,77,Australia Southeast,Australia Southeast Store 47,2019-05-25,Electronics,Tablets,1,300,82100022
+1574,46,Australia Southeast,Australia Southeast Store 47,2019-05-03,Furniture,Indoor seating,10,100,19072821
+1575,10,Australia Southeast,Australia Southeast Store 47,2019-02-08,Electronics,Computers,1,100,21457453
+1576,94,Australia Southeast,Australia Southeast Store 47,2019-01-24,Baby,Cribs,1,10,82015218
+1577,46,Australia Southeast,Australia Southeast Store 47,2019-06-06,Beauty/Health,Haircare,10,10,66035847
+1578,25,Australia Southeast,Australia Southeast Store 47,2019-04-10,Electronics,Televisions,2,200,20514097
+1579,69,Australia Southeast,Australia Southeast Store 47,2019-04-26,Clothing,Womens,7,25,17565804
+1580,78,Australia Southeast,Australia Southeast Store 47,2019-01-21,Electronics,Televisions,1,200,52226526
+1581,11,Australia Southeast,Australia Southeast Store 47,2019-04-11,Beauty/Health,Skincare,8,10,55456240
+1582,77,Australia Southeast,Australia Southeast Store 47,2019-04-25,Baby,Diapers,8,5,95929990
+1583,57,Australia Southeast,Australia Southeast Store 47,2019-03-03,Beauty/Health,Feminine Products,3,14,81598359
+1584,77,Australia Southeast,Australia Southeast Store 47,2019-06-17,Clothing,Womens,3,20,79166944
+1585,22,Australia Southeast,Australia Southeast Store 47,2019-01-12,Electronics,Speakers,2,300,89829777
+1586,92,Australia Southeast,Australia Southeast Store 47,2019-04-12,Furniture,Patio furniture,5,100,78410137
+1587,37,Australia Southeast,Australia Southeast Store 47,2019-05-08,Baby,Strollers,4,30,15095140
+1588,19,Australia Southeast,Australia Southeast Store 47,2019-05-31,Furniture,Beds,8,100,54090754
+1589,64,Australia Southeast,Australia Southeast Store 47,2019-04-25,Clothing,Baby,4,13,65893640
+1590,45,Australia Southeast,Australia Southeast Store 47,2019-06-22,Electronics,Computers,1,100,42895487
+1591,43,Australia Southeast,Australia Southeast Store 47,2019-01-05,Baby,Car seats,5,30,33819226
+1592,85,Australia Southeast,Australia Southeast Store 47,2019-06-04,Baby,Diaper bags,3,30,88227624
+1593,61,Australia Southeast,Australia Southeast Store 47,2019-06-17,Clothing,Shoes,8,20,17355400
+1594,91,Australia Southeast,Australia Southeast Store 47,2019-04-05,Beauty/Health,Makeup,4,15,39149239
+1595,101,Australia Southeast,Australia Southeast Store 47,2019-06-25,Electronics,Speakers,2,100,18835635
+1596,43,Australia Southeast,Australia Southeast Store 47,2019-07-12,Electronics,Computers,2,100,74977543
+1597,17,Australia Southeast,Australia Southeast Store 47,2019-06-24,Beauty/Health,Makeup,3,10,46305482
+1598,93,Australia Southeast,Australia Southeast Store 47,2019-04-24,Clothing,Shoes,10,12,64342251
+1599,72,Australia Southeast,Australia Southeast Store 47,2019-03-12,Baby,Diaper bags,1,5,34655948
+1600,44,Australia Southeast,Australia Southeast Store 47,2019-06-27,Beauty/Health,Haircare,6,10,75934527
+1601,85,Australia Southeast,Australia Southeast Store 47,2019-03-01,Beauty/Health,Skincare,3,6,29027349
+1602,16,Australia Southeast,Australia Southeast Store 47,2019-07-05,Clothing,Baby,3,25,26475302
+1603,93,Australia Southeast,Australia Southeast Store 47,2019-04-25,Baby,Baby toys,7,30,74653136
+1604,46,Australia Southeast,Australia Southeast Store 47,2019-04-19,Furniture,Indoor seating,4,30,64221326
+1605,78,Australia Southeast,Australia Southeast Store 47,2019-03-30,Furniture,Patio furniture,5,30,61656955
+1606,58,Australia Southeast,Australia Southeast Store 47,2019-04-23,Beauty/Health,Oral care,6,14,13483399
+1607,45,Australia Southeast,Australia Southeast Store 47,2019-06-22,Beauty/Health,Fragrances,8,10,31161417
+1608,17,Australia Southeast,Australia Southeast Store 47,2019-03-13,Electronics,Televisions,2,100,64224733
+1609,100,Australia Southeast,Australia Southeast Store 47,2019-01-17,Beauty/Health,Fragrances,1,6,97735176
+1610,44,Australia Southeast,Australia Southeast Store 47,2019-03-03,Beauty/Health,Makeup,1,10,70355941
+1611,49,Australia Southeast,Australia Southeast Store 47,2019-06-26,Electronics,Tablets,1,200,93707060
+1612,8,Australia Southeast,Australia Southeast Store 47,2019-01-18,Beauty/Health,Haircare,2,15,72902771
+1613,19,Australia Southeast,Australia Southeast Store 47,2019-03-19,Beauty/Health,Feminine Products,1,10,92237632
+1614,96,Australia Southeast,Australia Southeast Store 47,2019-02-18,Furniture,Indoor tables,5,100,55943310
+1615,63,Australia Southeast,Australia Southeast Store 47,2019-03-26,Baby,Cribs,3,10,20451515
+1616,1,Australia Southeast,Australia Southeast Store 47,2019-03-05,Clothing,Mens,3,20,60917332
+1617,87,Australia Southeast,Australia Southeast Store 47,2019-06-05,Clothing,Womens,10,10,31944861
+1618,55,Australia Southeast,Australia Southeast Store 47,2019-06-07,Beauty/Health,Makeup,10,10,30248763
+1619,66,Australia Southeast,Australia Southeast Store 47,2019-06-30,Clothing,Shoes,3,20,51482405
+1620,54,Australia Southeast,Australia Southeast Store 47,2019-05-27,Furniture,Indoor seating,3,75,72098311
+1621,56,Australia Southeast,Australia Southeast Store 47,2019-04-12,Clothing,Swimwear,8,12,32588925
+1622,84,Australia Southeast,Australia Southeast Store 47,2019-03-05,Clothing,Mens,4,13,10006324
+1623,60,Australia Southeast,Australia Southeast Store 47,2019-03-22,Clothing,Baby,5,25,74042589
+1624,55,Australia Southeast,Australia Southeast Store 47,2019-04-10,Furniture,Pool furniture,6,15,73588514
+1625,7,Australia Southeast,Australia Southeast Store 47,2019-06-30,Electronics,Computers,1,300,97422712
+1626,4,Australia Southeast,Australia Southeast Store 47,2019-02-23,Baby,Car seats,2,12,66548866
+1627,12,Australia Southeast,Australia Southeast Store 47,2019-03-23,Clothing,Shoes,1,25,34657846
+1628,36,Australia Southeast,Australia Southeast Store 47,2019-06-14,Electronics,Headphones,1,300,90485064
+1629,1,Australia Southeast,Australia Southeast Store 47,2019-05-30,Baby,Strollers,8,30,99141558
+1630,31,Australia Southeast,Australia Southeast Store 47,2019-05-14,Furniture,Indoor seating,5,75,76899590
+1631,21,Australia Southeast,Australia Southeast Store 47,2019-03-24,Electronics,Speakers,1,200,74651740
+1632,89,Australia Southeast,Australia Southeast Store 47,2019-05-21,Baby,Baby toys,10,12,89988574
+1633,36,Australia Southeast,Australia Southeast Store 47,2019-05-02,Clothing,Mens,4,12,71471420
+1634,91,Australia Southeast,Australia Southeast Store 47,2019-06-29,Baby,Diaper bags,7,10,98427248
+1635,92,Australia Southeast,Australia Southeast Store 47,2019-05-04,Baby,Strollers,7,12,24194483
+1636,100,Australia Southeast,Australia Southeast Store 47,2019-07-06,Beauty/Health,Oral care,9,10,12494454
+1637,51,Australia Southeast,Australia Southeast Store 47,2019-07-16,Beauty/Health,Feminine Products,6,15,76749190
+1638,87,Australia Southeast,Australia Southeast Store 47,2019-02-23,Furniture,Beds,2,40,83891460
+1639,6,Australia Southeast,Australia Southeast Store 47,2019-04-14,Beauty/Health,Makeup,10,14,15978088
+1640,54,Australia Southeast,Australia Southeast Store 47,2019-05-06,Beauty/Health,Haircare,9,10,48672238
+1641,34,Australia Southeast,Australia Southeast Store 47,2019-01-19,Electronics,Computers,1,200,74044055
+1642,55,Australia Southeast,Australia Southeast Store 47,2019-03-11,Beauty/Health,Haircare,5,15,76363202
+1643,17,Australia Southeast,Australia Southeast Store 47,2019-06-29,Beauty/Health,Haircare,10,6,48277338
+1644,64,Australia Southeast,Australia Southeast Store 47,2019-02-23,Furniture,Patio furniture,4,40,35510693
+1645,99,Australia Southeast,Australia Southeast Store 47,2019-05-28,Beauty/Health,Fragrances,9,14,33194936
+1646,78,Australia Southeast,Australia Southeast Store 47,2019-01-08,Baby,Strollers,5,30,26077536
+1647,27,Australia Southeast,Australia Southeast Store 47,2019-02-14,Baby,Diaper bags,1,12,54975765
+1648,40,Australia Southeast,Australia Southeast Store 47,2019-05-04,Electronics,Tablets,1,100,42032954
+1649,3,Australia Southeast,Australia Southeast Store 47,2019-06-06,Electronics,Headphones,2,200,16242179
+1650,67,Australia Southeast,Australia Southeast Store 47,2019-06-28,Furniture,Indoor tables,4,30,13012391
+1651,51,Australia Southeast,Australia Southeast Store 47,2019-05-11,Beauty/Health,Oral care,7,10,39221644
+1652,12,Australia Southeast,Australia Southeast Store 47,2019-04-20,Beauty/Health,Fragrances,8,10,50910003
+1653,20,Australia Southeast,Australia Southeast Store 47,2019-03-23,Clothing,Swimwear,3,25,64496643
+1654,74,Australia Southeast,Australia Southeast Store 47,2019-06-10,Furniture,Beds,7,100,38625279
+1655,85,Australia Southeast,Australia Southeast Store 47,2019-06-28,Beauty/Health,Makeup,4,6,69117920
+1656,62,Australia Southeast,Australia Southeast Store 47,2019-01-28,Electronics,Computers,1,300,24640014
+1657,56,Australia Southeast,Australia Southeast Store 47,2019-01-12,Baby,Diaper bags,1,10,67929500
+1658,38,Australia Southeast,Australia Southeast Store 47,2019-05-15,Baby,Strollers,5,12,95931176
+1659,59,Australia Southeast,Australia Southeast Store 47,2019-02-24,Electronics,Computers,2,200,89959619
+1660,13,Australia Southeast,Australia Southeast Store 47,2019-03-16,Beauty/Health,Oral care,5,10,84049910
+1661,44,Australia Southeast,Australia Southeast Store 47,2019-02-05,Baby,Cribs,5,15,70310202
+1662,26,Australia Southeast,Australia Southeast Store 47,2019-01-22,Furniture,Indoor tables,2,30,88304284
+1663,47,Australia Southeast,Australia Southeast Store 47,2019-04-08,Electronics,Speakers,1,100,86417997
+1664,22,Australia Southeast,Australia Southeast Store 47,2019-05-23,Electronics,Speakers,1,50,83173796
+1665,42,Australia Southeast,Australia Southeast Store 47,2019-04-06,Beauty/Health,Skincare,4,10,76905986
+1666,44,Australia Southeast,Australia Southeast Store 47,2019-04-05,Baby,Diaper bags,5,5,28328561
+1667,19,Australia Southeast,Australia Southeast Store 47,2019-06-20,Electronics,Cell Phones,1,50,73187762
+1668,15,Australia Southeast,Australia Southeast Store 47,2019-05-23,Clothing,Shoes,3,25,25020611
+1669,35,Australia Southeast,Australia Southeast Store 47,2019-03-14,Furniture,Beds,2,75,30602578
+1670,43,Australia Southeast,Australia Southeast Store 47,2019-04-01,Beauty/Health,Fragrances,4,14,89690286
+1671,42,Australia Southeast,Australia Southeast Store 47,2019-01-30,Clothing,Baby,3,13,18302959
+1672,33,Australia Southeast,Australia Southeast Store 47,2019-02-06,Furniture,Indoor seating,4,75,14652686
+1673,1,Australia Southeast,Australia Southeast Store 47,2019-03-03,Baby,Car seats,3,12,93122163
+1674,59,Australia Southeast,Australia Southeast Store 47,2019-05-31,Furniture,Indoor tables,5,30,34601246
+1675,3,Australia Southeast,Australia Southeast Store 47,2019-04-11,Electronics,Speakers,1,200,95518565
+1676,24,Australia Southeast,Australia Southeast Store 47,2019-05-09,Electronics,Cell Phones,1,200,12022284
+1677,10,Australia Southeast,Australia Southeast Store 47,2019-01-21,Clothing,Swimwear,5,25,23701159
+1678,57,Australia Southeast,Australia Southeast Store 47,2019-02-06,Furniture,Pool furniture,4,15,19006260
+1679,62,Australia Southeast,Australia Southeast Store 47,2019-04-18,Baby,Car seats,3,30,93450859
+1680,71,Australia Southeast,Australia Southeast Store 47,2019-01-15,Baby,Baby toys,1,10,24624284
+1681,84,Australia Southeast,Australia Southeast Store 47,2019-04-20,Electronics,Speakers,1,100,50627338
+1682,85,Australia Southeast,Australia Southeast Store 47,2019-02-23,Electronics,Cell Phones,2,200,54207041
+1683,38,Australia Southeast,Australia Southeast Store 47,2019-05-14,Furniture,Beds,6,40,79065121
+1684,77,Australia Southeast,Australia Southeast Store 47,2019-07-13,Baby,Cribs,9,10,64546146
+1685,93,Australia Southeast,Australia Southeast Store 47,2019-04-26,Beauty/Health,Oral care,8,10,96732773
+1686,47,Australia Southeast,Australia Southeast Store 47,2019-06-29,Electronics,Speakers,2,100,96361113
+1687,80,Australia Southeast,Australia Southeast Store 47,2019-04-28,Electronics,Speakers,1,200,67170371
+1688,88,Australia Southeast,Australia Southeast Store 47,2019-03-28,Baby,Diapers,3,12,20269670
+1689,95,Australia Southeast,Australia Southeast Store 47,2019-03-03,Clothing,Womens,3,25,55440635
+1690,68,Australia Southeast,Australia Southeast Store 47,2019-05-20,Electronics,Computers,1,200,78897085
+1691,78,Australia Southeast,Australia Southeast Store 47,2019-02-14,Baby,Diaper bags,5,12,54459541
+1692,8,Australia Southeast,Australia Southeast Store 47,2019-06-28,Furniture,Patio furniture,3,75,28600541
+1693,23,Australia Southeast,Australia Southeast Store 47,2019-04-19,Baby,Strollers,9,30,72519028
+1694,99,Australia Southeast,Australia Southeast Store 47,2019-05-25,Clothing,Kids,6,12,30229574
+1695,74,Australia Southeast,Australia Southeast Store 47,2019-04-03,Beauty/Health,Skincare,4,6,52016939
+1696,52,Australia Southeast,Australia Southeast Store 47,2019-04-04,Beauty/Health,Bath,1,15,92313296
+1697,36,Australia Southeast,Australia Southeast Store 47,2019-06-23,Furniture,Indoor tables,3,30,93559934
+1698,87,Australia Southeast,Australia Southeast Store 47,2019-07-08,Furniture,Indoor seating,5,100,19874057
+1699,31,Australia Southeast,Australia Southeast Store 47,2019-02-12,Electronics,Headphones,2,50,50749871
+1700,45,Australia Southeast,Australia Southeast Store 47,2019-02-14,Baby,Baby toys,5,12,35623598
+1701,59,Australia Southeast,Australia Southeast Store 47,2019-03-26,Furniture,Patio furniture,5,100,93876377
+1702,69,Australia Southeast,Australia Southeast Store 47,2019-02-12,Clothing,Baby,3,13,71151278
+1703,21,Australia Southeast,Australia Southeast Store 47,2019-01-25,Baby,Cribs,1,12,25949283
+1704,39,Australia Southeast,Australia Southeast Store 47,2019-03-24,Baby,Cribs,1,30,46681213
+1705,54,Australia Southeast,Australia Southeast Store 47,2019-02-18,Baby,Baby toys,4,10,89576802
+1706,47,Australia Southeast,Australia Southeast Store 47,2019-03-07,Baby,Baby toys,5,5,12262044
+1707,27,Australia Southeast,Australia Southeast Store 47,2019-07-01,Electronics,Televisions,2,200,80760096
+1708,41,Australia Southeast,Australia Southeast Store 47,2019-04-27,Beauty/Health,Skincare,7,6,95161320
+1709,6,Australia Southeast,Australia Southeast Store 47,2019-06-12,Clothing,Shoes,8,20,60558337
+1710,46,Australia Southeast,Australia Southeast Store 47,2019-06-16,Baby,Cribs,10,30,30038990
+1711,70,Australia Southeast,Australia Southeast Store 47,2019-03-27,Beauty/Health,Haircare,2,15,84313394
+1712,33,Australia Southeast,Australia Southeast Store 47,2019-07-07,Clothing,Kids,3,25,74679398
+1713,17,Australia Southeast,Australia Southeast Store 47,2019-03-13,Baby,Baby toys,4,5,99388104
+1714,47,Australia Southeast,Australia Southeast Store 47,2019-03-22,Electronics,Televisions,1,200,49942149
+1715,35,Australia Southeast,Australia Southeast Store 47,2019-02-04,Clothing,Mens,5,25,77935130
+1716,19,Australia Southeast,Australia Southeast Store 47,2019-04-27,Furniture,Pool furniture,5,100,88819725
+1717,49,Australia Southeast,Australia Southeast Store 47,2019-04-04,Clothing,Mens,1,25,40943855
+1718,36,Australia Southeast,Australia Southeast Store 47,2019-02-21,Clothing,Womens,4,12,73823810
+1719,95,Australia Southeast,Australia Southeast Store 47,2019-04-25,Clothing,Swimwear,8,12,57062144
+1720,16,Australia Southeast,Australia Southeast Store 47,2019-01-12,Clothing,Kids,5,20,98064607
+1721,45,Australia Southeast,Australia Southeast Store 47,2019-01-17,Electronics,Cell Phones,1,50,19310908
+1722,33,Australia Southeast,Australia Southeast Store 47,2019-02-19,Beauty/Health,Haircare,2,10,30645990
+1723,75,Australia Southeast,Australia Southeast Store 47,2019-06-10,Furniture,Pool furniture,4,75,97984876
+1724,88,Australia Southeast,Australia Southeast Store 47,2019-04-03,Electronics,Tablets,2,300,26785946
+1725,69,Australia Southeast,Australia Southeast Store 47,2019-04-10,Baby,Car seats,9,30,48899323
+1726,20,Australia Southeast,Australia Southeast Store 47,2019-06-06,Clothing,Kids,6,20,19820876
+1727,62,Australia Southeast,Australia Southeast Store 47,2019-05-02,Electronics,Computers,1,300,91798630
+1728,6,Australia Southeast,Australia Southeast Store 47,2019-04-21,Clothing,Womens,4,20,22076565
+1729,67,Australia Southeast,Australia Southeast Store 47,2019-01-09,Beauty/Health,Bath,2,15,10462167
+1730,13,Australia Southeast,Australia Southeast Store 47,2019-05-11,Beauty/Health,Haircare,9,14,78495452
+1731,100,Australia Southeast,Australia Southeast Store 47,2019-02-20,Electronics,Cell Phones,1,50,29870832
+1732,83,Australia Southeast,Australia Southeast Store 47,2019-06-16,Beauty/Health,Feminine Products,8,15,42649248
+1733,91,Australia Southeast,Australia Southeast Store 47,2019-03-28,Electronics,Cell Phones,2,200,46152028
+1734,84,Australia Southeast,Australia Southeast Store 47,2019-06-15,Clothing,Shoes,8,12,89090700
+1735,86,Australia Southeast,Australia Southeast Store 47,2019-05-25,Baby,Diapers,10,10,58338602
+1736,22,Australia Southeast,Australia Southeast Store 47,2019-04-07,Baby,Car seats,2,30,38939536
+1737,7,Australia Southeast,Australia Southeast Store 47,2019-04-06,Electronics,Computers,1,200,40301363
+1738,62,Australia Southeast,Australia Southeast Store 47,2019-01-28,Beauty/Health,Makeup,1,14,30536983
+1739,37,Australia Southeast,Australia Southeast Store 47,2019-06-19,Furniture,Indoor seating,3,40,39697314
+1740,44,Australia Southeast,Australia Southeast Store 47,2019-07-15,Beauty/Health,Makeup,5,14,58684088
+1741,76,Australia Southeast,Australia Southeast Store 47,2019-04-01,Electronics,Televisions,1,50,25720843
+1742,10,Australia Southeast,Australia Southeast Store 47,2019-04-05,Beauty/Health,Fragrances,5,14,30634306
+1743,95,Australia Southeast,Australia Southeast Store 47,2019-03-09,Furniture,Indoor seating,3,30,19983553
+1744,44,Australia Southeast,Australia Southeast Store 47,2019-06-23,Clothing,Kids,7,25,42051590
+1745,100,Australia Southeast,Australia Southeast Store 47,2019-02-12,Clothing,Shoes,1,12,58705942
+1746,41,Australia Southeast,Australia Southeast Store 47,2019-05-21,Furniture,Pool furniture,3,15,18906515
+1747,31,Australia Southeast,Australia Southeast Store 47,2019-04-07,Furniture,Indoor seating,1,40,17659479
+1748,1,Australia Southeast,Australia Southeast Store 47,2019-05-21,Furniture,Pool furniture,3,75,10493127
+1749,88,Australia Southeast,Australia Southeast Store 47,2019-04-15,Furniture,Indoor tables,5,40,97318993
+1750,59,Australia Southeast,Australia Southeast Store 47,2019-04-09,Beauty/Health,Haircare,6,10,73656745
+1751,3,Australia Southeast,Australia Southeast Store 47,2019-02-06,Beauty/Health,Haircare,2,10,59654034
+1752,92,Australia Southeast,Australia Southeast Store 47,2019-06-08,Furniture,Indoor tables,8,40,93921807
+1753,86,Australia Southeast,Australia Southeast Store 47,2019-06-16,Beauty/Health,Oral care,7,10,52050663
+1754,97,Australia Southeast,Australia Southeast Store 47,2019-01-29,Baby,Diapers,3,30,82136670
+1755,3,Australia Southeast,Australia Southeast Store 47,2019-06-15,Clothing,Womens,7,10,63137079
+1756,83,Australia Southeast,Australia Southeast Store 47,2019-02-08,Clothing,Mens,5,10,71932212
+1757,39,Australia Southeast,Australia Southeast Store 47,2019-03-11,Clothing,Swimwear,1,25,82133790
+1758,92,Australia Southeast,Australia Southeast Store 47,2019-05-27,Clothing,Swimwear,9,25,20721374
+1759,99,Australia Southeast,Australia Southeast Store 47,2019-01-12,Beauty/Health,Feminine Products,4,10,73980603
+1760,15,Australia Southeast,Australia Southeast Store 47,2019-01-30,Beauty/Health,Bath,3,6,84665239
+1761,16,Australia Southeast,Australia Southeast Store 47,2019-07-11,Clothing,Womens,3,12,65175528
+1762,4,Australia Southeast,Australia Southeast Store 47,2019-02-12,Beauty/Health,Bath,5,14,41723239
+1763,14,Australia Southeast,Australia Southeast Store 47,2019-04-29,Clothing,Womens,9,20,80776826
+1764,5,Australia Southeast,Australia Southeast Store 47,2019-04-20,Baby,Baby toys,4,10,73924092
+1765,38,Australia Southeast,Australia Southeast Store 47,2019-05-29,Clothing,Baby,6,25,19454510
+1766,71,Australia Southeast,Australia Southeast Store 47,2019-01-04,Beauty/Health,Skincare,2,15,28260876
+1767,74,Australia Southeast,Australia Southeast Store 47,2019-01-03,Beauty/Health,Skincare,1,14,83473386
+1768,44,Australia Southeast,Australia Southeast Store 47,2019-02-11,Clothing,Shoes,4,13,38073584
+1769,23,Australia Southeast,Australia Southeast Store 47,2019-02-24,Clothing,Womens,2,25,41578450
+1770,13,Australia Southeast,Australia Southeast Store 47,2019-02-02,Baby,Baby toys,1,30,23475218
+1771,53,Australia Southeast,Australia Southeast Store 47,2019-06-23,Beauty/Health,Bath,8,6,71255862
+1772,15,Australia Southeast,Australia Southeast Store 47,2019-06-28,Clothing,Womens,4,25,26438162
+1773,38,Australia Southeast,Australia Southeast Store 47,2019-05-06,Clothing,Shoes,6,20,86508843
+1774,70,Australia Southeast,Australia Southeast Store 47,2019-03-15,Clothing,Mens,4,25,26872101
+1775,84,Australia Southeast,Australia Southeast Store 47,2019-01-01,Electronics,Tablets,2,300,46475103
+1776,93,Australia Southeast,Australia Southeast Store 47,2019-05-30,Furniture,Indoor tables,9,40,79522298
+1777,11,Australia Southeast,Australia Southeast Store 47,2019-06-02,Electronics,Cell Phones,1,100,13836511
+1778,81,Australia Southeast,Australia Southeast Store 47,2019-06-13,Electronics,Cell Phones,1,200,78412591
+1779,76,Australia Southeast,Australia Southeast Store 47,2019-01-31,Clothing,Baby,5,10,99850332
+1780,90,Australia Southeast,Australia Southeast Store 47,2019-04-16,Beauty/Health,Skincare,10,6,93357796
+1781,18,Australia Southeast,Australia Southeast Store 47,2019-06-18,Electronics,Headphones,2,200,81889725
+1782,19,Australia Southeast,Australia Southeast Store 47,2019-01-16,Clothing,Swimwear,1,25,88228894
+1783,17,Australia Southeast,Australia Southeast Store 47,2019-05-01,Baby,Car seats,5,12,87531545
+1784,22,Australia Southeast,Australia Southeast Store 47,2019-06-23,Electronics,Headphones,1,100,16212199
+1785,56,Australia Southeast,Australia Southeast Store 47,2019-01-22,Furniture,Indoor seating,3,30,84536492
+1786,70,Australia Southeast,Australia Southeast Store 47,2019-06-20,Baby,Diapers,6,10,97665059
+1787,27,Australia Southeast,Australia Southeast Store 47,2019-06-13,Clothing,Swimwear,6,13,70382445
+1788,36,Australia Southeast,Australia Southeast Store 47,2019-05-16,Furniture,Indoor seating,3,40,43671317
+1789,100,Australia Southeast,Australia Southeast Store 47,2019-07-12,Beauty/Health,Feminine Products,5,6,61239726
+1790,91,Australia Southeast,Australia Southeast Store 47,2019-02-25,Furniture,Indoor tables,2,100,10267095
+1791,60,Australia Southeast,Australia Southeast Store 47,2019-04-05,Clothing,Womens,5,10,37916998
+1792,24,Australia Southeast,Australia Southeast Store 47,2019-04-26,Clothing,Womens,9,12,63110349
+1793,90,Australia Southeast,Australia Southeast Store 47,2019-02-28,Furniture,Indoor tables,2,30,85743841
+1794,46,Australia Southeast,Australia Southeast Store 47,2019-03-14,Clothing,Womens,3,25,17536908
+1795,38,Australia Southeast,Australia Southeast Store 47,2019-03-23,Electronics,Computers,1,200,91240314
+1796,68,Australia Southeast,Australia Southeast Store 47,2019-06-24,Baby,Strollers,8,30,13499031
+1797,62,Australia Southeast,Australia Southeast Store 47,2019-06-14,Baby,Strollers,5,30,33416965
+1798,55,Australia Southeast,Australia Southeast Store 47,2019-07-10,Electronics,Televisions,1,300,56365518
+1799,49,Australia Southeast,Australia Southeast Store 47,2019-04-22,Electronics,Headphones,2,200,38206985
+1800,42,Australia Southeast,Australia Southeast Store 47,2019-06-17,Furniture,Indoor tables,4,75,95994991
+1801,2,Australia Southeast,Australia Southeast Store 47,2019-06-04,Clothing,Swimwear,10,12,59298174
+1802,85,Australia Southeast,Australia Southeast Store 47,2019-06-22,Clothing,Kids,10,25,68246273
+1803,84,Australia Southeast,Australia Southeast Store 47,2019-01-12,Electronics,Cell Phones,2,100,52077216
+1804,23,Australia Southeast,Australia Southeast Store 47,2019-02-01,Baby,Cribs,5,10,99475847
+1805,53,Australia Southeast,Australia Southeast Store 47,2019-06-29,Baby,Diapers,5,10,94317671
+1806,84,Australia Southeast,Australia Southeast Store 47,2019-03-30,Furniture,Indoor seating,2,30,86266097
+1807,44,Australia Southeast,Australia Southeast Store 47,2019-07-07,Electronics,Speakers,1,200,47732247
+1808,76,Australia Southeast,Australia Southeast Store 47,2019-04-08,Furniture,Pool furniture,5,75,99477214
+1809,57,Australia Southeast,Australia Southeast Store 47,2019-02-24,Beauty/Health,Makeup,3,6,86187700
+1810,85,Australia Southeast,Australia Southeast Store 47,2019-07-12,Beauty/Health,Bath,4,10,63168464
+1811,8,Australia Southeast,Australia Southeast Store 47,2019-02-25,Electronics,Speakers,2,100,36519633
+1812,92,Australia Southeast,Australia Southeast Store 47,2019-02-16,Baby,Baby toys,4,12,95332982
+1813,4,Australia Southeast,Australia Southeast Store 47,2019-04-12,Baby,Diapers,5,5,37637156
+1814,84,Australia Southeast,Australia Southeast Store 47,2019-06-22,Electronics,Headphones,1,300,50363871
+1815,75,Australia Southeast,Australia Southeast Store 47,2019-07-12,Beauty/Health,Feminine Products,3,10,38117290
+1816,70,Australia Southeast,Australia Southeast Store 47,2019-02-03,Beauty/Health,Skincare,3,15,17033644
+1817,6,Australia Southeast,Australia Southeast Store 47,2019-03-26,Baby,Diaper bags,3,10,74057652
+1818,75,Australia Southeast,Australia Southeast Store 47,2019-04-07,Beauty/Health,Fragrances,2,6,34262209
+1819,73,Australia Southeast,Australia Southeast Store 47,2019-02-09,Clothing,Mens,5,12,48983880
+1820,24,Australia Southeast,Australia Southeast Store 47,2019-05-03,Clothing,Swimwear,7,13,89303564
+1821,98,Australia Southeast,Australia Southeast Store 47,2019-06-18,Electronics,Televisions,2,50,25350980
+1822,23,Australia Southeast,Australia Southeast Store 47,2019-07-11,Clothing,Shoes,10,25,70978931
+1823,93,Australia Southeast,Australia Southeast Store 47,2019-03-14,Furniture,Beds,3,30,28943797
+1824,29,Australia Southeast,Australia Southeast Store 47,2019-03-13,Beauty/Health,Fragrances,2,10,67787735
+1825,59,Australia Southeast,Australia Southeast Store 47,2019-05-13,Beauty/Health,Skincare,4,6,21367152
+1826,101,Australia Southeast,Australia Southeast Store 47,2019-06-07,Beauty/Health,Fragrances,6,10,36172404
+1827,58,Australia Southeast,Australia Southeast Store 47,2019-03-18,Electronics,Computers,2,100,96381192
+1828,16,Australia Southeast,Australia Southeast Store 47,2019-01-09,Beauty/Health,Haircare,4,10,89583474
+1829,95,Australia Southeast,Australia Southeast Store 47,2019-03-29,Furniture,Beds,4,75,43705296
+1830,33,Australia Southeast,Australia Southeast Store 47,2019-06-24,Beauty/Health,Haircare,6,6,82203250
+1831,35,Australia Southeast,Australia Southeast Store 47,2019-01-21,Furniture,Beds,5,100,54349602
+1832,49,Australia Southeast,Australia Southeast Store 47,2019-04-20,Furniture,Indoor seating,8,40,89122888
+1833,72,Australia Southeast,Australia Southeast Store 47,2019-07-07,Baby,Diapers,6,5,63887242
+1834,90,Australia Southeast,Australia Southeast Store 47,2019-03-26,Electronics,Computers,2,100,87673161
+1835,73,Australia Southeast,Australia Southeast Store 47,2019-06-22,Electronics,Televisions,2,200,14558750
+1836,76,Australia Southeast,Australia Southeast Store 47,2019-07-05,Beauty/Health,Haircare,6,10,62737718
+1837,65,Australia Southeast,Australia Southeast Store 47,2019-05-29,Beauty/Health,Oral care,10,14,78061465
+1838,99,Australia Southeast,Australia Southeast Store 47,2019-03-14,Baby,Car seats,5,10,71589465
+1839,9,Australia Southeast,Australia Southeast Store 47,2019-01-26,Beauty/Health,Haircare,5,14,62833098
+1840,85,Australia Southeast,Australia Southeast Store 47,2019-01-26,Electronics,Speakers,2,50,87858474
+1841,81,Australia Southeast,Australia Southeast Store 47,2019-05-18,Clothing,Baby,5,25,12260936
+1842,73,Australia Southeast,Australia Southeast Store 47,2019-01-25,Baby,Car seats,1,12,72185980
+1843,17,Australia Southeast,Australia Southeast Store 47,2019-02-26,Furniture,Beds,1,40,86249220
+1844,97,Australia Southeast,Australia Southeast Store 47,2019-06-22,Baby,Diaper bags,3,15,32291471
+1845,65,Australia Southeast,Australia Southeast Store 47,2019-03-12,Furniture,Pool furniture,5,75,67457163
+1846,18,Australia Southeast,Australia Southeast Store 47,2019-06-26,Beauty/Health,Fragrances,3,10,24472024
+1847,78,Australia Southeast,Australia Southeast Store 47,2019-01-16,Beauty/Health,Skincare,5,10,16688247
+1848,8,Australia Southeast,Australia Southeast Store 47,2019-02-05,Baby,Diaper bags,5,12,51550817
+1849,20,Australia Southeast,Australia Southeast Store 47,2019-05-18,Baby,Diapers,8,30,11677323
+1850,56,Australia Southeast,Australia Southeast Store 47,2019-02-23,Furniture,Indoor seating,3,30,77104323
+1851,6,Australia Southeast,Australia Southeast Store 47,2019-04-03,Beauty/Health,Feminine Products,1,10,41750120
+1852,6,Australia Southeast,Australia Southeast Store 47,2019-03-05,Furniture,Indoor tables,3,30,10873398
+1853,57,Australia Southeast,Australia Southeast Store 47,2019-05-13,Electronics,Headphones,1,100,93711881
+1854,84,Australia Southeast,Australia Southeast Store 47,2019-06-22,Baby,Diapers,8,30,98085761
+1855,99,Australia Southeast,Australia Southeast Store 47,2019-03-17,Clothing,Kids,1,25,58308310
+1856,86,Australia Southeast,Australia Southeast Store 47,2019-05-20,Electronics,Cell Phones,1,100,23959870
+1857,62,Australia Southeast,Australia Southeast Store 47,2019-04-30,Clothing,Baby,8,25,34862673
+1858,87,Australia Southeast,Australia Southeast Store 47,2019-03-18,Beauty/Health,Haircare,3,10,27262232
+1859,56,Australia Southeast,Australia Southeast Store 47,2019-01-02,Electronics,Televisions,1,100,95567665
+1860,39,Australia Southeast,Australia Southeast Store 47,2019-02-18,Clothing,Shoes,1,13,96871560
+1861,79,Australia Southeast,Australia Southeast Store 47,2019-05-27,Baby,Diapers,6,30,99416060
+1862,7,Australia Southeast,Australia Southeast Store 47,2019-01-23,Furniture,Pool furniture,2,75,31036984
+1863,27,Australia Southeast,Australia Southeast Store 47,2019-06-21,Clothing,Swimwear,6,12,14957030
+1864,12,Australia Southeast,Australia Southeast Store 47,2019-04-02,Electronics,Computers,1,50,59599422
+1865,64,Australia Southeast,Australia Southeast Store 47,2019-06-13,Electronics,Televisions,1,100,52146552
+1866,87,Australia Southeast,Australia Southeast Store 47,2019-05-25,Furniture,Patio furniture,10,75,60010309
+1867,82,Australia Southeast,Australia Southeast Store 47,2019-06-28,Electronics,Headphones,2,200,96095836
+1868,87,Australia Southeast,Australia Southeast Store 47,2019-04-23,Beauty/Health,Feminine Products,7,10,95598240
+1869,5,Australia Southeast,Australia Southeast Store 47,2019-05-24,Beauty/Health,Fragrances,9,6,58676039
+1870,3,Australia Southeast,Australia Southeast Store 47,2019-06-23,Beauty/Health,Skincare,10,15,46778785
+1871,91,Australia Southeast,Australia Southeast Store 47,2019-02-26,Furniture,Indoor tables,4,40,89743007
+1872,64,Australia Southeast,Australia Southeast Store 47,2019-03-08,Clothing,Womens,5,25,34492477
+1873,46,Australia Southeast,Australia Southeast Store 47,2019-06-15,Clothing,Mens,6,10,42587411
+1874,48,Australia Southeast,Australia Southeast Store 47,2019-04-03,Baby,Car seats,4,30,80996964
+1875,72,Australia Southeast,Australia Southeast Store 47,2019-02-24,Clothing,Kids,1,20,36623326
+1876,15,Australia Southeast,Australia Southeast Store 47,2019-04-04,Baby,Car seats,1,12,41881924
+1877,82,Australia Southeast,Australia Southeast Store 47,2019-04-05,Furniture,Beds,4,15,83204778
+1878,46,Australia Southeast,Australia Southeast Store 47,2019-03-02,Furniture,Patio furniture,4,40,44508018
+1879,100,Australia Southeast,Australia Southeast Store 47,2019-05-26,Furniture,Patio furniture,6,30,87371871
+1880,4,Australia Southeast,Australia Southeast Store 47,2019-01-19,Furniture,Beds,4,100,18656521
+1881,67,Australia Southeast,Australia Southeast Store 47,2019-03-16,Clothing,Baby,1,13,40727125
+1882,15,Australia Southeast,Australia Southeast Store 47,2019-01-13,Electronics,Cell Phones,1,100,50771438
+1883,83,Australia Southeast,Australia Southeast Store 47,2019-02-27,Clothing,Mens,2,12,48100052
+1884,54,Australia Southeast,Australia Southeast Store 47,2019-01-31,Furniture,Indoor seating,3,15,49693624
+1885,56,Australia Southeast,Australia Southeast Store 47,2019-07-15,Clothing,Mens,10,13,81913386
+1886,95,Australia Southeast,Australia Southeast Store 47,2019-02-16,Beauty/Health,Bath,1,15,15920476
+1887,61,Australia Southeast,Australia Southeast Store 47,2019-07-07,Furniture,Beds,7,15,13676431
+1888,50,Australia Southeast,Australia Southeast Store 47,2019-01-22,Clothing,Mens,4,20,83583792
+1889,18,Australia Southeast,Australia Southeast Store 47,2019-04-11,Clothing,Kids,4,12,80090355
+1890,30,Australia Southeast,Australia Southeast Store 47,2019-01-19,Baby,Diapers,5,30,89532487
+1891,53,Australia Southeast,Australia Southeast Store 47,2019-01-09,Furniture,Pool furniture,1,100,17136021
+1892,38,Australia Southeast,Australia Southeast Store 47,2019-01-22,Electronics,Headphones,2,200,11970368
+1893,1,Australia Southeast,Australia Southeast Store 47,2019-01-29,Baby,Baby toys,5,30,17025211
+1894,1,Australia Southeast,Australia Southeast Store 47,2019-05-11,Electronics,Cell Phones,2,100,20605761
+1895,5,Australia Southeast,Australia Southeast Store 47,2019-06-07,Beauty/Health,Skincare,5,10,53844175
+1896,12,Australia Southeast,Australia Southeast Store 47,2019-05-31,Clothing,Baby,9,12,10448708
+1897,61,Australia Southeast,Australia Southeast Store 47,2019-03-06,Baby,Diaper bags,1,5,77911718
+1898,96,Australia Southeast,Australia Southeast Store 47,2019-02-19,Furniture,Pool furniture,2,40,34766769
+1899,96,Australia Southeast,Australia Southeast Store 47,2019-02-05,Clothing,Swimwear,1,25,38789055
+1900,57,Australia Southeast,Australia Southeast Store 47,2019-01-06,Clothing,Womens,4,20,67160602
+1901,91,Australia Southeast,Australia Southeast Store 47,2019-04-17,Electronics,Cell Phones,2,200,94139243
+1902,38,Australia Southeast,Australia Southeast Store 47,2019-01-08,Beauty/Health,Oral care,1,10,87312256
+1903,75,Australia Southeast,Australia Southeast Store 47,2019-05-10,Baby,Car seats,9,15,96649359
+1904,45,Australia Southeast,Australia Southeast Store 47,2019-04-25,Beauty/Health,Bath,3,14,10505813
+1905,8,Australia Southeast,Australia Southeast Store 47,2019-03-26,Furniture,Beds,3,100,70989063
+1906,10,Australia Southeast,Australia Southeast Store 47,2019-07-09,Furniture,Patio furniture,9,75,56805101
+1907,67,Australia Southeast,Australia Southeast Store 47,2019-07-16,Electronics,Computers,1,300,51731706
+1908,100,Australia Southeast,Australia Southeast Store 47,2019-04-14,Clothing,Shoes,10,10,29248802
+1909,59,Australia Southeast,Australia Southeast Store 47,2019-05-02,Furniture,Pool furniture,6,15,15930818

@@ -1,0 +1,1045 @@
+ordernum,quant,region,store,saledate,dep,item,unitsold,unitprice,employeeID
+0,68,West US,West US Store 57,2019-06-10,Beauty/Health,Haircare,8,10,64670445
+1,48,West US,West US Store 57,2019-02-11,Beauty/Health,Feminine Products,5,10,30236781
+2,91,West US,West US Store 57,2019-02-13,Electronics,Headphones,4,50,48725264
+3,56,West US,West US Store 57,2019-03-08,Electronics,Televisions,4,100,74161513
+4,33,West US,West US Store 57,2019-04-03,Electronics,Tablets,3,100,27913659
+5,32,West US,West US Store 57,2019-06-19,Electronics,Speakers,4,50,34971360
+6,45,West US,West US Store 57,2019-02-26,Beauty/Health,Makeup,4,6,47484901
+7,31,West US,West US Store 57,2019-02-21,Beauty/Health,Skincare,4,10,93618560
+8,54,West US,West US Store 57,2019-02-20,Baby,Cribs,5,30,75951092
+9,24,West US,West US Store 57,2019-03-11,Electronics,Headphones,4,50,15169884
+10,10,West US,West US Store 57,2019-04-13,Beauty/Health,Feminine Products,11,14,49678015
+11,90,West US,West US Store 57,2019-05-28,Clothing,Swimwear,11,25,42322228
+12,14,West US,West US Store 57,2019-03-20,Clothing,Swimwear,4,20,32391040
+13,17,West US,West US Store 57,2019-02-28,Beauty/Health,Bath,5,10,95167905
+14,58,West US,West US Store 57,2019-06-06,Clothing,Shoes,5,25,78997594
+15,56,West US,West US Store 57,2019-03-31,Clothing,Baby,5,10,44477910
+16,61,West US,West US Store 57,2019-02-02,Beauty/Health,Makeup,3,15,68095276
+17,74,West US,West US Store 57,2019-04-29,Electronics,Tablets,4,100,88657939
+18,34,West US,West US Store 57,2019-07-12,Beauty/Health,Bath,12,10,45415174
+19,2,West US,West US Store 57,2019-03-10,Baby,Diaper bags,5,12,61656517
+20,60,West US,West US Store 57,2019-06-28,Baby,Diapers,12,15,98024781
+21,23,West US,West US Store 57,2019-05-01,Clothing,Shoes,5,12,13699667
+22,45,West US,West US Store 57,2019-04-07,Baby,Diaper bags,5,12,54713723
+23,48,West US,West US Store 57,2019-07-16,Furniture,Pool furniture,11,30,15624341
+24,35,West US,West US Store 57,2019-01-30,Furniture,Indoor seating,3,100,77846624
+25,14,West US,West US Store 57,2019-04-20,Furniture,Indoor tables,7,100,32181655
+26,73,West US,West US Store 57,2019-05-09,Baby,Cribs,10,12,52812480
+27,87,West US,West US Store 57,2019-01-16,Furniture,Indoor seating,4,15,71108557
+28,5,West US,West US Store 57,2019-05-28,Clothing,Kids,5,10,59116812
+29,76,West US,West US Store 57,2019-02-22,Beauty/Health,Haircare,6,10,16020510
+30,27,West US,West US Store 57,2019-06-30,Furniture,Indoor tables,12,75,79803052
+31,75,West US,West US Store 57,2019-04-22,Furniture,Patio furniture,12,30,63709202
+32,78,West US,West US Store 57,2019-04-11,Clothing,Baby,12,12,22596053
+33,74,West US,West US Store 57,2019-05-26,Furniture,Pool furniture,6,40,85452422
+34,33,West US,West US Store 57,2019-04-30,Electronics,Cell Phones,3,100,33812219
+35,84,West US,West US Store 57,2019-04-10,Clothing,Swimwear,10,25,98765636
+36,64,West US,West US Store 57,2019-01-20,Baby,Diapers,4,15,46662382
+37,37,West US,West US Store 57,2019-04-13,Baby,Diapers,6,5,17163339
+38,4,West US,West US Store 57,2019-01-28,Electronics,Computers,4,50,85643868
+39,27,West US,West US Store 57,2019-05-25,Electronics,Televisions,3,100,32074342
+40,77,West US,West US Store 57,2019-05-09,Beauty/Health,Fragrances,6,10,55251676
+41,36,West US,West US Store 57,2019-04-28,Baby,Car seats,6,30,46763654
+42,7,West US,West US Store 57,2019-06-11,Electronics,Televisions,3,100,53724771
+43,91,West US,West US Store 57,2019-01-24,Furniture,Patio furniture,7,30,54462851
+44,86,West US,West US Store 57,2019-02-22,Clothing,Swimwear,5,20,10353756
+45,66,West US,West US Store 57,2019-05-09,Furniture,Indoor seating,10,15,52624456
+46,79,West US,West US Store 57,2019-02-25,Beauty/Health,Bath,4,10,19515697
+47,66,West US,West US Store 57,2019-06-12,Furniture,Patio furniture,8,75,82087174
+48,39,West US,West US Store 57,2019-04-19,Baby,Car seats,9,30,55077350
+49,71,West US,West US Store 57,2019-04-03,Clothing,Shoes,4,10,40856617
+50,99,West US,West US Store 57,2019-04-09,Electronics,Televisions,4,200,41590385
+51,7,West US,West US Store 57,2019-02-13,Beauty/Health,Haircare,7,14,46083058
+52,9,West US,West US Store 57,2019-04-16,Electronics,Speakers,4,200,83297705
+53,49,West US,West US Store 57,2019-03-08,Clothing,Kids,7,25,45384964
+54,47,West US,West US Store 57,2019-01-02,Electronics,Tablets,3,100,98498302
+55,27,West US,West US Store 57,2019-07-06,Baby,Strollers,5,5,36152094
+56,43,West US,West US Store 57,2019-06-19,Clothing,Kids,6,25,71415591
+57,63,West US,West US Store 57,2019-07-06,Electronics,Cell Phones,3,100,95705618
+58,12,West US,West US Store 57,2019-06-12,Beauty/Health,Fragrances,12,10,36875972
+59,3,West US,West US Store 57,2019-07-15,Baby,Diapers,9,15,45897111
+60,3,West US,West US Store 57,2019-03-18,Electronics,Cell Phones,4,100,13436469
+61,75,West US,West US Store 57,2019-01-11,Furniture,Indoor seating,6,100,90668231
+62,7,West US,West US Store 57,2019-03-30,Electronics,Computers,4,200,34853832
+63,93,West US,West US Store 57,2019-04-12,Beauty/Health,Haircare,11,6,57777231
+64,86,West US,West US Store 57,2019-05-13,Baby,Diapers,11,30,64310476
+65,48,West US,West US Store 57,2019-04-30,Furniture,Patio furniture,12,15,70726542
+66,99,West US,West US Store 57,2019-05-06,Electronics,Speakers,3,200,18057922
+67,35,West US,West US Store 57,2019-06-28,Baby,Car seats,5,15,36782677
+68,75,West US,West US Store 57,2019-05-19,Baby,Cribs,12,30,96313651
+69,25,West US,West US Store 57,2019-04-02,Beauty/Health,Makeup,7,10,83232280
+70,26,West US,West US Store 57,2019-05-09,Beauty/Health,Fragrances,6,10,82539677
+71,39,West US,West US Store 57,2019-06-28,Baby,Strollers,11,10,81633032
+72,23,West US,West US Store 57,2019-01-29,Clothing,Mens,3,25,58154317
+73,18,West US,West US Store 57,2019-05-27,Furniture,Indoor seating,11,30,31100496
+74,25,West US,West US Store 57,2019-02-16,Clothing,Shoes,4,12,39866930
+75,40,West US,West US Store 57,2019-06-18,Baby,Baby toys,5,10,31789020
+76,39,West US,West US Store 57,2019-06-03,Beauty/Health,Oral care,12,14,34421136
+77,35,West US,West US Store 57,2019-05-23,Furniture,Indoor seating,7,100,53041647
+78,85,West US,West US Store 57,2019-01-01,Baby,Car seats,3,12,56059822
+79,38,West US,West US Store 57,2019-03-02,Baby,Diapers,4,12,73801558
+80,32,West US,West US Store 57,2019-01-10,Baby,Baby toys,7,15,68357111
+81,76,West US,West US Store 57,2019-02-25,Furniture,Indoor tables,4,15,18693945
+82,85,West US,West US Store 57,2019-01-22,Baby,Car seats,6,5,75884608
+83,22,West US,West US Store 57,2019-05-30,Baby,Car seats,10,30,24729217
+84,85,West US,West US Store 57,2019-03-13,Clothing,Mens,5,12,61506779
+85,87,West US,West US Store 57,2019-02-18,Electronics,Cell Phones,3,300,46965743
+86,58,West US,West US Store 57,2019-05-24,Electronics,Tablets,3,50,36149381
+87,92,West US,West US Store 57,2019-06-06,Furniture,Indoor tables,11,100,95113691
+88,36,West US,West US Store 57,2019-06-16,Electronics,Cell Phones,3,200,86771210
+89,1,West US,West US Store 57,2019-06-02,Beauty/Health,Oral care,5,14,22583903
+90,32,West US,West US Store 57,2019-02-28,Furniture,Indoor tables,6,40,34346428
+91,54,West US,West US Store 57,2019-07-12,Furniture,Pool furniture,7,75,90144346
+92,39,West US,West US Store 57,2019-07-01,Beauty/Health,Feminine Products,8,10,25997126
+93,90,West US,West US Store 57,2019-05-27,Beauty/Health,Fragrances,6,10,70282730
+94,59,West US,West US Store 57,2019-04-01,Baby,Car seats,6,30,30773507
+95,42,West US,West US Store 57,2019-06-21,Baby,Diaper bags,6,12,68008929
+96,73,West US,West US Store 57,2019-01-28,Beauty/Health,Skincare,6,14,59890448
+97,10,West US,West US Store 57,2019-07-16,Clothing,Womens,12,12,70510257
+98,5,West US,West US Store 57,2019-04-03,Electronics,Cell Phones,3,100,93676842
+99,65,West US,West US Store 57,2019-06-02,Clothing,Womens,10,12,48348724
+100,34,West US,West US Store 57,2019-05-19,Electronics,Speakers,4,50,44201984
+101,75,West US,West US Store 57,2019-06-27,Furniture,Pool furniture,12,75,47042990
+102,25,West US,West US Store 57,2019-04-26,Beauty/Health,Feminine Products,8,10,27736198
+103,2,West US,West US Store 57,2019-03-15,Beauty/Health,Haircare,3,10,38395814
+104,18,West US,West US Store 57,2019-03-24,Baby,Diaper bags,6,5,26382481
+105,76,West US,West US Store 57,2019-03-08,Beauty/Health,Makeup,4,6,95766435
+106,53,West US,West US Store 57,2019-01-12,Electronics,Headphones,3,200,77753291
+107,53,West US,West US Store 57,2019-03-17,Furniture,Indoor tables,7,75,97193536
+108,9,West US,West US Store 57,2019-03-14,Furniture,Patio furniture,6,40,47312173
+109,20,West US,West US Store 57,2019-01-17,Electronics,Cell Phones,3,300,77865054
+110,86,West US,West US Store 57,2019-01-30,Furniture,Indoor tables,6,30,25128527
+111,72,West US,West US Store 57,2019-03-21,Beauty/Health,Oral care,3,10,53716611
+112,64,West US,West US Store 57,2019-05-11,Baby,Car seats,7,12,38324751
+113,85,West US,West US Store 57,2019-05-17,Furniture,Indoor seating,6,30,50954123
+114,27,West US,West US Store 57,2019-01-04,Baby,Strollers,3,30,14390697
+115,41,West US,West US Store 57,2019-01-02,Electronics,Tablets,3,50,76069566
+116,34,West US,West US Store 57,2019-05-14,Electronics,Tablets,3,50,18316670
+117,47,West US,West US Store 57,2019-02-25,Baby,Baby toys,4,12,68901933
+118,97,West US,West US Store 57,2019-07-05,Beauty/Health,Bath,8,15,13575542
+119,100,West US,West US Store 57,2019-01-06,Clothing,Mens,7,20,54650151
+120,64,West US,West US Store 57,2019-07-07,Baby,Diaper bags,11,10,67487940
+121,28,West US,West US Store 57,2019-06-05,Clothing,Swimwear,10,25,57006898
+122,65,West US,West US Store 57,2019-05-12,Clothing,Swimwear,7,20,77628814
+123,25,West US,West US Store 57,2019-04-30,Baby,Baby toys,6,30,80462393
+124,45,West US,West US Store 57,2019-04-21,Beauty/Health,Skincare,10,10,31729969
+125,36,West US,West US Store 57,2019-05-08,Beauty/Health,Oral care,12,10,30017218
+126,89,West US,West US Store 57,2019-03-26,Electronics,Tablets,4,300,68212502
+127,85,West US,West US Store 57,2019-06-13,Electronics,Televisions,3,100,81824476
+128,1,West US,West US Store 57,2019-06-28,Furniture,Beds,6,75,10526313
+129,92,West US,West US Store 57,2019-03-12,Clothing,Mens,3,10,41423414
+130,41,West US,West US Store 57,2019-06-09,Furniture,Pool furniture,10,30,17555102
+131,62,West US,West US Store 57,2019-03-19,Baby,Diapers,4,15,35329654
+132,49,West US,West US Store 57,2019-01-11,Baby,Car seats,4,15,81605672
+133,68,West US,West US Store 57,2019-06-21,Furniture,Indoor seating,11,100,85316905
+134,57,West US,West US Store 57,2019-04-03,Electronics,Headphones,4,300,53689840
+135,88,West US,West US Store 57,2019-07-12,Electronics,Televisions,3,200,56951199
+136,9,West US,West US Store 57,2019-03-11,Beauty/Health,Skincare,6,14,56394190
+137,24,West US,West US Store 57,2019-02-26,Beauty/Health,Bath,5,15,57135422
+138,14,West US,West US Store 57,2019-01-30,Electronics,Tablets,4,100,56247577
+139,49,West US,West US Store 57,2019-03-18,Baby,Cribs,5,5,77301257
+140,85,West US,West US Store 57,2019-06-21,Furniture,Beds,9,15,84379067
+141,13,West US,West US Store 57,2019-02-20,Clothing,Womens,5,20,62594462
+142,77,West US,West US Store 57,2019-02-20,Furniture,Beds,6,30,94554325
+143,25,West US,West US Store 57,2019-07-01,Baby,Strollers,12,5,30049733
+144,3,West US,West US Store 57,2019-06-22,Furniture,Indoor seating,8,100,29809592
+145,99,West US,West US Store 57,2019-05-10,Furniture,Beds,11,75,19075190
+146,22,West US,West US Store 57,2019-02-11,Beauty/Health,Feminine Products,3,10,89095035
+147,28,West US,West US Store 57,2019-04-06,Electronics,Cell Phones,3,50,25000269
+148,5,West US,West US Store 57,2019-02-02,Clothing,Swimwear,5,25,56718454
+149,99,West US,West US Store 57,2019-04-14,Furniture,Indoor tables,12,40,59462561
+150,95,West US,West US Store 57,2019-02-12,Baby,Car seats,7,30,29134534
+151,33,West US,West US Store 57,2019-04-02,Beauty/Health,Haircare,7,10,90822991
+152,99,West US,West US Store 57,2019-06-13,Beauty/Health,Makeup,6,10,50808509
+153,86,West US,West US Store 57,2019-01-24,Baby,Strollers,7,5,26221324
+154,65,West US,West US Store 57,2019-01-04,Furniture,Indoor seating,3,15,24764252
+155,26,West US,West US Store 57,2019-02-23,Clothing,Kids,4,13,48824524
+156,9,West US,West US Store 57,2019-04-07,Furniture,Indoor tables,4,100,68924420
+157,7,West US,West US Store 57,2019-06-07,Furniture,Beds,9,40,77150898
+158,48,West US,West US Store 57,2019-03-09,Baby,Car seats,6,15,79661978
+159,5,West US,West US Store 57,2019-01-22,Electronics,Computers,3,200,19630241
+160,25,West US,West US Store 57,2019-06-22,Baby,Strollers,11,30,79936393
+161,95,West US,West US Store 57,2019-07-06,Furniture,Patio furniture,8,75,64680943
+162,79,West US,West US Store 57,2019-06-02,Electronics,Televisions,3,200,10260762
+163,56,West US,West US Store 57,2019-06-17,Baby,Baby toys,6,30,82753313
+164,76,West US,West US Store 57,2019-03-26,Clothing,Kids,6,25,82211690
+165,79,West US,West US Store 57,2019-05-06,Beauty/Health,Makeup,11,6,97654056
+166,4,West US,West US Store 57,2019-01-09,Furniture,Pool furniture,7,100,67345338
+167,90,West US,West US Store 57,2019-04-29,Electronics,Televisions,4,200,77500600
+168,71,West US,West US Store 57,2019-04-27,Electronics,Tablets,4,300,77920839
+169,54,West US,West US Store 57,2019-07-05,Furniture,Indoor seating,10,30,89919371
+170,85,West US,West US Store 57,2019-03-09,Beauty/Health,Makeup,5,10,20598552
+171,65,West US,West US Store 57,2019-05-14,Clothing,Womens,11,10,66812497
+172,61,West US,West US Store 57,2019-01-07,Furniture,Beds,4,100,40050423
+173,97,West US,West US Store 57,2019-03-01,Baby,Baby toys,5,10,97398564
+174,24,West US,West US Store 57,2019-02-02,Electronics,Televisions,4,50,20768821
+175,98,West US,West US Store 57,2019-04-12,Baby,Diapers,5,30,15857326
+176,68,West US,West US Store 57,2019-01-11,Clothing,Mens,3,20,94684977
+177,27,West US,West US Store 57,2019-01-14,Clothing,Swimwear,5,10,52876340
+178,46,West US,West US Store 57,2019-03-09,Beauty/Health,Feminine Products,6,10,92785658
+179,51,West US,West US Store 57,2019-07-10,Electronics,Televisions,3,300,32862933
+180,98,West US,West US Store 57,2019-04-05,Baby,Car seats,4,5,60426163
+181,92,West US,West US Store 57,2019-02-04,Baby,Diapers,4,12,81134486
+182,40,West US,West US Store 57,2019-03-16,Furniture,Beds,3,15,41954107
+183,64,West US,West US Store 57,2019-01-03,Electronics,Computers,3,100,32581588
+184,48,West US,West US Store 57,2019-04-02,Beauty/Health,Makeup,7,15,83539353
+185,97,West US,West US Store 57,2019-07-01,Clothing,Baby,12,25,55046525
+186,28,West US,West US Store 57,2019-01-16,Clothing,Mens,3,20,67413034
+187,67,West US,West US Store 57,2019-03-24,Clothing,Mens,5,25,52895184
+188,18,West US,West US Store 57,2019-01-28,Beauty/Health,Skincare,4,10,26179967
+189,101,West US,West US Store 57,2019-03-30,Electronics,Televisions,3,100,36394789
+190,98,West US,West US Store 57,2019-02-20,Electronics,Computers,4,50,42327732
+191,34,West US,West US Store 57,2019-06-11,Beauty/Health,Haircare,5,15,49019021
+192,47,West US,West US Store 57,2019-04-09,Baby,Baby toys,12,10,60298646
+193,54,West US,West US Store 57,2019-07-07,Electronics,Computers,3,50,48678109
+194,95,West US,West US Store 57,2019-05-29,Baby,Diaper bags,12,12,93589654
+195,52,West US,West US Store 57,2019-01-21,Clothing,Baby,6,12,92450594
+196,26,West US,West US Store 57,2019-05-04,Baby,Diapers,10,10,86717021
+197,30,West US,West US Store 57,2019-03-06,Electronics,Headphones,4,300,75135175
+198,36,West US,West US Store 57,2019-05-12,Electronics,Computers,4,100,38652054
+199,75,West US,West US Store 57,2019-05-14,Beauty/Health,Bath,5,10,81471159
+200,85,West US,West US Store 57,2019-06-18,Clothing,Swimwear,5,25,24911380
+201,58,West US,West US Store 57,2019-02-03,Baby,Strollers,3,30,85149621
+202,22,West US,West US Store 57,2019-02-13,Baby,Car seats,6,5,49417119
+203,60,West US,West US Store 57,2019-01-20,Furniture,Indoor seating,3,15,22549003
+204,86,West US,West US Store 57,2019-02-19,Clothing,Mens,3,13,61162987
+205,91,West US,West US Store 57,2019-01-19,Furniture,Indoor tables,5,100,91376424
+206,93,West US,West US Store 57,2019-06-16,Furniture,Pool furniture,8,40,69344242
+207,57,West US,West US Store 57,2019-06-18,Clothing,Mens,10,25,50600916
+208,72,West US,West US Store 57,2019-02-28,Electronics,Computers,3,100,45132803
+209,86,West US,West US Store 57,2019-03-24,Clothing,Mens,4,10,94621905
+210,20,West US,West US Store 57,2019-03-15,Electronics,Speakers,3,100,68263595
+211,72,West US,West US Store 57,2019-06-20,Baby,Car seats,12,12,28149315
+212,25,West US,West US Store 57,2019-02-24,Furniture,Pool furniture,3,75,27851638
+213,100,West US,West US Store 57,2019-03-21,Electronics,Headphones,3,50,25688814
+214,45,West US,West US Store 57,2019-02-08,Beauty/Health,Bath,3,14,98268405
+215,24,West US,West US Store 57,2019-05-27,Baby,Car seats,12,10,54580128
+216,14,West US,West US Store 57,2019-06-26,Beauty/Health,Haircare,5,6,69072757
+217,24,West US,West US Store 57,2019-05-17,Beauty/Health,Haircare,5,10,55054660
+218,34,West US,West US Store 57,2019-05-31,Baby,Cribs,12,30,49480098
+219,22,West US,West US Store 57,2019-03-20,Clothing,Womens,4,12,70788367
+220,90,West US,West US Store 57,2019-07-05,Clothing,Womens,8,20,34565926
+221,43,West US,West US Store 57,2019-03-16,Electronics,Televisions,4,100,35120033
+222,70,West US,West US Store 57,2019-02-26,Beauty/Health,Haircare,3,10,51061837
+223,3,West US,West US Store 57,2019-02-19,Clothing,Mens,7,20,82153393
+224,33,West US,West US Store 57,2019-07-07,Baby,Diaper bags,8,5,77831581
+225,97,West US,West US Store 57,2019-05-25,Beauty/Health,Bath,7,10,12774347
+226,76,West US,West US Store 57,2019-03-09,Furniture,Indoor seating,5,40,88333975
+227,48,West US,West US Store 57,2019-02-19,Baby,Baby toys,5,30,32919997
+228,10,West US,West US Store 57,2019-02-11,Baby,Strollers,5,5,55207922
+229,21,West US,West US Store 57,2019-06-27,Furniture,Patio furniture,5,15,95707658
+230,12,West US,West US Store 57,2019-02-17,Furniture,Pool furniture,7,75,91053503
+231,24,West US,West US Store 57,2019-03-13,Furniture,Indoor tables,5,30,13394821
+232,33,West US,West US Store 57,2019-04-25,Baby,Car seats,12,30,14236633
+233,15,West US,West US Store 57,2019-06-29,Beauty/Health,Bath,10,10,22614386
+234,41,West US,West US Store 57,2019-05-16,Baby,Diapers,11,30,91010162
+235,77,West US,West US Store 57,2019-01-22,Furniture,Pool furniture,7,100,26991867
+236,65,West US,West US Store 57,2019-01-09,Furniture,Indoor tables,5,40,65846887
+237,28,West US,West US Store 57,2019-04-06,Clothing,Baby,4,12,42369619
+238,89,West US,West US Store 57,2019-05-24,Furniture,Pool furniture,8,40,21373590
+239,67,West US,West US Store 57,2019-06-19,Furniture,Indoor seating,8,30,20813059
+240,46,West US,West US Store 57,2019-07-12,Clothing,Swimwear,8,10,62767620
+241,26,West US,West US Store 57,2019-01-17,Clothing,Baby,3,13,20234431
+242,18,West US,West US Store 57,2019-04-12,Baby,Diapers,12,30,62566080
+243,4,West US,West US Store 57,2019-05-05,Furniture,Pool furniture,12,75,25507517
+244,17,West US,West US Store 57,2019-01-28,Beauty/Health,Haircare,4,10,20288918
+245,96,West US,West US Store 57,2019-07-07,Electronics,Headphones,4,300,18459484
+246,4,West US,West US Store 57,2019-07-09,Furniture,Indoor tables,5,100,38554276
+247,54,West US,West US Store 57,2019-02-16,Furniture,Beds,3,15,40774093
+248,39,West US,West US Store 57,2019-03-06,Clothing,Mens,5,10,22189423
+249,38,West US,West US Store 57,2019-07-16,Beauty/Health,Feminine Products,11,10,93556199
+250,91,West US,West US Store 57,2019-05-26,Clothing,Kids,7,10,53471711
+251,28,West US,West US Store 57,2019-04-27,Baby,Diapers,9,15,67155277
+252,39,West US,West US Store 57,2019-06-15,Electronics,Headphones,3,50,91583424
+253,97,West US,West US Store 57,2019-04-19,Baby,Diaper bags,8,5,88023354
+254,17,West US,West US Store 57,2019-05-24,Furniture,Beds,6,75,21242651
+255,40,West US,West US Store 57,2019-06-11,Electronics,Computers,3,100,79428450
+256,21,West US,West US Store 57,2019-07-15,Beauty/Health,Bath,12,10,70599753
+257,12,West US,West US Store 57,2019-04-30,Furniture,Indoor seating,6,100,14911401
+258,36,West US,West US Store 57,2019-04-19,Electronics,Headphones,3,300,73375644
+259,22,West US,West US Store 57,2019-02-27,Electronics,Computers,3,300,39115422
+260,61,West US,West US Store 57,2019-06-17,Electronics,Televisions,3,100,80389133
+261,36,West US,West US Store 57,2019-05-01,Clothing,Swimwear,5,10,68601029
+262,97,West US,West US Store 57,2019-06-20,Clothing,Mens,12,20,48530118
+263,35,West US,West US Store 57,2019-03-30,Furniture,Beds,6,100,49482711
+264,63,West US,West US Store 57,2019-06-18,Beauty/Health,Skincare,10,6,96383588
+265,35,West US,West US Store 57,2019-05-09,Electronics,Speakers,4,300,45614193
+266,19,West US,West US Store 57,2019-04-13,Baby,Diapers,9,5,35131752
+267,86,West US,West US Store 57,2019-06-09,Beauty/Health,Haircare,7,10,82751623
+268,5,West US,West US Store 57,2019-07-08,Baby,Car seats,6,30,66572669
+269,34,West US,West US Store 57,2019-04-28,Baby,Diaper bags,8,30,92735947
+270,53,West US,West US Store 57,2019-02-11,Electronics,Speakers,4,200,65494942
+271,4,West US,West US Store 57,2019-05-29,Clothing,Baby,9,13,24190798
+272,42,West US,West US Store 57,2019-02-13,Furniture,Indoor tables,3,15,88189263
+273,35,West US,West US Store 57,2019-05-03,Clothing,Womens,8,12,77491877
+274,4,West US,West US Store 57,2019-06-05,Beauty/Health,Haircare,6,10,80857178
+275,4,West US,West US Store 57,2019-01-17,Beauty/Health,Oral care,3,10,54727808
+276,55,West US,West US Store 57,2019-06-13,Electronics,Headphones,3,100,90143769
+277,59,West US,West US Store 57,2019-02-27,Furniture,Patio furniture,7,100,99615322
+278,13,West US,West US Store 57,2019-07-05,Furniture,Pool furniture,11,40,36362763
+279,72,West US,West US Store 57,2019-03-26,Clothing,Baby,3,25,60796100
+280,18,West US,West US Store 57,2019-04-24,Baby,Diapers,12,12,27690595
+281,89,West US,West US Store 57,2019-06-12,Clothing,Womens,9,25,36745940
+282,69,West US,West US Store 57,2019-03-02,Beauty/Health,Bath,4,10,86915842
+283,10,West US,West US Store 57,2019-05-01,Beauty/Health,Haircare,7,10,29401699
+284,25,West US,West US Store 57,2019-07-13,Beauty/Health,Bath,8,15,81597629
+285,26,West US,West US Store 57,2019-03-07,Baby,Cribs,5,5,25659552
+286,22,West US,West US Store 57,2019-02-20,Furniture,Indoor seating,6,40,19146481
+287,53,West US,West US Store 57,2019-01-16,Electronics,Computers,4,50,23332365
+288,1,West US,West US Store 57,2019-05-09,Baby,Strollers,10,5,87947377
+289,36,West US,West US Store 57,2019-02-25,Beauty/Health,Haircare,6,10,24575470
+290,62,West US,West US Store 57,2019-07-09,Electronics,Headphones,4,300,87157086
+291,67,West US,West US Store 57,2019-04-13,Furniture,Indoor seating,8,75,61068856
+292,68,West US,West US Store 57,2019-03-15,Clothing,Womens,7,12,99705085
+293,3,West US,West US Store 57,2019-05-16,Electronics,Speakers,4,100,27111548
+294,83,West US,West US Store 57,2019-02-23,Baby,Cribs,7,12,67657620
+295,37,West US,West US Store 57,2019-04-03,Furniture,Indoor seating,6,15,71543323
+296,57,West US,West US Store 57,2019-02-23,Electronics,Televisions,4,300,44402456
+297,14,West US,West US Store 57,2019-01-23,Electronics,Headphones,3,100,79431306
+298,1,West US,West US Store 57,2019-05-29,Beauty/Health,Fragrances,8,10,34226435
+299,65,West US,West US Store 57,2019-05-02,Baby,Baby toys,10,30,88544091
+300,45,West US,West US Store 57,2019-02-19,Furniture,Indoor seating,6,100,89376626
+301,24,West US,West US Store 57,2019-03-08,Electronics,Cell Phones,4,200,68051643
+302,95,West US,West US Store 57,2019-02-08,Beauty/Health,Skincare,3,14,69909370
+303,90,West US,West US Store 57,2019-07-08,Clothing,Mens,12,12,45105385
+304,54,West US,West US Store 57,2019-05-03,Electronics,Televisions,3,200,48482546
+305,85,West US,West US Store 57,2019-03-12,Furniture,Indoor seating,7,15,97614534
+306,58,West US,West US Store 57,2019-05-29,Baby,Diaper bags,10,30,49879990
+307,53,West US,West US Store 57,2019-02-11,Electronics,Tablets,4,100,54639497
+308,90,West US,West US Store 57,2019-06-28,Baby,Car seats,5,5,22085786
+309,25,West US,West US Store 57,2019-04-18,Clothing,Womens,7,13,86472034
+310,78,West US,West US Store 57,2019-03-18,Beauty/Health,Fragrances,6,15,72899848
+311,74,West US,West US Store 57,2019-06-03,Beauty/Health,Haircare,6,10,59001696
+312,82,West US,West US Store 57,2019-06-27,Electronics,Tablets,4,50,51180856
+313,12,West US,West US Store 57,2019-05-23,Furniture,Indoor seating,6,15,78787128
+314,18,West US,West US Store 57,2019-02-14,Clothing,Shoes,6,25,32655558
+315,99,West US,West US Store 57,2019-01-16,Electronics,Computers,3,100,52030896
+316,3,West US,West US Store 57,2019-04-24,Electronics,Cell Phones,3,300,41696206
+317,66,West US,West US Store 57,2019-06-14,Clothing,Shoes,11,10,97399794
+318,29,West US,West US Store 57,2019-01-16,Electronics,Headphones,3,200,35138567
+319,91,West US,West US Store 57,2019-02-21,Clothing,Shoes,6,25,58316124
+320,79,West US,West US Store 57,2019-06-22,Furniture,Beds,5,40,26120076
+321,54,West US,West US Store 57,2019-06-21,Clothing,Baby,10,20,86654487
+322,64,West US,West US Store 57,2019-03-08,Electronics,Cell Phones,3,300,32554754
+323,13,West US,West US Store 57,2019-03-20,Electronics,Televisions,3,200,79324809
+324,98,West US,West US Store 57,2019-03-24,Furniture,Patio furniture,4,40,66858024
+325,36,West US,West US Store 57,2019-03-31,Clothing,Mens,3,10,52479415
+326,33,West US,West US Store 57,2019-04-15,Electronics,Cell Phones,3,100,60675895
+327,76,West US,West US Store 57,2019-06-12,Clothing,Mens,6,13,60730811
+328,95,West US,West US Store 57,2019-05-11,Beauty/Health,Bath,10,10,89986702
+329,57,West US,West US Store 57,2019-02-18,Furniture,Indoor seating,6,100,61617073
+330,8,West US,West US Store 57,2019-04-23,Beauty/Health,Bath,6,10,54435996
+331,88,West US,West US Store 57,2019-05-31,Baby,Baby toys,7,30,78538241
+332,44,West US,West US Store 57,2019-03-05,Furniture,Pool furniture,7,100,43338990
+333,92,West US,West US Store 57,2019-01-24,Baby,Car seats,6,5,75778611
+334,28,West US,West US Store 57,2019-05-27,Furniture,Pool furniture,12,30,88198503
+335,33,West US,West US Store 57,2019-05-30,Furniture,Pool furniture,12,30,34456224
+336,65,West US,West US Store 57,2019-03-15,Baby,Car seats,3,5,33478673
+337,39,West US,West US Store 57,2019-02-06,Beauty/Health,Makeup,4,10,58522081
+338,1,West US,West US Store 57,2019-05-24,Beauty/Health,Oral care,12,10,93466324
+339,6,West US,West US Store 57,2019-06-06,Electronics,Televisions,3,100,76750226
+340,36,West US,West US Store 57,2019-05-10,Beauty/Health,Oral care,6,10,11502386
+341,97,West US,West US Store 57,2019-07-12,Clothing,Mens,9,25,44093702
+342,38,West US,West US Store 57,2019-01-18,Baby,Cribs,4,30,22412943
+343,35,West US,West US Store 57,2019-01-04,Electronics,Tablets,4,100,50865555
+344,11,West US,West US Store 57,2019-01-15,Beauty/Health,Feminine Products,4,10,12757517
+345,58,West US,West US Store 57,2019-03-14,Furniture,Patio furniture,6,75,40977317
+346,86,West US,West US Store 57,2019-03-06,Clothing,Womens,4,25,53056016
+347,61,West US,West US Store 57,2019-03-20,Electronics,Tablets,3,200,97389415
+348,32,West US,West US Store 57,2019-01-24,Furniture,Beds,4,75,10671788
+349,81,West US,West US Store 57,2019-03-27,Baby,Strollers,7,5,41542184
+350,33,West US,West US Store 57,2019-07-02,Clothing,Shoes,9,25,86529317
+351,14,West US,West US Store 57,2019-06-11,Clothing,Swimwear,11,13,14957527
+352,8,West US,West US Store 57,2019-05-31,Beauty/Health,Oral care,10,15,37507085
+353,60,West US,West US Store 57,2019-04-01,Furniture,Pool furniture,7,15,31119227
+354,19,West US,West US Store 57,2019-03-08,Electronics,Computers,4,200,81066755
+355,75,West US,West US Store 57,2019-06-30,Clothing,Mens,6,12,61210795
+356,86,West US,West US Store 57,2019-06-25,Beauty/Health,Bath,7,15,54425304
+357,55,West US,West US Store 57,2019-01-27,Beauty/Health,Makeup,7,10,75170957
+358,3,West US,West US Store 57,2019-05-20,Furniture,Patio furniture,9,40,12423900
+359,65,West US,West US Store 57,2019-05-29,Electronics,Televisions,3,100,62572919
+360,81,West US,West US Store 57,2019-03-23,Clothing,Mens,7,25,51697466
+361,9,West US,West US Store 57,2019-07-14,Furniture,Pool furniture,10,75,39745735
+362,3,West US,West US Store 57,2019-04-25,Furniture,Indoor tables,7,75,81775580
+363,16,West US,West US Store 57,2019-03-25,Electronics,Computers,4,200,56027237
+364,77,West US,West US Store 57,2019-04-11,Clothing,Swimwear,12,10,13925196
+365,34,West US,West US Store 57,2019-06-04,Electronics,Headphones,3,200,75073018
+366,96,West US,West US Store 57,2019-02-24,Electronics,Computers,3,300,79516873
+367,24,West US,West US Store 57,2019-02-27,Beauty/Health,Haircare,3,10,99120105
+368,15,West US,West US Store 57,2019-05-20,Clothing,Kids,8,25,61929508
+369,81,West US,West US Store 57,2019-03-01,Furniture,Indoor tables,3,15,21007324
+370,95,West US,West US Store 57,2019-02-18,Furniture,Indoor seating,7,100,52216688
+371,33,West US,West US Store 57,2019-01-27,Baby,Diaper bags,4,5,24901011
+372,84,West US,West US Store 57,2019-05-25,Furniture,Pool furniture,5,75,22072499
+373,18,West US,West US Store 57,2019-06-26,Baby,Strollers,8,12,97450057
+374,35,West US,West US Store 57,2019-04-03,Baby,Baby toys,6,30,88366364
+375,8,West US,West US Store 57,2019-01-21,Baby,Cribs,3,12,78234228
+376,40,West US,West US Store 57,2019-04-29,Electronics,Headphones,3,200,17378847
+377,38,West US,West US Store 57,2019-05-10,Baby,Diaper bags,10,30,26609168
+378,41,West US,West US Store 57,2019-01-21,Clothing,Shoes,7,25,73731845
+379,32,West US,West US Store 57,2019-05-19,Clothing,Baby,11,10,47155430
+380,38,West US,West US Store 57,2019-01-02,Baby,Car seats,4,10,80084502
+381,76,West US,West US Store 57,2019-04-02,Clothing,Baby,7,13,64635061
+382,87,West US,West US Store 57,2019-05-07,Clothing,Kids,9,25,38994641
+383,98,West US,West US Store 57,2019-05-07,Beauty/Health,Fragrances,5,14,70633706
+384,85,West US,West US Store 57,2019-01-29,Baby,Car seats,6,15,35090532
+385,59,West US,West US Store 57,2019-04-06,Electronics,Cell Phones,3,200,39540437
+386,6,West US,West US Store 57,2019-06-06,Clothing,Swimwear,5,13,46097181
+387,61,West US,West US Store 57,2019-03-09,Electronics,Cell Phones,3,100,41000740
+388,36,West US,West US Store 57,2019-04-09,Furniture,Patio furniture,7,40,42130997
+389,89,West US,West US Store 57,2019-04-10,Electronics,Computers,4,50,27330121
+390,36,West US,West US Store 57,2019-02-09,Beauty/Health,Oral care,5,6,44485623
+391,64,West US,West US Store 57,2019-03-31,Beauty/Health,Makeup,6,10,42159234
+392,77,West US,West US Store 57,2019-01-19,Clothing,Womens,4,25,29275958
+393,41,West US,West US Store 57,2019-06-04,Clothing,Kids,6,10,21774804
+394,91,West US,West US Store 57,2019-05-02,Clothing,Baby,6,25,57157399
+395,23,West US,West US Store 57,2019-03-29,Furniture,Indoor tables,5,15,83790830
+396,98,West US,West US Store 57,2019-01-30,Beauty/Health,Makeup,5,15,22727177
+397,61,West US,West US Store 57,2019-05-21,Beauty/Health,Feminine Products,9,10,52180774
+398,11,West US,West US Store 57,2019-01-11,Baby,Diapers,4,12,32189743
+399,92,West US,West US Store 57,2019-07-01,Furniture,Indoor seating,12,75,89435509
+400,101,West US,West US Store 57,2019-04-09,Baby,Diaper bags,5,30,89489085
+401,17,West US,West US Store 57,2019-02-03,Beauty/Health,Haircare,3,10,65543000
+402,28,West US,West US Store 57,2019-04-04,Baby,Car seats,4,30,63167965
+403,82,West US,West US Store 57,2019-01-11,Furniture,Indoor tables,4,100,26395590
+404,22,West US,West US Store 57,2019-03-16,Electronics,Televisions,3,200,78507616
+405,68,West US,West US Store 57,2019-07-12,Baby,Diaper bags,8,30,85948837
+406,26,West US,West US Store 57,2019-04-20,Beauty/Health,Feminine Products,6,10,19574575
+407,56,West US,West US Store 57,2019-03-15,Furniture,Pool furniture,4,100,79203341
+408,80,West US,West US Store 57,2019-01-13,Baby,Diaper bags,4,5,98979852
+409,76,West US,West US Store 57,2019-06-23,Beauty/Health,Oral care,12,14,99402844
+410,48,West US,West US Store 57,2019-05-15,Electronics,Speakers,3,50,69527774
+411,42,West US,West US Store 57,2019-01-10,Clothing,Swimwear,5,20,11031530
+412,89,West US,West US Store 57,2019-04-22,Clothing,Kids,6,25,80894511
+413,55,West US,West US Store 57,2019-03-17,Furniture,Indoor tables,3,75,76437983
+414,84,West US,West US Store 57,2019-03-01,Baby,Baby toys,6,30,71527102
+415,24,West US,West US Store 57,2019-06-01,Baby,Cribs,5,5,63791283
+416,97,West US,West US Store 57,2019-02-07,Baby,Strollers,4,30,64468903
+417,83,West US,West US Store 57,2019-02-16,Beauty/Health,Fragrances,4,14,46914052
+418,81,West US,West US Store 57,2019-01-01,Electronics,Cell Phones,3,200,98631800
+419,25,West US,West US Store 57,2019-01-10,Clothing,Kids,6,12,92480273
+420,80,West US,West US Store 57,2019-06-04,Clothing,Mens,9,25,77975912
+421,13,West US,West US Store 57,2019-04-24,Beauty/Health,Makeup,9,15,63359202
+422,8,West US,West US Store 57,2019-05-28,Baby,Diapers,6,12,53309439
+423,87,West US,West US Store 57,2019-07-02,Beauty/Health,Skincare,8,6,36354655
+424,15,West US,West US Store 57,2019-07-11,Furniture,Beds,8,40,60428058
+425,94,West US,West US Store 57,2019-04-28,Furniture,Beds,8,75,89677653
+426,32,West US,West US Store 57,2019-01-04,Beauty/Health,Feminine Products,6,10,20455181
+427,1,West US,West US Store 57,2019-04-01,Baby,Cribs,6,30,27301253
+428,58,West US,West US Store 57,2019-05-30,Electronics,Speakers,4,300,54518422
+429,85,West US,West US Store 57,2019-03-02,Furniture,Indoor tables,6,40,35936160
+430,1,West US,West US Store 57,2019-03-16,Baby,Car seats,3,30,18990126
+431,73,West US,West US Store 57,2019-03-03,Baby,Baby toys,4,15,35401661
+432,66,West US,West US Store 57,2019-04-21,Clothing,Baby,5,10,82047080
+433,27,West US,West US Store 57,2019-06-22,Clothing,Kids,11,10,31689504
+434,28,West US,West US Store 57,2019-03-24,Clothing,Baby,5,20,79252698
+435,80,West US,West US Store 57,2019-05-15,Beauty/Health,Skincare,7,6,76485603
+436,50,West US,West US Store 57,2019-02-15,Clothing,Shoes,3,20,40860522
+437,19,West US,West US Store 57,2019-05-25,Electronics,Televisions,3,200,40119116
+438,10,West US,West US Store 57,2019-07-08,Baby,Diaper bags,8,30,62949421
+439,87,West US,West US Store 57,2019-04-30,Baby,Diapers,5,30,33417441
+440,52,West US,West US Store 57,2019-05-20,Baby,Cribs,12,15,71308390
+441,23,West US,West US Store 57,2019-03-08,Furniture,Indoor seating,7,100,88920121
+442,7,West US,West US Store 57,2019-06-18,Clothing,Mens,11,10,28198656
+443,101,West US,West US Store 57,2019-04-07,Beauty/Health,Oral care,4,10,18404292
+444,95,West US,West US Store 57,2019-07-07,Electronics,Cell Phones,4,100,34762254
+445,60,West US,West US Store 57,2019-06-18,Furniture,Beds,9,40,69412390
+446,26,West US,West US Store 57,2019-04-26,Furniture,Patio furniture,5,75,39055092
+447,39,West US,West US Store 57,2019-07-04,Clothing,Womens,6,13,26983945
+448,67,West US,West US Store 57,2019-07-09,Clothing,Mens,12,10,10228587
+449,22,West US,West US Store 57,2019-03-08,Beauty/Health,Skincare,7,10,85493279
+450,36,West US,West US Store 57,2019-03-09,Electronics,Televisions,4,100,88080187
+451,46,West US,West US Store 57,2019-05-12,Beauty/Health,Fragrances,8,6,42100322
+452,60,West US,West US Store 57,2019-02-21,Electronics,Computers,3,100,31202101
+453,89,West US,West US Store 57,2019-02-15,Furniture,Indoor seating,7,100,28969396
+454,16,West US,West US Store 57,2019-03-24,Beauty/Health,Haircare,3,10,32496968
+455,52,West US,West US Store 57,2019-03-02,Clothing,Mens,3,12,47913074
+456,49,West US,West US Store 57,2019-06-23,Baby,Car seats,11,30,52819683
+457,72,West US,West US Store 57,2019-01-16,Beauty/Health,Oral care,5,15,97830973
+458,95,West US,West US Store 57,2019-04-11,Clothing,Womens,10,25,40587387
+459,82,West US,West US Store 57,2019-05-10,Furniture,Indoor seating,9,75,25220479
+460,75,West US,West US Store 57,2019-01-23,Clothing,Swimwear,5,12,66798431
+461,67,West US,West US Store 57,2019-03-15,Electronics,Televisions,3,100,50254336
+462,94,West US,West US Store 57,2019-04-22,Electronics,Televisions,4,50,54114568
+463,88,West US,West US Store 57,2019-03-23,Furniture,Pool furniture,5,100,61076212
+464,95,West US,West US Store 57,2019-01-22,Baby,Cribs,4,10,14503097
+465,88,West US,West US Store 57,2019-06-03,Clothing,Baby,12,10,24218355
+466,40,West US,West US Store 57,2019-01-03,Beauty/Health,Fragrances,6,10,76214704
+467,97,West US,West US Store 57,2019-02-15,Beauty/Health,Makeup,4,6,98368027
+468,61,West US,West US Store 57,2019-04-11,Baby,Diaper bags,7,10,32723866
+469,28,West US,West US Store 57,2019-04-02,Clothing,Mens,7,13,75330936
+470,78,West US,West US Store 57,2019-05-21,Furniture,Beds,11,75,35332057
+471,29,West US,West US Store 57,2019-05-18,Furniture,Beds,8,75,33216932
+472,90,West US,West US Store 57,2019-02-10,Baby,Baby toys,3,5,27417417
+473,90,West US,West US Store 57,2019-02-25,Furniture,Beds,3,15,92541045
+474,82,West US,West US Store 57,2019-04-17,Baby,Baby toys,5,12,14651025
+475,81,West US,West US Store 57,2019-01-22,Furniture,Beds,4,75,83991051
+476,20,West US,West US Store 57,2019-02-07,Furniture,Patio furniture,6,15,47628435
+477,19,West US,West US Store 57,2019-05-10,Clothing,Womens,5,25,16989944
+478,18,West US,West US Store 57,2019-03-09,Electronics,Cell Phones,3,50,47765509
+479,54,West US,West US Store 57,2019-01-15,Clothing,Womens,6,12,11494761
+480,62,West US,West US Store 57,2019-06-03,Electronics,Computers,3,300,66511227
+481,16,West US,West US Store 57,2019-05-04,Baby,Diaper bags,11,5,10749648
+482,83,West US,West US Store 57,2019-05-10,Baby,Cribs,6,12,74546661
+483,58,West US,West US Store 57,2019-06-19,Baby,Baby toys,10,15,88884581
+484,53,West US,West US Store 57,2019-04-19,Baby,Strollers,11,30,82074339
+485,94,West US,West US Store 57,2019-07-08,Furniture,Indoor seating,6,40,65881324
+486,51,West US,West US Store 57,2019-03-06,Electronics,Cell Phones,4,200,27658020
+487,64,West US,West US Store 57,2019-05-11,Baby,Diaper bags,10,15,53671737
+488,33,West US,West US Store 57,2019-05-20,Baby,Diaper bags,10,12,80486454
+489,82,West US,West US Store 57,2019-07-02,Clothing,Kids,11,10,51040687
+490,70,West US,West US Store 57,2019-07-08,Baby,Baby toys,6,5,29328967
+491,97,West US,West US Store 57,2019-06-29,Electronics,Televisions,4,200,15412173
+492,22,West US,West US Store 57,2019-03-15,Furniture,Pool furniture,5,15,58301594
+493,3,West US,West US Store 57,2019-01-23,Furniture,Indoor seating,3,30,76801203
+494,2,West US,West US Store 57,2019-03-14,Baby,Diapers,5,30,56973792
+495,86,West US,West US Store 57,2019-04-24,Electronics,Televisions,4,300,77146706
+496,77,West US,West US Store 57,2019-06-12,Furniture,Patio furniture,12,15,87591686
+497,88,West US,West US Store 57,2019-03-20,Beauty/Health,Fragrances,5,10,46313153
+498,19,West US,West US Store 57,2019-02-23,Electronics,Televisions,3,100,78318671
+499,14,West US,West US Store 57,2019-04-02,Beauty/Health,Skincare,3,10,29644522
+500,34,West US,West US Store 57,2019-03-28,Baby,Strollers,7,30,31862794
+501,72,West US,West US Store 57,2019-02-07,Furniture,Beds,5,30,97370566
+502,38,West US,West US Store 57,2019-01-01,Baby,Car seats,3,30,13990783
+503,23,West US,West US Store 57,2019-05-31,Beauty/Health,Haircare,7,14,61882385
+504,101,West US,West US Store 57,2019-07-08,Electronics,Speakers,4,200,69397706
+505,57,West US,West US Store 57,2019-01-07,Clothing,Womens,6,12,46693331
+506,37,West US,West US Store 57,2019-06-19,Baby,Baby toys,7,5,57168365
+507,63,West US,West US Store 57,2019-04-09,Baby,Baby toys,12,10,48567754
+508,86,West US,West US Store 57,2019-03-24,Furniture,Beds,6,40,13401363
+509,12,West US,West US Store 57,2019-05-18,Baby,Baby toys,11,30,19134973
+510,25,West US,West US Store 57,2019-02-09,Electronics,Headphones,3,200,52314027
+511,59,West US,West US Store 57,2019-01-04,Beauty/Health,Feminine Products,3,15,71588909
+512,60,West US,West US Store 57,2019-07-08,Electronics,Headphones,4,200,45064942
+513,82,West US,West US Store 57,2019-05-12,Electronics,Tablets,4,200,35544446
+514,80,West US,West US Store 57,2019-05-11,Furniture,Indoor tables,10,15,18361540
+515,96,West US,West US Store 57,2019-05-04,Furniture,Pool furniture,8,40,36184177
+516,26,West US,West US Store 57,2019-04-24,Beauty/Health,Skincare,11,15,65197480
+517,53,West US,West US Store 57,2019-01-14,Electronics,Speakers,4,100,10472690
+518,25,West US,West US Store 57,2019-05-22,Electronics,Computers,3,200,56044246
+519,4,West US,West US Store 57,2019-02-14,Baby,Strollers,6,5,84406079
+520,10,West US,West US Store 57,2019-06-15,Beauty/Health,Haircare,7,15,47043585
+521,12,West US,West US Store 57,2019-02-24,Furniture,Patio furniture,5,75,72103116
+522,23,West US,West US Store 57,2019-01-22,Clothing,Kids,4,25,99555127
+523,95,West US,West US Store 57,2019-05-28,Furniture,Indoor tables,10,75,21234218
+524,24,West US,West US Store 57,2019-02-10,Clothing,Swimwear,6,25,46578933
+525,46,West US,West US Store 57,2019-01-20,Beauty/Health,Feminine Products,7,10,24930878
+526,49,West US,West US Store 57,2019-04-15,Furniture,Indoor seating,8,30,23696121
+527,97,West US,West US Store 57,2019-07-06,Furniture,Patio furniture,5,30,81209532
+528,44,West US,West US Store 57,2019-06-25,Electronics,Speakers,3,300,75208246
+529,65,West US,West US Store 57,2019-06-12,Baby,Cribs,12,30,17314409
+530,17,West US,West US Store 57,2019-01-12,Baby,Car seats,6,10,28668354
+531,84,West US,West US Store 57,2019-06-23,Furniture,Indoor tables,11,100,96514817
+532,5,West US,West US Store 57,2019-02-01,Clothing,Baby,3,13,49241050
+533,60,West US,West US Store 57,2019-01-09,Furniture,Pool furniture,6,100,76140060
+534,30,West US,West US Store 57,2019-06-23,Beauty/Health,Feminine Products,9,10,33216652
+535,65,West US,West US Store 57,2019-05-13,Beauty/Health,Oral care,7,14,29573246
+536,39,West US,West US Store 57,2019-03-04,Furniture,Pool furniture,7,100,19956147
+537,44,West US,West US Store 57,2019-07-07,Baby,Diaper bags,8,30,39191811
+538,37,West US,West US Store 57,2019-07-12,Furniture,Beds,5,15,99548465
+539,99,West US,West US Store 57,2019-03-21,Electronics,Headphones,4,100,19502728
+540,70,West US,West US Store 57,2019-01-24,Electronics,Tablets,3,200,27020198
+541,79,West US,West US Store 57,2019-05-16,Electronics,Tablets,3,200,99494822
+542,86,West US,West US Store 57,2019-01-25,Baby,Diaper bags,7,30,69445513
+543,67,West US,West US Store 57,2019-04-06,Baby,Diapers,5,12,45501605
+544,76,West US,West US Store 57,2019-06-16,Furniture,Beds,6,15,51679750
+545,6,West US,West US Store 57,2019-06-03,Clothing,Womens,6,25,40703871
+546,66,West US,West US Store 57,2019-02-16,Beauty/Health,Oral care,6,6,65911129
+547,94,West US,West US Store 57,2019-04-14,Baby,Car seats,11,10,87256684
+548,64,West US,West US Store 57,2019-07-14,Clothing,Swimwear,5,25,71899358
+549,101,West US,West US Store 57,2019-07-06,Beauty/Health,Makeup,10,15,66169001
+550,75,West US,West US Store 57,2019-04-05,Furniture,Indoor seating,7,75,45625269
+551,38,West US,West US Store 57,2019-01-07,Furniture,Pool furniture,5,40,15859719
+552,77,West US,West US Store 57,2019-01-29,Clothing,Baby,4,10,51771647
+553,84,West US,West US Store 57,2019-05-12,Electronics,Headphones,4,300,82527845
+554,51,West US,West US Store 57,2019-03-21,Electronics,Cell Phones,4,200,36605428
+555,81,West US,West US Store 57,2019-02-12,Clothing,Swimwear,3,13,60023121
+556,35,West US,West US Store 57,2019-04-26,Baby,Cribs,6,5,35744744
+557,14,West US,West US Store 57,2019-01-31,Furniture,Beds,4,100,16827992
+558,20,West US,West US Store 57,2019-02-09,Clothing,Swimwear,3,25,30059151
+559,36,West US,West US Store 57,2019-02-15,Baby,Cribs,7,5,28346677
+560,99,West US,West US Store 57,2019-06-22,Baby,Strollers,9,12,54107184
+561,9,West US,West US Store 57,2019-01-02,Beauty/Health,Oral care,7,10,53047432
+562,9,West US,West US Store 57,2019-07-03,Baby,Baby toys,12,30,11174286
+563,49,West US,West US Store 57,2019-03-29,Clothing,Mens,7,20,98279780
+564,97,West US,West US Store 57,2019-07-13,Electronics,Computers,3,200,46798087
+565,28,West US,West US Store 57,2019-05-29,Electronics,Cell Phones,3,100,52690442
+566,8,West US,West US Store 57,2019-02-11,Baby,Car seats,6,15,14212233
+567,38,West US,West US Store 57,2019-01-16,Clothing,Baby,3,10,87887042
+568,8,West US,West US Store 57,2019-01-04,Furniture,Patio furniture,3,75,20487810
+569,77,West US,West US Store 57,2019-06-09,Baby,Diaper bags,9,30,95494396
+570,4,West US,West US Store 57,2019-05-13,Clothing,Womens,7,13,97913437
+571,89,West US,West US Store 57,2019-05-20,Furniture,Indoor tables,5,30,78995940
+572,93,West US,West US Store 57,2019-05-31,Furniture,Pool furniture,11,40,49572730
+573,44,West US,West US Store 57,2019-03-10,Beauty/Health,Makeup,6,10,22544777
+574,67,West US,West US Store 57,2019-07-14,Beauty/Health,Makeup,9,10,45134460
+575,73,West US,West US Store 57,2019-01-10,Clothing,Baby,4,20,55874957
+576,88,West US,West US Store 57,2019-06-09,Baby,Strollers,7,5,94699712
+577,4,West US,West US Store 57,2019-05-11,Baby,Diapers,8,30,91233558
+578,86,West US,West US Store 57,2019-05-01,Furniture,Beds,6,40,87802373
+579,27,West US,West US Store 57,2019-04-09,Baby,Cribs,9,30,56409209
+580,26,West US,West US Store 57,2019-06-12,Clothing,Womens,7,10,56423947
+581,95,West US,West US Store 57,2019-01-24,Furniture,Pool furniture,3,100,34364193
+582,58,West US,West US Store 57,2019-03-13,Furniture,Pool furniture,3,75,48071372
+583,99,West US,West US Store 57,2019-01-09,Beauty/Health,Fragrances,3,10,99609729
+584,14,West US,West US Store 57,2019-02-18,Clothing,Swimwear,7,13,74464868
+585,1,West US,West US Store 57,2019-05-29,Beauty/Health,Skincare,12,15,39962405
+586,95,West US,West US Store 57,2019-02-08,Electronics,Headphones,3,300,81662726
+587,76,West US,West US Store 57,2019-07-07,Beauty/Health,Oral care,9,14,55234788
+588,62,West US,West US Store 57,2019-05-01,Beauty/Health,Oral care,7,14,23433283
+589,14,West US,West US Store 57,2019-02-03,Clothing,Mens,3,12,46882445
+590,46,West US,West US Store 57,2019-01-20,Furniture,Patio furniture,4,15,70820876
+591,4,West US,West US Store 57,2019-06-30,Clothing,Womens,6,25,37923916
+592,3,West US,West US Store 57,2019-07-03,Beauty/Health,Oral care,5,6,34978542
+593,82,West US,West US Store 57,2019-02-28,Furniture,Pool furniture,7,75,39279004
+594,62,West US,West US Store 57,2019-04-24,Clothing,Mens,5,20,45355808
+595,47,West US,West US Store 57,2019-01-26,Clothing,Swimwear,5,12,45046900
+596,47,West US,West US Store 57,2019-03-15,Baby,Cribs,5,10,99958954
+597,13,West US,West US Store 57,2019-04-05,Clothing,Swimwear,3,12,67772389
+598,66,West US,West US Store 57,2019-04-12,Furniture,Beds,11,40,21802064
+599,47,West US,West US Store 57,2019-03-20,Clothing,Mens,7,10,58548259
+600,5,West US,West US Store 57,2019-06-10,Beauty/Health,Bath,5,6,14095475
+601,69,West US,West US Store 57,2019-04-24,Electronics,Cell Phones,4,100,50449341
+602,54,West US,West US Store 57,2019-07-13,Furniture,Beds,8,40,24705072
+603,89,West US,West US Store 57,2019-02-01,Baby,Diapers,7,30,22330805
+604,22,West US,West US Store 57,2019-04-03,Furniture,Beds,7,40,86597010
+605,48,West US,West US Store 57,2019-03-01,Clothing,Baby,3,25,52107193
+606,79,West US,West US Store 57,2019-06-26,Electronics,Tablets,4,50,59551726
+607,74,West US,West US Store 57,2019-01-13,Beauty/Health,Haircare,4,10,86265317
+608,30,West US,West US Store 57,2019-05-13,Furniture,Patio furniture,5,75,44058896
+609,52,West US,West US Store 57,2019-06-07,Beauty/Health,Bath,11,10,48832430
+610,19,West US,West US Store 57,2019-05-20,Beauty/Health,Bath,8,10,23914974
+611,10,West US,West US Store 57,2019-06-05,Baby,Diaper bags,5,10,93137523
+612,53,West US,West US Store 57,2019-06-02,Furniture,Patio furniture,10,40,13909295
+613,95,West US,West US Store 57,2019-01-17,Furniture,Indoor tables,5,75,65774219
+614,25,West US,West US Store 57,2019-05-03,Electronics,Computers,4,300,45259432
+615,18,West US,West US Store 57,2019-01-17,Beauty/Health,Haircare,7,10,81538912
+616,39,West US,West US Store 57,2019-06-04,Electronics,Cell Phones,4,200,97164509
+617,101,West US,West US Store 57,2019-01-27,Clothing,Shoes,4,25,73684294
+618,14,West US,West US Store 57,2019-04-23,Clothing,Womens,7,13,58266746
+619,91,West US,West US Store 57,2019-01-06,Furniture,Indoor tables,4,40,23485668
+620,4,West US,West US Store 57,2019-04-26,Furniture,Indoor seating,9,30,98401586
+621,19,West US,West US Store 57,2019-01-04,Furniture,Patio furniture,6,100,50026786
+622,22,West US,West US Store 57,2019-01-18,Clothing,Mens,4,20,62187672
+623,84,West US,West US Store 57,2019-02-14,Beauty/Health,Makeup,4,10,16771008
+624,63,West US,West US Store 57,2019-01-26,Clothing,Swimwear,4,25,18534139
+625,37,West US,West US Store 57,2019-06-20,Furniture,Patio furniture,12,40,88131750
+626,12,West US,West US Store 57,2019-04-05,Baby,Cribs,5,15,45177790
+627,48,West US,West US Store 57,2019-03-31,Clothing,Womens,5,12,49891839
+628,8,West US,West US Store 57,2019-06-02,Beauty/Health,Haircare,8,15,33817012
+629,10,West US,West US Store 57,2019-03-27,Baby,Cribs,7,5,28786891
+630,66,West US,West US Store 57,2019-03-03,Clothing,Shoes,6,25,54266674
+631,56,West US,West US Store 57,2019-06-23,Clothing,Womens,6,25,16937004
+632,73,West US,West US Store 57,2019-01-26,Beauty/Health,Fragrances,4,14,43305750
+633,2,West US,West US Store 57,2019-06-04,Electronics,Tablets,3,50,77896950
+634,63,West US,West US Store 57,2019-05-31,Electronics,Cell Phones,4,200,59282734
+635,82,West US,West US Store 57,2019-04-19,Clothing,Mens,12,25,92335810
+636,40,West US,West US Store 57,2019-06-23,Beauty/Health,Oral care,10,10,86985692
+637,79,West US,West US Store 57,2019-04-07,Baby,Car seats,7,5,97496917
+638,78,West US,West US Store 57,2019-04-21,Furniture,Indoor tables,8,75,78285446
+639,92,West US,West US Store 57,2019-03-20,Beauty/Health,Haircare,3,15,71726209
+640,86,West US,West US Store 57,2019-05-25,Baby,Diaper bags,12,30,67620182
+641,65,West US,West US Store 57,2019-01-30,Beauty/Health,Makeup,3,14,75813673
+642,87,West US,West US Store 57,2019-06-02,Furniture,Pool furniture,7,100,15248647
+643,33,West US,West US Store 57,2019-05-26,Furniture,Patio furniture,6,40,82439423
+644,87,West US,West US Store 57,2019-06-21,Electronics,Cell Phones,4,50,77727831
+645,90,West US,West US Store 57,2019-03-11,Clothing,Womens,6,25,65131694
+646,32,West US,West US Store 57,2019-04-19,Beauty/Health,Skincare,8,10,13620893
+647,63,West US,West US Store 57,2019-01-22,Furniture,Beds,6,40,55438369
+648,2,West US,West US Store 57,2019-05-18,Furniture,Indoor seating,6,40,74008972
+649,47,West US,West US Store 57,2019-04-06,Baby,Cribs,5,30,95762847
+650,44,West US,West US Store 57,2019-04-29,Furniture,Indoor tables,5,30,61064427
+651,92,West US,West US Store 57,2019-06-22,Furniture,Pool furniture,6,100,32225061
+652,43,West US,West US Store 57,2019-01-01,Clothing,Baby,5,12,92934733
+653,23,West US,West US Store 57,2019-01-07,Clothing,Kids,4,12,22215205
+654,69,West US,West US Store 57,2019-05-12,Beauty/Health,Haircare,12,6,68041291
+655,12,West US,West US Store 57,2019-01-04,Beauty/Health,Feminine Products,7,10,66577545
+656,11,West US,West US Store 57,2019-02-08,Beauty/Health,Oral care,6,10,82980090
+657,60,West US,West US Store 57,2019-06-28,Electronics,Speakers,4,300,45603537
+658,2,West US,West US Store 57,2019-06-24,Furniture,Patio furniture,12,75,69877878
+659,73,West US,West US Store 57,2019-01-07,Clothing,Swimwear,5,20,22760336
+660,38,West US,West US Store 57,2019-03-02,Baby,Diaper bags,4,5,78549866
+661,67,West US,West US Store 57,2019-05-11,Beauty/Health,Oral care,11,10,58972596
+662,51,West US,West US Store 57,2019-06-11,Beauty/Health,Makeup,8,10,70440807
+663,45,West US,West US Store 57,2019-06-29,Clothing,Baby,8,10,34523197
+664,48,West US,West US Store 57,2019-06-24,Baby,Baby toys,5,10,81899569
+665,6,West US,West US Store 57,2019-04-16,Clothing,Womens,12,12,62670923
+666,99,West US,West US Store 57,2019-04-06,Furniture,Indoor seating,4,75,70892742
+667,47,West US,West US Store 57,2019-01-29,Clothing,Kids,7,12,98435785
+668,16,West US,West US Store 57,2019-06-12,Furniture,Indoor tables,10,30,27814863
+669,66,West US,West US Store 57,2019-03-13,Furniture,Pool furniture,6,100,32329955
+670,35,West US,West US Store 57,2019-04-10,Electronics,Computers,3,200,80168738
+671,44,West US,West US Store 57,2019-04-01,Electronics,Speakers,3,200,44247421
+672,14,West US,West US Store 57,2019-05-21,Clothing,Womens,12,13,55392081
+673,40,West US,West US Store 57,2019-04-11,Clothing,Mens,8,25,49495418
+674,70,West US,West US Store 57,2019-06-22,Beauty/Health,Feminine Products,7,10,45865814
+675,39,West US,West US Store 57,2019-02-14,Clothing,Kids,3,20,33145175
+676,29,West US,West US Store 57,2019-07-09,Electronics,Tablets,4,50,24161812
+677,10,West US,West US Store 57,2019-06-06,Electronics,Headphones,4,100,43178677
+678,53,West US,West US Store 57,2019-02-18,Electronics,Tablets,4,200,66628719
+679,2,West US,West US Store 57,2019-02-06,Baby,Car seats,4,5,64067470
+680,84,West US,West US Store 57,2019-03-06,Beauty/Health,Haircare,6,10,59164813
+681,59,West US,West US Store 57,2019-03-21,Electronics,Headphones,4,50,61311978
+682,56,West US,West US Store 57,2019-01-09,Furniture,Indoor tables,6,30,96443524
+683,16,West US,West US Store 57,2019-07-10,Baby,Cribs,5,30,41811887
+684,43,West US,West US Store 57,2019-06-28,Furniture,Beds,5,75,12851184
+685,88,West US,West US Store 57,2019-04-17,Electronics,Tablets,3,50,15946433
+686,80,West US,West US Store 57,2019-01-17,Furniture,Indoor tables,4,15,68659370
+687,14,West US,West US Store 57,2019-07-04,Baby,Diaper bags,5,30,14210953
+688,95,West US,West US Store 57,2019-04-12,Baby,Diaper bags,6,10,63441570
+689,33,West US,West US Store 57,2019-05-01,Electronics,Headphones,4,300,35490560
+690,15,West US,West US Store 57,2019-06-09,Baby,Diaper bags,6,15,86263031
+691,44,West US,West US Store 57,2019-03-23,Furniture,Indoor tables,5,100,54731284
+692,17,West US,West US Store 57,2019-05-10,Electronics,Cell Phones,3,200,50122845
+693,31,West US,West US Store 57,2019-04-27,Electronics,Tablets,4,300,47284327
+694,75,West US,West US Store 57,2019-02-18,Beauty/Health,Bath,7,10,37974317
+695,4,West US,West US Store 57,2019-02-03,Beauty/Health,Bath,6,10,34969535
+696,35,West US,West US Store 57,2019-06-08,Electronics,Tablets,3,100,25004641
+697,67,West US,West US Store 57,2019-01-21,Electronics,Headphones,4,100,73749507
+698,54,West US,West US Store 57,2019-01-01,Clothing,Kids,4,25,25142494
+699,88,West US,West US Store 57,2019-03-01,Furniture,Pool furniture,7,100,35159319
+700,22,West US,West US Store 57,2019-01-08,Electronics,Headphones,4,300,84514690
+701,39,West US,West US Store 57,2019-07-08,Beauty/Health,Feminine Products,7,10,36917317
+702,32,West US,West US Store 57,2019-05-18,Furniture,Pool furniture,7,15,96941052
+703,75,West US,West US Store 57,2019-01-25,Clothing,Baby,7,13,44331738
+704,42,West US,West US Store 57,2019-03-06,Beauty/Health,Makeup,4,6,51000434
+705,13,West US,West US Store 57,2019-02-05,Furniture,Pool furniture,6,30,25896807
+706,70,West US,West US Store 57,2019-04-20,Electronics,Speakers,4,200,19221541
+707,101,West US,West US Store 57,2019-05-11,Beauty/Health,Fragrances,12,10,92470466
+708,97,West US,West US Store 57,2019-03-13,Furniture,Pool furniture,5,15,80753003
+709,69,West US,West US Store 57,2019-02-13,Beauty/Health,Makeup,6,14,60635337
+710,53,West US,West US Store 57,2019-03-11,Electronics,Televisions,3,50,59663039
+711,43,West US,West US Store 57,2019-04-04,Beauty/Health,Makeup,5,10,24422908
+712,84,West US,West US Store 57,2019-02-08,Clothing,Womens,4,13,80640975
+713,67,West US,West US Store 57,2019-04-12,Furniture,Beds,12,15,10881159
+714,5,West US,West US Store 57,2019-06-01,Furniture,Pool furniture,7,30,84880620
+715,64,West US,West US Store 57,2019-02-03,Baby,Car seats,4,5,87835746
+716,45,West US,West US Store 57,2019-03-15,Clothing,Baby,3,12,27214905
+717,30,West US,West US Store 57,2019-05-01,Baby,Baby toys,8,30,58432639
+718,66,West US,West US Store 57,2019-04-05,Baby,Diaper bags,7,30,92656756
+719,60,West US,West US Store 57,2019-02-04,Furniture,Indoor tables,4,30,22510666
+720,18,West US,West US Store 57,2019-05-15,Beauty/Health,Oral care,8,10,20714645
+721,27,West US,West US Store 57,2019-03-14,Baby,Car seats,3,10,35295264
+722,57,West US,West US Store 57,2019-03-25,Beauty/Health,Bath,7,15,63161789
+723,69,West US,West US Store 57,2019-06-16,Beauty/Health,Feminine Products,5,15,46732113
+724,86,West US,West US Store 57,2019-01-02,Furniture,Indoor seating,4,75,74417180
+725,57,West US,West US Store 57,2019-01-05,Electronics,Cell Phones,4,300,65421654
+726,62,West US,West US Store 57,2019-05-14,Furniture,Pool furniture,9,100,42436510
+727,7,West US,West US Store 57,2019-04-25,Beauty/Health,Makeup,9,10,94599118
+728,54,West US,West US Store 57,2019-02-08,Clothing,Swimwear,5,20,48785280
+729,91,West US,West US Store 57,2019-03-14,Baby,Diaper bags,3,30,65194205
+730,20,West US,West US Store 57,2019-05-10,Beauty/Health,Haircare,12,15,32847865
+731,92,West US,West US Store 57,2019-04-01,Baby,Diapers,4,12,36617103
+732,41,West US,West US Store 57,2019-06-08,Furniture,Indoor seating,6,100,86669546
+733,73,West US,West US Store 57,2019-06-01,Clothing,Mens,12,25,30046433
+734,84,West US,West US Store 57,2019-05-18,Beauty/Health,Makeup,7,6,20139246
+735,9,West US,West US Store 57,2019-06-03,Clothing,Mens,11,20,23332189
+736,56,West US,West US Store 57,2019-03-16,Furniture,Beds,5,15,54825613
+737,31,West US,West US Store 57,2019-03-25,Furniture,Indoor seating,3,15,16572245
+738,11,West US,West US Store 57,2019-03-03,Clothing,Womens,4,13,11812161
+739,84,West US,West US Store 57,2019-03-07,Baby,Diaper bags,4,30,69930157
+740,47,West US,West US Store 57,2019-05-20,Electronics,Headphones,4,50,79912104
+741,86,West US,West US Store 57,2019-06-02,Clothing,Mens,11,13,96684693
+742,95,West US,West US Store 57,2019-01-08,Clothing,Womens,5,12,61822041
+743,43,West US,West US Store 57,2019-03-06,Electronics,Headphones,4,300,73704264
+744,42,West US,West US Store 57,2019-05-22,Furniture,Beds,11,75,29748719
+745,39,West US,West US Store 57,2019-05-20,Baby,Car seats,7,30,79395853
+746,34,West US,West US Store 57,2019-03-13,Clothing,Kids,6,10,97000961
+747,24,West US,West US Store 57,2019-01-19,Furniture,Patio furniture,6,100,10034545
+748,23,West US,West US Store 57,2019-06-11,Clothing,Baby,12,20,78595083
+749,24,West US,West US Store 57,2019-01-14,Beauty/Health,Fragrances,4,10,83523792
+750,87,West US,West US Store 57,2019-05-22,Clothing,Kids,9,12,98553074
+751,40,West US,West US Store 57,2019-02-04,Baby,Car seats,6,15,65653222
+752,15,West US,West US Store 57,2019-03-22,Clothing,Womens,7,12,95208619
+753,30,West US,West US Store 57,2019-05-16,Beauty/Health,Oral care,10,10,48614068
+754,33,West US,West US Store 57,2019-03-01,Furniture,Indoor seating,5,75,73587811
+755,76,West US,West US Store 57,2019-04-17,Beauty/Health,Makeup,10,10,41312615
+756,55,West US,West US Store 57,2019-06-07,Baby,Cribs,7,15,44289487
+757,31,West US,West US Store 57,2019-05-10,Beauty/Health,Makeup,8,15,41947004
+758,23,West US,West US Store 57,2019-01-31,Clothing,Womens,5,12,54701852
+759,80,West US,West US Store 57,2019-07-14,Beauty/Health,Skincare,6,10,51974429
+760,66,West US,West US Store 57,2019-04-02,Furniture,Patio furniture,6,30,54520274
+761,53,West US,West US Store 57,2019-07-07,Electronics,Headphones,3,100,95553252
+762,45,West US,West US Store 57,2019-03-21,Baby,Cribs,5,12,38787855
+763,7,West US,West US Store 57,2019-03-11,Beauty/Health,Feminine Products,7,6,41403445
+764,91,West US,West US Store 57,2019-06-02,Furniture,Patio furniture,11,40,44798784
+765,1,West US,West US Store 57,2019-02-13,Furniture,Pool furniture,7,75,51247262
+766,37,West US,West US Store 57,2019-02-02,Beauty/Health,Makeup,5,10,93458674
+767,8,West US,West US Store 57,2019-04-12,Baby,Diapers,10,30,98663499
+768,85,West US,West US Store 57,2019-04-26,Beauty/Health,Bath,6,14,19671254
+769,82,West US,West US Store 57,2019-01-21,Baby,Car seats,3,30,80734472
+770,77,West US,West US Store 57,2019-02-21,Baby,Diapers,4,12,93630883
+771,78,West US,West US Store 57,2019-07-02,Clothing,Womens,5,25,70623152
+772,98,West US,West US Store 57,2019-06-22,Clothing,Shoes,6,12,81074354
+773,77,West US,West US Store 57,2019-04-23,Beauty/Health,Bath,7,6,27809736
+774,61,West US,West US Store 57,2019-03-29,Electronics,Televisions,3,300,78990557
+775,69,West US,West US Store 57,2019-03-20,Electronics,Speakers,3,100,89357293
+776,38,West US,West US Store 57,2019-06-06,Furniture,Indoor seating,6,40,35941620
+777,83,West US,West US Store 57,2019-03-23,Furniture,Beds,5,75,65090137
+778,34,West US,West US Store 57,2019-05-11,Furniture,Beds,8,100,97075087
+779,12,West US,West US Store 57,2019-01-04,Baby,Cribs,4,5,36827378
+780,48,West US,West US Store 57,2019-05-27,Electronics,Headphones,4,100,48857327
+781,68,West US,West US Store 57,2019-01-30,Clothing,Shoes,5,25,99254229
+782,23,West US,West US Store 57,2019-06-12,Beauty/Health,Oral care,9,14,57939567
+783,84,West US,West US Store 57,2019-05-10,Clothing,Shoes,6,12,14755974
+784,65,West US,West US Store 57,2019-04-29,Electronics,Televisions,3,100,81695243
+785,4,West US,West US Store 57,2019-07-11,Beauty/Health,Makeup,5,14,56178331
+786,74,West US,West US Store 57,2019-05-13,Electronics,Cell Phones,3,100,19847258
+787,29,West US,West US Store 57,2019-01-12,Clothing,Swimwear,5,13,93334532
+788,65,West US,West US Store 57,2019-07-05,Clothing,Womens,9,20,47270845
+789,72,West US,West US Store 57,2019-05-27,Baby,Diaper bags,11,15,67070430
+790,97,West US,West US Store 57,2019-02-21,Beauty/Health,Fragrances,5,14,78105242
+791,80,West US,West US Store 57,2019-02-21,Beauty/Health,Oral care,7,10,11147586
+792,84,West US,West US Store 57,2019-05-22,Furniture,Indoor seating,6,100,47516461
+793,90,West US,West US Store 57,2019-03-27,Electronics,Tablets,3,50,67093223
+794,65,West US,West US Store 57,2019-04-23,Furniture,Beds,9,40,80113757
+795,101,West US,West US Store 57,2019-03-03,Electronics,Speakers,3,200,79477153
+796,27,West US,West US Store 57,2019-04-06,Furniture,Patio furniture,4,15,61096576
+797,29,West US,West US Store 57,2019-03-04,Baby,Baby toys,6,30,49602625
+798,35,West US,West US Store 57,2019-07-10,Clothing,Baby,5,13,90101848
+799,92,West US,West US Store 57,2019-03-08,Furniture,Patio furniture,3,40,32561846
+800,71,West US,West US Store 57,2019-06-13,Baby,Strollers,9,5,29729620
+801,77,West US,West US Store 57,2019-05-26,Baby,Strollers,7,15,82737866
+802,75,West US,West US Store 57,2019-05-02,Electronics,Speakers,3,100,46868343
+803,23,West US,West US Store 57,2019-07-12,Beauty/Health,Fragrances,5,10,49079803
+804,48,West US,West US Store 57,2019-07-16,Furniture,Indoor tables,11,30,39334636
+805,101,West US,West US Store 57,2019-04-06,Beauty/Health,Bath,7,10,84948068
+806,73,West US,West US Store 57,2019-02-12,Furniture,Pool furniture,7,40,28265878
+807,43,West US,West US Store 57,2019-04-07,Baby,Strollers,3,30,45384438
+808,47,West US,West US Store 57,2019-05-17,Furniture,Beds,12,40,78225357
+809,83,West US,West US Store 57,2019-04-21,Electronics,Headphones,4,100,46582617
+810,63,West US,West US Store 57,2019-03-26,Clothing,Mens,5,20,20513265
+811,90,West US,West US Store 57,2019-01-03,Beauty/Health,Haircare,6,10,42043112
+812,57,West US,West US Store 57,2019-03-02,Clothing,Mens,7,13,74773489
+813,59,West US,West US Store 57,2019-06-28,Baby,Diaper bags,9,15,99617319
+814,31,West US,West US Store 57,2019-02-18,Clothing,Womens,5,10,24994349
+815,40,West US,West US Store 57,2019-02-01,Clothing,Mens,6,12,62839713
+816,97,West US,West US Store 57,2019-05-08,Beauty/Health,Fragrances,6,10,21190397
+817,87,West US,West US Store 57,2019-05-08,Electronics,Computers,3,100,17309389
+818,11,West US,West US Store 57,2019-02-04,Furniture,Indoor seating,4,40,71209151
+819,78,West US,West US Store 57,2019-05-18,Electronics,Speakers,3,50,22215782
+820,75,West US,West US Store 57,2019-03-01,Beauty/Health,Oral care,3,10,56765930
+821,84,West US,West US Store 57,2019-05-11,Clothing,Kids,5,25,43159027
+822,79,West US,West US Store 57,2019-05-13,Furniture,Beds,9,40,58593977
+823,34,West US,West US Store 57,2019-05-06,Baby,Car seats,7,10,85788048
+824,91,West US,West US Store 57,2019-01-31,Electronics,Cell Phones,4,50,31336773
+825,38,West US,West US Store 57,2019-01-17,Electronics,Televisions,4,200,39874653
+826,53,West US,West US Store 57,2019-02-20,Baby,Baby toys,4,15,84027437
+827,47,West US,West US Store 57,2019-01-09,Beauty/Health,Bath,7,10,38515386
+828,68,West US,West US Store 57,2019-04-19,Beauty/Health,Skincare,11,6,52133456
+829,19,West US,West US Store 57,2019-06-02,Baby,Diaper bags,7,30,36007122
+830,78,West US,West US Store 57,2019-03-12,Beauty/Health,Oral care,4,10,30941922
+831,55,West US,West US Store 57,2019-04-14,Furniture,Patio furniture,9,100,31754876
+832,21,West US,West US Store 57,2019-02-06,Clothing,Swimwear,3,12,31467353
+833,40,West US,West US Store 57,2019-03-24,Furniture,Indoor tables,6,40,38146500
+834,32,West US,West US Store 57,2019-06-24,Clothing,Mens,8,13,91150589
+835,42,West US,West US Store 57,2019-01-02,Electronics,Cell Phones,3,200,36659370
+836,71,West US,West US Store 57,2019-03-23,Electronics,Tablets,3,200,14053107
+837,81,West US,West US Store 57,2019-07-15,Beauty/Health,Skincare,12,14,56028902
+838,94,West US,West US Store 57,2019-04-19,Furniture,Indoor seating,10,40,97488498
+839,23,West US,West US Store 57,2019-06-02,Clothing,Mens,8,25,98319965
+840,63,West US,West US Store 57,2019-03-22,Electronics,Computers,3,200,29422346
+841,68,West US,West US Store 57,2019-06-12,Baby,Baby toys,10,15,91336314
+842,75,West US,West US Store 57,2019-06-12,Beauty/Health,Haircare,7,10,60078766
+843,75,West US,West US Store 57,2019-06-03,Clothing,Baby,5,20,98473281
+844,56,West US,West US Store 57,2019-01-22,Electronics,Headphones,4,200,57879905
+845,75,West US,West US Store 57,2019-06-01,Electronics,Tablets,3,300,13772930
+846,91,West US,West US Store 57,2019-02-21,Beauty/Health,Fragrances,6,14,75782701
+847,72,West US,West US Store 57,2019-04-03,Electronics,Televisions,4,200,90441492
+848,82,West US,West US Store 57,2019-01-23,Clothing,Shoes,3,25,56854518
+849,87,West US,West US Store 57,2019-05-20,Electronics,Tablets,3,50,21272453
+850,22,West US,West US Store 57,2019-06-17,Electronics,Speakers,4,50,95939670
+851,50,West US,West US Store 57,2019-02-14,Furniture,Beds,6,15,58861455
+852,94,West US,West US Store 57,2019-03-17,Baby,Cribs,3,10,99778383
+853,61,West US,West US Store 57,2019-03-23,Beauty/Health,Skincare,6,10,31152263
+854,46,West US,West US Store 57,2019-01-05,Furniture,Beds,6,75,44161767
+855,3,West US,West US Store 57,2019-01-21,Baby,Strollers,5,5,77079282
+856,59,West US,West US Store 57,2019-04-06,Furniture,Indoor seating,6,100,38135551
+857,28,West US,West US Store 57,2019-03-14,Furniture,Pool furniture,5,30,96742451
+858,4,West US,West US Store 57,2019-05-04,Clothing,Baby,7,10,95633992
+859,56,West US,West US Store 57,2019-03-28,Beauty/Health,Oral care,6,15,95080206
+860,100,West US,West US Store 57,2019-07-05,Furniture,Beds,5,100,29064425
+861,89,West US,West US Store 57,2019-06-23,Furniture,Beds,5,100,18470542
+862,30,West US,West US Store 57,2019-01-28,Electronics,Headphones,4,200,13317057
+863,11,West US,West US Store 57,2019-01-08,Furniture,Pool furniture,7,100,88076713
+864,75,West US,West US Store 57,2019-04-03,Beauty/Health,Fragrances,7,15,51882223
+865,10,West US,West US Store 57,2019-07-09,Electronics,Cell Phones,4,200,78886993
+866,72,West US,West US Store 57,2019-03-24,Beauty/Health,Makeup,5,10,98326081
+867,7,West US,West US Store 57,2019-05-13,Electronics,Computers,3,100,11667547
+868,26,West US,West US Store 57,2019-06-28,Beauty/Health,Makeup,9,10,85812094
+869,54,West US,West US Store 57,2019-06-20,Baby,Diaper bags,8,10,49787362
+870,3,West US,West US Store 57,2019-07-12,Baby,Cribs,10,10,52841136
+871,65,West US,West US Store 57,2019-03-11,Electronics,Tablets,4,100,12148003
+872,51,West US,West US Store 57,2019-04-29,Beauty/Health,Haircare,12,10,36483760
+873,22,West US,West US Store 57,2019-06-23,Furniture,Pool furniture,10,75,54722528
+874,95,West US,West US Store 57,2019-06-05,Beauty/Health,Skincare,12,15,25736480
+875,42,West US,West US Store 57,2019-04-05,Baby,Strollers,3,15,59142198
+876,77,West US,West US Store 57,2019-05-03,Baby,Diaper bags,11,15,39403665
+877,97,West US,West US Store 57,2019-01-30,Furniture,Indoor seating,6,40,93573989
+878,79,West US,West US Store 57,2019-02-14,Furniture,Indoor seating,7,40,50812796
+879,39,West US,West US Store 57,2019-06-09,Baby,Diaper bags,9,10,68237881
+880,49,West US,West US Store 57,2019-06-18,Baby,Baby toys,12,30,97403717
+881,92,West US,West US Store 57,2019-05-21,Clothing,Swimwear,6,10,87908153
+882,27,West US,West US Store 57,2019-01-25,Furniture,Indoor tables,3,30,84381988
+883,87,West US,West US Store 57,2019-03-04,Beauty/Health,Skincare,4,6,87848898
+884,43,West US,West US Store 57,2019-02-03,Beauty/Health,Skincare,3,14,90897320
+885,1,West US,West US Store 57,2019-07-16,Beauty/Health,Bath,11,10,48988802
+886,25,West US,West US Store 57,2019-03-11,Furniture,Indoor seating,6,40,87688874
+887,73,West US,West US Store 57,2019-04-29,Electronics,Televisions,3,50,11577332
+888,74,West US,West US Store 57,2019-02-09,Furniture,Indoor seating,4,40,21992978
+889,10,West US,West US Store 57,2019-04-17,Baby,Diapers,7,5,97548240
+890,17,West US,West US Store 57,2019-05-24,Baby,Baby toys,5,30,14058625
+891,4,West US,West US Store 57,2019-04-24,Furniture,Patio furniture,8,15,55738397
+892,24,West US,West US Store 57,2019-02-04,Baby,Baby toys,3,15,49991396
+893,63,West US,West US Store 57,2019-02-05,Baby,Baby toys,6,5,20160006
+894,42,West US,West US Store 57,2019-05-24,Clothing,Swimwear,5,13,74518191
+895,90,West US,West US Store 57,2019-03-11,Electronics,Televisions,4,200,99521973
+896,64,West US,West US Store 57,2019-03-20,Electronics,Tablets,3,200,27732864
+897,88,West US,West US Store 57,2019-06-02,Furniture,Indoor seating,11,15,20626378
+898,19,West US,West US Store 57,2019-02-19,Beauty/Health,Bath,4,10,74862416
+899,36,West US,West US Store 57,2019-07-15,Furniture,Patio furniture,7,15,27657503
+900,14,West US,West US Store 57,2019-03-29,Furniture,Pool furniture,4,40,48604659
+901,54,West US,West US Store 57,2019-03-07,Baby,Strollers,3,30,63839612
+902,55,West US,West US Store 57,2019-02-25,Electronics,Televisions,4,50,93303073
+903,79,West US,West US Store 57,2019-02-07,Furniture,Beds,6,30,28632975
+904,91,West US,West US Store 57,2019-05-09,Beauty/Health,Fragrances,5,14,60590712
+905,85,West US,West US Store 57,2019-01-11,Electronics,Tablets,3,200,15950261
+906,48,West US,West US Store 57,2019-01-24,Beauty/Health,Oral care,4,10,67725849
+907,101,West US,West US Store 57,2019-07-01,Clothing,Shoes,12,12,93061065
+908,98,West US,West US Store 57,2019-03-14,Beauty/Health,Bath,3,10,93989915
+909,26,West US,West US Store 57,2019-07-02,Beauty/Health,Bath,12,10,64302302
+910,89,West US,West US Store 57,2019-01-04,Electronics,Televisions,4,100,78007676
+911,20,West US,West US Store 57,2019-04-18,Baby,Strollers,6,30,65247206
+912,70,West US,West US Store 57,2019-03-20,Beauty/Health,Haircare,4,14,57364879
+913,92,West US,West US Store 57,2019-05-31,Electronics,Televisions,3,200,10404866
+914,55,West US,West US Store 57,2019-02-06,Beauty/Health,Feminine Products,5,10,45774087
+915,97,West US,West US Store 57,2019-02-28,Clothing,Kids,4,25,74351732
+916,85,West US,West US Store 57,2019-02-11,Furniture,Indoor tables,6,30,55776499
+917,16,West US,West US Store 57,2019-03-21,Beauty/Health,Feminine Products,6,6,81956322
+918,45,West US,West US Store 57,2019-03-20,Electronics,Computers,4,200,32952431
+919,48,West US,West US Store 57,2019-01-11,Electronics,Computers,4,200,64024401
+920,51,West US,West US Store 57,2019-01-31,Electronics,Headphones,4,300,39848865
+921,1,West US,West US Store 57,2019-04-28,Electronics,Speakers,4,50,88099794
+922,38,West US,West US Store 57,2019-07-15,Electronics,Computers,4,100,15920163
+923,42,West US,West US Store 57,2019-02-10,Beauty/Health,Skincare,5,10,91835539
+924,51,West US,West US Store 57,2019-03-24,Clothing,Womens,3,25,74982405
+925,79,West US,West US Store 57,2019-02-15,Electronics,Speakers,4,100,80828987
+926,14,West US,West US Store 57,2019-04-04,Baby,Diaper bags,7,30,88067655
+927,73,West US,West US Store 57,2019-01-24,Beauty/Health,Oral care,7,10,76427335
+928,43,West US,West US Store 57,2019-03-05,Baby,Car seats,6,15,60426622
+929,67,West US,West US Store 57,2019-03-24,Beauty/Health,Feminine Products,4,10,74260848
+930,99,West US,West US Store 57,2019-02-01,Electronics,Computers,4,200,52723491
+931,80,West US,West US Store 57,2019-05-03,Electronics,Cell Phones,3,300,38046449
+932,29,West US,West US Store 57,2019-01-28,Baby,Car seats,7,15,65776072
+933,55,West US,West US Store 57,2019-04-26,Electronics,Computers,4,300,93018021
+934,91,West US,West US Store 57,2019-02-17,Baby,Diapers,6,15,39676452
+935,99,West US,West US Store 57,2019-01-24,Beauty/Health,Feminine Products,5,10,20285611
+936,36,West US,West US Store 57,2019-06-07,Beauty/Health,Oral care,12,10,68661918
+937,49,West US,West US Store 57,2019-03-29,Beauty/Health,Makeup,4,6,88746378
+938,8,West US,West US Store 57,2019-01-05,Beauty/Health,Haircare,6,15,11521732
+939,40,West US,West US Store 57,2019-07-02,Beauty/Health,Bath,9,10,15146495
+940,61,West US,West US Store 57,2019-07-05,Electronics,Computers,4,50,52067542
+941,61,West US,West US Store 57,2019-04-02,Beauty/Health,Haircare,5,6,90260839
+942,74,West US,West US Store 57,2019-06-10,Baby,Car seats,9,15,27389286
+943,23,West US,West US Store 57,2019-04-13,Clothing,Mens,11,25,72467599
+944,8,West US,West US Store 57,2019-07-05,Furniture,Indoor tables,6,75,58529384
+945,97,West US,West US Store 57,2019-02-10,Baby,Diapers,5,10,16654917
+946,43,West US,West US Store 57,2019-05-25,Furniture,Beds,5,40,82937023
+947,45,West US,West US Store 57,2019-07-06,Furniture,Patio furniture,8,15,11239969
+948,90,West US,West US Store 57,2019-07-02,Beauty/Health,Haircare,6,10,39250877
+949,8,West US,West US Store 57,2019-06-11,Baby,Cribs,11,5,49499101
+950,47,West US,West US Store 57,2019-07-07,Clothing,Mens,7,13,96978738
+951,72,West US,West US Store 57,2019-03-22,Clothing,Kids,7,25,89987153
+952,76,West US,West US Store 57,2019-01-21,Beauty/Health,Skincare,3,10,28955901
+953,101,West US,West US Store 57,2019-04-25,Baby,Diapers,12,12,41224894
+954,67,West US,West US Store 57,2019-05-16,Clothing,Womens,8,12,34013413
+955,28,West US,West US Store 57,2019-03-12,Beauty/Health,Oral care,5,10,27214563
+956,91,West US,West US Store 57,2019-04-02,Beauty/Health,Feminine Products,5,10,72504026
+957,42,West US,West US Store 57,2019-07-10,Electronics,Computers,4,100,80758123
+958,77,West US,West US Store 57,2019-07-02,Electronics,Tablets,4,100,82267243
+959,53,West US,West US Store 57,2019-05-14,Furniture,Indoor tables,12,40,57553592
+960,1,West US,West US Store 57,2019-04-22,Furniture,Indoor seating,9,15,89552845
+961,25,West US,West US Store 57,2019-06-11,Furniture,Beds,6,15,60312633
+962,52,West US,West US Store 57,2019-02-05,Clothing,Shoes,7,12,94801831
+963,22,West US,West US Store 57,2019-05-13,Beauty/Health,Makeup,8,10,96421830
+964,79,West US,West US Store 57,2019-04-16,Furniture,Patio furniture,9,30,39355449
+965,21,West US,West US Store 57,2019-06-14,Furniture,Pool furniture,5,40,65436203
+966,63,West US,West US Store 57,2019-04-24,Beauty/Health,Bath,10,15,70152168
+967,7,West US,West US Store 57,2019-01-18,Furniture,Patio furniture,4,40,73801071
+968,71,West US,West US Store 57,2019-05-25,Furniture,Indoor tables,6,100,26125952
+969,22,West US,West US Store 57,2019-02-02,Beauty/Health,Haircare,4,10,83412291
+970,97,West US,West US Store 57,2019-03-09,Clothing,Swimwear,6,25,89296829
+971,49,West US,West US Store 57,2019-01-24,Beauty/Health,Haircare,6,6,50685214
+972,47,West US,West US Store 57,2019-05-31,Baby,Car seats,5,12,82196132
+973,12,West US,West US Store 57,2019-05-07,Electronics,Computers,4,200,89681498
+974,84,West US,West US Store 57,2019-05-25,Baby,Baby toys,8,12,37368612
+975,84,West US,West US Store 57,2019-01-11,Furniture,Patio furniture,3,75,10920750
+976,29,West US,West US Store 57,2019-04-30,Beauty/Health,Makeup,5,10,87680214
+977,96,West US,West US Store 57,2019-02-05,Furniture,Indoor seating,5,40,73280999
+978,43,West US,West US Store 57,2019-05-01,Furniture,Indoor seating,12,15,44471177
+979,10,West US,West US Store 57,2019-04-21,Electronics,Headphones,4,300,89155950
+980,45,West US,West US Store 57,2019-03-18,Furniture,Beds,3,40,73444026
+981,69,West US,West US Store 57,2019-07-13,Baby,Diaper bags,10,5,97406723
+982,69,West US,West US Store 57,2019-01-18,Beauty/Health,Fragrances,3,14,16005610
+983,9,West US,West US Store 57,2019-02-25,Beauty/Health,Skincare,6,6,91046376
+984,17,West US,West US Store 57,2019-01-03,Beauty/Health,Oral care,5,15,30440517
+985,26,West US,West US Store 57,2019-06-08,Baby,Diapers,11,5,12890820
+986,20,West US,West US Store 57,2019-06-30,Furniture,Indoor seating,10,30,48667773
+987,76,West US,West US Store 57,2019-03-20,Electronics,Tablets,3,100,28856214
+988,51,West US,West US Store 57,2019-01-12,Beauty/Health,Bath,5,10,26036707
+989,96,West US,West US Store 57,2019-01-12,Electronics,Tablets,4,50,35569282
+990,64,West US,West US Store 57,2019-01-04,Furniture,Indoor tables,4,75,85700568
+991,62,West US,West US Store 57,2019-06-21,Baby,Car seats,5,5,29453968
+992,20,West US,West US Store 57,2019-01-08,Clothing,Womens,5,20,31495754
+993,47,West US,West US Store 57,2019-03-28,Electronics,Computers,4,200,95615468
+994,35,West US,West US Store 57,2019-06-10,Beauty/Health,Makeup,8,10,41160156
+995,32,West US,West US Store 57,2019-06-07,Furniture,Pool furniture,8,30,85685836
+996,31,West US,West US Store 57,2019-02-13,Clothing,Swimwear,7,10,30622201
+997,38,West US,West US Store 57,2019-01-20,Electronics,Computers,4,100,65502166
+998,74,West US,West US Store 57,2019-03-01,Beauty/Health,Skincare,5,10,30863560
+999,39,West US,West US Store 57,2019-01-07,Beauty/Health,Oral care,6,10,73715875
+1000,4,West US,West US Store 57,2019-05-17,Clothing,Shoes,7,25,53673756
+1001,77,West US,West US Store 57,2019-05-25,Electronics,Computers,3,200,32677940
+1002,21,West US,West US Store 57,2019-05-15,Clothing,Mens,10,10,70224201
+1003,15,West US,West US Store 57,2019-06-30,Beauty/Health,Bath,9,10,26131475
+1004,72,West US,West US Store 57,2019-03-08,Furniture,Beds,7,30,96269261
+1005,4,West US,West US Store 57,2019-07-16,Electronics,Televisions,4,50,19626953
+1006,81,West US,West US Store 57,2019-07-16,Furniture,Indoor seating,12,15,68239735
+1007,89,West US,West US Store 57,2019-03-11,Electronics,Headphones,4,100,21303877
+1008,69,West US,West US Store 57,2019-06-15,Baby,Diapers,7,5,72740516
+1009,1,West US,West US Store 57,2019-05-18,Electronics,Speakers,4,50,29853219
+1010,25,West US,West US Store 57,2019-03-04,Baby,Car seats,5,15,66903772
+1011,25,West US,West US Store 57,2019-06-26,Beauty/Health,Fragrances,7,10,83668767
+1012,93,West US,West US Store 57,2019-05-23,Electronics,Speakers,3,200,11135514
+1013,9,West US,West US Store 57,2019-04-01,Furniture,Indoor seating,6,100,45673698
+1014,12,West US,West US Store 57,2019-04-25,Beauty/Health,Feminine Products,7,14,41643429
+1015,85,West US,West US Store 57,2019-04-23,Baby,Car seats,5,12,65747004
+1016,22,West US,West US Store 57,2019-05-19,Furniture,Patio furniture,10,15,50104369
+1017,11,West US,West US Store 57,2019-02-03,Furniture,Patio furniture,5,75,85942828
+1018,76,West US,West US Store 57,2019-02-04,Beauty/Health,Makeup,3,14,26094911
+1019,29,West US,West US Store 57,2019-06-11,Clothing,Shoes,6,25,83547477
+1020,32,West US,West US Store 57,2019-01-08,Baby,Car seats,7,30,75030387
+1021,85,West US,West US Store 57,2019-04-20,Furniture,Beds,9,30,73723684
+1022,44,West US,West US Store 57,2019-03-10,Electronics,Speakers,4,50,94432363
+1023,41,West US,West US Store 57,2019-05-19,Baby,Baby toys,9,10,89448971
+1024,63,West US,West US Store 57,2019-04-08,Beauty/Health,Bath,7,10,21867932
+1025,33,West US,West US Store 57,2019-01-13,Baby,Baby toys,3,30,46052589
+1026,4,West US,West US Store 57,2019-06-13,Furniture,Beds,7,100,31396539
+1027,78,West US,West US Store 57,2019-05-17,Electronics,Televisions,4,200,52627281
+1028,34,West US,West US Store 57,2019-02-10,Electronics,Cell Phones,4,200,43458952
+1029,30,West US,West US Store 57,2019-02-21,Baby,Baby toys,7,10,15010993
+1030,6,West US,West US Store 57,2019-06-15,Baby,Car seats,10,5,10754466
+1031,92,West US,West US Store 57,2019-02-09,Baby,Diapers,3,15,37117707
+1032,82,West US,West US Store 57,2019-03-12,Furniture,Pool furniture,3,30,24496668
+1033,33,West US,West US Store 57,2019-04-12,Baby,Cribs,5,15,42842575
+1034,83,West US,West US Store 57,2019-05-11,Clothing,Womens,9,12,88707035
+1035,55,West US,West US Store 57,2019-06-21,Electronics,Headphones,4,50,63301927
+1036,21,West US,West US Store 57,2019-03-17,Beauty/Health,Makeup,6,15,26371104
+1037,74,West US,West US Store 57,2019-01-19,Clothing,Mens,7,10,85001731
+1038,35,West US,West US Store 57,2019-07-02,Furniture,Beds,7,30,78398203
+1039,11,West US,West US Store 57,2019-06-19,Electronics,Televisions,3,200,89181685
+1040,86,West US,West US Store 57,2019-03-12,Furniture,Beds,4,30,69740560
+1041,24,West US,West US Store 57,2019-06-29,Beauty/Health,Fragrances,5,10,55396941
+1042,99,West US,West US Store 57,2019-01-08,Clothing,Womens,6,25,38637935
+1043,20,West US,West US Store 57,2019-05-01,Furniture,Patio furniture,8,75,93740511
