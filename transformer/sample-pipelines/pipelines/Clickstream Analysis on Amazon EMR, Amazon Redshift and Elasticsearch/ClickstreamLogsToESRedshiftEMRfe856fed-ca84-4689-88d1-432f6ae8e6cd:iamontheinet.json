@@ -52,31 +52,31 @@
     "name" : "constants",
     "value" : [ {
       "key" : "EMR_STAGING",
-      "value" : "s3://dash-streamsets-uswest"
+      "value" : ""
     }, {
       "key" : "EMR_CLUSTER_ID",
-      "value" : "j-2VSPKC090KLB7"
+      "value" : ""
     }, {
       "key" : "AWS_DATA_BUCKET",
-      "value" : "s3a://dash-streamsets-uswest/data/clickstream"
+      "value" : ""
     }, {
       "key" : "ES_URL",
-      "value" : "http://10.10.48.70"
+      "value" : ""
     }, {
       "key" : "REDSHIFT_ENDPOINT",
-      "value" : "dash-redshift.cehpvqgtpwpm.us-west-2.redshift.amazonaws.com:5439/database"
+      "value" : ""
     }, {
       "key" : "AWS_TEMP_BUCKET",
-      "value" : "s3a://dash-streamsets-uswest/temp"
+      "value" : ""
     }, {
       "key" : "ES_INDEX",
-      "value" : "clickstream_data_2"
+      "value" : ""
     }, {
       "key" : "REDSHIFT_USER",
-      "value" : "dash"
+      "value" : ""
     }, {
       "key" : "REDSHIFT_SCHEMA",
-      "value" : "dash_schema"
+      "value" : ""
     } ]
   }, {
     "name" : "badRecordsHandling",
@@ -1471,11 +1471,11 @@
     "eventLanes" : [ ]
   },
   "metadata" : {
-    "dpm.pipeline.rules.id" : "efdc1d36-f707-4ff6-af72-81dbaef3bff2:iamontheinet",
-    "dpm.pipeline.id" : "9ae24525-8444-4125-aa33-f17251d9b7fe:iamontheinet",
-    "dpm.base.url" : "https://trailer.streamsetscloud.com",
-    "dpm.pipeline.version" : "8",
-    "dpm.pipeline.commit.id" : "fe856fed-ca84-4689-88d1-432f6ae8e6cd:iamontheinet"
+    "dpm.pipeline.rules.id" : "",
+    "dpm.pipeline.id" : "",
+    "dpm.base.url" : "",
+    "dpm.pipeline.version" : "",
+    "dpm.pipeline.commit.id" : ""
   },
   "startEventStages" : [ ],
   "stopEventStages" : [ ],
