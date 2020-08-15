@@ -15,8 +15,8 @@ Prerequisites
 Setup
 ---------------------
 
-* [Download and import the pipeline](https://github.com/iamontheinet/pipeline-library/blob/master/transformer/sample-pipelines/pipelines/Clickstream%20Analysis%20on%20Amazon%20EMR%2C%20Amazon%20Redshift%20and%20Elasticsearch/ClickstreamLogsToESRedshiftEMRfe856fed-ca84-4689-88d1-432f6ae8e6cd:iamontheinet.json) into your instance of Transformer
-* [Download the sample dataset](https://github.com/iamontheinet/pipeline-library/blob/master/transformer/sample-pipelines/pipelines/Clickstream%20Analysis%20on%20Amazon%20EMR%2C%20Amazon%20Redshift%20and%20Elasticsearch/Schematic_Log.csv) and upload it to your Amazon S3 bucket
+* [Download and import the pipeline](https://github.com/streamsets/pipeline-library/blob/master/transformer/sample-pipelines/pipelines/Clickstream%20Analysis%20on%20Amazon%20EMR%2C%20Amazon%20Redshift%20and%20Elasticsearch/ClickstreamLogsToESRedshiftEMRfe856fed-ca84-4689-88d1-432f6ae8e6cd:iamontheinet.json) into your instance of Transformer
+* [Download the sample dataset](https://github.com/streamsets/pipeline-library/blob/master/transformer/sample-pipelines/pipelines/Clickstream%20Analysis%20on%20Amazon%20EMR%2C%20Amazon%20Redshift%20and%20Elasticsearch/Schematic_Log.csv) and upload it to your Amazon S3 bucket
 * After importing the pipeline into your environment and before running the pipeline, update the following pipeline parameters:
 
 ```

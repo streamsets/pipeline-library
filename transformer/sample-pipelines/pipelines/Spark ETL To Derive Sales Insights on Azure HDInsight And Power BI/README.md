@@ -14,8 +14,8 @@ Prerequisites
 Setup
 ---------------------
 
-* [Download and import the pipeline](https://github.com/iamontheinet/pipeline-library/blob/master/transformer/sample-pipelines/pipelines/Spark%20ETL%20To%20Derive%20Sales%20Insights%20on%20Azure%20HDInsight%20And%20Power%20BI/SalesInsightsOnAzureSQLHDInsight37efd28a-9c98-494b-85bd-c6fd8a85af10.json) into your instance of Transformer
-* [Download the sample sales dataset](https://github.com/iamontheinet/pipeline-library/tree/master/transformer/sample-pipelines/pipelines/Spark%20ETL%20To%20Derive%20Sales%20Insights%20on%20Azure%20HDInsight%20And%20Power%20BI/dataset/sales) and upload it to your ADLS Gen2 storage
+* [Download and import the pipeline](https://github.com/streamsets/pipeline-library/blob/master/transformer/sample-pipelines/pipelines/Spark%20ETL%20To%20Derive%20Sales%20Insights%20on%20Azure%20HDInsight%20And%20Power%20BI/SalesInsightsOnAzureSQLHDInsight37efd28a-9c98-494b-85bd-c6fd8a85af10.json) into your instance of Transformer
+* [Download the sample sales dataset](https://github.com/streamsets/pipeline-library/tree/master/transformer/sample-pipelines/pipelines/Spark%20ETL%20To%20Derive%20Sales%20Insights%20on%20Azure%20HDInsight%20And%20Power%20BI/dataset/sales) and upload it to your ADLS Gen2 storage
 * After importing the pipeline into your environment and before running the pipeline, update the following pipeline parameters:
 
 ```
