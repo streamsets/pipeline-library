@@ -1,7 +1,7 @@
 Train Natural Language Processing Model using PySpark
 =======================================================================
 
-This StreamSets Transformer pipeline is designed to train a Spark MLlib Logistic Regression model for Natural Language Processing (NLP) using PySpark processor. The model is trained to classify given tweet as a *positive* or *negative* sentiment.
+This StreamSets Transformer pipeline runs on Databricks cluster. It is designed to train a Spark MLlib Logistic Regression model for Natural Language Processing (NLP) using PySpark processor. The model is trained to classify given tweet as a *positive* or *negative* sentiment.
 
 Prerequisites
 ---------------------
