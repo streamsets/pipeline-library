@@ -15,7 +15,7 @@ Prerequisites
 Setup
 ---------------------
 
-* [Download and import the pipeline](ClickstreamLogsToESRedshiftEMRfe856fed-ca84-4689-88d1-432f6ae8e6cd:iamontheinet.json) into your instance of Transformer
+* [Download and import the pipeline](ClickstreamLogsToESRedshiftEMRfe856fed-ca84-4689-88d1-432f6ae8e6cd.json) into your instance of Transformer
 * [Download the sample dataset](Schematic_Log.csv) and upload it to your Amazon S3 bucket
 * After importing the pipeline into your environment and before running the pipeline, update the following pipeline parameters:
 
