@@ -6,7 +6,7 @@ This StreamSets Transformer pipeline runs on Apache Spark deployed on an Amazon 
 Prerequisites
 ---------------------
 
-* [StreamSets Transformer](https://streamsets.com/products/dataops-platform/transformer-etl/download/) 3.14.0 or higher. You can [deploy Transformer on your choice of cloud provider](https://streamsets.com/products/dataops-platform/transformer-etl/download/), or [you can download it for local development](https://streamsets.com/products/dataops-platform/transformer-etl/download/).
+* [StreamSets Transformer](https://streamsets.com/products/dataops-platform/transformer-etl/) 3.14.0 or higher. You can deploy Transformer on your [choice of cloud provider](https://streamsets.com/products/dataops-platform/transformer-etl/download/), or [download it for local development](https://streamsets.com/products/dataops-platform/transformer-etl/download/).
 * Access to Amazon EMR with Spark cluster 
     * Ensure the [prerequisites](https://streamsets.com/documentation/transformer/latest/help/transformer/Clusters/EMR.html#concept_yjs_gzt_vkb) for Amazon EMR are satisfied
 * Access to Amazon S3
