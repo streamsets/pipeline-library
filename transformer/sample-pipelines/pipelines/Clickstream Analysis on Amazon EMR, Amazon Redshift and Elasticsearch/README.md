@@ -6,7 +6,7 @@ This StreamSets Transformer pipeline runs on Apache Spark deployed on an Amazon 
 Prerequisites
 ---------------------
 
-* [StreamSets Transformer](https://streamsets.com/products/dataops-platform/data-collector/) 3.14.0 or higher. You can [deploy Transformer on your choice of cloud provider](https://streamsets.com/products/dataops-platform/transformer-etl/download/), or [you can download it for local development](https://streamsets.com/products/dataops-platform/transformer-etl/download/).
+* [StreamSets Transformer](https://streamsets.com/products/dataops-platform/transformer-etl/download/) 3.14.0 or higher. You can [deploy Transformer on your choice of cloud provider](https://streamsets.com/products/dataops-platform/transformer-etl/download/), or [you can download it for local development](https://streamsets.com/products/dataops-platform/transformer-etl/download/).
 * Access to Amazon EMR with Spark cluster 
     * Ensure the [prerequisites](https://streamsets.com/documentation/transformer/latest/help/transformer/Clusters/EMR.html#concept_yjs_gzt_vkb) for Amazon EMR are satisfied
 * Access to Amazon S3
@@ -15,8 +15,8 @@ Prerequisites
 Setup
 ---------------------
 
-* [Download and import the pipeline](ClickstreamLogsToESRedshiftEMRfe856fed-ca84-4689-88d1-432f6ae8e6cd.json) into your instance of Transformer
-* [Download the sample dataset](Schematic_Log.csv) and upload it to you Amazon S3 bucket
+* [Download and import the pipeline](https://github.com/iamontheinet/pipeline-library/blob/master/transformer/sample-pipelines/pipelines/Clickstream%20Analysis%20on%20Amazon%20EMR%2C%20Amazon%20Redshift%20and%20Elasticsearch/ClickstreamLogsToESRedshiftEMRfe856fed-ca84-4689-88d1-432f6ae8e6cd:iamontheinet.json) into your instance of Transformer
+* [Download the sample dataset](https://github.com/iamontheinet/pipeline-library/blob/master/transformer/sample-pipelines/pipelines/Clickstream%20Analysis%20on%20Amazon%20EMR%2C%20Amazon%20Redshift%20and%20Elasticsearch/Schematic_Log.csv) and upload it to you Amazon S3 bucket
 * After importing the pipeline into your environment and before running the pipeline, update the following pipeline parameters:
 
 ```
@@ -64,4 +64,4 @@ Setup
 Technical Details & Demo Video
 ------------------------------
 
-For techincal info and detailed explanation of this use case and watch demo video, refer to this [blog](https://bit.ly/EMRRedshiftES).
+For techincal info, detailed explanation of this use case and watch demo video, refer to this [blog](https://bit.ly/EMRRedshiftES).
