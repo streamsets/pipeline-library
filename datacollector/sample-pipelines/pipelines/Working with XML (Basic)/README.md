@@ -1,5 +1,5 @@
 
-<h1><p align="center">NYC Taxi Ride Payment Type (Basic)</p></h1>
+<h1><p align="center">Working with XML (Basic)</p></h1>
 
 **Important:** *These instructions assume you have access to StreamSets Data Collector (v3.16+) and have performed all the prerequisites*
 
@@ -14,7 +14,7 @@ This pipeline demonstrates how to read and process XML data in Data Collector. X
 
 ## PIPELINE
 
-![Pipeline](images/pipeline.png "NYC Taxi Ride Payment Type (Basic)")
+![Pipeline](images/pipeline.png "Working witu XML (Basic)")
 
 ## DOCUMENTATION
 
