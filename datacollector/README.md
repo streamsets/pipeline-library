@@ -1,17 +1,18 @@
 ![StreamSets Logo](../images/Full%20Color%20Transparent.png)
 
-<h1><p align="center">Transformer</p></h1>
+<h1><p align="center">Data Collector</p></h1>
 
-This repository contains assets that will help you get started with StreamSets Transformer.  
+This repository contains assets that will help you get started with StreamSets Data Collector.  
 
 The following folders are currently available:
+
+## Data Collector
 
 | Asset            | Description     |
 | --------------- | --------------- |
 | [Best Practices](./best-practices) | Contains best practices and configurations |
-| [Sample Pipelines](./sample-pipelines) | Contains sample pipelines for Transformer |
+| [Sample Pipelines](./sample-pipelines) | Contains sample pipelines for Data Collector |
 | [Sample Scripts](./sample-scripts) | Contain sample scripts |
-
 
 # Help
 
