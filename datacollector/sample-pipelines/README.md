@@ -14,6 +14,7 @@ The following templates/samples are currently available:
 | [MySQL CDC to Delta Lake](./pipelines/MySQL%20CDC%20to%20Delta%20Lake) | Reads MySQL change data capture (CDC) data and writes to Databricks Delta Lake |
 | [MySQL CDC to S3 to Snowflake](./pipelines/MySQL%20CDC%20to%20S3%20to%20Snowflake) | Reads MySQL change data capture (CDC) data, writes to S3 then reads from S3 and writes to Snowflake |
 | [MySQL CDC to Snowflake](./pipelines/MySQL%20CDC%20to%20Snowflake) | Reads MySQL change data capture (CDC) data and writes to Snowflake |
+| [MySQL Schema Replication to Azure Synapse SQL](./pipelines/MySQL%20Schema%20replication%20to%20Azure%20Synapse%20SQL)| Bulk load data from MySQL into Azure Synapse SQL |
 | [MySQL Schema replication to Delta Lake](./pipelines/MySQL%20Schema%20replication%20to%20Delta%20Lake) | Bulk load data from MySQL into Databricks Delta Lake |
 | [MySQL binlog to DeltaLake](./pipelines/MySQL%20binlog%20to%20DeltaLake) | Reads MySQL binlog changed data and writes to Databricks Delta Lake |
 | [NYC Taxi Ride Payment Type (Basic)](./pipelines/NYC%20Taxi%20Ride%20Payment%20Type%20(Basic)) | Reads data from a directory, process it, route it, mask sensitive data and write into another file system with a different data format |
