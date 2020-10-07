@@ -14,7 +14,7 @@ Pre-requisites
 Setup
 -----
 
-* [Download the pipeline](MySQL_Schema_Replication_to_Azure_Synapse_SQL.zip.zip?raw=true) and import it into Data Collector or Control Hub
+* [Download the pipeline](MySQL_Schema_Replication_to_Azure_Synapse_SQL.zip?raw=true) and import it into Data Collector or Control Hub
 * Configure all the pipeline parameters for your MySQL Database, Synapse and Azure Staging connections.
 ![Parameters](images/parameters.png)
 * Optionally, update the MySQL origin to read from specific schemas and/or tables
