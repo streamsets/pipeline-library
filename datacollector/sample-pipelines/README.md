@@ -10,6 +10,7 @@ The following templates/samples are currently available:
 | [Citi Bike real-time system data (Basic)](./pipelines/Citi%20Bike%20real-time%20system%20data%20(Basic)) | Reads from Rest API with unstructured and hierarchical data and convert to relational format |
 | [Date Conversions](./pipelines/Date%20Conversions) | Convert dates from string to various datetime formats and timezones using Field Type Converter and Expression Evaluator processors |
 | [Drift Synchronization for Hive](./pipelines/Drift%20Synchronization%20for%20Hive) | Drift Synchronization from MySQL to the Cloudera distribution of Apache Hive and Apache Impala |
+| [Hadoop FS to ADLS Gen2](./pipelines/HDFS%20to%20ADLS%20Gen2) | Load data from Hadoop FS to ADLS Gen 2 by performing some transformations |
 | [ML - TensorFlow Binary Classification](./pipelines/ML%20-%20TensorFlow%20Binary%20Classification) |  Load a pre-trained TensorFlow model to classify cancer condition as either benign or malignant |
 | [MySQL CDC to Delta Lake](./pipelines/MySQL%20CDC%20to%20Delta%20Lake) | Reads MySQL change data capture (CDC) data and writes to Databricks Delta Lake |
 | [MySQL CDC to S3 to Snowflake](./pipelines/MySQL%20CDC%20to%20S3%20to%20Snowflake) | Reads MySQL change data capture (CDC) data, writes to S3 then reads from S3 and writes to Snowflake |
