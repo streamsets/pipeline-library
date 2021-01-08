@@ -27,4 +27,4 @@ Also, take a look into Hadoop FS Destination stage configuration to see if you n
 Technical Details
 ------------------------------
 
-For technical information and detailed explanation of this use case, read this [blog](TODO: Add a link to the published blog).
+For technical information and detailed explanation of this use case, read this [blog](https://streamsets.com/blog/how-to-migrate-to-a-cloud-data-lake-in-hours/).
