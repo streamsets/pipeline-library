@@ -104,6 +104,14 @@ The following parameters are set up for this pipeline:
   </tr>
 </table>
 
+### Step 3b: Configure Google BigQuery
+
+Click on the Google BigQuery destination and configure the appropriate values
+
+![Step 3b](images/MySQLtoGBQ_step3ba.png "Configure BigQuery")
+
+![Step 3b](images/MySQLtoGBQ_step3bb.png "Configure BigQuery")
+
 ### Step 4: Run the pipeline
 
 Click the "START" button to run the pipeline.
