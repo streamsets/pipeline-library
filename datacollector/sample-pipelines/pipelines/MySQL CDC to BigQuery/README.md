@@ -106,7 +106,7 @@ The following parameters are set up for this pipeline:
 
 ### Step 3b: Configure Google BigQuery
 
-Click on the Google BigQuery destination and configure the appropriate values
+Click on the Google BigQuery destination and configure the appropriate values as defined [here](https://streamsets.com/documentation/datacollector/latest/help/datacollector/UserGuide/Destinations/BigQuery.html#concept_hj4_brk_dbb): 
 
 ![Step 3b](images/MySQLtoGBQ_step3ba.png "Configure BigQuery")
 
