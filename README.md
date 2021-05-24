@@ -2,11 +2,11 @@
 
 <h1><p align="center">Pipeline Library</p></h1>
 
-This repository contains assets that will help you get started with StreamSets.  
+This repository contains assets that will help you get started with StreamSets DataOps Platform.  
 
 The following asset categories are currently available:
 
-## Data Collector
+## Data Collector 3.x
 
 | Asset            | Description     |
 | --------------- | --------------- |
@@ -14,7 +14,7 @@ The following asset categories are currently available:
 | [Sample Scripts](./datacollector/sample-scripts) | Contain sample scripts |
 | [Best Practices](./datacollector/best-practices) | Contains best practices and configurations |
 
-## Transformer
+## Transformer 3.x
 
 | Asset            | Description     |
 | --------------- | --------------- |
