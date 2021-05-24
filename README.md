@@ -24,6 +24,4 @@ The following asset categories are currently available:
 
 # Help
 
-For any queries, questions, comments related to these pipelines reach out on any of these channels:
-
-[Chat on Slack](https://streamsetters-slack.herokuapp.com/)
+For any queries, questions, comments related to these pipelines reach out to us on [Slack](https://streamsetters-slack.herokuapp.com/)
